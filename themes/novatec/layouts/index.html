@@ -1,15 +1,4 @@
-<!DOCTYPE html>
-<html lang="{{ .Site.LanguageCode }}">
-{{ partial "head" . }}
-<body>
-  {{ partial "header" . }}
-  <main>
-    <div class="intro">
-      <h1>{{ .Site.Title }}</h1>
-      {{ with .Content }}
-        {{.}}
-      {{ end }}
-    </div>
-  </main>
-  {{ partial "footer" . }}
-</body>
+{{ define "main" }}
+  <h1>test</h1>
+  {{ .Content }}
+{{ end }}
