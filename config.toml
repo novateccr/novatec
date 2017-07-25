@@ -2,3 +2,7 @@ baseURL = "https://novatec.cr/"
 languageCode = "es-cr"
 title = "Novatec Industrial"
 theme = "novatec"
+
+[taxonomies]
+  industria = "industrias"
+  marca = "marcas"
