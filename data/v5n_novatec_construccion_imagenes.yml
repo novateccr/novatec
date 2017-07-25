@@ -1,0 +1,574 @@
+%YAML 1.1
+---
+# novatecnew.v5n_novatec_construccion_imagenes
+-
+  id: 1
+  ordering: 0
+  state: 0
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  producto: 1
+  imagen: "images/construccion/1.jpg"
+-
+  id: 2
+  ordering: 0
+  state: 0
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  producto: 2
+  imagen: "images/construccion/1.jpg"
+-
+  id: 3
+  ordering: 0
+  state: 0
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  producto: 3
+  imagen: "images/construccion/3.jpg"
+-
+  id: 4
+  ordering: 0
+  state: 0
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  producto: 4
+  imagen: "images/construccion/4.jpg"
+-
+  id: 5
+  ordering: 0
+  state: 0
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  producto: 5
+  imagen: "images/construccion/5.jpg"
+-
+  id: 6
+  ordering: 0
+  state: 0
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  producto: 6
+  imagen: "images/construccion/6.jpg"
+-
+  id: 7
+  ordering: 0
+  state: 0
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  producto: 7
+  imagen: "images/construccion/7.jpg"
+-
+  id: 8
+  ordering: 0
+  state: 0
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  producto: 8
+  imagen: "images/construccion/8.jpg"
+-
+  id: 9
+  ordering: 0
+  state: 0
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  producto: 9
+  imagen: "images/construccion/9.jpg"
+-
+  id: 10
+  ordering: 0
+  state: 0
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  producto: 10
+  imagen: "images/construccion/10.jpg"
+-
+  id: 11
+  ordering: 0
+  state: 0
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  producto: 11
+  imagen: "images/construccion/11.jpg"
+-
+  id: 12
+  ordering: 0
+  state: 0
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  producto: 12
+  imagen: "images/construccion/12.jpg"
+-
+  id: 13
+  ordering: 0
+  state: 0
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  producto: 13
+  imagen: "images/construccion/13.jpg"
+-
+  id: 14
+  ordering: 0
+  state: 0
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  producto: 14
+  imagen: "images/construccion/14.jpg"
+-
+  id: 15
+  ordering: 0
+  state: 0
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  producto: 16
+  imagen: "images/construccion/15.jpg"
+-
+  id: 16
+  ordering: 0
+  state: 0
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  producto: 17
+  imagen: "images/construccion/16.jpg"
+-
+  id: 17
+  ordering: 0
+  state: 0
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  producto: 18
+  imagen: "images/construccion/19.jpg"
+-
+  id: 18
+  ordering: 0
+  state: 0
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  producto: 19
+  imagen: "images/construccion/20.jpg"
+-
+  id: 19
+  ordering: 0
+  state: 0
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  producto: 20
+  imagen: "images/construccion/21.jpg"
+-
+  id: 20
+  ordering: 0
+  state: 0
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  producto: 21
+  imagen: "images/construccion/22.jpg"
+-
+  id: 21
+  ordering: 0
+  state: 0
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  producto: 22
+  imagen: "images/construccion/23.jpg"
+-
+  id: 22
+  ordering: 0
+  state: 0
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  producto: 23
+  imagen: "images/construccion/24.jpg"
+-
+  id: 23
+  ordering: 0
+  state: 0
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  producto: 24
+  imagen: "images/construccion/25.jpg"
+-
+  id: 24
+  ordering: 0
+  state: 0
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  producto: 25
+  imagen: "images/construccion/26.jpg"
+-
+  id: 25
+  ordering: 0
+  state: 0
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  producto: 26
+  imagen: "images/construccion/27.jpg"
+-
+  id: 26
+  ordering: 0
+  state: 0
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  producto: 27
+  imagen: "images/construccion/28.jpg"
+-
+  id: 27
+  ordering: 0
+  state: 0
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  producto: 28
+  imagen: "images/construccion/29.jpg"
+-
+  id: 28
+  ordering: 0
+  state: 0
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  producto: 29
+  imagen: "images/construccion/30.jpg"
+-
+  id: 29
+  ordering: 0
+  state: 0
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  producto: 30
+  imagen: "images/construccion/31.jpg"
+-
+  id: 30
+  ordering: 0
+  state: 0
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  producto: 31
+  imagen: "images/construccion/32.jpg"
+-
+  id: 31
+  ordering: 0
+  state: 0
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  producto: 32
+  imagen: "images/construccion/33.jpg"
+-
+  id: 32
+  ordering: 0
+  state: 0
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  producto: 33
+  imagen: "images/construccion/34.jpg"
+-
+  id: 33
+  ordering: 0
+  state: 0
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  producto: 34
+  imagen: "images/construccion/35.jpg"
+-
+  id: 34
+  ordering: 0
+  state: 0
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  producto: 35
+  imagen: "images/construccion/36.jpg"
+-
+  id: 35
+  ordering: 0
+  state: 0
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  producto: 36
+  imagen: "images/construccion/37.jpg"
+-
+  id: 36
+  ordering: 0
+  state: 0
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  producto: 37
+  imagen: "images/construccion/38.jpg"
+-
+  id: 37
+  ordering: 0
+  state: 0
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  producto: 38
+  imagen: "images/construccion/39.jpg"
+-
+  id: 38
+  ordering: 0
+  state: 0
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  producto: 39
+  imagen: "images/construccion/40.jpg"
+-
+  id: 39
+  ordering: 0
+  state: 0
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  producto: 40
+  imagen: "images/construccion/41.jpg"
+-
+  id: 40
+  ordering: 0
+  state: 0
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  producto: 41
+  imagen: "images/construccion/42.jpg"
+-
+  id: 41
+  ordering: 0
+  state: 0
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  producto: 42
+  imagen: "images/construccion/43.jpg"
+-
+  id: 42
+  ordering: 0
+  state: 0
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  producto: 43
+  imagen: "images/construccion/44.jpg"
+-
+  id: 43
+  ordering: 0
+  state: 0
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  producto: 44
+  imagen: "images/construccion/45.jpg"
+-
+  id: 44
+  ordering: 0
+  state: 0
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  producto: 45
+  imagen: "images/construccion/46.jpg"
+-
+  id: 45
+  ordering: 0
+  state: 0
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  producto: 46
+  imagen: "images/construccion/47.jpg"
+-
+  id: 46
+  ordering: 0
+  state: 0
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  producto: 47
+  imagen: "images/construccion/49.jpg"
+-
+  id: 47
+  ordering: 0
+  state: 0
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  producto: 48
+  imagen: "images/construccion/50.jpg"
+-
+  id: 48
+  ordering: 0
+  state: 0
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  producto: 49
+  imagen: "images/construccion/51.jpg"
+-
+  id: 49
+  ordering: 0
+  state: 0
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  producto: 50
+  imagen: "images/construccion/52.jpg"
+-
+  id: 50
+  ordering: 0
+  state: 0
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  producto: 51
+  imagen: "images/construccion/53.jpg"
+-
+  id: 51
+  ordering: 0
+  state: 0
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  producto: 52
+  imagen: "images/construccion/54.jpg"
+-
+  id: 52
+  ordering: 0
+  state: 0
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  producto: 53
+  imagen: "images/construccion/55.jpg"
+-
+  id: 53
+  ordering: 0
+  state: 0
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  producto: 54
+  imagen: "images/construccion/56.jpg"
+-
+  id: 54
+  ordering: 0
+  state: 0
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  producto: 55
+  imagen: "images/construccion/57.jpg"
+-
+  id: 55
+  ordering: 0
+  state: 0
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  producto: 56
+  imagen: "images/construccion/58.jpg"
+-
+  id: 56
+  ordering: 0
+  state: 0
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  producto: 57
+  imagen: "images/construccion/65.jpg"
+-
+  id: 57
+  ordering: 0
+  state: 0
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  producto: 58
+  imagen: "images/construccion/66.jpg"
+...

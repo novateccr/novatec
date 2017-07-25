@@ -1,0 +1,154 @@
+%YAML 1.1
+---
+# novatecnew.v5n_novatec_construccion_familias
+-
+  id: 1
+  ordering: 0
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  titulo: "Impermeabilización"
+  imagen: ""
+-
+  id: 2
+  ordering: 0
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 994
+  modified_by: 994
+  titulo: "Adherentes"
+  imagen: "images/el-nogal.jpg"
+-
+  id: 3
+  ordering: 0
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  titulo: "Compuestos Curadores"
+  imagen: ""
+-
+  id: 4
+  ordering: 0
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  titulo: "Selladores"
+  imagen: ""
+-
+  id: 5
+  ordering: 0
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  titulo: "Morteros Y Grouts"
+  imagen: ""
+-
+  id: 6
+  ordering: 0
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  titulo: "Sello De Juntas"
+  imagen: ""
+-
+  id: 7
+  ordering: 0
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  titulo: "Barreras De Vapor"
+  imagen: ""
+-
+  id: 8
+  ordering: 0
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  titulo: "Dovelas Y Accesorios"
+  imagen: ""
+-
+  id: 9
+  ordering: 0
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  titulo: "Juntas Frias"
+  imagen: ""
+-
+  id: 10
+  ordering: 0
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  titulo: "Endurecedores"
+  imagen: ""
+-
+  id: 11
+  ordering: 0
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  titulo: "Proteccion Contra Fuego"
+  imagen: ""
+-
+  id: 12
+  ordering: 0
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  titulo: "Aditivos Para Concreto "
+  imagen: ""
+-
+  id: 13
+  ordering: 0
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  titulo: "Pisos Industriales Y Comerciales"
+  imagen: ""
+-
+  id: 14
+  ordering: 0
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  titulo: "Concretos Arquitectonicos"
+  imagen: ""
+-
+  id: 15
+  ordering: 0
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  titulo: "Otros"
+  imagen: ""
+...

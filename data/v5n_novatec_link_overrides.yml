@@ -1,0 +1,136 @@
+%YAML 1.1
+---
+# novatecnew.v5n_novatec_link_overrides
+-
+  id: 1
+  asset_id: 56
+  ordering: 1
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  marca: 2
+  url: "http://es.flowcreteamericas.com/nuestros-mercados/alimentos-y-bebidas/"
+  productos: 18
+  industrias: 1
+-
+  id: 2
+  asset_id: 57
+  ordering: 2
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  marca: 5
+  url: "http://www.eagleburgmann.com/en/products/mechanical-seals"
+  productos: 24
+  industrias: 1
+-
+  id: 3
+  asset_id: 58
+  ordering: 3
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  marca: 12
+  url: "http://www.ave...ienic-design/"
+  productos: 25
+  industrias: 1
+-
+  id: 4
+  asset_id: 59
+  ordering: 4
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  marca: 16
+  url: "http://www.bos...cessing/index"
+  productos: 25
+  industrias: 1
+-
+  id: 5
+  asset_id: 61
+  ordering: 5
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  marca: 2
+  url: "http://es.flowcreteamericas.com/nuestros-mercados/industria-farmacéutica/"
+  productos: 18
+  industrias: 5
+-
+  id: 6
+  asset_id: 62
+  ordering: 6
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  marca: 16
+  url: "http://www.bos...cessing/index"
+  productos: 25
+  industrias: 5
+-
+  id: 7
+  asset_id: 86
+  ordering: 7
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 996
+  marca: 7
+  url: "http://www.sihi-pumps.com/option,com_virtuemart/page,shop.browse/category_id,6/Itemid,66.html"
+  productos: 117
+  industrias: "1,3,5,8"
+-
+  id: 8
+  asset_id: 87
+  ordering: 8
+  state: -2
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 996
+  marca: 7
+  url: "http://www.sihi-pumps.com/option,com_virtuemart/page,shop.browse/category_id,6/Itemid,66.html"
+  productos: 117
+  industrias: "1,3,5,8"
+-
+  id: 9
+  asset_id: 89
+  ordering: 9
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 996
+  marca: 4
+  url: "http://www.pall.com/main/food-and-beverage/food-and-beverage-3550d8a7.page"
+  productos: 14
+  industrias: 1
+-
+  id: 10
+  asset_id: 97
+  ordering: 10
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 996
+  marca: 9
+  url: "http://www.graco.com/mx/es/products/business-unit/process.html"
+  productos: 4
+  industrias: "1,2,3,4,5,6,7,8"
+-
+  id: 11
+  asset_id: 129
+  ordering: 11
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 996
+  marca: 4
+  url: "http://www.pall.com/main/laboratory/laboratory-e783a550.page"
+  productos: 12
+  industrias: "1,3,5"
+...

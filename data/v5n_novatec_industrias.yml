@@ -1,0 +1,154 @@
+%YAML 1.1
+---
+# novatecnew.v5n_novatec_industrias
+-
+  id: 1
+  ordering: 1
+  state: 1
+  checked_out: 994
+  checked_out_time: "2015-10-15 13:15:37"
+  created_by: 995
+  titulo: "Alimentos y Bebidas"
+  marcas: "1,2,3,4,5,6,7,8,9,10,11,12,13,15,16,17,18"
+  imagen: "6e78dab4f624e11495570fb85e23a652-alimentos-bebidas.jpg"
+  catalogo: ""
+  descripcion: "Industria de Alimenots y Bebidas  Para cumplir las exigencias actuales de los consumidoreses necesario producir alimentos de alta calidad, utilizando medios económica y ecológicamente beneficiosos y ofrecemos una alta gama de soluciones..."
+  meta_description: ""
+  meta_keywords: ""
+  menu_item: 152
+-
+  id: 2
+  ordering: 2
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Energía"
+  marcas: "1,2,3,4,5,6,7,8,9"
+  imagen: "b6fec0636d847963528449861f4ca61c-Energy.jpg"
+  catalogo: ""
+  descripcion: ""
+  meta_description: ""
+  meta_keywords: ""
+  menu_item: 157
+-
+  id: 3
+  ordering: 3
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Dispositivos Médicos"
+  marcas: "2,4,10,11,12,13,16,18"
+  imagen: "b2ce233449d1e334df1f1e4e4c5a2dff-MD.jpg"
+  catalogo: ""
+  descripcion: ""
+  meta_description: ""
+  meta_keywords: ""
+  menu_item: 155
+-
+  id: 4
+  ordering: 4
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Industria Pesada"
+  marcas: "1,3,4,5,6,7,8,9,11,12,13,14,16,17"
+  imagen: "78829ca69d4d85b41e8f3c749c3d7a6d-CP.jpg"
+  catalogo: ""
+  descripcion: ""
+  meta_description: ""
+  meta_keywords: ""
+  menu_item: 158
+-
+  id: 5
+  ordering: 5
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Biofarmacéuticos"
+  marcas: "2,4,5,6,9,10,11,12,13,15,16"
+  imagen: "1a62319c83f38c46ef2ba3ca6d869f46-BF.jpg"
+  catalogo: ""
+  descripcion: ""
+  meta_description: ""
+  meta_keywords: ""
+  menu_item: 153
+-
+  id: 6
+  ordering: 6
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Química"
+  marcas: "1,2,3,4,5,6,7,9,10,11,12,17"
+  imagen: "e32382e7bb39082d2782ef67ed7aa980-CH.jpg"
+  catalogo: ""
+  descripcion: ""
+  meta_description: ""
+  meta_keywords: ""
+  menu_item: 160
+-
+  id: 7
+  ordering: 7
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Agrícola"
+  marcas: "2,3,4,6,7,9,11,12,13,16,18"
+  imagen: ""
+  catalogo: "b3125643635b6adb8d4f45d20876cc29-Seositecheckup-Analysis-Report-2015-05-13-08-54-47.pdf"
+  descripcion: ""
+  meta_description: ""
+  meta_keywords: ""
+  menu_item: 151
+-
+  id: 8
+  ordering: 8
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Ingenios"
+  marcas: "2,3,4,5,6,7,8,9,11,12,13,16,17"
+  imagen: "67aebac6098119b8df50b7c27ca71110-Sugarcane.jpg"
+  catalogo: ""
+  descripcion: ""
+  meta_description: ""
+  meta_keywords: ""
+  menu_item: 159
+-
+  id: 9
+  ordering: 9
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Comercial - Construcción"
+  marcas: ""
+  imagen: ""
+  catalogo: ""
+  descripcion: ""
+  meta_description: ""
+  meta_keywords: ""
+  menu_item: 154
+-
+  id: 10
+  ordering: 10
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Electrónica"
+  marcas: ""
+  imagen: ""
+  catalogo: ""
+  descripcion: ""
+  meta_description: ""
+  meta_keywords: ""
+  menu_item: 156
+...

@@ -1,0 +1,2228 @@
+%YAML 1.1
+---
+# novatecnew.v5n_novatec_productos
+-
+  id: 1
+  ordering: 1
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Centrífugas Sanitarias"
+  descripcion: "<h4>Calidad, flexibilidad e innovación</h4>\r\n<p>Nuestro estímulo es la innovación: queremos asegurar que las bombas Fristam siempre sean la mejor elección para su empresa.</p>\r\n<h4>Para el presente y para el futuro</h4>\r\n<p>Fristam invierte de forma importante en la investigación y desarrollo de nuevas tecnologías, no sólo para poder ofrecerle soluciones a medida, sino también para poder ofrecerle soluciones innovadoras. </p>\r\n<p> </p>"
+  marcas: 10
+  familia: 1
+  industria: "1,5"
+  thumbnail: "6aa20d8d909c0bcbcc9c8c8ebc50750f-centrifugas-sanitarias.jpg"
+  catalogo: "ab9fc70ee9d16826f9a79aef7f53637e-Cotizaci--n-BML.pdf"
+  meta_description: ""
+  meta_keywords: ""
+-
+  id: 2
+  ordering: 2
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Desplazamiento Positivo"
+  descripcion: "<p>FKL, FLII</p>\r\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 13.333333333333332px; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">{youtube}69ah0Jdj1Ag{/youtube}</span></p>\r\n<p> </p>\r\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"> </p>"
+  marcas: 10
+  familia: 1
+  industria: "1,2,5"
+  thumbnail: "4af2e652407945c1e8a45dfcce472d27-desplazamiento-positivo.jpg"
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+-
+  id: 3
+  ordering: 3
+  state: -2
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Mezclador de Polvos "
+  descripcion: ""
+  marcas: 10
+  familia: 1
+  industria: 1
+  thumbnail: ""
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+-
+  id: 4
+  ordering: 4
+  state: 1
+  checked_out: 998
+  checked_out_time: "2015-10-27 20:58:25"
+  created_by: 995
+  titulo: "Doble Diafragma"
+  descripcion: "<h1 class=\"producttitle\" style=\"font-size: 22px; color: #000000; width: 620px; margin: 0px 0px 10px; padding-bottom: 5px; background-image: url('http://www.graco.com/etc/designs/graco/default/images/producttitleborder.jpg'); padding-top: 0px; font-family: Arial, Helvetica, sans-serif; line-height: normal; background-position: 0% 1.3em; background-repeat: no-repeat no-repeat;\"><span class=\"productsubtitle\" style=\"display: block; width: 440px; margin: 8px 15px 5px 0px; font-style: italic; font-size: 80% !important;\">Bombas de doble diafragma neumáticas</span></h1>\r\n<h2 class=\"producttag\" style=\"color: #313131; width: 440px; margin: 0px 0px 10px; padding-top: 0px; line-height: normal; font-size: 100% !important;\">Bombas de doble diafragma, disponibles en tamaños que van desde 1/4 de pulgada (6,3 mm) a 3 pulgadas (76,2 mm)</h2>\r\n<h2 class=\"producttag\" style=\"color: #313131; width: 440px; margin: 0px 0px 10px; padding-top: 0px; line-height: normal; font-size: 100% !important;\">Serie e-Husky - Eléctricas !!</h2>\r\n<p> </p>\r\n<p> </p>\r\n<p> Video...</p>\r\n<p> </p>\r\n<p><span id=\"docs-internal-guid-4e07385f-9b43-28b1-a49e-e79cebc58318\"><span style=\"font-size: 13.333333333333332px; font-family: Arial; color: #000000; background-color: transparent; vertical-align: baseline; white-space: pre-wrap;\">{youtube}7mkKrZvFxP8{/youtube}</span></span></p>\r\n<p> </p>"
+  marcas: 9
+  familia: 1
+  industria: "1,2,4,5,6,7,8"
+  thumbnail: "a72ec9ae43aaf3b7f4d7409634ce323c-1050.jpg"
+  catalogo: ""
+  meta_description: "Bombas de doble diafragma,e-husky"
+  meta_keywords: "bomba, neumáticas, doble, diafragma, doble diafragma eléctrica"
+-
+  id: 5
+  ordering: 5
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Peristálticas"
+  descripcion: "<p><span style=\"color: #000000; font-family: Arial; font-size: 13px; line-height: 14.399999618530273px; text-align: justify; white-space: pre-wrap;\">Bombas Peristalticas, Serie EP2, EP3 y EP4</span></p>\r\n<p>{youtube}PLBAD0FA2E0712F22E{/youtube}</p>\r\n<p> </p>"
+  marcas: 9
+  familia: 1
+  industria: "1,2,5"
+  thumbnail: "df98f8c6b347b97a1b1004b75fbaa7eb-peristaltica.png"
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+-
+  id: 6
+  ordering: 6
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Descargadores"
+  descripcion: "<p><span style=\"color: #000000; font-family: Arial; font-size: 13px; line-height: 14.399999618530273px; text-align: justify; white-space: pre-wrap;\">{youtube} McXQZ6xanO8{/youtube}</span></p>\r\n<p><span style=\"color: #000000; font-family: Arial; font-size: 13px; line-height: 14.399999618530273px; text-align: justify; white-space: pre-wrap;\">{youtube}rpST9CDngfM{/youtube}</span></p>\r\n<p> </p>"
+  marcas: 9
+  familia: 1
+  industria: "1,5"
+  thumbnail: "26fcd8045a6c7e696ecc4815c616d5cc-descargadores.jpg"
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+-
+  id: 7
+  ordering: 7
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Centrifugas"
+  descripcion: ""
+  marcas: 8
+  familia: 1
+  industria: "1,2,5"
+  thumbnail: "80e087f27eabc7c158fd054d36c58ab7-centrifugas.jpg"
+  catalogo: ""
+  meta_description: "bombas centrifugas"
+  meta_keywords: ""
+-
+  id: 8
+  ordering: 8
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Centrifugas ANSI"
+  descripcion: ""
+  marcas: 7
+  familia: 1
+  industria: "1,2,5"
+  thumbnail: "d5b39ed968269e9f545e9a3a006e3c25-centrifuga-ansi.jpg"
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+-
+  id: 9
+  ordering: 9
+  state: -2
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Desplazamiento Positivo"
+  descripcion: ""
+  marcas: 7
+  familia: 1
+  industria: 1
+  thumbnail: ""
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+-
+  id: 10
+  ordering: 10
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Aceite"
+  descripcion: ""
+  marcas: 7
+  familia: 1
+  industria: "1,2,5"
+  thumbnail: "af5f72d920ec19db225024dd20e6719d-Sihi-oil.jpg"
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+-
+  id: 11
+  ordering: 11
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Calderas"
+  descripcion: ""
+  marcas: 7
+  familia: 1
+  industria: "1,2,5"
+  thumbnail: "d3953addb1c5fb7da912b5b7138b8061-calderas.png"
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+-
+  id: 12
+  ordering: 12
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Filtros de Laboratorio"
+  descripcion: "<p>Microbiologia, Quimica Analitica, Cultivo Celular, Filtracion Esteril</p>"
+  marcas: 4
+  familia: 2
+  industria: "1,2,3,5,6,7,8,10"
+  thumbnail: "d97f8beea7afe6a151d53ac23dc1cb21-filtros-aboratorio.png"
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+-
+  id: 13
+  ordering: 13
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Filtros de Aire"
+  descripcion: "<p>Filtros para Aire Comprimido, Coalecentes, Partículas, Estéril, Trampas, Drenes...</p>\r\n<p>Certificaciones </p>\r\n<div class=\"page\" title=\"Page 3\">\r\n<div class=\"section\">\r\n<div class=\"layoutArea\">\r\n<div class=\"column\">\r\n<ul>\r\n<li style=\"font-size: 9pt; font-family: Helvetica;\">\r\n<p><span style=\"font-size: 9pt;\"> ISO 8573-1 </span></p>\r\n</li>\r\n</ul>\r\n</div>\r\n</div>\r\n</div>\r\n</div>"
+  marcas: "4,13"
+  familia: 2
+  industria: "1,2,5"
+  thumbnail: "5f5fefe2774a2445d954b2adad54f936-filtros-de-aire.png"
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+-
+  id: 14
+  ordering: 14
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Carcazas (Housing)"
+  descripcion: "<p>Carcazas, Elementos, Separación, Concentración, Purificación</p>"
+  marcas: 4
+  familia: 2
+  industria: "1,2,5"
+  thumbnail: "ec53079e91ab319de9e84800f50b15e9-filtros-de-proceso.png"
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+-
+  id: 15
+  ordering: 15
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Sistemas De Separación"
+  descripcion: ""
+  marcas: 4
+  familia: 2
+  industria: "1,2,5"
+  thumbnail: "8507a73805d342d1867faf1e0360a403-filtros-sistema-de-separacion.png"
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+-
+  id: 16
+  ordering: 16
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Filtros de Bolsa "
+  descripcion: ""
+  marcas: 4
+  familia: 2
+  industria: "1,2,5"
+  thumbnail: "00b205e846c931081f7ab8c93973f34e-bolsa.png"
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+-
+  id: 17
+  ordering: 17
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Epóxicos"
+  descripcion: ""
+  marcas: "1,2"
+  familia: 3
+  industria: "1,2,4,5"
+  thumbnail: "020c7c637a09b1f9e0a0aed090fe11c7-FUC.jpg"
+  catalogo: ""
+  meta_description: "epoxicos"
+  meta_keywords: ""
+-
+  id: 18
+  ordering: 18
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Flowfresh"
+  descripcion: ""
+  marcas: 2
+  familia: 4
+  industria: "1,2,5"
+  thumbnail: ""
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+-
+  id: 19
+  ordering: 19
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Belzona"
+  descripcion: ""
+  marcas: 3
+  familia: 5
+  industria: "1,2,5"
+  thumbnail: ""
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+-
+  id: 20
+  ordering: 20
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Hules"
+  descripcion: ""
+  marcas: 6
+  familia: 6
+  industria: "1,2,3,4,5,6,7,8"
+  thumbnail: "a00304e6d60441e88b719811da6be3a4-Garlock.jpg"
+  catalogo: ""
+  meta_description: "EPDM, Viton, ROJO"
+  meta_keywords: ""
+-
+  id: 21
+  ordering: 21
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Empaque Triclamp"
+  descripcion: "<p>Empaque sanitario Bio-Pro cumplen con los mas altos standtard de la industria sanitaria para conexiones TRI-CLAMP y SMS</p>\r\n<p> </p>\r\n<p><span style=\"color: #000000; font-family: Arial; font-size: 13px; line-height: 14.399999618530273px; text-align: justify; white-space: pre-wrap;\">{youtube}qV04H2fQKlo{/youtube}</span></p>"
+  marcas: 6
+  familia: 6
+  industria: "1,3,5,6"
+  thumbnail: "14fa00da820626cbe495ea923ce537e6-TC.jpg"
+  catalogo: ""
+  meta_description: "Tri-clamp, gasket, triclmp, PTFE, teflon"
+  meta_keywords: "empaque Tri clamp"
+-
+  id: 22
+  ordering: 22
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Retendores"
+  descripcion: ""
+  marcas: 6
+  familia: 6
+  industria: "1,2,5"
+  thumbnail: "86eec52de412aa4161a21b0e94d1e0cb-GKL.jpg"
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+-
+  id: 23
+  ordering: 23
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Mangueras Metalicas"
+  descripcion: ""
+  marcas: "6,17"
+  familia: 6
+  industria: "1,5"
+  thumbnail: "a607aa6de3984399071037a702c7c67d-MJ.jpg"
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+-
+  id: 24
+  ordering: 24
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Sellos Mecánicos"
+  descripcion: "<p>Sellos de componete, Cartuchos, API, CARTEX, ANSI, Tipo 21, Fuelle, M32, MG1,MG9, M7N, H75, etc.</p>\r\n<p><span style=\"color: #000000; font-family: Arial; font-size: 13px; line-height: 14.399999618530273px; text-align: justify; white-space: pre-wrap;\">{youtube}Nmot_N6w5rA{/youtube}</span></p>\r\n<p><span style=\"color: #000000; font-family: Arial; font-size: 13px; line-height: 14.399999618530273px; text-align: justify; white-space: pre-wrap;\">{youtube}9LyDcly1qSU{/youtube}</span></p>\r\n<p> </p>\r\n<p> </p>"
+  marcas: 5
+  familia: 6
+  industria: "1,2,3,4,5,6,7,8"
+  thumbnail: "6003423f1b479b20237eae24c97ecddd-Cartex-2.jpg"
+  catalogo: ""
+  meta_description: "Sellos mecanicos, componete, cartucho"
+  meta_keywords: "Sellos de componete, Cartuchos, API, ANSI, Tipo 21, Fuelle, M32, MG1, M7N, H75, MG9, Cartex"
+-
+  id: 25
+  ordering: 25
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Cilindros"
+  descripcion: ""
+  marcas: 12
+  familia: 8
+  industria: "1,2,5"
+  thumbnail: "8e9793f9d20abf6404519f9ac56159ed-CA.jpeg"
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+-
+  id: 26
+  ordering: 26
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Filtro, Regulado, Lubricador (FRL)"
+  descripcion: ""
+  marcas: ""
+  familia: 8
+  industria: "1,2,5"
+  thumbnail: ""
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+-
+  id: 27
+  ordering: 27
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Válvulas"
+  descripcion: ""
+  marcas: ""
+  familia: 8
+  industria: "1,2,5"
+  thumbnail: ""
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+-
+  id: 28
+  ordering: 28
+  state: 1
+  checked_out: 996
+  checked_out_time: "2015-09-30 17:14:36"
+  created_by: 995
+  titulo: "Tubería en Aluminio para Aire Comprimido y Gases Inertes"
+  descripcion: "<h2 id=\"marches\" style=\"margin: 0px 0px 0px 13px; padding: 0px; font-size: 1.4em; color: #444444; font-family: Verdana, Arial, Tahoma, Helvetica, sans-serif; line-height: normal;\">La oferta de Transair</h2>\r\n<div class=\"MarchesWarper\" style=\"margin: 0px; padding: 0px; overflow: hidden; height: auto; color: #000000; font-family: Verdana, Arial, Tahoma, Helvetica, sans-serif; font-size: 13px; line-height: normal;\">\r\n<div class=\"Intro\" style=\"margin: 8px 15px 0px 16px !important; padding: 0px !important; color: #666666; font-size: 0.9em; text-align: justify; line-height: 14.399999618530273px;\">\r\n<p style=\"margin: 0px 10px 10px 0px; padding: 0px;\">Transair ofrece innovadoras soluciones de canalización<br /><br />Transair oforece las soluciones adecuadas para todas sus aplicaciones de aire comprimido, agua de refrigeración, gases neutros y vacío<br /><br />Rápido montaje, durabilidad, excelente rendimiento y reducción de los costes generales de la canalización de aire comprimido, tubos con conexión rápida para fluidos y canalizaciones en aluminio.<br /><br />Un montaje rápido implica una reducción en los costes de instalación<br />La ausencia de óxido y contaminantes proporciona una protección duradera de los equipos conectados<br />Las conexiones rápidas de paso completo implican una eficiencia óptima de la maquinaria y las herramientas.</p>\r\n<p style=\"margin: 0px 10px 10px 0px; padding: 0px;\"> </p>\r\n<p style=\"margin: 0px 10px 10px 0px; padding: 0px;\"><span id=\"docs-internal-guid-4e07385f-9f50-aaf0-4127-65a08064a325\"><span style=\"font-size: 13.333333333333332px; font-family: Arial; color: #000000; background-color: transparent; vertical-align: baseline; white-space: pre-wrap;\">{youtube}hFiY9C03XDI{/youtube}</span></span></p>\r\n</div>\r\n</div>"
+  marcas: 11
+  familia: 9
+  industria: "1,2,3,4,5,6,7,8,9,10"
+  thumbnail: "f6957e4b2ffabf1e084633e24ee44dd0-TRANSAIR-GRAL.png"
+  catalogo: "17d117a4206c2060143fb0ef97c057cb-Transair-Novatec.pdf"
+  meta_description: "Tubería, Aluminio, Transair, Aire comprimido, aluminum pipe"
+  meta_keywords: "Tubería para aire comprimido, air pipe"
+-
+  id: 29
+  ordering: 29
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Transportadores"
+  descripcion: ""
+  marcas: 15
+  familia: 11
+  industria: "1,2,5"
+  thumbnail: ""
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+-
+  id: 30
+  ordering: 30
+  state: 1
+  checked_out: 996
+  checked_out_time: "2015-10-05 17:00:22"
+  created_by: 995
+  titulo: "Válvulas de bola, tapon y mariposa recubierta (Durco)"
+  descripcion: ""
+  marcas: 7
+  familia: 12
+  industria: "1,2,5,6,8"
+  thumbnail: "ef79a92ee36a962527c2cdd61ad7ec86-Valvula-Durco.jpg"
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+-
+  id: 31
+  ordering: 31
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Válvulas de Control de Proceso (Worcester)"
+  descripcion: ""
+  marcas: 7
+  familia: 12
+  industria: "1,2,4,5,6"
+  thumbnail: "82def6e6b97af014e21d4c6823a68266-CPT.jpg"
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+-
+  id: 32
+  ordering: 32
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Cilindros"
+  descripcion: ""
+  marcas: 16
+  familia: 13
+  industria: "1,2,4,5,8"
+  thumbnail: "530335d86102815ff40e629decf0a3fa-Screen-Shot-2015-07-24-at-4.43.20 PM.png"
+  catalogo: ""
+  meta_description: "Cilindro hidraulico"
+  meta_keywords: "Cilindro, piston, rexroth"
+-
+  id: 33
+  ordering: 33
+  state: -2
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Filtro, Regulado, Lubricador (Frl)"
+  descripcion: ""
+  marcas: 16
+  familia: 13
+  industria: 1
+  thumbnail: ""
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+-
+  id: 34
+  ordering: 34
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Válvulas"
+  descripcion: ""
+  marcas: 16
+  familia: 13
+  industria: "1,2,5"
+  thumbnail: "ad6dbb42248d0ac9d49831dc17e34248-VH.jpg"
+  catalogo: ""
+  meta_description: "válvula, hidráulica"
+  meta_keywords: "válvula, direccional, proporcional"
+-
+  id: 35
+  ordering: 35
+  state: -2
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Centrales Hidruálicas"
+  descripcion: ""
+  marcas: 16
+  familia: 13
+  industria: 1
+  thumbnail: ""
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+-
+  id: 36
+  ordering: 36
+  state: -2
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Doble Diafragam"
+  descripcion: ""
+  marcas: 9
+  familia: 1
+  industria: 2
+  thumbnail: ""
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+-
+  id: 37
+  ordering: 37
+  state: -2
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Peristálticas"
+  descripcion: ""
+  marcas: 9
+  familia: 1
+  industria: 2
+  thumbnail: ""
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+-
+  id: 38
+  ordering: 38
+  state: -2
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Descargadores"
+  descripcion: ""
+  marcas: 9
+  familia: 1
+  industria: 2
+  thumbnail: ""
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+-
+  id: 39
+  ordering: 39
+  state: -2
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Centrífugas"
+  descripcion: ""
+  marcas: 8
+  familia: 1
+  industria: 2
+  thumbnail: ""
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+-
+  id: 40
+  ordering: 40
+  state: -2
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Centrífugas ANSI"
+  descripcion: ""
+  marcas: 7
+  familia: 1
+  industria: 2
+  thumbnail: ""
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+-
+  id: 41
+  ordering: 41
+  state: -2
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Desplazamiento Positivo"
+  descripcion: ""
+  marcas: 7
+  familia: 1
+  industria: 2
+  thumbnail: ""
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+-
+  id: 42
+  ordering: 42
+  state: -2
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Aceite"
+  descripcion: ""
+  marcas: 7
+  familia: 1
+  industria: 2
+  thumbnail: ""
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+-
+  id: 43
+  ordering: 43
+  state: -2
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Calderas"
+  descripcion: ""
+  marcas: 7
+  familia: 1
+  industria: 2
+  thumbnail: ""
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+-
+  id: 44
+  ordering: 44
+  state: -2
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Filtros de Laboratorio"
+  descripcion: ""
+  marcas: 4
+  familia: 2
+  industria: 2
+  thumbnail: ""
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+-
+  id: 45
+  ordering: 45
+  state: -2
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Filtros de Aire"
+  descripcion: ""
+  marcas: 4
+  familia: 2
+  industria: 2
+  thumbnail: ""
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+-
+  id: 46
+  ordering: 46
+  state: -2
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Filtros de Proceso"
+  descripcion: ""
+  marcas: 4
+  familia: 2
+  industria: 2
+  thumbnail: ""
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+-
+  id: 47
+  ordering: 47
+  state: -2
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Sistemas de Separación"
+  descripcion: ""
+  marcas: 4
+  familia: 2
+  industria: 2
+  thumbnail: ""
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+-
+  id: 48
+  ordering: 48
+  state: -2
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Filtros de Bolsa "
+  descripcion: ""
+  marcas: 4
+  familia: 2
+  industria: 2
+  thumbnail: ""
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+-
+  id: 49
+  ordering: 49
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Purificadores de Aceite"
+  descripcion: ""
+  marcas: 4
+  familia: 2
+  industria: 2
+  thumbnail: "56025dce2cfd2ba25d43aa1b4b2ab8ab-filtros-purificador-de-aceite.png"
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+-
+  id: 50
+  ordering: 50
+  state: -2
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Epóxicos"
+  descripcion: ""
+  marcas: 1
+  familia: 3
+  industria: 2
+  thumbnail: ""
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+-
+  id: 51
+  ordering: 51
+  state: -2
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Flowfresh"
+  descripcion: ""
+  marcas: 2
+  familia: 4
+  industria: 2
+  thumbnail: ""
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+-
+  id: 52
+  ordering: 52
+  state: -2
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Belzona"
+  descripcion: ""
+  marcas: 3
+  familia: 5
+  industria: 2
+  thumbnail: ""
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+-
+  id: 53
+  ordering: 53
+  state: -2
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Laminados, Hules"
+  descripcion: ""
+  marcas: 6
+  familia: 6
+  industria: 2
+  thumbnail: ""
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+-
+  id: 54
+  ordering: 54
+  state: -2
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Retendores"
+  descripcion: ""
+  marcas: 14
+  familia: 6
+  industria: 2
+  thumbnail: ""
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+-
+  id: 55
+  ordering: 55
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Juntas de Expansión Elastoméricas"
+  descripcion: ""
+  marcas: 6
+  familia: 6
+  industria: "1,2,3,4,5,6,7,8,9,10"
+  thumbnail: "e9066c896ae264e730daf77db346f226-GREJ.jpg"
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+-
+  id: 56
+  ordering: 56
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Juntas de Expansion Metálicas"
+  descripcion: ""
+  marcas: 17
+  familia: 6
+  industria: 2
+  thumbnail: "138cbd815ed5eb346e7c213302d97077-JM.jpg"
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+-
+  id: 58
+  ordering: 58
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Juntas de Expansión Textil"
+  descripcion: ""
+  marcas: 5
+  familia: 6
+  industria: "1,2,4,6,8"
+  thumbnail: "d3940f5e0559f35fa88c39f5757ee595-TEJEB.jpg"
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+-
+  id: 59
+  ordering: 59
+  state: -2
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Cilindros"
+  descripcion: ""
+  marcas: 12
+  familia: 8
+  industria: 2
+  thumbnail: ""
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+-
+  id: 60
+  ordering: 60
+  state: -2
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Filtro, Regulado, Lubricador (FRLl)"
+  descripcion: ""
+  marcas: ""
+  familia: 8
+  industria: 2
+  thumbnail: ""
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+-
+  id: 61
+  ordering: 61
+  state: -2
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Válvulas"
+  descripcion: ""
+  marcas: ""
+  familia: 8
+  industria: 2
+  thumbnail: ""
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+-
+  id: 62
+  ordering: 62
+  state: -2
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Tuberia en Aluminio para Aire Comprimido y Gases Inertes"
+  descripcion: ""
+  marcas: 11
+  familia: 9
+  industria: 2
+  thumbnail: ""
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+-
+  id: 63
+  ordering: 63
+  state: -2
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Transportadores"
+  descripcion: ""
+  marcas: 15
+  familia: 11
+  industria: 2
+  thumbnail: ""
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+-
+  id: 64
+  ordering: 64
+  state: -2
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Control de Inyección de Vapor"
+  descripcion: ""
+  marcas: 7
+  familia: 12
+  industria: 2
+  thumbnail: ""
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+-
+  id: 65
+  ordering: 65
+  state: -2
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Valvulas de Control de Proceso"
+  descripcion: ""
+  marcas: 7
+  familia: 12
+  industria: 2
+  thumbnail: ""
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+-
+  id: 66
+  ordering: 66
+  state: -2
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Cilindros"
+  descripcion: ""
+  marcas: 16
+  familia: 13
+  industria: 2
+  thumbnail: ""
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+-
+  id: 67
+  ordering: 67
+  state: -2
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Filtro, Regulado, Lubricador (Frl)"
+  descripcion: ""
+  marcas: 16
+  familia: 13
+  industria: 2
+  thumbnail: ""
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+-
+  id: 68
+  ordering: 68
+  state: -2
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Válvulas"
+  descripcion: ""
+  marcas: 16
+  familia: 13
+  industria: 2
+  thumbnail: ""
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+-
+  id: 69
+  ordering: 69
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Centrales Hidráulicas"
+  descripcion: ""
+  marcas: 16
+  familia: 13
+  industria: "1,2,5,8"
+  thumbnail: "4c49b3b487d96d9bd7ce47f1298ebc67-Screen-Shot-2015-07-24-at-4.44.37 PM.png"
+  catalogo: ""
+  meta_description: "central hidraulica"
+  meta_keywords: "Central"
+-
+  id: 70
+  ordering: 70
+  state: -2
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Centrifugas Sanitarias"
+  descripcion: ""
+  marcas: 10
+  familia: 1
+  industria: 5
+  thumbnail: ""
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+-
+  id: 71
+  ordering: 71
+  state: -2
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Desplazamiento Positivo"
+  descripcion: ""
+  marcas: 10
+  familia: 1
+  industria: 5
+  thumbnail: ""
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+-
+  id: 72
+  ordering: 72
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Mezcaldor de Polvos "
+  descripcion: "<p><span style=\"color: #000000; font-family: Arial; font-size: 13px; line-height: 14.399999618530273px; text-align: justify; white-space: pre-wrap;\">{youtube}n-Cn2s4ivvk{/youtube}</span></p>\r\n<p><span style=\"color: #000000; font-family: Arial; font-size: 13px; line-height: 14.399999618530273px; text-align: justify; white-space: pre-wrap;\">{youtube}SWIhYoNvZeM{/youtube}</span></p>\r\n<p> </p>\r\n<p> </p>\r\n<p> </p>"
+  marcas: 10
+  familia: 1
+  industria: "1,5"
+  thumbnail: "fd94d52de5b749dc5f3d724e84a31ee0-mezclador-de-polvos.png"
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+-
+  id: 73
+  ordering: 73
+  state: -2
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Doble Diafragam"
+  descripcion: ""
+  marcas: 9
+  familia: 1
+  industria: 5
+  thumbnail: ""
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+-
+  id: 74
+  ordering: 74
+  state: -2
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Peristálticas"
+  descripcion: ""
+  marcas: 9
+  familia: 1
+  industria: 5
+  thumbnail: ""
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+-
+  id: 75
+  ordering: 75
+  state: -2
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Descargadores"
+  descripcion: ""
+  marcas: 9
+  familia: 1
+  industria: 5
+  thumbnail: ""
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+-
+  id: 76
+  ordering: 76
+  state: -2
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Centrífugas"
+  descripcion: ""
+  marcas: 8
+  familia: 1
+  industria: 5
+  thumbnail: ""
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+-
+  id: 77
+  ordering: 77
+  state: -2
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Centrifugas Ansi"
+  descripcion: ""
+  marcas: 7
+  familia: 1
+  industria: 5
+  thumbnail: ""
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+-
+  id: 78
+  ordering: 78
+  state: -2
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Desplazamiento Positivo"
+  descripcion: ""
+  marcas: 7
+  familia: 1
+  industria: 5
+  thumbnail: ""
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+-
+  id: 79
+  ordering: 79
+  state: -2
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Aceite"
+  descripcion: ""
+  marcas: 7
+  familia: 1
+  industria: 5
+  thumbnail: ""
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+-
+  id: 80
+  ordering: 80
+  state: -2
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Calderas"
+  descripcion: ""
+  marcas: 7
+  familia: 1
+  industria: 5
+  thumbnail: ""
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+-
+  id: 81
+  ordering: 81
+  state: -2
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Filtros de Laboratorio"
+  descripcion: ""
+  marcas: 4
+  familia: 2
+  industria: 5
+  thumbnail: ""
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+-
+  id: 82
+  ordering: 82
+  state: -2
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Filtros de Aire"
+  descripcion: ""
+  marcas: 4
+  familia: 2
+  industria: 5
+  thumbnail: ""
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+-
+  id: 83
+  ordering: 83
+  state: -2
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Filtros de Proceso"
+  descripcion: ""
+  marcas: 4
+  familia: 2
+  industria: 5
+  thumbnail: ""
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+-
+  id: 84
+  ordering: 84
+  state: -2
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Sistemas de Separación"
+  descripcion: ""
+  marcas: 4
+  familia: 2
+  industria: 5
+  thumbnail: ""
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+-
+  id: 85
+  ordering: 85
+  state: -2
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Filtros de Bolsa "
+  descripcion: ""
+  marcas: 4
+  familia: 2
+  industria: 5
+  thumbnail: ""
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+-
+  id: 86
+  ordering: 86
+  state: -2
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Epoxicos"
+  descripcion: ""
+  marcas: 1
+  familia: 3
+  industria: 5
+  thumbnail: ""
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+-
+  id: 87
+  ordering: 87
+  state: -2
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Flowfresh"
+  descripcion: ""
+  marcas: 2
+  familia: 4
+  industria: 5
+  thumbnail: ""
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+-
+  id: 88
+  ordering: 88
+  state: -2
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Belzona"
+  descripcion: ""
+  marcas: 3
+  familia: 5
+  industria: 5
+  thumbnail: ""
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+-
+  id: 89
+  ordering: 89
+  state: -2
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Laminados, Hules"
+  descripcion: ""
+  marcas: 6
+  familia: 6
+  industria: 5
+  thumbnail: ""
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+-
+  id: 90
+  ordering: 90
+  state: -2
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Empaque Triclamp"
+  descripcion: ""
+  marcas: 6
+  familia: 6
+  industria: 5
+  thumbnail: ""
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+-
+  id: 91
+  ordering: 91
+  state: -2
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Retendores"
+  descripcion: ""
+  marcas: 14
+  familia: 6
+  industria: 5
+  thumbnail: ""
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+-
+  id: 92
+  ordering: 92
+  state: -2
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Juntas De Expansión"
+  descripcion: ""
+  marcas: ""
+  familia: 6
+  industria: 5
+  thumbnail: ""
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+-
+  id: 94
+  ordering: 94
+  state: -2
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Cilindros"
+  descripcion: ""
+  marcas: 12
+  familia: 8
+  industria: 5
+  thumbnail: ""
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+-
+  id: 95
+  ordering: 95
+  state: -2
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Filtro, Regulado, Lubricador (Frl)"
+  descripcion: ""
+  marcas: ""
+  familia: 8
+  industria: 5
+  thumbnail: ""
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+-
+  id: 96
+  ordering: 96
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Válvulas"
+  descripcion: ""
+  marcas: ""
+  familia: 7
+  industria: 5
+  thumbnail: ""
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+-
+  id: 97
+  ordering: 97
+  state: -2
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Tuberia en Aluminio para Aire Comprimido y Gases Inertes"
+  descripcion: ""
+  marcas: 11
+  familia: 9
+  industria: 5
+  thumbnail: ""
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+-
+  id: 98
+  ordering: 98
+  state: -2
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Transportadores"
+  descripcion: ""
+  marcas: 15
+  familia: 11
+  industria: 5
+  thumbnail: ""
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+-
+  id: 99
+  ordering: 99
+  state: -2
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Control de Inyección de Vapor"
+  descripcion: ""
+  marcas: 7
+  familia: 12
+  industria: 5
+  thumbnail: ""
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+-
+  id: 100
+  ordering: 100
+  state: -2
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Válvulas de Control de Proceso"
+  descripcion: ""
+  marcas: 7
+  familia: 12
+  industria: 5
+  thumbnail: ""
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+-
+  id: 101
+  ordering: 101
+  state: -2
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Cilindros"
+  descripcion: ""
+  marcas: 16
+  familia: 13
+  industria: 5
+  thumbnail: ""
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+-
+  id: 102
+  ordering: 102
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Filtro, Regulado, Lubricador (Frl)"
+  descripcion: "<p>Filtro, Regulador, lubricador</p>"
+  marcas: 16
+  familia: 8
+  industria: "1,2,5"
+  thumbnail: "a96a6925c2f8fbae8eaefa237cc628d1-FRL.jpg"
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+-
+  id: 103
+  ordering: 103
+  state: -2
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Válvulas"
+  descripcion: ""
+  marcas: 16
+  familia: 13
+  industria: 5
+  thumbnail: ""
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+-
+  id: 104
+  ordering: 104
+  state: -2
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Centrales Hidruálicas"
+  descripcion: ""
+  marcas: 16
+  familia: 13
+  industria: 5
+  thumbnail: ""
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+-
+  id: 105
+  ordering: 105
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Alfombras Ergonómicas"
+  descripcion: ""
+  marcas: 18
+  familia: 42
+  industria: 5
+  thumbnail: ""
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+-
+  id: 106
+  ordering: 106
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Líneas de Demarcación"
+  descripcion: ""
+  marcas: 18
+  familia: 42
+  industria: 5
+  thumbnail: ""
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+-
+  id: 107
+  ordering: 107
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 996
+  titulo: "Uretanos Cementicios"
+  descripcion: "<p>Los sistemas en uretano cementicio son una opción muy popular en la industria de alimentos y bebidas. El material de uretano normalmente utilizado en este tipo de aplicaciones viene en forma de mortero combinando cemento y tecnologías en uretano, que presentan una alta densidad reticulada, convirtiéndolos en la opción ideal para ambientes de trabajo, expuestos a ataques químicos prolongados y esfuerzos mecánicos. Los sistemas en uretano presentan un coeficiente de expansión térmica similar a la del concreto. Esto ofrece excelentes beneficios en ambientes sujetos a cambios bruscos de temperatura y ciclos térmicos, ya que evita el agrietamiento del material cuando está sujeto a grandes oscilaciones de temperatura. </p>\r\n<p> </p>\r\n<p> </p>"
+  marcas: 2
+  familia: 3
+  industria: "1,2,3,4,5,6,7,8,9,10"
+  thumbnail: "27cf7f43b4ddb69a42e0aa06f25fed50-UCF.jpg"
+  catalogo: ""
+  meta_description: "flowcrete"
+  meta_keywords: "pisos,"
+-
+  id: 108
+  ordering: 108
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 996
+  titulo: "Juntas de control"
+  descripcion: ""
+  marcas: "2,3"
+  familia: 3
+  industria: "1,2,3"
+  thumbnail: "0c414b5248d669f61a52abbf15a4c6a7-Juntas.jpg"
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: "juntas"
+-
+  id: 109
+  ordering: 109
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 996
+  titulo: "Recubrimiento de Tanques"
+  descripcion: ""
+  marcas: "2,3"
+  familia: 3
+  industria: "1,3,6,9"
+  thumbnail: "4d0f2bef0e38eb2b8971cc7b3eedee9f-Tanque.jpg"
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+-
+  id: 110
+  ordering: 110
+  state: -2
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 996
+  titulo: "Tubería para Aire Comprimido"
+  descripcion: ""
+  marcas: 11
+  familia: 9
+  industria: "1,2,3,4,5,6,7,8,10"
+  thumbnail: "33b7b78e21ee8a23b2d56b7027389a97-Tuberia-2.jpg"
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+-
+  id: 111
+  ordering: 111
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 996
+  titulo: "Centrifugas API"
+  descripcion: ""
+  marcas: 7
+  familia: 1
+  industria: "2,4"
+  thumbnail: "dd6b6063912c311e378230ea8f2c09ab-Flowserve-API.jpg"
+  catalogo: ""
+  meta_description: "API, 610"
+  meta_keywords: "Bomba API"
+-
+  id: 112
+  ordering: 112
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 996
+  titulo: "Perfiles en aluminio"
+  descripcion: ""
+  marcas: 16
+  familia: 43
+  industria: "1,3,5"
+  thumbnail: "a75ac7df1de3c4127ca1642484517d55-BRL.jpg"
+  catalogo: ""
+  meta_description: "perfil en aluminio"
+  meta_keywords: "Perfil, Aluminio, Item, Rexroth"
+-
+  id: 113
+  ordering: 113
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 996
+  titulo: "Estaciones de Trabajo"
+  descripcion: ""
+  marcas: 16
+  familia: 43
+  industria: "1,3,5"
+  thumbnail: "362edf72187dfc9b7aea82b569b17240-WS.jpg"
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+-
+  id: 114
+  ordering: 114
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 996
+  titulo: "Transportadores"
+  descripcion: ""
+  marcas: "15,16"
+  familia: 43
+  industria: "1,3,5"
+  thumbnail: "75daec255263abce501250150f52192d-VarioFlow-Wedge-H-two.jpg"
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+-
+  id: 115
+  ordering: 115
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 996
+  titulo: "Transportadores"
+  descripcion: ""
+  marcas: 15
+  familia: 43
+  industria: "1,3,5"
+  thumbnail: "e01208cfce5f993a31270492a561bbca-QC-conveyor.jpg"
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+-
+  id: 116
+  ordering: 116
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 996
+  titulo: "Alfombras "
+  descripcion: "<p>Alfombras anti-fatiga </p>"
+  marcas: 18
+  familia: 43
+  industria: "1,3,5,7"
+  thumbnail: "187e45776ae20f8c04b7b8064ae92cca-Mat.jpg"
+  catalogo: ""
+  meta_description: "alfombras"
+  meta_keywords: "Ergonomicas"
+-
+  id: 117
+  ordering: 117
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 996
+  titulo: "Vacío"
+  descripcion: "<p><span style=\"color: #000000; font-family: Arial; font-size: 13px; line-height: 14.399999618530273px; text-align: justify; white-space: pre-wrap;\">{youtube}RO6ToHgasWU{/youtube}</span></p>"
+  marcas: 7
+  familia: 1
+  industria: "1,3,5,8"
+  thumbnail: "e2b9d725a967ad50fdaefd49575202fc-Sihi-vacio.jpg"
+  catalogo: ""
+  meta_description: "Bomba de Vacío"
+  meta_keywords: "vacío, bomba, aire, anillo liquido"
+-
+  id: 118
+  ordering: 118
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 996
+  titulo: "Laminados Libres de asbesto"
+  descripcion: "<p>Se ofrecen laminas y juntas cortadas... Todo de entrega inmediata.</p>\r\n<p> </p>\r\n<p><img src=\"images/productos/a9b2a1515f4d16504b93bd07527dddfb-GJC.jpg\" alt=\"Laminados\" width=\"279\" height=\"181\" /></p>"
+  marcas: 6
+  familia: 6
+  industria: "1,2,3,4,5,6,7,8,9,10"
+  thumbnail: "a8eb8a077bdecba2f193a0d0bf80d19f-GS.jpg"
+  catalogo: ""
+  meta_description: "Laminas, IFG, 9450"
+  meta_keywords: "juntas "
+-
+  id: 119
+  ordering: 119
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 996
+  titulo: "Empaquetadura de compresión "
+  descripcion: ""
+  marcas: 6
+  familia: 6
+  industria: "1,2,4,6,7,8,9"
+  thumbnail: "f35c11e6d7f6a643c3f0646e479f58aa-1306.jpg"
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+-
+  id: 120
+  ordering: 120
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 996
+  titulo: "Secadores de aire comprimido"
+  descripcion: "<p> Refrigerativos y Regenerativos punto de rocio a - 40 F</p>"
+  marcas: 13
+  familia: 9
+  industria: "1,3,5,6,8,10"
+  thumbnail: "c8487d57a1262a6d4cd803823c320ba8-PN-Product-Display-line-card-.jpg"
+  catalogo: ""
+  meta_description: "secador, refigertaivo, desecante"
+  meta_keywords: ""
+-
+  id: 121
+  ordering: 121
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 996
+  titulo: "Filtros Hidraulicos"
+  descripcion: ""
+  marcas: "4,16"
+  familia: 2
+  industria: "2,4,7,8,9"
+  thumbnail: "c0fe094f93ed00fc39246854ddde882f-Coralon.jpg"
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+-
+  id: 122
+  ordering: 122
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 996
+  titulo: "Productos de Teflon"
+  descripcion: "<p>Todo en teflon:</p>\r\n<p>- Cintas</p>\r\n<p>- Laminas</p>\r\n<p>- Barras</p>\r\n<p>- Teflon Expandido</p>"
+  marcas: 6
+  familia: 6
+  industria: "1,2,3,4,5,6,7,8,9,10"
+  thumbnail: "60ad3a9294571e46b7826a03324dd9f8-CTG.jpg"
+  catalogo: ""
+  meta_description: "Cintas,Laminas,Barras,Teflon Expandido"
+  meta_keywords: "Cintas Garlock, 3535, Teflon expandido"
+-
+  id: 123
+  ordering: 123
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 996
+  titulo: "Laminas Trespa"
+  descripcion: ""
+  marcas: 19
+  familia: 43
+  industria: "1,3,5,6"
+  thumbnail: "2698dcdcdf3b5b1c054ccd910ac69577-TTLAB.jpg"
+  catalogo: ""
+  meta_description: "Trespa"
+  meta_keywords: "Trespa, topLAB"
+-
+  id: 124
+  ordering: 124
+  state: -2
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 996
+  titulo: "Tubería en Aluminio para Aire Comprimido y Gases Inertes"
+  descripcion: "<h2 id=\"marches\" style=\"margin: 0px 0px 0px 13px; padding: 0px; font-size: 1.4em; color: #444444; font-family: Verdana, Arial, Tahoma, Helvetica, sans-serif; line-height: normal;\">La oferta de Transair</h2>\r\n<div class=\"MarchesWarper\" style=\"margin: 0px; padding: 0px; overflow: hidden; height: auto; color: #000000; font-family: Verdana, Arial, Tahoma, Helvetica, sans-serif; font-size: 13px; line-height: normal;\">\r\n<div class=\"Intro\" style=\"margin: 8px 15px 0px 16px !important; padding: 0px !important; color: #666666; font-size: 0.9em; text-align: justify; line-height: 14.399999618530273px;\">\r\n<p style=\"margin: 0px 10px 10px 0px; padding: 0px;\">Transair ofrece innovadoras soluciones de canalización<br /><br />Transair oforece las soluciones adecuadas para todas sus aplicaciones de aire comprimido, agua de refrigeración, gases neutros y vacío<br /><br />Rápido montaje, durabilidad, excelente rendimiento y reducción de los costes generales de la canalización de aire comprimido, tubos con conexión rápida para fluidos y canalizaciones en aluminio.<br /><br />Un montaje rápido implica una reducción en los costes de instalación<br />La ausencia de óxido y contaminantes proporciona una protección duradera de los equipos conectados<br />Las conexiones rápidas de paso completo implican una eficiencia óptima de la maquinaria y las herramientas.</p>\r\n<p style=\"margin: 0px 10px 10px 0px; padding: 0px;\"> </p>\r\n<p style=\"margin: 0px 10px 10px 0px; padding: 0px;\"><span id=\"docs-internal-guid-4e07385f-9f50-aaf0-4127-65a08064a325\"><span style=\"font-size: 13.333333333333332px; font-family: Arial; color: #000000; background-color: transparent; vertical-align: baseline; white-space: pre-wrap;\">{youtube}hFiY9C03XDI{/youtube}</span></span></p>\r\n</div>\r\n</div>"
+  marcas: 11
+  familia: 9
+  industria: "1,2,3,4,5,6,7,8,9,10"
+  thumbnail: "f6957e4b2ffabf1e084633e24ee44dd0-TRANSAIR-GRAL.png"
+  catalogo: ""
+  meta_description: "Tubería, Aluminio, Transair, Aire comprimido, aluminum pipe"
+  meta_keywords: "Tubería para aire comprimido, air pipe"
+-
+  id: 125
+  ordering: 125
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 996
+  titulo: "Elementos (cartuchos)"
+  descripcion: "<p>Filtros de profundidad, filtros para soluciones esteriles (0,8, 0,65. 0,45 y 0,2 micras)</p>"
+  marcas: 4
+  familia: 2
+  industria: "1,4,5,7,8"
+  thumbnail: "0f7ceaf8256f6e82cc42348f897e27bf-PFR.jpg"
+  catalogo: ""
+  meta_description: "Housing, Carcaza, Sanitario"
+  meta_keywords: "Carcaza sanitaria, Housing industrial"
+-
+  id: 126
+  ordering: 126
+  state: -2
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 996
+  titulo: "Secador Refrigerativo"
+  descripcion: ""
+  marcas: 13
+  familia: 9
+  industria: "1,2,3,5,8,10"
+  thumbnail: "c66da0df8473855acd53002d5c90499f-Secador-Refrigerativo.jpg"
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+-
+  id: 127
+  ordering: 127
+  state: -2
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 996
+  titulo: "Secadores de Aire "
+  descripcion: ""
+  marcas: 13
+  familia: 9
+  industria: "1,2,3,4,5"
+  thumbnail: "01533ffc8066c4282f6bcf024c681173-Secador-HL.jpg"
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+-
+  id: 128
+  ordering: 128
+  state: 1
+  checked_out: 998
+  checked_out_time: "2015-10-27 21:01:43"
+  created_by: 996
+  titulo: "Doble Diafragma - Sanitarias "
+  descripcion: "<h1 class=\"producttag\" style=\"color: #313131; width: 440px; margin: 0px 0px 10px; padding-top: 0px; font-size: 100% !important;\"><strong>SANIFORCE</strong></h1>\r\n<h2><span style=\"font-size: 17px; font-style: italic; font-weight: bold;\">Soluciones sanitarias de bombeo</span></h2>\r\n<p>Bombas de diafragma, bombas de pistón, descargadores de tambores y contenedores para aplicaciones sanitarias.</p>\r\n<h2><span style=\"font-size: 17px; font-style: italic; font-weight: bold;\">Video del Desarme de la bomba</span></h2>\r\n<p> {youtube}Xl9zm_PPndQ{/youtube}</p>\r\n<h2><span style=\"font-size: 17px; font-style: italic; font-weight: bold;\">Video del Re-Armado de la bomba</span></h2>\r\n<p> {youtube}piqcCx4JkTI{/youtube} </p>"
+  marcas: 9
+  familia: 1
+  industria: "1,3,5"
+  thumbnail: "3ee6a108a2b8bee1d0f0fc6922dffee0-Saniforce.jpg"
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+-
+  id: 129
+  ordering: 129
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 996
+  titulo: "Válvulas de Globo de disco excéntrico y bola segmentada (Valtek)"
+  descripcion: ""
+  marcas: 7
+  familia: 12
+  industria: 2
+  thumbnail: "4585814601e761083ecf158550ed755b-Valtek.jpg"
+  catalogo: ""
+  meta_description: "valtek"
+  meta_keywords: "valtek"
+-
+  id: 130
+  ordering: 130
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 996
+  titulo: "Válvulas de globo, compuerta y check (Edward)"
+  descripcion: ""
+  marcas: 7
+  familia: 12
+  industria: 2
+  thumbnail: "ad7f29f5bb7f6ea6a452af2a1b3345ca-Edward.jpg"
+  catalogo: ""
+  meta_description: "Válvulas Eduard,"
+  meta_keywords: "valvular para vapor"
+-
+  id: 131
+  ordering: 131
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 996
+  titulo: "Válvulas de control sanitarias (Kammer)"
+  descripcion: ""
+  marcas: 7
+  familia: 12
+  industria: 1
+  thumbnail: "15b8d8635217475443d3a11b1f843d9e-Kammer.jpg"
+  catalogo: ""
+  meta_description: "Kammer"
+  meta_keywords: "válvulas de control"
+-
+  id: 132
+  ordering: 132
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 996
+  titulo: "Actuadores - Sistemas de automatizacion de válvulas (Automax)"
+  descripcion: ""
+  marcas: 7
+  familia: 12
+  industria: "1,4,5,6"
+  thumbnail: "f2a300ad28bb8f84f5459344e98e4f77-Automax.jpg"
+  catalogo: ""
+  meta_description: "automax"
+  meta_keywords: ""
+-
+  id: 133
+  ordering: 133
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 996
+  titulo: "Valvulas bola tipo Trunnion - API 6D (Valbart) "
+  descripcion: ""
+  marcas: 7
+  familia: 12
+  industria: "2,6,8"
+  thumbnail: "2e4d2f200f65360c706ab8e93f240188-Valbart.jpg"
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+-
+  id: 134
+  ordering: 134
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 996
+  titulo: "Empaques Espirometalicos RWI - RW -SW"
+  descripcion: ""
+  marcas: 6
+  familia: 6
+  industria: "1,2,4,6,8"
+  thumbnail: "150f8e098cccc4c2c045fd177e6cfd0c-RWI.jpg"
+  catalogo: ""
+  meta_description: "RWI, RW, Espirometalicos "
+  meta_keywords: ""
+-
+  id: 135
+  ordering: 135
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 996
+  titulo: "PALL Genedisc - PCR"
+  descripcion: ""
+  marcas: 4
+  familia: 2
+  industria: "1,3,5,8"
+  thumbnail: "5407bfa3685870e8caa23ae5cf3203c2-Genedisc.jpg"
+  catalogo: ""
+  meta_description: "Genedisc, PALL, PCR"
+  meta_keywords: "PCR, PALL"
+-
+  id: 136
+  ordering: 136
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 996
+  titulo: "Bomba positiva de engranajes tipo GR"
+  descripcion: ""
+  marcas: 7
+  familia: 1
+  industria: "2,4,8"
+  thumbnail: "ddf2ea1c8cf23eb12811efef9d63f249-GR.jpg"
+  catalogo: ""
+  meta_description: "Bomba tipo GR, positiva, Vicking"
+  meta_keywords: ""
+-
+  id: 137
+  ordering: 137
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 996
+  titulo: "Polímeros para reparación de bombas"
+  descripcion: ""
+  marcas: 3
+  familia: 3
+  industria: "2,7,8"
+  thumbnail: "db56c204665d22a4bc0d5135b4ec4ee1-BP.jpg"
+  catalogo: ""
+  meta_description: "Belzona, 1391"
+  meta_keywords: "reparation de bombas"
+-
+  id: 138
+  ordering: 138
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 996
+  titulo: "Belzona 1111 - Super metal "
+  descripcion: ""
+  marcas: 3
+  familia: 3
+  industria: "1,2,4,6,7,8"
+  thumbnail: "30a33eba61938574e808cf036e653374-1111.jpg"
+  catalogo: ""
+  meta_description: "Belzona 1111"
+  meta_keywords: "1111, super metal "
+-
+  id: 139
+  ordering: 139
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 996
+  titulo: "Bombas - Sistemas de Presión Constante"
+  descripcion: "<p>Sistema de Presión Constante.</p>\r\n<p>HAVC, Chilers, Agua Helada, Recirculacion </p>"
+  marcas: 20
+  familia: 1
+  industria: "1,2,3,5,9,10"
+  thumbnail: "8101e2c8b54d1375bb8ff89a1c86aa00-Wilo-PC.jpg"
+  catalogo: ""
+  meta_description: "Sistema de presión constante, Wilo, bombas, variador"
+  meta_keywords: "Wilo, Presión constante"
+-
+  id: 140
+  ordering: 140
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 996
+  titulo: "Bombas FDS Doble Tornillo"
+  descripcion: "<p>Bombas Sanitarias de doble tornillo</p>"
+  marcas: 10
+  familia: 1
+  industria: "1,3,5"
+  thumbnail: "73829a1a9c890011f46704bbd6149921-FDS.jpg"
+  catalogo: ""
+  meta_description: "Fristam, Doble tornillo, FDS"
+  meta_keywords: "doble screw pump"
+-
+  id: 141
+  ordering: 141
+  state: 1
+  checked_out: 996
+  checked_out_time: "2017-03-18 14:57:19"
+  created_by: 996
+  titulo: "KSB - válvulas"
+  descripcion: "<p>KSB todo en válvulas</p>"
+  marcas: 8
+  familia: 12
+  industria: "1,2,4,6,8"
+  thumbnail: "1d357facd33735e23b1ba693dbdd75b3-KSB-Valves.jpg"
+  catalogo: ""
+  meta_description: "válvulas"
+  meta_keywords: "válvulas"
+...

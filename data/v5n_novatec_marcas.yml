@@ -1,0 +1,319 @@
+%YAML 1.1
+---
+# novatecnew.v5n_novatec_marcas
+-
+  id: 1
+  ordering: 2
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "PolySpec Thiokol"
+  logo: "e363be278e65b7ca9441a0d50bab2f14-polyspec.jpg"
+  link_default: "http://www.polyspec.com/"
+  descripcion: ""
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+  menu_item: 176
+-
+  id: 2
+  ordering: 17
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Flowcrete"
+  logo: "1431ded0fffbbd213e8fbd0303e1ffc2-flowcrete.jpg"
+  link_default: "http://es.flowcreteamericas.com"
+  descripcion: ""
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+  menu_item: 165
+-
+  id: 3
+  ordering: 3
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Belzona"
+  logo: "a308c8c076f43229bafa2c5aff6145ea-belzona.jpg"
+  link_default: "http://www.belzona.com"
+  descripcion: "<p><span style=\"font-size: 13px; font-family: arial,sans,sans-serif;\" data-sheets-value=\"[null,2,&quot;Materiales y recubrimientos para reparar, proteger y mejorar&quot;]\" data-sheets-userformat=\"[null,null,513,[null,0],null,null,null,null,null,null,null,null,0]\">Materiales y recubrimientos para reparar, proteger y mejorar</span></p>"
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+  menu_item: 162
+-
+  id: 4
+  ordering: 4
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Pall"
+  logo: "8f8a22a0e4c21e877f034299958e9cbe-pall.jpg"
+  link_default: "http://www.pall.com"
+  descripcion: "<p><span style=\"font-size: 13px; font-family: arial,sans,sans-serif;\" data-sheets-value=\"[null,2,&quot;Filtracion, separacion, y equipos y sistemas de purificacion&quot;]\" data-sheets-userformat=\"[null,null,513,[null,0],null,null,null,null,null,null,null,null,0]\">Filtración, separación, y equipos y sistemas de purificación.</span></p>\r\n<p>{youtube}cr55kE1mks0{/youtube}</p>\r\n<p> </p>"
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+  menu_item: 173
+-
+  id: 5
+  ordering: 5
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Eagleburgmann"
+  logo: "6b057a5cb7631f71537a93d8186b1ae6-eagleburgmann.jpg"
+  link_default: "https://www.eagleburgmann.com"
+  descripcion: ""
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+  menu_item: 163
+-
+  id: 6
+  ordering: 6
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Garlock"
+  logo: "cb5f14d025d6fe82d7bf313bc520635f-garlock.jpg"
+  link_default: "http://www.garlock.com/es/"
+  descripcion: "<p><span style=\"color: #000000; font-family: arial, sans, sans-serif; font-size: 13px; line-height: normal; white-space: pre-wrap;\">Fabricante de sellado general</span></p>"
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+  menu_item: 168
+-
+  id: 7
+  ordering: 16
+  state: 0
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Flowserve"
+  logo: "df1ad1581f8d8ccae6afdf48d40326b3-flowserve.jpg"
+  link_default: "http://flowserve.com/es_XL/"
+  descripcion: ""
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+  menu_item: 166
+-
+  id: 8
+  ordering: 7
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "KSB"
+  logo: "9c290a90f7c2e7e768e47a7d8d2ed411-ksb.jpg"
+  link_default: "http://www.ksb.com/"
+  descripcion: "<p><span style=\"font-size: 13px; font-family: arial,sans,sans-serif;\" data-sheets-value=\"[null,2,&quot;Fabricante de bombas&quot;]\" data-sheets-userformat=\"[null,null,513,[null,0],null,null,null,null,null,null,null,null,0]\">Fabricante de bombas, válvulas</span></p>"
+  catalogo: ""
+  meta_description: "KSB, bombas válvulas"
+  meta_keywords: "KSB, bombas, sistemas de presion constante, válvulas"
+  menu_item: 171
+-
+  id: 9
+  ordering: 1
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Graco"
+  logo: "ebcadc14259649e6efba7b86dc927c21-graco.jpg"
+  link_default: "http://www.graco.com"
+  descripcion: ""
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+  menu_item: 169
+-
+  id: 10
+  ordering: 8
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Fristam"
+  logo: "4943668b4f5be6720ec8923279452ae2-fristam.jpg"
+  link_default: "http://www.fristam.com/Home.aspx"
+  descripcion: "<p><span style=\"font-size: 13px; font-family: arial,sans,sans-serif;\" data-sheets-value=\"[null,2,&quot;Fabricnate de bombas centrifugas, positivas y mezcaldores de polvos.&quot;]\" data-sheets-userformat=\"[null,null,513,[null,0],null,null,null,null,null,null,null,null,0]\">Fabricante de bombas centrifugas, positivas y mezcladores de polvos.</span></p>"
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+  menu_item: 167
+-
+  id: 11
+  ordering: 9
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Parker-Transair"
+  logo: "2b6a5e17122beb1afce28449a34f4ff3-parkerlegris.jpg"
+  link_default: "http://promo.parker.com/promotionsite/transair/us/en/home"
+  descripcion: "<p><span style=\"font-size: 13px; font-family: arial,sans,sans-serif;\" data-sheets-value=\"[null,2,&quot;Fabricante de tuberias de 1/2&quot;, 1&quot; , 1-1/2&quot; 2&quot;, 2-1/2&quot;, 3&quot;, 4&quot;, 6&quot;&quot;]\" data-sheets-userformat=\"[null,null,513,[null,0],null,null,null,null,null,null,null,null,0]\">Fabricante de tuberias de 1/2\", 1\" , 1-1/2\" 2\", 2-1/2\", 3\", 4\", 6\"</span></p>"
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+  menu_item: 174
+-
+  id: 12
+  ordering: 13
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Aventics"
+  logo: "1304c902693a779b7cf0a6e62f70982d-aventics.jpg"
+  link_default: "http://www.aventics.com"
+  descripcion: "<p><span style=\"font-size: 13px; font-family: arial,sans,sans-serif;\" data-sheets-value=\"[null,2,&quot;Cilindros, valvulas y filtros reguladores y lubricadores&quot;]\" data-sheets-userformat=\"[null,null,513,[null,0],null,null,null,null,null,null,null,null,0]\">Cilindros, válvulas, filtros reguladores y lubricadores</span></p>"
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+  menu_item: 161
+-
+  id: 13
+  ordering: 10
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Pneumatech"
+  logo: "98b200012719ae55c47ba80ef26661ca-pneumatech.jpg"
+  link_default: "http://www.pneumatech.com"
+  descripcion: "<p><span style=\"font-size: 13px; font-family: arial,sans,sans-serif;\" data-sheets-value=\"[null,2,&quot;Fabricante de tratamiento para el aire comprimido&quot;]\" data-sheets-userformat=\"[null,null,513,[null,0],null,null,null,null,null,null,null,null,0]\">Fabricante de tratamiento para el aire comprimido</span></p>"
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+  menu_item: 175
+-
+  id: 14
+  ordering: 14
+  state: -2
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Klozure"
+  logo: ""
+  link_default: "http://www.garlock.com/"
+  descripcion: ""
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+  menu_item: 170
+-
+  id: 15
+  ordering: 15
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Qc Industries"
+  logo: "69b38aea1b7d6c4dfe7adafd723c87bd-qc-industries.jpg"
+  link_default: "http://qcconveyors.com/"
+  descripcion: ""
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+  menu_item: 177
+-
+  id: 16
+  ordering: 11
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Rexroth"
+  logo: "31e7fe75fd4f48ea3a5de33fcb050b4e-rexroth.jpg"
+  link_default: "http://www.rexroth.com"
+  descripcion: "<p>{youtube}YLwlVLnW-70{/youtube}</p>"
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+  menu_item: 178
+-
+  id: 17
+  ordering: 18
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Macoga"
+  logo: "d3dc579210bee7ea22796b6cb7fe9e2e-macoga-logo.jpg"
+  link_default: "http://www.macoga.com/"
+  descripcion: ""
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+  menu_item: 172
+-
+  id: 18
+  ordering: 12
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 995
+  titulo: "Ergomat"
+  logo: "c8e1e5d5c9c21d8008d5bd39efda76a0-ergomat.jpg"
+  link_default: "http://www.ergomat.com/global/"
+  descripcion: ""
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+  menu_item: 164
+-
+  id: 19
+  ordering: 19
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 996
+  titulo: "Trespa "
+  logo: "3da4a8d36d309c7c3abcdc34e5120838-TrespaLogo.jpg"
+  link_default: "http://www.trespa.com/us/toplab"
+  descripcion: ""
+  catalogo: ""
+  meta_description: ""
+  meta_keywords: ""
+  menu_item: 237
+-
+  id: 20
+  ordering: 20
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 996
+  titulo: "Wilo "
+  logo: "3e7c851dd6401aa77a90282490d44506-Wilo-logo.jpg"
+  link_default: "http://www.wilo-usa.com"
+  descripcion: "<h1 class=\"csc-firstHeader\" style=\"padding: 0px; margin: 0px 0px 7px; border: 0px; font-family: WILOPlusFMRegular, Verdana, Arial, Helvetica, sans-serif; font-weight: 400; color: #000000;\"> </h1>"
+  catalogo: ""
+  meta_description: "wilo,pumps,bombas,presión constante, bombas wilo"
+  meta_keywords: "wilo,pumps,bombas,presión constant,Aire acondicionado, wilo Costa Rica"
+  menu_item: 237
+-
+  id: 21
+  ordering: 21
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 996
+  titulo: "Rubber Fab"
+  logo: "c78564942cd1ac5aa5197f9be8a96e66-Rubber-Fab---logo.png"
+  link_default: "http://www.rubberfab.com"
+  descripcion: "<p>Rubber Fab</p>"
+  catalogo: ""
+  meta_description: "Rubber Fab, mangueas sanitarias"
+  meta_keywords: "mangueras, conectores, hoses, sanitary hoces"
+  menu_item: 237
+...

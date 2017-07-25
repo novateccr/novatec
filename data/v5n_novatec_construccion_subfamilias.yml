@@ -1,0 +1,620 @@
+%YAML 1.1
+---
+# novatecnew.v5n_novatec_construccion_subfamilias
+-
+  id: 1
+  ordering: 0
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  titulo: "Cementicia	"
+  familia: 1
+  imagen: "/images/construccion/1.jpg"
+-
+  id: 2
+  ordering: 0
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  titulo: "Membranas Acrilicos"
+  familia: 1
+  imagen: "/images/construccion/5.jpg"
+-
+  id: 3
+  ordering: 0
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  titulo: "Asfalticos"
+  familia: 1
+  imagen: "/images/construccion/6.jpg"
+-
+  id: 4
+  ordering: 0
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  titulo: "Poliuretanos	"
+  familia: 1
+  imagen: "/images/construccion/8.jpg"
+-
+  id: 5
+  ordering: 0
+  state: 0
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  titulo: "Epoxicos	"
+  familia: 1
+  imagen: "/images/construccion/60.jpg"
+-
+  id: 6
+  ordering: 0
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  titulo: "Membranas Prefabricadas	"
+  familia: 1
+  imagen: "/images/construccion/.jpg"
+-
+  id: 7
+  ordering: 0
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  titulo: "Acrilicos Integrales"
+  familia: 2
+  imagen: "/images/construccion/19.jpg"
+-
+  id: 8
+  ordering: 0
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  titulo: "Adherentes Epoxicos"
+  familia: 2
+  imagen: "/images/construccion/20.jpg"
+-
+  id: 9
+  ordering: 0
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  titulo: "Adherentes Epoxicos Tipo Gel "
+  familia: 2
+  imagen: "/images/construccion/21.jpg"
+-
+  id: 10
+  ordering: 0
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  titulo: "Epoxicos De Inyeccion "
+  familia: 2
+  imagen: "/images/construccion/22.jpg"
+-
+  id: 11
+  ordering: 0
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  titulo: "Curadores Facil Remoción "
+  familia: 3
+  imagen: "/images/construccion/23.jpg"
+-
+  id: 12
+  ordering: 0
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  titulo: "Membranas Parafina"
+  familia: 3
+  imagen: "/images/construccion/24.jpg"
+-
+  id: 13
+  ordering: 0
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  titulo: "Retardante Evaporación "
+  familia: 3
+  imagen: "/images/construccion/25.jpg"
+-
+  id: 14
+  ordering: 0
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  titulo: "Desmoldantes Base Agua"
+  familia: 3
+  imagen: "/images/construccion/26.jpg"
+-
+  id: 15
+  ordering: 0
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  titulo: "Repelentes De Agua "
+  familia: 4
+  imagen: "/images/construccion/27.jpg"
+-
+  id: 16
+  ordering: 0
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  titulo: "Selladores Para Concreto "
+  familia: 4
+  imagen: "/images/construccion/28.jpg"
+-
+  id: 17
+  ordering: 0
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  titulo: "Morteros Sin Contracción "
+  familia: 5
+  imagen: "/images/construccion/29.jpg"
+-
+  id: 18
+  ordering: 0
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  titulo: "Mortero Hidraulico "
+  familia: 5
+  imagen: "/images/construccion/30.jpg"
+-
+  id: 19
+  ordering: 0
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  titulo: "Mortero Rep.Estructural"
+  familia: 5
+  imagen: "/images/construccion/31.jpg"
+-
+  id: 20
+  ordering: 0
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  titulo: "Sello De Juntas Epoxico "
+  familia: 6
+  imagen: "/images/construccion/32.jpg"
+-
+  id: 21
+  ordering: 0
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  titulo: "Sello De Juntas Poliuretano "
+  familia: 6
+  imagen: "/images/construccion/33.jpg"
+-
+  id: 22
+  ordering: 0
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  titulo: "Sello De Juntas De Pared "
+  familia: 6
+  imagen: "/images/construccion/34.jpg"
+-
+  id: 23
+  ordering: 0
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  titulo: "Backed Rod"
+  familia: 6
+  imagen: "/images/construccion/35.jpg"
+-
+  id: 24
+  ordering: 0
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  titulo: "Barrera De Vapor Sintetica"
+  familia: 7
+  imagen: "/images/construccion/36.jpg"
+-
+  id: 25
+  ordering: 0
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  titulo: "Dovelas "
+  familia: 8
+  imagen: "/images/construccion/37.jpg"
+-
+  id: 26
+  ordering: 0
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  titulo: "Juntas Metalicas "
+  familia: 8
+  imagen: "/images/construccion/38.jpg"
+-
+  id: 27
+  ordering: 0
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  titulo: "Water Stop"
+  familia: 9
+  imagen: "/images/construccion/39.jpg"
+-
+  id: 28
+  ordering: 0
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  titulo: "Bentonita Expansiva"
+  familia: 9
+  imagen: "/images/construccion/40.jpg"
+-
+  id: 29
+  ordering: 0
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  titulo: "Endurecedor Agregado Metalico "
+  familia: 10
+  imagen: "/images/construccion/41.jpg"
+-
+  id: 30
+  ordering: 0
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  titulo: "Endurecedor Agregado Mineral "
+  familia: 10
+  imagen: "/images/construccion/42.jpg"
+-
+  id: 31
+  ordering: 0
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  titulo: "End. Liquido Silicato Calcio"
+  familia: 10
+  imagen: "/images/construccion/43.jpg"
+-
+  id: 32
+  ordering: 0
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  titulo: "End.Liquido Silicato De Sodio"
+  familia: 10
+  imagen: "/images/construccion/44.jpg"
+-
+  id: 33
+  ordering: 0
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  titulo: "Sellos Corta Fuego"
+  familia: 11
+  imagen: "/images/construccion/45.jpg"
+-
+  id: 34
+  ordering: 0
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  titulo: "Sellos Intumesentes"
+  familia: 11
+  imagen: "/images/construccion/46.jpg"
+-
+  id: 35
+  ordering: 0
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  titulo: "Revestimientos Intumesentes"
+  familia: 11
+  imagen: "/images/construccion/47.jpg"
+-
+  id: 36
+  ordering: 0
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  titulo: "Acelerantes"
+  familia: 12
+  imagen: "/images/construccion/49.jpg"
+-
+  id: 37
+  ordering: 0
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  titulo: "Modificadores De Viscocidad"
+  familia: 12
+  imagen: "/images/construccion/50.jpg"
+-
+  id: 38
+  ordering: 0
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  titulo: "Impermeabilizantes integrales"
+  familia: 12
+  imagen: "/images/construccion/51.jpg"
+-
+  id: 39
+  ordering: 0
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  titulo: "Inclusores De Aire"
+  familia: 12
+  imagen: "/images/construccion/52.jpg"
+-
+  id: 40
+  ordering: 0
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  titulo: "Reductores De Agua Alto Rango"
+  familia: 12
+  imagen: "/images/construccion/53.jpg"
+-
+  id: 41
+  ordering: 0
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  titulo: "Reductores De Agua Rango Medio"
+  familia: 12
+  imagen: "/images/construccion/54.jpg"
+-
+  id: 42
+  ordering: 0
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  titulo: "Reductores De Agua"
+  familia: 12
+  imagen: "/images/construccion/55.jpg"
+-
+  id: 43
+  ordering: 0
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  titulo: "Aditivos Para Concreto Lanzado"
+  familia: 12
+  imagen: "/images/construccion/56.jpg"
+-
+  id: 44
+  ordering: 0
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  titulo: "Aditivos Para Mamposteria"
+  familia: 12
+  imagen: "/images/construccion/57.jpg"
+-
+  id: 45
+  ordering: 0
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  titulo: ""
+  familia: 12
+  imagen: ""
+-
+  id: 46
+  ordering: 0
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  titulo: "Uretano Cementicio "
+  familia: 13
+  imagen: "/images/construccion/59.jpg"
+-
+  id: 47
+  ordering: 0
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  titulo: "Epoxicos "
+  familia: 13
+  imagen: ""
+-
+  id: 48
+  ordering: 0
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  titulo: "Decorativos "
+  familia: 13
+  imagen: "/images/construccion/61.jpg"
+-
+  id: 49
+  ordering: 0
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  titulo: "Estampados"
+  familia: 14
+  imagen: "/images/construccion/62.jpg"
+-
+  id: 50
+  ordering: 0
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  titulo: "Tintes"
+  familia: 14
+  imagen: "/images/construccion/63.jpg"
+-
+  id: 51
+  ordering: 0
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  titulo: "Pulidos Y Brillados"
+  familia: 14
+  imagen: "/images/construccion/64.jpg"
+-
+  id: 52
+  ordering: 0
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  titulo: "Fibras para concreto"
+  familia: 15
+  imagen: "/images/construccion/65.jpg"
+-
+  id: 53
+  ordering: 0
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  titulo: "Fibras para concreto"
+  familia: 15
+  imagen: ""
+-
+  id: 54
+  ordering: 0
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  titulo: "Aislantes Térmicos"
+  familia: 16
+  imagen: "/images/construccion/17.jpg"
+-
+  id: 55
+  ordering: 0
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  titulo: "Aislantes Acusticos"
+  familia: 16
+  imagen: "/images/construccion/18.jpg"
+-
+  id: 56
+  ordering: 0
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 0
+  modified_by: 0
+  titulo: "Refuerzos Estructurales"
+  familia: 16
+  imagen: "/images/construccion/48.jpg"
+...
