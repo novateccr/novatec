@@ -3,7 +3,9 @@
     {{ .Content }}
     <ul class="contents">
       {{ range .Paginator.Pages }}
-        <li>{{.title}}</li>
+        <li>
+          <a href="{{.Permalink}}">{{.Title}}</a>
+        </li>
       {{ end }}
     </ul>
   </main>

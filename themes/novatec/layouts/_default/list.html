@@ -1,1 +1,8 @@
-lista
+{{ $context := . }}
+<h1>{{ .Title }}</h1>
+<ul>
+{{ $paginator := .Paginate .Data.Pages }}
+{{ range $paginator.Pages }}
+    {{ .Render "summary" }}
+{{ end }}
+</ul>
