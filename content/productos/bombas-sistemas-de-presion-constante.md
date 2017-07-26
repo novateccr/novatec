@@ -1,3 +1,10 @@
 +++
 title = "Bombas - Sistemas de Presión Constante"
+id = "139"
+marcas = ["Wilo"]
+industrias = ["Alimentos y Bebidas","Energía","Dispositivos Médicos","Biofarmacéuticos","Comercial - Construcción","Electrónica"]
+meta_description = "Sistema de presión constante, Wilo, bombas, variador"
+meta_keywords = "Wilo, Presión constante"
 +++
+<p>Sistema de Presión Constante.</p>
+<p>HAVC, Chilers, Agua Helada, Recirculacion </p>
