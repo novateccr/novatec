@@ -6,3 +6,4 @@ theme = "novatec"
 [taxonomies]
   industria = "industrias"
   marca = "marcas"
+  familia = "familias"

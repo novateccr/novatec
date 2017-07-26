@@ -2,6 +2,7 @@
 title = "Laminados Libres de asbesto"
 id = "118"
 marcas = ["Garlock"]
+familias = ["Sellado"]
 industrias = ["Alimentos y Bebidas","Energía","Dispositivos Médicos","Industria Pesada","Biofarmacéuticos","Química","Agrícola","Ingenios","Comercial - Construcción","Electrónica"]
 meta_description = "Laminas, IFG, 9450"
 meta_keywords = "juntas "

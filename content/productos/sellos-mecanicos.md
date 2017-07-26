@@ -2,6 +2,7 @@
 title = "Sellos Mecánicos"
 id = "24"
 marcas = ["Eagleburgmann"]
+familias = ["Sellado"]
 industrias = ["Alimentos y Bebidas","Energía","Dispositivos Médicos","Industria Pesada","Biofarmacéuticos","Química","Agrícola","Ingenios"]
 meta_description = "Sellos mecanicos, componete, cartucho"
 meta_keywords = "Sellos de componete, Cartuchos, API, ANSI, Tipo 21, Fuelle, M32, MG1, M7N, H75, MG9, Cartex"

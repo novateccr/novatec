@@ -2,6 +2,7 @@
 title = "Elementos (cartuchos)"
 id = "125"
 marcas = ["Pall"]
+familias = ["Filtros"]
 industrias = ["Alimentos y Bebidas","Industria Pesada","Biofarmacéuticos","Agrícola","Ingenios"]
 meta_description = "Housing, Carcaza, Sanitario"
 meta_keywords = "Carcaza sanitaria, Housing industrial"

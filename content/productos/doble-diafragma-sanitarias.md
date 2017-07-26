@@ -2,6 +2,7 @@
 title = "Doble Diafragma - Sanitarias "
 id = "128"
 marcas = ["Graco"]
+familias = ["Bombas"]
 industrias = ["Alimentos y Bebidas","Dispositivos Médicos","Biofarmacéuticos"]
 meta_description = ""
 meta_keywords = ""

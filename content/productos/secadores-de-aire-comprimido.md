@@ -2,6 +2,7 @@
 title = "Secadores de aire comprimido"
 id = "120"
 marcas = ["Pneumatech"]
+familias = ["Redes y tratamiento de Aire Comprimido"]
 industrias = ["Alimentos y Bebidas","Dispositivos Médicos","Biofarmacéuticos","Química","Ingenios","Electrónica"]
 meta_description = "secador, refigertaivo, desecante"
 meta_keywords = ""

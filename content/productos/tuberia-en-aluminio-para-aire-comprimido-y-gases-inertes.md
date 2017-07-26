@@ -2,6 +2,7 @@
 title = "Tubería en Aluminio para Aire Comprimido y Gases Inertes"
 id = "124"
 marcas = ["Parker-Transair"]
+familias = ["Redes y tratamiento de Aire Comprimido"]
 industrias = ["Alimentos y Bebidas","Energía","Dispositivos Médicos","Industria Pesada","Biofarmacéuticos","Química","Agrícola","Ingenios","Comercial - Construcción","Electrónica"]
 meta_description = "Tubería, Aluminio, Transair, Aire comprimido, aluminum pipe"
 meta_keywords = "Tubería para aire comprimido, air pipe"

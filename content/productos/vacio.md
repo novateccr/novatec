@@ -2,6 +2,7 @@
 title = "Vacío"
 id = "117"
 marcas = ["Flowserve"]
+familias = ["Bombas"]
 industrias = ["Alimentos y Bebidas","Dispositivos Médicos","Biofarmacéuticos","Ingenios"]
 meta_description = "Bomba de Vacío"
 meta_keywords = "vacío, bomba, aire, anillo liquido"
