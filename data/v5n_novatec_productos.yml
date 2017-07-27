@@ -424,7 +424,7 @@
   checked_out: 0
   checked_out_time: "0000-00-00 00:00:00"
   created_by: 995
-  titulo: "Válvulas"
+  titulo: "Valvulas"
   descripcion: ""
   marcas: ""
   familia: 8
@@ -472,7 +472,7 @@
   checked_out: 996
   checked_out_time: "2015-10-05 17:00:22"
   created_by: 995
-  titulo: "Válvulas de bola, tapon y mariposa recubierta (Durco)"
+  titulo: "Valvulas de bola, tapon y mariposa recubierta (Durco)"
   descripcion: ""
   marcas: 7
   familia: 12
@@ -488,7 +488,7 @@
   checked_out: 0
   checked_out_time: "0000-00-00 00:00:00"
   created_by: 995
-  titulo: "Válvulas de Control de Proceso (Worcester)"
+  titulo: "Valvulas de Control de Proceso (Worcester)"
   descripcion: ""
   marcas: 7
   familia: 12
@@ -536,7 +536,7 @@
   checked_out: 0
   checked_out_time: "0000-00-00 00:00:00"
   created_by: 995
-  titulo: "Válvulas"
+  titulo: "Valvulas"
   descripcion: ""
   marcas: 16
   familia: 13
@@ -952,7 +952,7 @@
   checked_out: 0
   checked_out_time: "0000-00-00 00:00:00"
   created_by: 995
-  titulo: "Válvulas"
+  titulo: "Valvulas"
   descripcion: ""
   marcas: ""
   familia: 8
@@ -1064,7 +1064,7 @@
   checked_out: 0
   checked_out_time: "0000-00-00 00:00:00"
   created_by: 995
-  titulo: "Válvulas"
+  titulo: "Valvulas"
   descripcion: ""
   marcas: 16
   familia: 13
@@ -1496,7 +1496,7 @@
   checked_out: 0
   checked_out_time: "0000-00-00 00:00:00"
   created_by: 995
-  titulo: "Válvulas"
+  titulo: "Valvulas"
   descripcion: ""
   marcas: ""
   familia: 7
@@ -1560,7 +1560,7 @@
   checked_out: 0
   checked_out_time: "0000-00-00 00:00:00"
   created_by: 995
-  titulo: "Válvulas de Control de Proceso"
+  titulo: "Valvulas de Control de Proceso"
   descripcion: ""
   marcas: 7
   familia: 12
@@ -1608,7 +1608,7 @@
   checked_out: 0
   checked_out_time: "0000-00-00 00:00:00"
   created_by: 995
-  titulo: "Válvulas"
+  titulo: "Valvulas"
   descripcion: ""
   marcas: 16
   familia: 13
@@ -2024,7 +2024,7 @@
   checked_out: 0
   checked_out_time: "0000-00-00 00:00:00"
   created_by: 996
-  titulo: "Válvulas de Globo de disco excéntrico y bola segmentada (Valtek)"
+  titulo: "Valvulas de Globo de disco excéntrico y bola segmentada (Valtek)"
   descripcion: ""
   marcas: 7
   familia: 12
@@ -2040,14 +2040,14 @@
   checked_out: 0
   checked_out_time: "0000-00-00 00:00:00"
   created_by: 996
-  titulo: "Válvulas de globo, compuerta y check (Edward)"
+  titulo: "Valvulas de globo, compuerta y check (Edward)"
   descripcion: ""
   marcas: 7
   familia: 12
   industria: 2
   thumbnail: "ad7f29f5bb7f6ea6a452af2a1b3345ca-Edward.jpg"
   catalogo: ""
-  meta_description: "Válvulas Eduard,"
+  meta_description: "Valvulas Eduard,"
   meta_keywords: "valvular para vapor"
 -
   id: 131
@@ -2056,7 +2056,7 @@
   checked_out: 0
   checked_out_time: "0000-00-00 00:00:00"
   created_by: 996
-  titulo: "Válvulas de control sanitarias (Kammer)"
+  titulo: "Valvulas de control sanitarias (Kammer)"
   descripcion: ""
   marcas: 7
   familia: 12
@@ -2064,7 +2064,7 @@
   thumbnail: "15b8d8635217475443d3a11b1f843d9e-Kammer.jpg"
   catalogo: ""
   meta_description: "Kammer"
-  meta_keywords: "válvulas de control"
+  meta_keywords: "Valvulas de control"
 -
   id: 132
   ordering: 132
@@ -2072,7 +2072,7 @@
   checked_out: 0
   checked_out_time: "0000-00-00 00:00:00"
   created_by: 996
-  titulo: "Actuadores - Sistemas de automatizacion de válvulas (Automax)"
+  titulo: "Actuadores - Sistemas de automatizacion de Valvulas (Automax)"
   descripcion: ""
   marcas: 7
   familia: 12
@@ -2216,13 +2216,13 @@
   checked_out: 996
   checked_out_time: "2017-03-18 14:57:19"
   created_by: 996
-  titulo: "KSB - válvulas"
-  descripcion: "<p>KSB todo en válvulas</p>"
+  titulo: "KSB - Valvulas"
+  descripcion: "<p>KSB todo en Valvulas</p>"
   marcas: 8
   familia: 12
   industria: "1,2,4,6,8"
   thumbnail: "1d357facd33735e23b1ba693dbdd75b3-KSB-Valves.jpg"
   catalogo: ""
-  meta_description: "válvulas"
-  meta_keywords: "válvulas"
+  meta_description: "Valvulas"
+  meta_keywords: "Valvulas"
 ...

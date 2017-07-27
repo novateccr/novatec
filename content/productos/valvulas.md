@@ -1,5 +1,5 @@
 +++
-title = "Válvulas"
+title = "Valvulas"
 id = "96"
 marcas = []
 familias = ["Sellos Mecánicos"]

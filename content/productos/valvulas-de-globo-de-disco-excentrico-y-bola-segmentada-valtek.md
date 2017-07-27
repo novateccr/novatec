@@ -1,8 +1,8 @@
 +++
-title = "Válvulas de Globo de disco excéntrico y bola segmentada (Valtek)"
+title = "Valvulas de Globo de disco excéntrico y bola segmentada (Valtek)"
 id = "129"
 marcas = ["Flowserve"]
-familias = ["Válvulas"]
+familias = ["Valvulas"]
 industrias = ["Energía"]
 thumbnail = "images/productos/original-valvulas-de-globo-de-disco-excentrico-y-bola-segmentada-valtek.jpg"
 catalogo = "/catalogos/original-valvulas-de-globo-de-disco-excentrico-y-bola-segmentada-valtek.pdf"
