@@ -19,9 +19,3 @@ theme = "novatec"
     weight = 300
     identifier = "marcas"
     url = "/marcas/"
-
-[[menu.principal]]
-    name = "Familias"
-    weight = 500
-    identifier = "familias"
-    url = "/familias/"
