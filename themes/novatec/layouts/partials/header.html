@@ -1,11 +1,10 @@
 <header>
   <img src="some/path" alt="Logo Description" class="logo">
-  <nav>
-    <ul>
-       <li>Menu 1</li>
-       <li>Menu 2</li>
-       <li>Menu 3</li>
-     </ul>
+  <nav class="sidebar-nav">
+    {{ $currentPage := . }}
+    {{ range .Site.Menus.principal }}
+      <a class="sidebar-nav-item{{if or ($currentPage.IsMenuCurrent "principal" .) ($currentPage.HasMenuCurrent "principal" .) }} active{{end}}" href="{{.URL}}">{{ .Name }}</a>
+    {{ end }}
   </nav>
   <section role="search">
     <form action="#" method="get">
