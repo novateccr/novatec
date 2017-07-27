@@ -4,6 +4,7 @@ id = "109"
 marcas = ["Flowcrete","Belzona"]
 familias = ["Pisos y Polímeros"]
 industrias = ["Alimentos y Bebidas","Dispositivos Médicos","Química","Comercial - Construcción"]
+thumbnail = "images/productos/original-recubrimiento-de-tanques.jpg"
 meta_description = ""
 meta_keywords = ""
 +++

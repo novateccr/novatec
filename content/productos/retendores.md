@@ -1,9 +1,10 @@
 +++
 title = "Retendores"
-id = "91"
-marcas = ["Klozure"]
+id = "22"
+marcas = ["Garlock"]
 familias = ["Sellado"]
-industrias = ["Biofarmacéuticos"]
+industrias = ["Alimentos y Bebidas","Energía","Biofarmacéuticos"]
+thumbnail = "images/productos/original-retendores.jpg"
 meta_description = ""
 meta_keywords = ""
 +++

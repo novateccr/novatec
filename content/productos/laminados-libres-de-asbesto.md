@@ -4,6 +4,7 @@ id = "118"
 marcas = ["Garlock"]
 familias = ["Sellado"]
 industrias = ["Alimentos y Bebidas","Energía","Dispositivos Médicos","Industria Pesada","Biofarmacéuticos","Química","Agrícola","Ingenios","Comercial - Construcción","Electrónica"]
+thumbnail = "images/productos/original-laminados-libres-de-asbesto.jpg"
 meta_description = "Laminas, IFG, 9450"
 meta_keywords = "juntas "
 +++

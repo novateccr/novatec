@@ -4,6 +4,7 @@ id = "122"
 marcas = ["Garlock"]
 familias = ["Sellado"]
 industrias = ["Alimentos y Bebidas","Energía","Dispositivos Médicos","Industria Pesada","Biofarmacéuticos","Química","Agrícola","Ingenios","Comercial - Construcción","Electrónica"]
+thumbnail = "images/productos/original-productos-de-teflon.jpg"
 meta_description = "Cintas,Laminas,Barras,Teflon Expandido"
 meta_keywords = "Cintas Garlock, 3535, Teflon expandido"
 +++

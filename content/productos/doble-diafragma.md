@@ -4,6 +4,7 @@ id = "4"
 marcas = ["Graco"]
 familias = ["Bombas"]
 industrias = ["Alimentos y Bebidas","Energía","Industria Pesada","Biofarmacéuticos","Química","Agrícola","Ingenios"]
+thumbnail = "images/productos/original-doble-diafragma.jpg"
 meta_description = "Bombas de doble diafragma,e-husky"
 meta_keywords = "bomba, neumáticas, doble, diafragma, doble diafragma eléctrica"
 +++

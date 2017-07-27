@@ -1,9 +1,10 @@
 +++
 title = "Aceite"
-id = "79"
+id = "10"
 marcas = ["Flowserve"]
 familias = ["Bombas"]
-industrias = ["Biofarmacéuticos"]
+industrias = ["Alimentos y Bebidas","Energía","Biofarmacéuticos"]
+thumbnail = "images/productos/original-aceite.jpg"
 meta_description = ""
 meta_keywords = ""
 +++

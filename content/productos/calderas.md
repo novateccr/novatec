@@ -1,9 +1,10 @@
 +++
 title = "Calderas"
-id = "80"
+id = "11"
 marcas = ["Flowserve"]
 familias = ["Bombas"]
-industrias = ["Biofarmacéuticos"]
+industrias = ["Alimentos y Bebidas","Energía","Biofarmacéuticos"]
+thumbnail = "images/productos/original-calderas.png"
 meta_description = ""
 meta_keywords = ""
 +++

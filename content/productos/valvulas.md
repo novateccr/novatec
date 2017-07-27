@@ -1,9 +1,10 @@
 +++
 title = "Válvulas"
-id = "103"
-marcas = ["Rexroth"]
-familias = ["Hidráulica"]
+id = "96"
+marcas = []
+familias = ["Sellos Mecánicos"]
 industrias = ["Biofarmacéuticos"]
+thumbnail = "images/productos/original-valvulas"
 meta_description = ""
 meta_keywords = ""
 +++

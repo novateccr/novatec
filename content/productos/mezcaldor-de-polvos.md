@@ -4,6 +4,7 @@ id = "72"
 marcas = ["Fristam"]
 familias = ["Bombas"]
 industrias = ["Alimentos y Bebidas","Biofarmacéuticos"]
+thumbnail = "images/productos/original-mezcaldor-de-polvos.png"
 meta_description = ""
 meta_keywords = ""
 +++

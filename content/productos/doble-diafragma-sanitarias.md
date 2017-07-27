@@ -4,6 +4,7 @@ id = "128"
 marcas = ["Graco"]
 familias = ["Bombas"]
 industrias = ["Alimentos y Bebidas","Dispositivos Médicos","Biofarmacéuticos"]
+thumbnail = "images/productos/original-doble-diafragma-sanitarias.jpg"
 meta_description = ""
 meta_keywords = ""
 +++

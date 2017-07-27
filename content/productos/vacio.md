@@ -4,6 +4,7 @@ id = "117"
 marcas = ["Flowserve"]
 familias = ["Bombas"]
 industrias = ["Alimentos y Bebidas","Dispositivos Médicos","Biofarmacéuticos","Ingenios"]
+thumbnail = "images/productos/original-vacio.jpg"
 meta_description = "Bomba de Vacío"
 meta_keywords = "vacío, bomba, aire, anillo liquido"
 +++

@@ -1,12 +1,15 @@
 require 'yaml'
 require 'parameterize'
+require 'open-uri'
 
-productos = YAML.load_file('data/v5n_novatec_productos.yml')
+productos = YAML.load_file('data/v5n_novatec_productos.yml').select{|p| p['state'] > -2}
 marcas = YAML.load_file('data/v5n_novatec_marcas.yml')
 industrias = YAML.load_file('data/v5n_novatec_industrias.yml')
 familias = YAML.load_file('data/v5n_novatec_familias_productos.yml')
 
 productos.each do |product|
+
+  puts product['titulo']
 
   #Marcas
   if product['marcas'].class == String
@@ -35,6 +38,18 @@ productos.each do |product|
   familia_titles = familias.select{|familia| product_familia_ids.include? familia['id'] }.map{ |n| "\"#{n['titulo'].strip}\""}
   familias_string = "[#{familia_titles.join(",")}]"
 
+  #thumbnail
+  thumbnail_extension = product['thumbnail'].split(//).last(4).join
+  if thumbnail_extension == 'jpeg'
+    thumbnail_extension = '.jpeg'
+  end
+  thumbnail_filename = "static/images/productos/original-#{product['titulo'].parameterize}#{thumbnail_extension}"
+  thumbnail_url = "http://novatec.cr/images/productos/thumbnails/#{product['thumbnail']}"
+
+  unless product['thumbnail'] == ""
+    download = open(thumbnail_url)
+    IO.copy_stream(download, "#{thumbnail_filename}")
+  end
 
   File.open("content/productos/#{product['titulo'].parameterize}.md", "w+") do |file|
     file.write("+++\n")
@@ -43,6 +58,7 @@ productos.each do |product|
     file.write("marcas = #{marcas_string}\n")
     file.write("familias = #{familias_string}\n")
     file.write("industrias = #{industrias_string}\n")
+    file.write("thumbnail = \"images/productos/original-#{product['titulo'].parameterize}#{thumbnail_extension}\"\n")
     file.write("meta_description = \"#{product['meta_description']}\"\n")
     file.write("meta_keywords = \"#{product['meta_keywords']}\"\n")
     file.write("+++\n")

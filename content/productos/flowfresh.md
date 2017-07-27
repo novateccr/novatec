@@ -1,9 +1,10 @@
 +++
 title = "Flowfresh"
-id = "87"
+id = "18"
 marcas = ["Flowcrete"]
 familias = ["Pisos Uretanos Cementicios"]
-industrias = ["Biofarmacéuticos"]
+industrias = ["Alimentos y Bebidas","Energía","Biofarmacéuticos"]
+thumbnail = "images/productos/original-flowfresh"
 meta_description = ""
 meta_keywords = ""
 +++

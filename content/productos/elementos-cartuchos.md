@@ -4,6 +4,7 @@ id = "125"
 marcas = ["Pall"]
 familias = ["Filtros"]
 industrias = ["Alimentos y Bebidas","Industria Pesada","Biofarmacéuticos","Agrícola","Ingenios"]
+thumbnail = "images/productos/original-elementos-cartuchos.jpg"
 meta_description = "Housing, Carcaza, Sanitario"
 meta_keywords = "Carcaza sanitaria, Housing industrial"
 +++

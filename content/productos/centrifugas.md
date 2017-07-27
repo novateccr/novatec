@@ -1,9 +1,10 @@
 +++
-title = "Centrífugas"
-id = "76"
+title = "Centrifugas"
+id = "7"
 marcas = ["KSB"]
 familias = ["Bombas"]
-industrias = ["Biofarmacéuticos"]
-meta_description = ""
+industrias = ["Alimentos y Bebidas","Energía","Biofarmacéuticos"]
+thumbnail = "images/productos/original-centrifugas.jpg"
+meta_description = "bombas centrifugas"
 meta_keywords = ""
 +++
