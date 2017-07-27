@@ -8,5 +8,6 @@ thumbnail = "images/productos/original-empaques-espirometalicos-rwi-rw-sw.jpg"
 catalogo = "/catalogos/original-empaques-espirometalicos-rwi-rw-sw.pdf"
 meta_description = "RWI, RW, Espirometalicos "
 meta_keywords = ""
+weight = 134
 draft = false
 +++

@@ -8,6 +8,7 @@ thumbnail = "images/productos/original-centrifugas-sanitarias.jpg"
 catalogo = "/catalogos/original-centrifugas-sanitarias.pdf"
 meta_description = ""
 meta_keywords = ""
+weight = 1
 draft = false
 +++
 <h4>Calidad, flexibilidad e innovación</h4>

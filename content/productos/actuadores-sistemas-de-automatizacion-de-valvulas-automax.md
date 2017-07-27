@@ -8,5 +8,6 @@ thumbnail = "images/productos/original-actuadores-sistemas-de-automatizacion-de-
 catalogo = "/catalogos/original-actuadores-sistemas-de-automatizacion-de-valvulas-automax.pdf"
 meta_description = "automax"
 meta_keywords = ""
+weight = 132
 draft = false
 +++

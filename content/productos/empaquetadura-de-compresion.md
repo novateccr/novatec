@@ -8,5 +8,6 @@ thumbnail = "images/productos/original-empaquetadura-de-compresion.jpg"
 catalogo = "/catalogos/original-empaquetadura-de-compresion.pdf"
 meta_description = ""
 meta_keywords = ""
+weight = 119
 draft = false
 +++

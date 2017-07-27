@@ -8,5 +8,6 @@ thumbnail = "images/productos/original-recubrimiento-de-tanques.jpg"
 catalogo = "/catalogos/original-recubrimiento-de-tanques.pdf"
 meta_description = ""
 meta_keywords = ""
+weight = 109
 draft = false
 +++

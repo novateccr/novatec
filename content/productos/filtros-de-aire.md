@@ -8,6 +8,7 @@ thumbnail = "images/productos/original-filtros-de-aire.png"
 catalogo = "/catalogos/original-filtros-de-aire.pdf"
 meta_description = ""
 meta_keywords = ""
+weight = 13
 draft = false
 +++
 <p>Filtros para Aire Comprimido, Coalecentes, Partículas, Estéril, Trampas, Drenes...</p>

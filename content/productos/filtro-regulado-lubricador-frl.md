@@ -8,6 +8,7 @@ thumbnail = "images/productos/original-filtro-regulado-lubricador-frl.jpg"
 catalogo = "/catalogos/original-filtro-regulado-lubricador-frl.pdf"
 meta_description = ""
 meta_keywords = ""
+weight = 102
 draft = false
 +++
 <p>Filtro, Regulador, lubricador</p>

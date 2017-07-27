@@ -8,6 +8,7 @@ thumbnail = "images/productos/original-tuberia-en-aluminio-para-aire-comprimido-
 catalogo = "/catalogos/original-tuberia-en-aluminio-para-aire-comprimido-y-gases-inertes.pdf"
 meta_description = "Tubería, Aluminio, Transair, Aire comprimido, aluminum pipe"
 meta_keywords = "Tubería para aire comprimido, air pipe"
+weight = 28
 draft = false
 +++
 <h2 id="marches" style="margin: 0px 0px 0px 13px; padding: 0px; font-size: 1.4em; color: #444444; font-family: Verdana, Arial, Tahoma, Helvetica, sans-serif; line-height: normal;">La oferta de Transair</h2>

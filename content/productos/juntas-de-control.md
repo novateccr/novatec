@@ -8,5 +8,6 @@ thumbnail = "images/productos/original-juntas-de-control.jpg"
 catalogo = "/catalogos/original-juntas-de-control.pdf"
 meta_description = ""
 meta_keywords = "juntas"
+weight = 108
 draft = false
 +++

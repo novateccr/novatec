@@ -8,5 +8,6 @@ thumbnail = "images/productos/original-valvulas-de-control-de-proceso-worcester.
 catalogo = "/catalogos/original-valvulas-de-control-de-proceso-worcester.pdf"
 meta_description = ""
 meta_keywords = ""
+weight = 31
 draft = false
 +++

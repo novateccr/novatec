@@ -8,6 +8,7 @@ thumbnail = "images/productos/original-laminados-libres-de-asbesto.jpg"
 catalogo = "/catalogos/original-laminados-libres-de-asbesto.pdf"
 meta_description = "Laminas, IFG, 9450"
 meta_keywords = "juntas "
+weight = 118
 draft = false
 +++
 <p>Se ofrecen laminas y juntas cortadas... Todo de entrega inmediata.</p>

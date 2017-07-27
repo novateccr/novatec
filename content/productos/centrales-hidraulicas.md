@@ -8,5 +8,6 @@ thumbnail = "images/productos/original-centrales-hidraulicas"
 catalogo = "/catalogos/original-centrales-hidraulicas.pdf"
 meta_description = "central hidraulica"
 meta_keywords = "Central"
+weight = 69
 draft = false
 +++

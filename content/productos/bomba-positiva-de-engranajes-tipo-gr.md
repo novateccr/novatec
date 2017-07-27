@@ -8,5 +8,6 @@ thumbnail = "images/productos/original-bomba-positiva-de-engranajes-tipo-gr.jpg"
 catalogo = "/catalogos/original-bomba-positiva-de-engranajes-tipo-gr.pdf"
 meta_description = "Bomba tipo GR, positiva, Vicking"
 meta_keywords = ""
+weight = 136
 draft = false
 +++

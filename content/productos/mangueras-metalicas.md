@@ -8,5 +8,6 @@ thumbnail = "images/productos/original-mangueras-metalicas.jpg"
 catalogo = "/catalogos/original-mangueras-metalicas.pdf"
 meta_description = ""
 meta_keywords = ""
+weight = 23
 draft = false
 +++

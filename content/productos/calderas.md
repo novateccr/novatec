@@ -8,5 +8,6 @@ thumbnail = "images/productos/original-calderas.png"
 catalogo = "/catalogos/original-calderas.pdf"
 meta_description = ""
 meta_keywords = ""
+weight = 11
 draft = false
 +++

@@ -8,6 +8,7 @@ thumbnail = "images/productos/original-alfombras.jpg"
 catalogo = "/catalogos/original-alfombras.pdf"
 meta_description = "alfombras"
 meta_keywords = "Ergonomicas"
+weight = 116
 draft = false
 +++
 <p>Alfombras anti-fatiga </p>

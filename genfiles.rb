@@ -71,6 +71,7 @@ productos.each do |product|
     file.write("catalogo = \"/catalogos/original-#{product['titulo'].parameterize}.pdf\"\n")
     file.write("meta_description = \"#{product['meta_description']}\"\n")
     file.write("meta_keywords = \"#{product['meta_keywords']}\"\n")
+    file.write("weight = #{product['ordering']}\n")
     file.write("draft = false\n")
     file.write("+++\n")
     file.write(product['descripcion'])

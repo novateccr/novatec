@@ -8,5 +8,6 @@ thumbnail = "images/productos/original-valvulas-de-bola-tapon-y-mariposa-recubie
 catalogo = "/catalogos/original-valvulas-de-bola-tapon-y-mariposa-recubierta-durco.pdf"
 meta_description = ""
 meta_keywords = ""
+weight = 30
 draft = false
 +++

@@ -8,5 +8,6 @@ thumbnail = "images/productos/original-juntas-de-expansion-metalicas.jpg"
 catalogo = "/catalogos/original-juntas-de-expansion-metalicas.pdf"
 meta_description = ""
 meta_keywords = ""
+weight = 56
 draft = false
 +++

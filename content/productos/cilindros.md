@@ -8,5 +8,6 @@ thumbnail = "images/productos/original-cilindros"
 catalogo = "/catalogos/original-cilindros.pdf"
 meta_description = "Cilindro hidraulico"
 meta_keywords = "Cilindro, piston, rexroth"
+weight = 32
 draft = false
 +++

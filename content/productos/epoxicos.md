@@ -8,5 +8,6 @@ thumbnail = "images/productos/original-epoxicos.jpg"
 catalogo = "/catalogos/original-epoxicos.pdf"
 meta_description = "epoxicos"
 meta_keywords = ""
+weight = 17
 draft = false
 +++

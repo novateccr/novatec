@@ -8,5 +8,6 @@ thumbnail = "images/productos/original-aceite.jpg"
 catalogo = "/catalogos/original-aceite.pdf"
 meta_description = ""
 meta_keywords = ""
+weight = 10
 draft = false
 +++

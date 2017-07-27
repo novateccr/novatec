@@ -8,6 +8,7 @@ thumbnail = "images/productos/original-bombas-sistemas-de-presion-constante.jpg"
 catalogo = "/catalogos/original-bombas-sistemas-de-presion-constante.pdf"
 meta_description = "Sistema de presión constante, Wilo, bombas, variador"
 meta_keywords = "Wilo, Presión constante"
+weight = 139
 draft = false
 +++
 <p>Sistema de Presión Constante.</p>

@@ -8,6 +8,7 @@ thumbnail = "images/productos/original-doble-diafragma.jpg"
 catalogo = "/catalogos/original-doble-diafragma.pdf"
 meta_description = "Bombas de doble diafragma,e-husky"
 meta_keywords = "bomba, neumáticas, doble, diafragma, doble diafragma eléctrica"
+weight = 4
 draft = false
 +++
 <h1 class="producttitle" style="font-size: 22px; color: #000000; width: 620px; margin: 0px 0px 10px; padding-bottom: 5px; background-image: url('http://www.graco.com/etc/designs/graco/default/images/producttitleborder.jpg'); padding-top: 0px; font-family: Arial, Helvetica, sans-serif; line-height: normal; background-position: 0% 1.3em; background-repeat: no-repeat no-repeat;"><span class="productsubtitle" style="display: block; width: 440px; margin: 8px 15px 5px 0px; font-style: italic; font-size: 80% !important;">Bombas de doble diafragma neumáticas</span></h1>

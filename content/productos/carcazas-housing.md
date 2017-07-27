@@ -8,6 +8,7 @@ thumbnail = "images/productos/original-carcazas-housing.png"
 catalogo = "/catalogos/original-carcazas-housing.pdf"
 meta_description = ""
 meta_keywords = ""
+weight = 14
 draft = false
 +++
 <p>Carcazas, Elementos, Separación, Concentración, Purificación</p>

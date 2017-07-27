@@ -8,6 +8,7 @@ thumbnail = "images/productos/original-productos-de-teflon.jpg"
 catalogo = "/catalogos/original-productos-de-teflon.pdf"
 meta_description = "Cintas,Laminas,Barras,Teflon Expandido"
 meta_keywords = "Cintas Garlock, 3535, Teflon expandido"
+weight = 122
 draft = false
 +++
 <p>Todo en teflon:</p>

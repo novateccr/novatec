@@ -8,5 +8,6 @@ thumbnail = "images/productos/original-pall-genedisc-pcr.jpg"
 catalogo = "/catalogos/original-pall-genedisc-pcr.pdf"
 meta_description = "Genedisc, PALL, PCR"
 meta_keywords = "PCR, PALL"
+weight = 135
 draft = false
 +++

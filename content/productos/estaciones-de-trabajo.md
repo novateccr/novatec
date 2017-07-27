@@ -8,5 +8,6 @@ thumbnail = "images/productos/original-estaciones-de-trabajo.jpg"
 catalogo = "/catalogos/original-estaciones-de-trabajo.pdf"
 meta_description = ""
 meta_keywords = ""
+weight = 113
 draft = false
 +++

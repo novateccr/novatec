@@ -8,5 +8,6 @@ thumbnail = "images/productos/original-flowfresh"
 catalogo = "/catalogos/original-flowfresh.pdf"
 meta_description = ""
 meta_keywords = ""
+weight = 18
 draft = false
 +++

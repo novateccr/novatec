@@ -8,5 +8,6 @@ thumbnail = "images/productos/original-filtros-hidraulicos.jpg"
 catalogo = "/catalogos/original-filtros-hidraulicos.pdf"
 meta_description = ""
 meta_keywords = ""
+weight = 121
 draft = false
 +++

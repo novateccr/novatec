@@ -8,5 +8,6 @@ thumbnail = "images/productos/original-juntas-de-expansion-elastomericas.jpg"
 catalogo = "/catalogos/original-juntas-de-expansion-elastomericas.pdf"
 meta_description = ""
 meta_keywords = ""
+weight = 55
 draft = false
 +++

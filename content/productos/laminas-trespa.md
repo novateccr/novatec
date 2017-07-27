@@ -8,5 +8,6 @@ thumbnail = "images/productos/original-laminas-trespa.jpg"
 catalogo = "/catalogos/original-laminas-trespa.pdf"
 meta_description = "Trespa"
 meta_keywords = "Trespa, topLAB"
+weight = 123
 draft = false
 +++

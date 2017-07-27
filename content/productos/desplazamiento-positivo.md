@@ -8,6 +8,7 @@ thumbnail = "images/productos/original-desplazamiento-positivo.jpg"
 catalogo = "/catalogos/original-desplazamiento-positivo.pdf"
 meta_description = ""
 meta_keywords = ""
+weight = 2
 draft = false
 +++
 <p>FKL, FLII</p>
