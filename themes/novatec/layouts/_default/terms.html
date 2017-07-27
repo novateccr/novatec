@@ -1,3 +1,4 @@
+{{ define "main" }}
 <h1>{{ .Title }}</h1>
 <ul>
     {{ $data := .Data }} {{ range $key, $value := .Data.Terms.ByCount }}
@@ -7,3 +8,4 @@
     </li>
     {{ end }}
 </ul>
+{{ end }}
