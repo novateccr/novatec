@@ -7,3 +7,15 @@ theme = "novatec"
   industria = "industrias"
   marca = "marcas"
   familia = "familias"
+
+[[menu.principal]]
+    name = "Industrias"
+    weight = 400
+    identifier = "industrias"
+    url = "/industrias/"
+
+[[menu.principal]]
+    name = "Marcas"
+    weight = 300
+    identifier = "marcas"
+    url = "/marcas/"
