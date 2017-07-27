@@ -5,6 +5,8 @@ marcas = ["Flowserve"]
 familias = ["Bombas"]
 industrias = ["Alimentos y Bebidas","Energía","Biofarmacéuticos"]
 thumbnail = "images/productos/original-centrifugas-ansi.jpg"
+catalogo = "/catalogos/original-centrifugas-ansi.pdf"
 meta_description = ""
 meta_keywords = ""
+draft = false
 +++

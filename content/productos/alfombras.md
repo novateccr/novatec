@@ -5,7 +5,9 @@ marcas = ["Ergomat"]
 familias = ["Tecnología de Ensamble"]
 industrias = ["Alimentos y Bebidas","Dispositivos Médicos","Biofarmacéuticos","Agrícola"]
 thumbnail = "images/productos/original-alfombras.jpg"
+catalogo = "/catalogos/original-alfombras.pdf"
 meta_description = "alfombras"
 meta_keywords = "Ergonomicas"
+draft = false
 +++
 <p>Alfombras anti-fatiga </p>

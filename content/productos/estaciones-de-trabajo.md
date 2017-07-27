@@ -5,6 +5,8 @@ marcas = ["Rexroth"]
 familias = ["Tecnología de Ensamble"]
 industrias = ["Alimentos y Bebidas","Dispositivos Médicos","Biofarmacéuticos"]
 thumbnail = "images/productos/original-estaciones-de-trabajo.jpg"
+catalogo = "/catalogos/original-estaciones-de-trabajo.pdf"
 meta_description = ""
 meta_keywords = ""
+draft = false
 +++

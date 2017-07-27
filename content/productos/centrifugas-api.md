@@ -5,6 +5,8 @@ marcas = ["Flowserve"]
 familias = ["Bombas"]
 industrias = ["Energía","Industria Pesada"]
 thumbnail = "images/productos/original-centrifugas-api.jpg"
+catalogo = "/catalogos/original-centrifugas-api.pdf"
 meta_description = "API, 610"
 meta_keywords = "Bomba API"
+draft = false
 +++

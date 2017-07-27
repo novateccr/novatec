@@ -5,6 +5,8 @@ marcas = ["Flowserve"]
 familias = ["Bombas"]
 industrias = ["Energía","Industria Pesada","Ingenios"]
 thumbnail = "images/productos/original-bomba-positiva-de-engranajes-tipo-gr.jpg"
+catalogo = "/catalogos/original-bomba-positiva-de-engranajes-tipo-gr.pdf"
 meta_description = "Bomba tipo GR, positiva, Vicking"
 meta_keywords = ""
+draft = false
 +++

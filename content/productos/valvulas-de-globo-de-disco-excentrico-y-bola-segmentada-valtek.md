@@ -5,6 +5,8 @@ marcas = ["Flowserve"]
 familias = ["Válvulas"]
 industrias = ["Energía"]
 thumbnail = "images/productos/original-valvulas-de-globo-de-disco-excentrico-y-bola-segmentada-valtek.jpg"
+catalogo = "/catalogos/original-valvulas-de-globo-de-disco-excentrico-y-bola-segmentada-valtek.pdf"
 meta_description = "valtek"
 meta_keywords = "valtek"
+draft = false
 +++

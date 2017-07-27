@@ -5,6 +5,8 @@ marcas = ["Garlock"]
 familias = ["Sellado"]
 industrias = ["Alimentos y Bebidas","Energía","Biofarmacéuticos"]
 thumbnail = "images/productos/original-retendores.jpg"
+catalogo = "/catalogos/original-retendores.pdf"
 meta_description = ""
 meta_keywords = ""
+draft = false
 +++

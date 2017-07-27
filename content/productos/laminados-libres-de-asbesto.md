@@ -5,8 +5,10 @@ marcas = ["Garlock"]
 familias = ["Sellado"]
 industrias = ["Alimentos y Bebidas","Energía","Dispositivos Médicos","Industria Pesada","Biofarmacéuticos","Química","Agrícola","Ingenios","Comercial - Construcción","Electrónica"]
 thumbnail = "images/productos/original-laminados-libres-de-asbesto.jpg"
+catalogo = "/catalogos/original-laminados-libres-de-asbesto.pdf"
 meta_description = "Laminas, IFG, 9450"
 meta_keywords = "juntas "
+draft = false
 +++
 <p>Se ofrecen laminas y juntas cortadas... Todo de entrega inmediata.</p>
 <p> </p>

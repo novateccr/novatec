@@ -5,6 +5,8 @@ marcas = ["Flowserve"]
 familias = ["Válvulas"]
 industrias = ["Energía","Química","Ingenios"]
 thumbnail = "images/productos/original-valvulas-bola-tipo-trunnion-api-6d-valbart.jpg"
+catalogo = "/catalogos/original-valvulas-bola-tipo-trunnion-api-6d-valbart.pdf"
 meta_description = ""
 meta_keywords = ""
+draft = false
 +++

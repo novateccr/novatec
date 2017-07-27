@@ -5,7 +5,9 @@ marcas = ["Rexroth"]
 familias = ["Neumática"]
 industrias = ["Alimentos y Bebidas","Energía","Biofarmacéuticos"]
 thumbnail = "images/productos/original-filtro-regulado-lubricador-frl.jpg"
+catalogo = "/catalogos/original-filtro-regulado-lubricador-frl.pdf"
 meta_description = ""
 meta_keywords = ""
+draft = false
 +++
 <p>Filtro, Regulador, lubricador</p>

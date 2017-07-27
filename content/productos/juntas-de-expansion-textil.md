@@ -5,6 +5,8 @@ marcas = ["Eagleburgmann"]
 familias = ["Sellado"]
 industrias = ["Alimentos y Bebidas","Energía","Industria Pesada","Química","Ingenios"]
 thumbnail = "images/productos/original-juntas-de-expansion-textil.jpg"
+catalogo = "/catalogos/original-juntas-de-expansion-textil.pdf"
 meta_description = ""
 meta_keywords = ""
+draft = false
 +++

@@ -5,6 +5,8 @@ marcas = ["Belzona"]
 familias = ["Reparaciones"]
 industrias = ["Alimentos y Bebidas","Energía","Biofarmacéuticos"]
 thumbnail = "images/productos/original-belzona"
+catalogo = "/catalogos/original-belzona.pdf"
 meta_description = ""
 meta_keywords = ""
+draft = false
 +++

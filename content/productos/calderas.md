@@ -5,6 +5,8 @@ marcas = ["Flowserve"]
 familias = ["Bombas"]
 industrias = ["Alimentos y Bebidas","Energía","Biofarmacéuticos"]
 thumbnail = "images/productos/original-calderas.png"
+catalogo = "/catalogos/original-calderas.pdf"
 meta_description = ""
 meta_keywords = ""
+draft = false
 +++

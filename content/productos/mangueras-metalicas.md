@@ -5,6 +5,8 @@ marcas = ["Garlock","Macoga"]
 familias = ["Sellado"]
 industrias = ["Alimentos y Bebidas","Biofarmacéuticos"]
 thumbnail = "images/productos/original-mangueras-metalicas.jpg"
+catalogo = "/catalogos/original-mangueras-metalicas.pdf"
 meta_description = ""
 meta_keywords = ""
+draft = false
 +++

@@ -5,7 +5,9 @@ marcas = ["Pall"]
 familias = ["Filtros"]
 industrias = ["Alimentos y Bebidas","Energía","Biofarmacéuticos"]
 thumbnail = "images/productos/original-carcazas-housing.png"
+catalogo = "/catalogos/original-carcazas-housing.pdf"
 meta_description = ""
 meta_keywords = ""
+draft = false
 +++
 <p>Carcazas, Elementos, Separación, Concentración, Purificación</p>

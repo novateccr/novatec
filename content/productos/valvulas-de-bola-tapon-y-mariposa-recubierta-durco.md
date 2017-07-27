@@ -5,6 +5,8 @@ marcas = ["Flowserve"]
 familias = ["Válvulas"]
 industrias = ["Alimentos y Bebidas","Energía","Biofarmacéuticos","Química","Ingenios"]
 thumbnail = "images/productos/original-valvulas-de-bola-tapon-y-mariposa-recubierta-durco.jpg"
+catalogo = "/catalogos/original-valvulas-de-bola-tapon-y-mariposa-recubierta-durco.pdf"
 meta_description = ""
 meta_keywords = ""
+draft = false
 +++

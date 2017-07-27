@@ -5,6 +5,8 @@ marcas = ["Ergomat"]
 familias = ["Alfombras y Demarcación"]
 industrias = ["Biofarmacéuticos"]
 thumbnail = "images/productos/original-alfombras-ergonomicas"
+catalogo = "/catalogos/original-alfombras-ergonomicas.pdf"
 meta_description = ""
 meta_keywords = ""
+draft = false
 +++

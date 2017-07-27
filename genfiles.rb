@@ -51,6 +51,15 @@ productos.each do |product|
     IO.copy_stream(download, "#{thumbnail_filename}")
   end
 
+  #catálogo
+  catalogo_filename = "static/catalogos/original-#{product['catalogo'].parameterize}"
+  catalogo_url = "http://novatec.cr/administrator/components/com_novatec/catalogos/#{product['catalogo']}"
+
+  unless product['catalogo'] == ""
+    download = open(catalogo_url)
+    IO.copy_stream(download, "#{catalogo_filename}.pdf")
+  end
+
   File.open("content/productos/#{product['titulo'].parameterize}.md", "w+") do |file|
     file.write("+++\n")
     file.write("title = \"#{product['titulo']}\"\n")
@@ -59,8 +68,10 @@ productos.each do |product|
     file.write("familias = #{familias_string}\n")
     file.write("industrias = #{industrias_string}\n")
     file.write("thumbnail = \"images/productos/original-#{product['titulo'].parameterize}#{thumbnail_extension}\"\n")
+    file.write("catalogo = \"/catalogos/original-#{product['titulo'].parameterize}.pdf\"\n")
     file.write("meta_description = \"#{product['meta_description']}\"\n")
     file.write("meta_keywords = \"#{product['meta_keywords']}\"\n")
+    file.write("draft = false\n")
     file.write("+++\n")
     file.write(product['descripcion'])
   end

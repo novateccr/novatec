@@ -5,8 +5,10 @@ marcas = ["Fristam"]
 familias = ["Bombas"]
 industrias = ["Alimentos y Bebidas","Biofarmacéuticos"]
 thumbnail = "images/productos/original-centrifugas-sanitarias.jpg"
+catalogo = "/catalogos/original-centrifugas-sanitarias.pdf"
 meta_description = ""
 meta_keywords = ""
+draft = false
 +++
 <h4>Calidad, flexibilidad e innovación</h4>
 <p>Nuestro estímulo es la innovación: queremos asegurar que las bombas Fristam siempre sean la mejor elección para su empresa.</p>

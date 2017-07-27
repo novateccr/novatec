@@ -5,6 +5,8 @@ marcas = ["Belzona"]
 familias = ["Pisos y Polímeros"]
 industrias = ["Energía","Agrícola","Ingenios"]
 thumbnail = "images/productos/original-polimeros-para-reparacion-de-bombas.jpg"
+catalogo = "/catalogos/original-polimeros-para-reparacion-de-bombas.pdf"
 meta_description = "Belzona, 1391"
 meta_keywords = "reparation de bombas"
+draft = false
 +++

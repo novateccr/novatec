@@ -5,6 +5,8 @@ marcas = ["Pall"]
 familias = ["Filtros"]
 industrias = ["Alimentos y Bebidas","Energía","Biofarmacéuticos"]
 thumbnail = "images/productos/original-filtros-de-bolsa.png"
+catalogo = "/catalogos/original-filtros-de-bolsa.pdf"
 meta_description = ""
 meta_keywords = ""
+draft = false
 +++
