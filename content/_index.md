@@ -2,7 +2,6 @@
 title: "Inicio"
 menu:
   principal:
-    weight: 1000
-weight: 1000
+    weight: 1
 ---
 Contenido principal del index
