@@ -10,4 +10,5 @@ meta_description = "central hidraulica"
 meta_keywords = "Central"
 weight = 69
 draft = false
+taxonomyCover = false
 +++

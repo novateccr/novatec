@@ -10,4 +10,5 @@ meta_description = "automax"
 meta_keywords = ""
 weight = 132
 draft = false
+taxonomyCover = false
 +++

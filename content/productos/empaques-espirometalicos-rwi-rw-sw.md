@@ -10,4 +10,5 @@ meta_description = "RWI, RW, Espirometalicos "
 meta_keywords = ""
 weight = 134
 draft = false
+taxonomyCover = false
 +++

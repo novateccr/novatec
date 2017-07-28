@@ -10,4 +10,5 @@ meta_description = "Belzona 1111"
 meta_keywords = "1111, super metal "
 weight = 138
 draft = false
+taxonomyCover = false
 +++

@@ -10,5 +10,6 @@ meta_description = "secador, refigertaivo, desecante"
 meta_keywords = ""
 weight = 120
 draft = false
+taxonomyCover = false
 +++
 <p> Refrigerativos y Regenerativos punto de rocio a - 40 F</p>

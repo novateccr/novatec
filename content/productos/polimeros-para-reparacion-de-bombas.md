@@ -10,4 +10,5 @@ meta_description = "Belzona, 1391"
 meta_keywords = "reparation de bombas"
 weight = 137
 draft = false
+taxonomyCover = false
 +++

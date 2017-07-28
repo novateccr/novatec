@@ -10,4 +10,5 @@ meta_description = "API, 610"
 meta_keywords = "Bomba API"
 weight = 111
 draft = false
+taxonomyCover = false
 +++

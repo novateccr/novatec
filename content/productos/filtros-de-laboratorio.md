@@ -10,5 +10,6 @@ meta_description = ""
 meta_keywords = ""
 weight = 12
 draft = false
+taxonomyCover = false
 +++
 <p>Microbiologia, Quimica Analitica, Cultivo Celular, Filtracion Esteril</p>

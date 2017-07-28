@@ -10,5 +10,6 @@ meta_description = "alfombras"
 meta_keywords = "Ergonomicas"
 weight = 116
 draft = false
+taxonomyCover = false
 +++
 <p>Alfombras anti-fatiga </p>

@@ -10,4 +10,5 @@ meta_description = "Trespa"
 meta_keywords = "Trespa, topLAB"
 weight = 123
 draft = false
+taxonomyCover = false
 +++

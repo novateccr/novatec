@@ -10,4 +10,5 @@ meta_description = "Genedisc, PALL, PCR"
 meta_keywords = "PCR, PALL"
 weight = 135
 draft = false
+taxonomyCover = false
 +++

@@ -10,6 +10,7 @@ meta_description = ""
 meta_keywords = ""
 weight = 13
 draft = false
+taxonomyCover = false
 +++
 <p>Filtros para Aire Comprimido, Coalecentes, Partículas, Estéril, Trampas, Drenes...</p>
 <p>Certificaciones </p>

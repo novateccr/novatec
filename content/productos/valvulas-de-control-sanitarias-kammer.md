@@ -10,4 +10,5 @@ meta_description = "Kammer"
 meta_keywords = "Valvulas de control"
 weight = 131
 draft = false
+taxonomyCover = false
 +++

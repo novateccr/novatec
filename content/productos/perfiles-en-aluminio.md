@@ -10,4 +10,5 @@ meta_description = "perfil en aluminio"
 meta_keywords = "Perfil, Aluminio, Item, Rexroth"
 weight = 112
 draft = false
+taxonomyCover = false
 +++

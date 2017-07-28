@@ -10,5 +10,6 @@ meta_description = "Fristam, Doble tornillo, FDS"
 meta_keywords = "doble screw pump"
 weight = 140
 draft = false
+taxonomyCover = false
 +++
 <p>Bombas Sanitarias de doble tornillo</p>

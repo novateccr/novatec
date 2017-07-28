@@ -73,6 +73,7 @@ productos.each do |product|
     file.write("meta_keywords = \"#{product['meta_keywords']}\"\n")
     file.write("weight = #{product['ordering']}\n")
     file.write("draft = false\n")
+    file.write("taxonomyCover = false\n")
     file.write("+++\n")
     file.write(product['descripcion'])
   end

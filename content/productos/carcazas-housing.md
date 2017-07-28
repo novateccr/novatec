@@ -10,5 +10,6 @@ meta_description = ""
 meta_keywords = ""
 weight = 14
 draft = false
+taxonomyCover = false
 +++
 <p>Carcazas, Elementos, Separación, Concentración, Purificación</p>

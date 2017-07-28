@@ -10,6 +10,7 @@ meta_description = "Laminas, IFG, 9450"
 meta_keywords = "juntas "
 weight = 118
 draft = false
+taxonomyCover = false
 +++
 <p>Se ofrecen laminas y juntas cortadas... Todo de entrega inmediata.</p>
 <p> </p>

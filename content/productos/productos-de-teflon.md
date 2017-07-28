@@ -10,6 +10,7 @@ meta_description = "Cintas,Laminas,Barras,Teflon Expandido"
 meta_keywords = "Cintas Garlock, 3535, Teflon expandido"
 weight = 122
 draft = false
+taxonomyCover = false
 +++
 <p>Todo en teflon:</p>
 <p>- Cintas</p>

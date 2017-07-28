@@ -10,4 +10,5 @@ meta_description = "bombas centrifugas"
 meta_keywords = ""
 weight = 7
 draft = false
+taxonomyCover = false
 +++

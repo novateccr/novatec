@@ -10,6 +10,7 @@ meta_description = "Sistema de presión constante, Wilo, bombas, variador"
 meta_keywords = "Wilo, Presión constante"
 weight = 139
 draft = false
+taxonomyCover = false
 +++
 <p>Sistema de Presión Constante.</p>
 <p>HAVC, Chilers, Agua Helada, Recirculacion </p>

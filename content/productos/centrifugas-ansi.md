@@ -10,4 +10,5 @@ meta_description = ""
 meta_keywords = ""
 weight = 8
 draft = false
+taxonomyCover = false
 +++

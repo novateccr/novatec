@@ -10,4 +10,5 @@ meta_description = "valtek"
 meta_keywords = "valtek"
 weight = 129
 draft = false
+taxonomyCover = false
 +++

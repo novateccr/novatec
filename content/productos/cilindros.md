@@ -10,4 +10,5 @@ meta_description = "Cilindro hidraulico"
 meta_keywords = "Cilindro, piston, rexroth"
 weight = 32
 draft = false
+taxonomyCover = false
 +++

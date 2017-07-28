@@ -10,4 +10,5 @@ meta_description = "Valvulas Eduard,"
 meta_keywords = "valvular para vapor"
 weight = 130
 draft = false
+taxonomyCover = false
 +++

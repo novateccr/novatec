@@ -10,4 +10,5 @@ meta_description = "Bomba tipo GR, positiva, Vicking"
 meta_keywords = ""
 weight = 136
 draft = false
+taxonomyCover = false
 +++

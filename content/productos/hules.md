@@ -10,4 +10,5 @@ meta_description = "EPDM, Viton, ROJO"
 meta_keywords = ""
 weight = 20
 draft = false
+taxonomyCover = false
 +++

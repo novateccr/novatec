@@ -10,5 +10,6 @@ meta_description = ""
 meta_keywords = ""
 weight = 102
 draft = false
+taxonomyCover = false
 +++
 <p>Filtro, Regulador, lubricador</p>
