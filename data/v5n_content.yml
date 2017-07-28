@@ -1,0 +1,996 @@
+%YAML 1.1
+---
+# novatecnew.v5n_content
+-
+  id: 1
+  asset_id: 64
+  title: "Servicios"
+  alias: "servicios"
+  introtext: "<h3>Grupo A. Instalaciones mecánicas</h3>\r\n<p>Dimensionamiento, venta e instalación de tubería para aire comprimido</p>\r\n<p>Instalación de Equipos de bombeo</p>\r\n<p>Instalación de Sellos Mecánicos en sitio</p>\r\n<p>Diseño y montaje de perfiles estructurales Rexroth</p>\r\n<p> </p>\r\n<h3>Grupo B. Aplicación de epóxicos</h3>\r\n<p>Consultoría, venta y aplicación de productos Belzona</p>\r\n<p>Bombas</p>\r\n<p>Techos</p>\r\n<p>Pisos</p>\r\n<p>Tanques</p>\r\n<p>Intercambiadores de Calor</p>\r\n<p>Bandas Transportadoras</p>\r\n<p>Otros</p>\r\n<p> </p>\r\n<h3>Grupo C. Mantenimiento y ensamble de bombas y otros equipos</h3>\r\n<p>Reemplazo de piezas de desgaste o con daños (Sellos Mecánicos, anillos de desgaste, impulsores, rodamientos, ejes, camisas, volutas, caja de rodamientos, retenedores, tapas).</p>\r\n<p>Ensamble de equipos de integración como neumática, hidráulica, control, filtración, intercambiadores de calor, bombas, accesorios.</p>\r\n<p>Conversión de sistema de sellado de empaquetadura a Sello Mecánico.</p>\r\n<p> </p>\r\n<h3>Grupo D. Asesoría / Consultoría / Contratos de Mantenimiento</h3>\r\n<p>Cursos de capacitación:</p>\r\n<p>Capacitación sobre selección, instalación y operación de productos distribuidos por Novatec Industrial.</p>\r\n<p>Consultorías:</p>\r\n<p>Inspección y determinación de problemas en funcionamiento de equipos vendidos por Novatec Industrial tanto bombas como sellos mecánicos o sistemas de integración.</p>\r\n<p>Determinación de soluciones con productos Belzona (ver Grupo B), el costo estaría asociado a la venta y aplicación del producto.</p>\r\n<p>Contratos de mantenimiento:</p>\r\n<p>Equipos vendidos por Novatec Industrial.</p>\r\n<p>Reparaciones recurrentes con polímeros Belzona, por ejemplo en bandas transportadoras, elementos de desgaste o sujetos a abrasión constante, entre otros.</p>\r\n<p> </p>"
+  fulltext: ""
+  state: -2
+  catid: 8
+  created: "2015-05-15 22:22:29"
+  created_by: 995
+  created_by_alias: ""
+  modified: "2015-05-15 22:32:52"
+  modified_by: 995
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  publish_up: "2015-05-15 22:22:29"
+  publish_down: "0000-00-00 00:00:00"
+  images: "{\"image_intro\":\"\",\"float_intro\":\"\",\"image_intro_alt\":\"\",\"image_intro_caption\":\"\",\"image_fulltext\":\"\",\"float_fulltext\":\"\",\"image_fulltext_alt\":\"\",\"image_fulltext_caption\":\"\"}"
+  urls: "{\"urla\":false,\"urlatext\":\"\",\"targeta\":\"\",\"urlb\":false,\"urlbtext\":\"\",\"targetb\":\"\",\"urlc\":false,\"urlctext\":\"\",\"targetc\":\"\"}"
+  attribs: "{\"show_title\":\"\",\"link_titles\":\"\",\"show_tags\":\"\",\"show_intro\":\"\",\"info_block_position\":\"\",\"show_category\":\"\",\"link_category\":\"\",\"show_parent_category\":\"\",\"link_parent_category\":\"\",\"show_author\":\"\",\"link_author\":\"\",\"show_create_date\":\"\",\"show_modify_date\":\"\",\"show_publish_date\":\"\",\"show_item_navigation\":\"\",\"show_icons\":\"\",\"show_print_icon\":\"\",\"show_email_icon\":\"\",\"show_vote\":\"\",\"show_hits\":\"\",\"show_noauth\":\"\",\"urls_position\":\"\",\"alternative_readmore\":\"\",\"article_layout\":\"\",\"show_publishing_options\":\"\",\"show_article_options\":\"\",\"show_urls_images_backend\":\"\",\"show_urls_images_frontend\":\"\"}"
+  version: 2
+  ordering: 1
+  metakey: ""
+  metadesc: ""
+  access: 1
+  hits: 0
+  metadata: "{\"robots\":\"\",\"author\":\"\",\"rights\":\"\",\"xreference\":\"\"}"
+  featured: 0
+  language: "*"
+  xreference: ""
+-
+  id: 2
+  asset_id: 80
+  title: "Noticias de ejemplo #1"
+  alias: "noticias-de-ejemplo-1"
+  introtext: "<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.</p>"
+  fulltext: ""
+  state: -2
+  catid: 9
+  created: "2015-06-04 00:14:18"
+  created_by: 994
+  created_by_alias: ""
+  modified: "2015-06-04 00:17:47"
+  modified_by: 994
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  publish_up: "2015-06-04 00:14:18"
+  publish_down: "0000-00-00 00:00:00"
+  images: "{\"image_intro\":\"images\\/industrias\\/6e78dab4f624e11495570fb85e23a652-alimentos-bebidas.jpg\",\"float_intro\":\"\",\"image_intro_alt\":\"\",\"image_intro_caption\":\"\",\"image_fulltext\":\"images\\/industrias\\/ee59351976bdf63742a6b3672143ebd9-alimentos-bebidas.jpg\",\"float_fulltext\":\"\",\"image_fulltext_alt\":\"\",\"image_fulltext_caption\":\"\"}"
+  urls: "{\"urla\":false,\"urlatext\":\"\",\"targeta\":\"\",\"urlb\":false,\"urlbtext\":\"\",\"targetb\":\"\",\"urlc\":false,\"urlctext\":\"\",\"targetc\":\"\"}"
+  attribs: "{\"show_title\":\"\",\"link_titles\":\"\",\"show_tags\":\"\",\"show_intro\":\"\",\"info_block_position\":\"\",\"show_category\":\"\",\"link_category\":\"\",\"show_parent_category\":\"\",\"link_parent_category\":\"\",\"show_author\":\"\",\"link_author\":\"\",\"show_create_date\":\"\",\"show_modify_date\":\"\",\"show_publish_date\":\"\",\"show_item_navigation\":\"\",\"show_icons\":\"\",\"show_print_icon\":\"\",\"show_email_icon\":\"\",\"show_vote\":\"\",\"show_hits\":\"\",\"show_noauth\":\"\",\"urls_position\":\"\",\"alternative_readmore\":\"\",\"article_layout\":\"\",\"show_publishing_options\":\"\",\"show_article_options\":\"\",\"show_urls_images_backend\":\"\",\"show_urls_images_frontend\":\"\"}"
+  version: 1
+  ordering: 8
+  metakey: ""
+  metadesc: ""
+  access: 1
+  hits: 2
+  metadata: "{\"robots\":\"\",\"author\":\"\",\"rights\":\"\",\"xreference\":\"\"}"
+  featured: 0
+  language: "*"
+  xreference: ""
+-
+  id: 3
+  asset_id: 81
+  title: "Noticias de ejemplo #2"
+  alias: "noticias-de-ejemplo-2"
+  introtext: "<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.</p>"
+  fulltext: ""
+  state: -2
+  catid: 9
+  created: "2015-06-04 00:14:45"
+  created_by: 994
+  created_by_alias: ""
+  modified: "2015-06-04 00:17:47"
+  modified_by: 994
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  publish_up: "2015-06-04 00:14:45"
+  publish_down: "0000-00-00 00:00:00"
+  images: "{\"image_intro\":\"images\\/productos\\/69e2c9af31c15daaeea8d8830ac431ac-fristam-003.jpg\",\"float_intro\":\"\",\"image_intro_alt\":\"\",\"image_intro_caption\":\"\",\"image_fulltext\":\"images\\/slideshow\\/slide1.jpg\",\"float_fulltext\":\"\",\"image_fulltext_alt\":\"\",\"image_fulltext_caption\":\"\"}"
+  urls: "{\"urla\":false,\"urlatext\":\"\",\"targeta\":\"\",\"urlb\":false,\"urlbtext\":\"\",\"targetb\":\"\",\"urlc\":false,\"urlctext\":\"\",\"targetc\":\"\"}"
+  attribs: "{\"show_title\":\"\",\"link_titles\":\"\",\"show_tags\":\"\",\"show_intro\":\"\",\"info_block_position\":\"\",\"show_category\":\"\",\"link_category\":\"\",\"show_parent_category\":\"\",\"link_parent_category\":\"\",\"show_author\":\"\",\"link_author\":\"\",\"show_create_date\":\"\",\"show_modify_date\":\"\",\"show_publish_date\":\"\",\"show_item_navigation\":\"\",\"show_icons\":\"\",\"show_print_icon\":\"\",\"show_email_icon\":\"\",\"show_vote\":\"\",\"show_hits\":\"\",\"show_noauth\":\"\",\"urls_position\":\"\",\"alternative_readmore\":\"\",\"article_layout\":\"\",\"show_publishing_options\":\"\",\"show_article_options\":\"\",\"show_urls_images_backend\":\"\",\"show_urls_images_frontend\":\"\"}"
+  version: 3
+  ordering: 7
+  metakey: ""
+  metadesc: ""
+  access: 1
+  hits: 1
+  metadata: "{\"robots\":\"\",\"author\":\"\",\"rights\":\"\",\"xreference\":\"\"}"
+  featured: 0
+  language: "*"
+  xreference: ""
+-
+  id: 4
+  asset_id: 82
+  title: "Noticias de ejemplo #3"
+  alias: "noticias-de-ejemplo-3"
+  introtext: "<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.</p>"
+  fulltext: ""
+  state: -2
+  catid: 9
+  created: "2015-06-04 00:15:00"
+  created_by: 994
+  created_by_alias: ""
+  modified: "2015-06-04 00:18:58"
+  modified_by: 994
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  publish_up: "2015-06-04 00:15:00"
+  publish_down: "0000-00-00 00:00:00"
+  images: "{\"image_intro\":\"images\\/productos\\/2d2baa93f24e5a5b1ce8dec79c6c70bb-fristam-014.jpg\",\"float_intro\":\"\",\"image_intro_alt\":\"\",\"image_intro_caption\":\"\",\"image_fulltext\":\"images\\/productos\\/2d2baa93f24e5a5b1ce8dec79c6c70bb-fristam-014.jpg\",\"float_fulltext\":\"\",\"image_fulltext_alt\":\"\",\"image_fulltext_caption\":\"\"}"
+  urls: "{\"urla\":false,\"urlatext\":\"\",\"targeta\":\"\",\"urlb\":false,\"urlbtext\":\"\",\"targetb\":\"\",\"urlc\":false,\"urlctext\":\"\",\"targetc\":\"\"}"
+  attribs: "{\"show_title\":\"\",\"link_titles\":\"\",\"show_tags\":\"\",\"show_intro\":\"\",\"info_block_position\":\"\",\"show_category\":\"\",\"link_category\":\"\",\"show_parent_category\":\"\",\"link_parent_category\":\"\",\"show_author\":\"\",\"link_author\":\"\",\"show_create_date\":\"\",\"show_modify_date\":\"\",\"show_publish_date\":\"\",\"show_item_navigation\":\"\",\"show_icons\":\"\",\"show_print_icon\":\"\",\"show_email_icon\":\"\",\"show_vote\":\"\",\"show_hits\":\"\",\"show_noauth\":\"\",\"urls_position\":\"\",\"alternative_readmore\":\"\",\"article_layout\":\"\",\"show_publishing_options\":\"\",\"show_article_options\":\"\",\"show_urls_images_backend\":\"\",\"show_urls_images_frontend\":\"\"}"
+  version: 4
+  ordering: 6
+  metakey: ""
+  metadesc: ""
+  access: 1
+  hits: 2
+  metadata: "{\"robots\":\"\",\"author\":\"\",\"rights\":\"\",\"xreference\":\"\"}"
+  featured: 0
+  language: "*"
+  xreference: ""
+-
+  id: 5
+  asset_id: 83
+  title: "Noticias Fristam - Mezclador - Homogenizador"
+  alias: "noticias-de-ejemplo-4"
+  introtext: "<div id=\"content_p3_headline\" style=\"font-family: Verdana, Arial, Helvetica, sans-serif; position: relative; top: 0px; left: 0px; width: 400px; margin: 0px auto; color: #000000; line-height: normal;\">\r\n<h1 style=\"font-size: 13px; color: #868687; margin: 0px; line-height: 1.4;\">Mezclador de polvos y líquidos</h1>\r\n</div>\r\n<div id=\"content_p3_copy\" style=\"font-family: Verdana, Arial, Helvetica, sans-serif; position: relative; top: 0px; left: 0px; width: 400px; margin: 0px auto; font-size: 11px; color: #868687; line-height: 1.6; padding: 10px 0px 50px;\">\r\n<p style=\"margin: 0px;\">Basándose en la bomba Shearpump, Fristam ha desarrollado un equipo mezclador-homogenizador de polvos con líquidos, muy versátil. Esta instalación universal está diseñada para disolver/emulsionar y homogenizar ingredientes pulverulentos y líquidos, o líquidos con líquidos.<br /><br />Sobre una estructura base se ha conectado una bomba centrífuga autoaspirante con la bomba Shearpump mediante una tubular. El polvo es aspirado de una tolva de alimentación hacia el flujo de producción y es homogenizado mediante la bomba Shearpump.<br /><br />Una mesa de una altura ergonómica facilita la alimentación manual del polvo.</p>\r\n</div>"
+  fulltext: ""
+  state: -2
+  catid: 9
+  created: "2015-06-04 00:16:00"
+  created_by: 994
+  created_by_alias: ""
+  modified: "2015-08-22 16:43:07"
+  modified_by: 996
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  publish_up: "2015-06-04 00:16:00"
+  publish_down: "0000-00-00 00:00:00"
+  images: "{\"image_intro\":\"images\\/productos\\/e0038be7d09d40fa50cdd57a1753f25b-fristam-020.jpg\",\"float_intro\":\"\",\"image_intro_alt\":\"\",\"image_intro_caption\":\"\",\"image_fulltext\":\"images\\/productos\\/e0038be7d09d40fa50cdd57a1753f25b-fristam-020.jpg\",\"float_fulltext\":\"\",\"image_fulltext_alt\":\"\",\"image_fulltext_caption\":\"\"}"
+  urls: "{\"urla\":false,\"urlatext\":\"\",\"targeta\":\"\",\"urlb\":false,\"urlbtext\":\"\",\"targetb\":\"\",\"urlc\":false,\"urlctext\":\"\",\"targetc\":\"\"}"
+  attribs: "{\"show_title\":\"\",\"link_titles\":\"\",\"show_tags\":\"\",\"show_intro\":\"\",\"info_block_position\":\"\",\"show_category\":\"\",\"link_category\":\"\",\"show_parent_category\":\"\",\"link_parent_category\":\"\",\"show_author\":\"\",\"link_author\":\"\",\"show_create_date\":\"\",\"show_modify_date\":\"\",\"show_publish_date\":\"\",\"show_item_navigation\":\"\",\"show_icons\":\"\",\"show_print_icon\":\"\",\"show_email_icon\":\"\",\"show_vote\":\"\",\"show_hits\":\"\",\"show_noauth\":\"\",\"urls_position\":\"\",\"alternative_readmore\":\"\",\"article_layout\":\"\",\"show_publishing_options\":\"\",\"show_article_options\":\"\",\"show_urls_images_backend\":\"\",\"show_urls_images_frontend\":\"\"}"
+  version: 9
+  ordering: 5
+  metakey: ""
+  metadesc: ""
+  access: 1
+  hits: 3
+  metadata: "{\"robots\":\"\",\"author\":\"\",\"rights\":\"\",\"xreference\":\"\"}"
+  featured: 0
+  language: "*"
+  xreference: ""
+-
+  id: 6
+  asset_id: 88
+  title: "Noticias  - Penuamatech"
+  alias: "noticias-penuamatech"
+  introtext: ""
+  fulltext: ""
+  state: -2
+  catid: 2
+  created: "2015-08-06 22:56:41"
+  created_by: 996
+  created_by_alias: ""
+  modified: "2015-08-06 22:56:41"
+  modified_by: 0
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  publish_up: "2015-08-06 22:56:41"
+  publish_down: "0000-00-00 00:00:00"
+  images: "{\"image_intro\":\"images\\/PN.jpg\",\"float_intro\":\"\",\"image_intro_alt\":\"\",\"image_intro_caption\":\"\",\"image_fulltext\":\"\",\"float_fulltext\":\"\",\"image_fulltext_alt\":\"\",\"image_fulltext_caption\":\"\"}"
+  urls: "{\"urla\":false,\"urlatext\":\"\",\"targeta\":\"\",\"urlb\":false,\"urlbtext\":\"\",\"targetb\":\"\",\"urlc\":false,\"urlctext\":\"\",\"targetc\":\"\"}"
+  attribs: "{\"show_title\":\"\",\"link_titles\":\"\",\"show_tags\":\"\",\"show_intro\":\"\",\"info_block_position\":\"\",\"show_category\":\"\",\"link_category\":\"\",\"show_parent_category\":\"\",\"link_parent_category\":\"\",\"show_author\":\"\",\"link_author\":\"\",\"show_create_date\":\"\",\"show_modify_date\":\"\",\"show_publish_date\":\"\",\"show_item_navigation\":\"\",\"show_icons\":\"\",\"show_print_icon\":\"\",\"show_email_icon\":\"\",\"show_vote\":\"\",\"show_hits\":\"\",\"show_noauth\":\"\",\"urls_position\":\"\",\"alternative_readmore\":\"\",\"article_layout\":\"\",\"show_publishing_options\":\"\",\"show_article_options\":\"\",\"show_urls_images_backend\":\"\",\"show_urls_images_frontend\":\"\"}"
+  version: 1
+  ordering: 2
+  metakey: ""
+  metadesc: ""
+  access: 1
+  hits: 0
+  metadata: "{\"robots\":\"\",\"author\":\"\",\"rights\":\"\",\"xreference\":\"\"}"
+  featured: 0
+  language: "*"
+  xreference: ""
+-
+  id: 7
+  asset_id: 92
+  title: "Noticia de prueba"
+  alias: "noticia-de-prueba"
+  introtext: "<p>Escribir aquí un texto de introducción</p>\r\n"
+  fulltext: "\r\n<p> </p>\r\n<blockquote style=\"color: #222222; font-family: arial, sans-serif; font-size: 12.8000001907349px; line-height: normal;\">\r\n<div dir=\"ltr\">\r\n<table style=\"font-size: 12.8000001907349px; border-collapse: collapse; max-width: 600px; border: 0px; background-color: #f2f2f2;\" border=\"0\" width=\"100%\" cellspacing=\"0\" cellpadding=\"0\">\r\n<tbody>\r\n<tr>\r\n<td style=\"font-family: arial, sans-serif; margin: 0px; border-top-width: 0px; border-bottom-width: 0px; background-color: #ffffff;\" align=\"center\" valign=\"top\">\r\n<table style=\"border-collapse: collapse;\" border=\"0\" width=\"100%\" cellspacing=\"0\" cellpadding=\"0\" align=\"center\">\r\n<tbody>\r\n<tr>\r\n<td style=\"font-family: arial, sans-serif; margin: 0px;\" align=\"center\" valign=\"top\">\r\n<table style=\"border-collapse: collapse;\" border=\"0\" width=\"100%\" cellspacing=\"0\" cellpadding=\"0\">\r\n<tbody>\r\n<tr>\r\n<td style=\"font-family: arial, sans-serif; margin: 0px; padding: 9px;\" valign=\"top\">\r\n<table style=\"border-collapse: collapse;\" border=\"0\" width=\"100%\" cellspacing=\"0\" cellpadding=\"0\" align=\"left\">\r\n<tbody>\r\n<tr>\r\n<td style=\"font-family: arial, sans-serif; margin: 0px; padding: 0px 9px; text-align: center;\" valign=\"top\"><a style=\"color: #1155cc; word-wrap: break-word;\" title=\"\" href=\"http://www.novatec.cr/\" target=\"_blank\"><img class=\"CToWUd\" style=\"max-width: 500px; padding-bottom: 0px; vertical-align: bottom; border: 0px; min-height: auto; outline: none; display: inline !important;\" src=\"https://ci4.googleusercontent.com/proxy/XDedmKgyrLQXEQJvFu4lNGOuElGgotFwLftt0pJs5f5mAogqI5aUCi0UPUlyTt_9Ajn0emRzeaa0qEScKwtnWLV3YMlAihLSgW13GY0eU6NTcv8yd5zP5EA-UuAOWCZC5CYmkgwng4f1Cs6hKuz-UCoZj8G8-NG_w9TeqqwK=s0-d-e1-ft#https://gallery.mailchimp.com/0b130b6fd67c4607df913bb68/images/de7ed206-e0e5-4168-a75c-f3d72d2f2108.jpeg\" alt=\"\" width=\"500\" align=\"center\" /></a></td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<table style=\"border-collapse: collapse;\" border=\"0\" width=\"100%\" cellspacing=\"0\" cellpadding=\"0\">\r\n<tbody>\r\n<tr>\r\n<td style=\"font-family: arial, sans-serif; margin: 0px; padding: 9px;\" valign=\"top\">\r\n<table style=\"border-collapse: collapse;\" border=\"0\" width=\"100%\" cellspacing=\"0\" cellpadding=\"0\" align=\"left\">\r\n<tbody>\r\n<tr>\r\n<td style=\"font-family: arial, sans-serif; margin: 0px; padding: 0px 9px; text-align: center;\" valign=\"top\"><a style=\"color: #1155cc; word-wrap: break-word;\" title=\"\" href=\"http://www.pneumatech.com/uses/products/filters/\" target=\"_blank\"><img class=\"CToWUd\" style=\"max-width: 301px; padding-bottom: 0px; vertical-align: bottom; border: 0px; min-height: auto; outline: none; display: inline !important;\" src=\"https://ci4.googleusercontent.com/proxy/RoDLW8NAnXz77XB5cfBchY6GgSAVi19AVms4O6Ko9CYfMDVZ0pO71wwSprY6C7HBFUo9zEfwkfDdFckoOyfRgtPiH6jKE9yp4NNClX9YtV-JnCRrqk6Xs_qDTr4ugoCEEo8TxQNc1zjIfxf536Cmku9oCn_ETW8TN0Umkvk=s0-d-e1-ft#https://gallery.mailchimp.com/0b130b6fd67c4607df913bb68/images/03ad4c95-b2a3-4c3c-8abe-50a39306f9b6.gif\" alt=\"\" width=\"301\" align=\"center\" /></a></td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td style=\"font-family: arial, sans-serif; margin: 0px; border-top-width: 0px; border-bottom-width: 0px; background-color: #ffffff;\" align=\"center\" valign=\"top\">\r\n<table style=\"border-collapse: collapse;\" border=\"0\" width=\"100%\" cellspacing=\"0\" cellpadding=\"0\">\r\n<tbody>\r\n<tr>\r\n<td style=\"font-family: arial, sans-serif; margin: 0px;\" valign=\"top\"> </td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td style=\"font-family: arial, sans-serif; margin: 0px; border-top-width: 0px; border-bottom-width: 0px; background-color: #ffffff;\" align=\"center\" valign=\"top\">\r\n<table style=\"border-collapse: collapse;\" border=\"0\" width=\"100%\" cellspacing=\"0\" cellpadding=\"0\" align=\"center\">\r\n<tbody>\r\n<tr>\r\n<td style=\"font-family: arial, sans-serif; margin: 0px; text-align: center; display: inline-block;\" align=\"center\" valign=\"top\">\r\n<div style=\"display: inline-block; vertical-align: top; width: 197px;\">\r\n<table style=\"border-collapse: collapse; max-width: 197px;\" border=\"0\" width=\"100%\" cellspacing=\"0\" cellpadding=\"0\" align=\"left\">\r\n<tbody>\r\n<tr>\r\n<td style=\"font-family: arial, sans-serif; margin: 0px;\" valign=\"top\">\r\n<table style=\"border-collapse: collapse;\" border=\"0\" width=\"100%\" cellspacing=\"0\" cellpadding=\"0\">\r\n<tbody>\r\n<tr>\r\n<td style=\"font-family: arial, sans-serif; margin: 0px; padding: 9px;\" valign=\"top\">\r\n<table style=\"border-collapse: collapse;\" border=\"0\" width=\"false\" cellspacing=\"0\" cellpadding=\"0\" align=\"left\">\r\n<tbody>\r\n<tr>\r\n<td style=\"font-family: Helvetica; margin: 0px; padding: 0px 9px; color: #606060; font-size: 15px; line-height: 22.5px;\" valign=\"top\" width=\"161\"><strong>Filtro para aire comprimido o gases</strong></td>\r\n</tr>\r\n<tr>\r\n<td style=\"font-family: arial, sans-serif; margin: 0px; padding: 9px 9px 0px;\" align=\"center\" valign=\"top\"><a style=\"color: #1155cc; word-wrap: break-word;\" title=\"\" href=\"http://www.novatec.cr/\" target=\"_blank\"><img class=\"CToWUd\" style=\"max-width: 216px; border: 0px; min-height: auto; outline: none; vertical-align: bottom;\" src=\"https://ci3.googleusercontent.com/proxy/NzL52kSq5Lw4Ps7yzk6xflrlPWyLhIDDtWk9C8ZAiG_fzofHRE8jr4yf835xhyALVG-x48b409oHuKVjezHygk9HEpEhnwwO8o4u-TSCUgcXFuRWADU7jsiV_ATm1iZOuDkwcrzWq41ZYwL_CCqOCdU6MPfWHVhqW_63oKQ=s0-d-e1-ft#https://gallery.mailchimp.com/0b130b6fd67c4607df913bb68/images/ae441877-565e-465c-bcb6-27f8662d2d03.png\" alt=\"\" width=\"161\" /></a></td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n</div>\r\n \r\n<div style=\"display: inline-block; vertical-align: top; width: 197px;\">\r\n<table style=\"border-collapse: collapse; max-width: 197px;\" border=\"0\" width=\"100%\" cellspacing=\"0\" cellpadding=\"0\" align=\"left\">\r\n<tbody>\r\n<tr>\r\n<td style=\"font-family: arial, sans-serif; margin: 0px;\" valign=\"top\">\r\n<table style=\"border-collapse: collapse;\" border=\"0\" width=\"100%\" cellspacing=\"0\" cellpadding=\"0\">\r\n<tbody>\r\n<tr>\r\n<td style=\"font-family: arial, sans-serif; margin: 0px; padding: 9px;\" valign=\"top\">\r\n<table style=\"border-collapse: collapse;\" border=\"0\" width=\"false\" cellspacing=\"0\" cellpadding=\"0\" align=\"left\">\r\n<tbody>\r\n<tr>\r\n<td style=\"font-family: arial, sans-serif; margin: 0px; padding: 0px 9px 9px;\" align=\"left\" valign=\"top\"><a style=\"color: #1155cc; word-wrap: break-word;\" title=\"\" href=\"http://www.novatec.cr/\" target=\"_blank\"><img class=\"CToWUd\" style=\"max-width: 172px; border: 0px; min-height: auto; outline: none; vertical-align: bottom;\" src=\"https://ci4.googleusercontent.com/proxy/B9NhUIiBANyw51VcI1SwDWRRho3lRA16rdTtDJ4pFqRHNuYdCxYvBVl3RAwK9JqFaYeOnRAk3-KBgGxHASoryjlnLscLaXdI2gNG4uHbVSmL253JC67yT1wpALzOAFjeZg2EcVL2OCEvwXg_rQOYmopMajjWX3xTZ2puyhI=s0-d-e1-ft#https://gallery.mailchimp.com/0b130b6fd67c4607df913bb68/images/6541737d-b3ef-4bab-841d-5c85dfbeb76f.jpg\" alt=\"\" width=\"161\" /></a></td>\r\n</tr>\r\n<tr>\r\n<td style=\"font-family: Helvetica; margin: 0px; padding: 0px 9px; color: #606060; font-size: 15px; line-height: 22.5px;\" valign=\"top\" width=\"161\"> </td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n</div>\r\n \r\n<div style=\"display: inline-block; vertical-align: top; width: 197px;\">\r\n<table style=\"border-collapse: collapse; max-width: 197px;\" border=\"0\" width=\"100%\" cellspacing=\"0\" cellpadding=\"0\" align=\"left\">\r\n<tbody>\r\n<tr>\r\n<td style=\"font-family: arial, sans-serif; margin: 0px;\" align=\"center\" valign=\"top\">\r\n<table style=\"border-collapse: collapse;\" border=\"0\" width=\"100%\" cellspacing=\"0\" cellpadding=\"0\">\r\n<tbody>\r\n<tr>\r\n<td style=\"font-family: arial, sans-serif; margin: 0px; padding: 9px;\" valign=\"top\">\r\n<table style=\"border-collapse: collapse;\" border=\"0\" width=\"false\" cellspacing=\"0\" cellpadding=\"0\" align=\"left\">\r\n<tbody>\r\n<tr>\r\n<td style=\"font-family: arial, sans-serif; margin: 0px; padding: 0px 9px 9px;\" align=\"left\" valign=\"top\"><a style=\"color: #1155cc; word-wrap: break-word;\" title=\"\" href=\"http://www.novatec.cr/\" target=\"_blank\"><img class=\"CToWUd\" style=\"max-width: 203px; border: 0px; min-height: auto; outline: none; vertical-align: bottom;\" src=\"https://ci4.googleusercontent.com/proxy/yhmaA64GkhIVACa742vDo_0rMS1fD6Cnz57ZsKaCBSxodDJPljflV6EuRu0srXTpao-aTRyiLLYCRp2KJKRKZeBtJvLMdQ0CIShkPnt90vtdUGmLbpcQecrceuEpbGEQnk7kUZ_mGCGgawMtV9dXMb74YedkikOwQG6-K-4=s0-d-e1-ft#https://gallery.mailchimp.com/0b130b6fd67c4607df913bb68/images/df674ea6-1bb6-4b76-9eaa-dfe077622a6f.jpg\" alt=\"\" width=\"161\" /></a></td>\r\n</tr>\r\n<tr>\r\n<td style=\"font-family: Helvetica; margin: 0px; padding: 0px 9px; color: #606060; font-size: 15px; line-height: 22.5px;\" valign=\"top\" width=\"161\"> </td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n</div>\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td style=\"font-family: arial, sans-serif; margin: 0px; border-top-width: 0px; border-bottom-width: 0px; background-color: #ffffff;\" align=\"center\" valign=\"top\">\r\n<table style=\"border-collapse: collapse;\" border=\"0\" width=\"100%\" cellspacing=\"0\" cellpadding=\"0\" align=\"center\">\r\n<tbody>\r\n<tr>\r\n<td style=\"font-family: arial, sans-serif; margin: 0px;\" align=\"center\" valign=\"top\">\r\n<table style=\"border-collapse: collapse; max-width: 298px;\" border=\"0\" width=\"50%\" cellspacing=\"0\" cellpadding=\"0\" align=\"left\">\r\n<tbody>\r\n<tr>\r\n<td style=\"font-family: arial, sans-serif; margin: 0px;\" valign=\"top\">\r\n<table style=\"border-collapse: collapse;\" border=\"0\" width=\"100%\" cellspacing=\"0\" cellpadding=\"0\">\r\n<tbody>\r\n<tr>\r\n<td style=\"font-family: arial, sans-serif; margin: 0px; padding: 9px;\" valign=\"top\">\r\n<table style=\"border-collapse: collapse;\" border=\"0\" width=\"false\" cellspacing=\"0\" cellpadding=\"0\" align=\"left\">\r\n<tbody>\r\n<tr>\r\n<td style=\"font-family: arial, sans-serif; margin: 0px; padding: 0px 9px 9px;\" align=\"left\" valign=\"top\"><a style=\"color: #1155cc; word-wrap: break-word;\" title=\"\" href=\"http://www.novatec.cr/\" target=\"_blank\"><img class=\"CToWUd\" style=\"max-width: 216px; border: 0px; min-height: auto; outline: none; vertical-align: bottom;\" src=\"https://ci5.googleusercontent.com/proxy/rliUF8oIjNUU_LpJxTYdlVa9ukQbylFAvGTgdnaNrx5G8Z5QVaDclU8cxYyYrnAbjTSbi6gaTnZvxEGulr77j_kqN0R_1YjCg3lednuwU2fBc5YoD6N83NKbGy18HwXuS0zQNXlcKN6gfkNWZa12rZvSzGBPsnNwyq_9xB4=s0-d-e1-ft#https://gallery.mailchimp.com/0b130b6fd67c4607df913bb68/images/51625161-63db-486c-924d-271e96c30d42.png\" alt=\"\" width=\"216\" /></a></td>\r\n</tr>\r\n<tr>\r\n<td style=\"font-family: Helvetica; margin: 0px; padding: 0px 9px; color: #606060; font-size: 15px; line-height: 22.5px;\" valign=\"top\" width=\"262\"> </td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<table style=\"border-collapse: collapse; max-width: 298px;\" border=\"0\" width=\"50%\" cellspacing=\"0\" cellpadding=\"0\" align=\"left\">\r\n<tbody>\r\n<tr>\r\n<td style=\"font-family: arial, sans-serif; margin: 0px;\" valign=\"top\">\r\n<table style=\"border-collapse: collapse;\" border=\"0\" width=\"100%\" cellspacing=\"0\" cellpadding=\"0\">\r\n<tbody>\r\n<tr>\r\n<td style=\"font-family: arial, sans-serif; margin: 0px; padding: 9px;\" valign=\"top\">\r\n<table style=\"border-collapse: collapse;\" border=\"0\" width=\"false\" cellspacing=\"0\" cellpadding=\"0\" align=\"left\">\r\n<tbody>\r\n<tr>\r\n<td style=\"font-family: arial, sans-serif; margin: 0px; padding: 0px 9px 9px;\" align=\"left\" valign=\"top\"><a style=\"color: #1155cc; word-wrap: break-word;\" title=\"\" href=\"http://www.novatec.cr/\" target=\"_blank\"><img class=\"CToWUd\" style=\"max-width: 216px; border: 0px; min-height: auto; outline: none; vertical-align: bottom;\" src=\"https://ci4.googleusercontent.com/proxy/XLCzsTqVBqLOXgCYb0ILaR67DhlDPHrOrqnn15rTjFFCCkPT25eNzc--86LH2xAEFDpgX76WB4Ad7gg1kR0hZBRpwjWMiOkjOJuyTg-uOugGkomTEdHCl8dmeeRlaJb136aMF-sMDBJXwGanc_9oWrPJ1iZfo6oTzvgiZB8=s0-d-e1-ft#https://gallery.mailchimp.com/0b130b6fd67c4607df913bb68/images/ba608785-5f3e-478c-b627-d03e92b75022.png\" alt=\"\" width=\"216\" /></a></td>\r\n</tr>\r\n<tr>\r\n<td style=\"font-family: Helvetica; margin: 0px; padding: 0px 9px; color: #606060; font-size: 15px; line-height: 22.5px;\" valign=\"top\" width=\"262\"><strong>Secadores de aire:<br />- Refrigerativos<br />- Desecantes</strong></td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td style=\"font-family: arial, sans-serif; margin: 0px; border-top-width: 0px; border-bottom-width: 0px; background-color: #ffffff;\" align=\"center\" valign=\"top\">\r\n<table style=\"border-collapse: collapse;\" border=\"0\" width=\"100%\" cellspacing=\"0\" cellpadding=\"0\">\r\n<tbody>\r\n<tr>\r\n<td style=\"font-family: arial, sans-serif; margin: 0px;\" valign=\"top\">\r\n<table style=\"border-collapse: collapse;\" border=\"0\" width=\"100%\" cellspacing=\"0\" cellpadding=\"0\">\r\n<tbody>\r\n<tr>\r\n<td style=\"font-family: arial, sans-serif; margin: 0px;\" valign=\"top\">\r\n<table style=\"border-collapse: collapse;\" border=\"0\" width=\"600\" cellspacing=\"0\" cellpadding=\"0\" align=\"left\">\r\n<tbody>\r\n<tr>\r\n<td style=\"font-family: Helvetica; margin: 0px; padding: 9px 18px; color: #606060; line-height: 13.75px; text-align: center;\" valign=\"top\"> </td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<table style=\"border-collapse: collapse;\" border=\"0\" width=\"100%\" cellspacing=\"0\" cellpadding=\"0\">\r\n<tbody>\r\n<tr>\r\n<td style=\"font-family: arial, sans-serif; margin: 0px;\" valign=\"top\">\r\n<table style=\"border-collapse: collapse;\" border=\"0\" width=\"600\" cellspacing=\"0\" cellpadding=\"0\" align=\"left\">\r\n<tbody>\r\n<tr>\r\n<td style=\"font-family: Helvetica; margin: 0px; padding: 9px 18px; color: #606060; line-height: 13.75px; text-align: center;\" valign=\"top\">\r\n<h4 dir=\"rtl\" style=\"text-align: right; margin: 0px; padding: 0px; font-size: 15px; line-height: 18.75px; color: #808080 !important;\"><img class=\"CToWUd a6T\" style=\"cursor: pointer; outline: none 0px; width: 437px; min-height: 248px; margin: 0px; float: right; border: 0px;\" tabindex=\"0\" src=\"https://ci3.googleusercontent.com/proxy/0L9wuEgT6-zSUgXAa5AeFITp-3sG98jDwnRNy_zxey79e4sV5OMA0pIIvcbdi0Ihc0unYy_EGyU4FfKSmjTiOZeaDHA5laLxuKIokV5pDbeJfHNu2GAYLnhjXBh6Pbu9AC5fAWZroqvHjeeql2p4r4iv7MGLNxN38KpPCnI=s0-d-e1-ft#https://gallery.mailchimp.com/0b130b6fd67c4607df913bb68/images/6daf3d26-7a5a-4584-a8f7-516969819f13.png\" alt=\"\" width=\"437\" height=\"248\" align=\"none\" /></h4>\r\n<h4 dir=\"ltr\" style=\"margin: 0px; padding: 0px; font-size: 15px; line-height: 18.75px; color: #808080 !important;\"> </h4>\r\n<div dir=\"ltr\"><br /><br /><strong style=\"line-height: 20.7999992370605px;\"><span style=\"font-family: arial, 'helvetica neue', helvetica, sans-serif;\">Bombas</span></strong></div>\r\n<div style=\"line-height: 20.7999992370605px;\"><strong><span style=\"font-family: arial, 'helvetica neue', helvetica, sans-serif;\">Pisos<br />F</span></strong></div>\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n</div>\r\n</blockquote>"
+  state: -2
+  catid: 9
+  created: "2015-08-26 22:47:42"
+  created_by: 994
+  created_by_alias: ""
+  modified: "2015-08-26 22:57:13"
+  modified_by: 994
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  publish_up: "2015-08-26 22:47:42"
+  publish_down: "0000-00-00 00:00:00"
+  images: "{\"image_intro\":\"\",\"float_intro\":\"\",\"image_intro_alt\":\"\",\"image_intro_caption\":\"\",\"image_fulltext\":\"\",\"float_fulltext\":\"\",\"image_fulltext_alt\":\"\",\"image_fulltext_caption\":\"\"}"
+  urls: "{\"urla\":false,\"urlatext\":\"\",\"targeta\":\"\",\"urlb\":false,\"urlbtext\":\"\",\"targetb\":\"\",\"urlc\":false,\"urlctext\":\"\",\"targetc\":\"\"}"
+  attribs: "{\"show_title\":\"\",\"link_titles\":\"\",\"show_tags\":\"\",\"show_intro\":\"\",\"info_block_position\":\"\",\"show_category\":\"\",\"link_category\":\"\",\"show_parent_category\":\"\",\"link_parent_category\":\"\",\"show_author\":\"\",\"link_author\":\"\",\"show_create_date\":\"\",\"show_modify_date\":\"\",\"show_publish_date\":\"\",\"show_item_navigation\":\"\",\"show_icons\":\"\",\"show_print_icon\":\"\",\"show_email_icon\":\"\",\"show_vote\":\"\",\"show_hits\":\"\",\"show_noauth\":\"\",\"urls_position\":\"\",\"alternative_readmore\":\"\",\"article_layout\":\"\",\"show_publishing_options\":\"\",\"show_article_options\":\"\",\"show_urls_images_backend\":\"\",\"show_urls_images_frontend\":\"\"}"
+  version: 3
+  ordering: 4
+  metakey: ""
+  metadesc: ""
+  access: 1
+  hits: 4
+  metadata: "{\"robots\":\"\",\"author\":\"\",\"rights\":\"\",\"xreference\":\"\"}"
+  featured: 0
+  language: "*"
+  xreference: ""
+-
+  id: 8
+  asset_id: 93
+  title: "Novatec - news - Pnuematech"
+  alias: "novatec-news-pnuematech"
+  introtext: "<p><img src=\"images/News.png\" alt=\"\" />Conultenos...</p>\r\n<p> </p>"
+  fulltext: ""
+  state: -2
+  catid: 9
+  created: "2015-08-26 22:53:08"
+  created_by: 996
+  created_by_alias: ""
+  modified: "2015-08-26 23:01:25"
+  modified_by: 996
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  publish_up: "2015-08-26 22:53:08"
+  publish_down: "0000-00-00 00:00:00"
+  images: "{\"image_intro\":\"\",\"float_intro\":\"\",\"image_intro_alt\":\"\",\"image_intro_caption\":\"\",\"image_fulltext\":\"\",\"float_fulltext\":\"\",\"image_fulltext_alt\":\"\",\"image_fulltext_caption\":\"\"}"
+  urls: "{\"urla\":false,\"urlatext\":\"\",\"targeta\":\"\",\"urlb\":false,\"urlbtext\":\"\",\"targetb\":\"\",\"urlc\":false,\"urlctext\":\"\",\"targetc\":\"\"}"
+  attribs: "{\"show_title\":\"\",\"link_titles\":\"\",\"show_tags\":\"\",\"show_intro\":\"\",\"info_block_position\":\"\",\"show_category\":\"\",\"link_category\":\"\",\"show_parent_category\":\"\",\"link_parent_category\":\"\",\"show_author\":\"\",\"link_author\":\"\",\"show_create_date\":\"\",\"show_modify_date\":\"\",\"show_publish_date\":\"\",\"show_item_navigation\":\"\",\"show_icons\":\"\",\"show_print_icon\":\"\",\"show_email_icon\":\"\",\"show_vote\":\"\",\"show_hits\":\"\",\"show_noauth\":\"\",\"urls_position\":\"\",\"alternative_readmore\":\"\",\"article_layout\":\"\",\"show_publishing_options\":\"\",\"show_article_options\":\"\",\"show_urls_images_backend\":\"\",\"show_urls_images_frontend\":\"\"}"
+  version: 2
+  ordering: 3
+  metakey: ""
+  metadesc: ""
+  access: 1
+  hits: 2
+  metadata: "{\"robots\":\"\",\"author\":\"\",\"rights\":\"\",\"xreference\":\"\"}"
+  featured: 0
+  language: "*"
+  xreference: ""
+-
+  id: 9
+  asset_id: 94
+  title: "Prueba 2"
+  alias: "prueba-2"
+  introtext: "<p>Hola <img src=\"images/PN.jpg\" alt=\"\" /></p>\r\n"
+  fulltext: "\r\n<p><img src=\"images/industrias/6e78dab4f624e11495570fb85e23a652-alimentos-bebidas.jpg\" alt=\"\" /></p>"
+  state: -2
+  catid: 9
+  created: "2015-08-26 23:05:27"
+  created_by: 996
+  created_by_alias: ""
+  modified: "2015-08-26 23:05:27"
+  modified_by: 0
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  publish_up: "2015-08-26 23:05:27"
+  publish_down: "0000-00-00 00:00:00"
+  images: "{\"image_intro\":\"\",\"float_intro\":\"\",\"image_intro_alt\":\"\",\"image_intro_caption\":\"\",\"image_fulltext\":\"\",\"float_fulltext\":\"\",\"image_fulltext_alt\":\"\",\"image_fulltext_caption\":\"\"}"
+  urls: "{\"urla\":false,\"urlatext\":\"\",\"targeta\":\"\",\"urlb\":false,\"urlbtext\":\"\",\"targetb\":\"\",\"urlc\":false,\"urlctext\":\"\",\"targetc\":\"\"}"
+  attribs: "{\"show_title\":\"\",\"link_titles\":\"\",\"show_tags\":\"\",\"show_intro\":\"\",\"info_block_position\":\"\",\"show_category\":\"\",\"link_category\":\"\",\"show_parent_category\":\"\",\"link_parent_category\":\"\",\"show_author\":\"\",\"link_author\":\"\",\"show_create_date\":\"\",\"show_modify_date\":\"\",\"show_publish_date\":\"\",\"show_item_navigation\":\"\",\"show_icons\":\"\",\"show_print_icon\":\"\",\"show_email_icon\":\"\",\"show_vote\":\"\",\"show_hits\":\"\",\"show_noauth\":\"\",\"urls_position\":\"\",\"alternative_readmore\":\"\",\"article_layout\":\"\",\"show_publishing_options\":\"\",\"show_article_options\":\"\",\"show_urls_images_backend\":\"\",\"show_urls_images_frontend\":\"\"}"
+  version: 1
+  ordering: 2
+  metakey: ""
+  metadesc: ""
+  access: 1
+  hits: 3
+  metadata: "{\"robots\":\"\",\"author\":\"\",\"rights\":\"\",\"xreference\":\"\"}"
+  featured: 0
+  language: "*"
+  xreference: ""
+-
+  id: 10
+  asset_id: 96
+  title: "Quiénes Somos"
+  alias: "quienes-somos"
+  introtext: ""
+  fulltext: ""
+  state: -2
+  catid: 8
+  created: "2015-08-27 00:46:48"
+  created_by: 994
+  created_by_alias: ""
+  modified: "2015-08-27 00:46:48"
+  modified_by: 0
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  publish_up: "2015-08-27 00:46:48"
+  publish_down: "0000-00-00 00:00:00"
+  images: "{\"image_intro\":\"\",\"float_intro\":\"\",\"image_intro_alt\":\"\",\"image_intro_caption\":\"\",\"image_fulltext\":\"\",\"float_fulltext\":\"\",\"image_fulltext_alt\":\"\",\"image_fulltext_caption\":\"\"}"
+  urls: "{\"urla\":false,\"urlatext\":\"\",\"targeta\":\"\",\"urlb\":false,\"urlbtext\":\"\",\"targetb\":\"\",\"urlc\":false,\"urlctext\":\"\",\"targetc\":\"\"}"
+  attribs: "{\"show_title\":\"\",\"link_titles\":\"\",\"show_tags\":\"\",\"show_intro\":\"\",\"info_block_position\":\"\",\"show_category\":\"\",\"link_category\":\"\",\"show_parent_category\":\"\",\"link_parent_category\":\"\",\"show_author\":\"\",\"link_author\":\"\",\"show_create_date\":\"\",\"show_modify_date\":\"\",\"show_publish_date\":\"\",\"show_item_navigation\":\"\",\"show_icons\":\"\",\"show_print_icon\":\"\",\"show_email_icon\":\"\",\"show_vote\":\"\",\"show_hits\":\"\",\"show_noauth\":\"\",\"urls_position\":\"\",\"alternative_readmore\":\"\",\"article_layout\":\"\",\"show_publishing_options\":\"\",\"show_article_options\":\"\",\"show_urls_images_backend\":\"\",\"show_urls_images_frontend\":\"\"}"
+  version: 1
+  ordering: 0
+  metakey: ""
+  metadesc: ""
+  access: 1
+  hits: 6
+  metadata: "{\"robots\":\"\",\"author\":\"\",\"rights\":\"\",\"xreference\":\"\"}"
+  featured: 0
+  language: "*"
+  xreference: ""
+-
+  id: 11
+  asset_id: 106
+  title: "Belzona - recubrimiento de pilotes"
+  alias: "bombas-huskey-e-series"
+  introtext: "<p>Belzona </p>"
+  fulltext: ""
+  state: -2
+  catid: 9
+  created: "2015-09-05 02:55:04"
+  created_by: 996
+  created_by_alias: ""
+  modified: "2015-09-08 22:03:49"
+  modified_by: 996
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  publish_up: "2015-09-05 02:55:04"
+  publish_down: "0000-00-00 00:00:00"
+  images: "{\"image_intro\":\"images\\/noticias\\/belzona.jpg\",\"float_intro\":\"\",\"image_intro_alt\":\"\",\"image_intro_caption\":\"\",\"image_fulltext\":\"\",\"float_fulltext\":\"\",\"image_fulltext_alt\":\"\",\"image_fulltext_caption\":\"\"}"
+  urls: "{\"urla\":false,\"urlatext\":\"\",\"targeta\":\"\",\"urlb\":false,\"urlbtext\":\"\",\"targetb\":\"\",\"urlc\":false,\"urlctext\":\"\",\"targetc\":\"\"}"
+  attribs: "{\"show_title\":\"\",\"link_titles\":\"\",\"show_tags\":\"\",\"show_intro\":\"\",\"info_block_position\":\"\",\"show_category\":\"\",\"link_category\":\"\",\"show_parent_category\":\"\",\"link_parent_category\":\"\",\"show_author\":\"\",\"link_author\":\"\",\"show_create_date\":\"\",\"show_modify_date\":\"\",\"show_publish_date\":\"\",\"show_item_navigation\":\"\",\"show_icons\":\"\",\"show_print_icon\":\"\",\"show_email_icon\":\"\",\"show_vote\":\"\",\"show_hits\":\"\",\"show_noauth\":\"\",\"urls_position\":\"\",\"alternative_readmore\":\"\",\"article_layout\":\"\",\"show_publishing_options\":\"\",\"show_article_options\":\"\",\"show_urls_images_backend\":\"\",\"show_urls_images_frontend\":\"\"}"
+  version: 2
+  ordering: 1
+  metakey: ""
+  metadesc: ""
+  access: 1
+  hits: 2
+  metadata: "{\"robots\":\"\",\"author\":\"\",\"rights\":\"\",\"xreference\":\"\"}"
+  featured: 0
+  language: "*"
+  xreference: ""
+-
+  id: 12
+  asset_id: 108
+  title: "Servicio Técnico"
+  alias: "servicio-tecnico"
+  introtext: "<p>Contamos con experiencia, personal especializado en el servicio de reparaciones, reconstrucciones, contratos de mantenimiento e instalaciones...</p>\r\n<p>Nuestra unidad de servicio le apoya en diversas areas:</p>\r\n<p>{loadposition servicio_tecnico}</p>"
+  fulltext: ""
+  state: 1
+  catid: 2
+  created: "2015-09-11 13:45:49"
+  created_by: 994
+  created_by_alias: ""
+  modified: "2015-09-11 13:45:49"
+  modified_by: 0
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  publish_up: "2015-09-11 13:45:49"
+  publish_down: "0000-00-00 00:00:00"
+  images: "{\"image_intro\":\"\",\"float_intro\":\"\",\"image_intro_alt\":\"\",\"image_intro_caption\":\"\",\"image_fulltext\":\"\",\"float_fulltext\":\"\",\"image_fulltext_alt\":\"\",\"image_fulltext_caption\":\"\"}"
+  urls: "{\"urla\":false,\"urlatext\":\"\",\"targeta\":\"\",\"urlb\":false,\"urlbtext\":\"\",\"targetb\":\"\",\"urlc\":false,\"urlctext\":\"\",\"targetc\":\"\"}"
+  attribs: "{\"show_title\":\"\",\"link_titles\":\"\",\"show_tags\":\"\",\"show_intro\":\"\",\"info_block_position\":\"\",\"show_category\":\"\",\"link_category\":\"\",\"show_parent_category\":\"\",\"link_parent_category\":\"\",\"show_author\":\"\",\"link_author\":\"\",\"show_create_date\":\"\",\"show_modify_date\":\"\",\"show_publish_date\":\"\",\"show_item_navigation\":\"\",\"show_icons\":\"\",\"show_print_icon\":\"\",\"show_email_icon\":\"\",\"show_vote\":\"\",\"show_hits\":\"\",\"show_noauth\":\"\",\"urls_position\":\"\",\"alternative_readmore\":\"\",\"article_layout\":\"\",\"show_publishing_options\":\"\",\"show_article_options\":\"\",\"show_urls_images_backend\":\"\",\"show_urls_images_frontend\":\"\"}"
+  version: 1
+  ordering: 2
+  metakey: ""
+  metadesc: ""
+  access: 1
+  hits: 4055
+  metadata: "{\"robots\":\"\",\"author\":\"\",\"rights\":\"\",\"xreference\":\"\"}"
+  featured: 0
+  language: "*"
+  xreference: ""
+-
+  id: 13
+  asset_id: 110
+  title: "Servicio de aplicación de Polímeros  - Pisos, tanques, techos, etc."
+  alias: "servcio-de-aplicacion-de-polimeros-pisos-tanques-techos-etc"
+  introtext: "<p>{gallery}servicios/aplicacion-de-polimeros{/gallery}</p>"
+  fulltext: ""
+  state: -2
+  catid: 11
+  created: "2015-09-11 17:29:54"
+  created_by: 994
+  created_by_alias: ""
+  modified: "2015-09-11 17:35:24"
+  modified_by: 994
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  publish_up: "2015-09-11 17:29:54"
+  publish_down: "0000-00-00 00:00:00"
+  images: "{\"image_intro\":\"\",\"float_intro\":\"\",\"image_intro_alt\":\"\",\"image_intro_caption\":\"\",\"image_fulltext\":\"\",\"float_fulltext\":\"\",\"image_fulltext_alt\":\"\",\"image_fulltext_caption\":\"\"}"
+  urls: "{\"urla\":false,\"urlatext\":\"\",\"targeta\":\"\",\"urlb\":false,\"urlbtext\":\"\",\"targetb\":\"\",\"urlc\":false,\"urlctext\":\"\",\"targetc\":\"\"}"
+  attribs: "{\"show_title\":\"\",\"link_titles\":\"\",\"show_tags\":\"\",\"show_intro\":\"\",\"info_block_position\":\"\",\"show_category\":\"\",\"link_category\":\"\",\"show_parent_category\":\"\",\"link_parent_category\":\"\",\"show_author\":\"\",\"link_author\":\"\",\"show_create_date\":\"\",\"show_modify_date\":\"\",\"show_publish_date\":\"\",\"show_item_navigation\":\"\",\"show_icons\":\"\",\"show_print_icon\":\"\",\"show_email_icon\":\"\",\"show_vote\":\"\",\"show_hits\":\"\",\"show_noauth\":\"\",\"urls_position\":\"\",\"alternative_readmore\":\"\",\"article_layout\":\"\",\"show_publishing_options\":\"\",\"show_article_options\":\"\",\"show_urls_images_backend\":\"\",\"show_urls_images_frontend\":\"\"}"
+  version: 6
+  ordering: 8
+  metakey: ""
+  metadesc: ""
+  access: 1
+  hits: 0
+  metadata: "{\"robots\":\"\",\"author\":\"\",\"rights\":\"\",\"xreference\":\"\"}"
+  featured: 0
+  language: "*"
+  xreference: ""
+-
+  id: 14
+  asset_id: 112
+  title: "Reparación de Equipos o Estructuras con Polímeros"
+  alias: "reparacion-de-equipos-o-estructuras-con-polimeros"
+  introtext: "<p><a title=\"Belzona\" href=\"http://www.belzona.com/\" target=\"_blank\">Belzona</a></p>"
+  fulltext: ""
+  state: -2
+  catid: 11
+  created: "2015-09-11 17:29:54"
+  created_by: 994
+  created_by_alias: ""
+  modified: "2015-09-11 17:37:22"
+  modified_by: 994
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  publish_up: "2015-09-11 17:29:54"
+  publish_down: "0000-00-00 00:00:00"
+  images: "{\"image_intro\":\"\",\"float_intro\":\"\",\"image_intro_alt\":\"\",\"image_intro_caption\":\"\",\"image_fulltext\":\"\",\"float_fulltext\":\"\",\"image_fulltext_alt\":\"\",\"image_fulltext_caption\":\"\"}"
+  urls: "{\"urla\":false,\"urlatext\":\"\",\"targeta\":\"\",\"urlb\":false,\"urlbtext\":\"\",\"targetb\":\"\",\"urlc\":false,\"urlctext\":\"\",\"targetc\":\"\"}"
+  attribs: "{\"show_title\":\"\",\"link_titles\":\"\",\"show_tags\":\"\",\"show_intro\":\"\",\"info_block_position\":\"\",\"show_category\":\"\",\"link_category\":\"\",\"show_parent_category\":\"\",\"link_parent_category\":\"\",\"show_author\":\"\",\"link_author\":\"\",\"show_create_date\":\"\",\"show_modify_date\":\"\",\"show_publish_date\":\"\",\"show_item_navigation\":\"\",\"show_icons\":\"\",\"show_print_icon\":\"\",\"show_email_icon\":\"\",\"show_vote\":\"\",\"show_hits\":\"\",\"show_noauth\":\"\",\"urls_position\":\"\",\"alternative_readmore\":\"\",\"article_layout\":\"\",\"show_publishing_options\":\"\",\"show_article_options\":\"\",\"show_urls_images_backend\":\"\",\"show_urls_images_frontend\":\"\"}"
+  version: 2
+  ordering: 7
+  metakey: ""
+  metadesc: ""
+  access: 1
+  hits: 0
+  metadata: "{\"robots\":\"\",\"author\":\"\",\"rights\":\"\",\"xreference\":\"\"}"
+  featured: 0
+  language: "*"
+  xreference: ""
+-
+  id: 15
+  asset_id: 113
+  title: "Bombas"
+  alias: "bombas"
+  introtext: "<p>{gallery}servicios/bombas{/gallery}</p>"
+  fulltext: ""
+  state: -2
+  catid: 11
+  created: "2015-09-11 17:29:54"
+  created_by: 994
+  created_by_alias: ""
+  modified: "2015-09-11 17:38:16"
+  modified_by: 994
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  publish_up: "2015-09-11 17:29:54"
+  publish_down: "0000-00-00 00:00:00"
+  images: "{\"image_intro\":\"\",\"float_intro\":\"\",\"image_intro_alt\":\"\",\"image_intro_caption\":\"\",\"image_fulltext\":\"\",\"float_fulltext\":\"\",\"image_fulltext_alt\":\"\",\"image_fulltext_caption\":\"\"}"
+  urls: "{\"urla\":false,\"urlatext\":\"\",\"targeta\":\"\",\"urlb\":false,\"urlbtext\":\"\",\"targetb\":\"\",\"urlc\":false,\"urlctext\":\"\",\"targetc\":\"\"}"
+  attribs: "{\"show_title\":\"\",\"link_titles\":\"\",\"show_tags\":\"\",\"show_intro\":\"\",\"info_block_position\":\"\",\"show_category\":\"\",\"link_category\":\"\",\"show_parent_category\":\"\",\"link_parent_category\":\"\",\"show_author\":\"\",\"link_author\":\"\",\"show_create_date\":\"\",\"show_modify_date\":\"\",\"show_publish_date\":\"\",\"show_item_navigation\":\"\",\"show_icons\":\"\",\"show_print_icon\":\"\",\"show_email_icon\":\"\",\"show_vote\":\"\",\"show_hits\":\"\",\"show_noauth\":\"\",\"urls_position\":\"\",\"alternative_readmore\":\"\",\"article_layout\":\"\",\"show_publishing_options\":\"\",\"show_article_options\":\"\",\"show_urls_images_backend\":\"\",\"show_urls_images_frontend\":\"\"}"
+  version: 2
+  ordering: 6
+  metakey: ""
+  metadesc: ""
+  access: 1
+  hits: 0
+  metadata: "{\"robots\":\"\",\"author\":\"\",\"rights\":\"\",\"xreference\":\"\"}"
+  featured: 0
+  language: "*"
+  xreference: ""
+-
+  id: 16
+  asset_id: 114
+  title: "Instalación de redes de aire comprimido"
+  alias: "instalacion-de-redes-de-aire-comprimido"
+  introtext: "<p>{gallery}servicios/aire-comprimido{/gallery}</p>"
+  fulltext: ""
+  state: 1
+  catid: 11
+  created: "2015-09-11 17:29:54"
+  created_by: 994
+  created_by_alias: ""
+  modified: "2015-09-11 17:39:13"
+  modified_by: 994
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  publish_up: "2015-09-11 17:29:54"
+  publish_down: "0000-00-00 00:00:00"
+  images: "{\"image_intro\":\"\",\"float_intro\":\"\",\"image_intro_alt\":\"\",\"image_intro_caption\":\"\",\"image_fulltext\":\"\",\"float_fulltext\":\"\",\"image_fulltext_alt\":\"\",\"image_fulltext_caption\":\"\"}"
+  urls: "{\"urla\":false,\"urlatext\":\"\",\"targeta\":\"\",\"urlb\":false,\"urlbtext\":\"\",\"targetb\":\"\",\"urlc\":false,\"urlctext\":\"\",\"targetc\":\"\"}"
+  attribs: "{\"show_title\":\"\",\"link_titles\":\"\",\"show_tags\":\"\",\"show_intro\":\"\",\"info_block_position\":\"\",\"show_category\":\"\",\"link_category\":\"\",\"show_parent_category\":\"\",\"link_parent_category\":\"\",\"show_author\":\"\",\"link_author\":\"\",\"show_create_date\":\"\",\"show_modify_date\":\"\",\"show_publish_date\":\"\",\"show_item_navigation\":\"\",\"show_icons\":\"\",\"show_print_icon\":\"\",\"show_email_icon\":\"\",\"show_vote\":\"\",\"show_hits\":\"\",\"show_noauth\":\"\",\"urls_position\":\"\",\"alternative_readmore\":\"\",\"article_layout\":\"\",\"show_publishing_options\":\"\",\"show_article_options\":\"\",\"show_urls_images_backend\":\"\",\"show_urls_images_frontend\":\"\"}"
+  version: 2
+  ordering: 5
+  metakey: ""
+  metadesc: ""
+  access: 1
+  hits: 0
+  metadata: "{\"robots\":\"\",\"author\":\"\",\"rights\":\"\",\"xreference\":\"\"}"
+  featured: 0
+  language: "*"
+  xreference: ""
+-
+  id: 17
+  asset_id: 115
+  title: "Reparación de Bombas"
+  alias: "reparacion-de-bombas"
+  introtext: "<p>{gallery}servicios/reparacion-bombas{/gallery}</p>"
+  fulltext: ""
+  state: 1
+  catid: 11
+  created: "2015-09-11 17:29:54"
+  created_by: 994
+  created_by_alias: ""
+  modified: "2015-09-11 17:39:53"
+  modified_by: 994
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  publish_up: "2015-09-11 17:29:54"
+  publish_down: "0000-00-00 00:00:00"
+  images: "{\"image_intro\":\"\",\"float_intro\":\"\",\"image_intro_alt\":\"\",\"image_intro_caption\":\"\",\"image_fulltext\":\"\",\"float_fulltext\":\"\",\"image_fulltext_alt\":\"\",\"image_fulltext_caption\":\"\"}"
+  urls: "{\"urla\":false,\"urlatext\":\"\",\"targeta\":\"\",\"urlb\":false,\"urlbtext\":\"\",\"targetb\":\"\",\"urlc\":false,\"urlctext\":\"\",\"targetc\":\"\"}"
+  attribs: "{\"show_title\":\"\",\"link_titles\":\"\",\"show_tags\":\"\",\"show_intro\":\"\",\"info_block_position\":\"\",\"show_category\":\"\",\"link_category\":\"\",\"show_parent_category\":\"\",\"link_parent_category\":\"\",\"show_author\":\"\",\"link_author\":\"\",\"show_create_date\":\"\",\"show_modify_date\":\"\",\"show_publish_date\":\"\",\"show_item_navigation\":\"\",\"show_icons\":\"\",\"show_print_icon\":\"\",\"show_email_icon\":\"\",\"show_vote\":\"\",\"show_hits\":\"\",\"show_noauth\":\"\",\"urls_position\":\"\",\"alternative_readmore\":\"\",\"article_layout\":\"\",\"show_publishing_options\":\"\",\"show_article_options\":\"\",\"show_urls_images_backend\":\"\",\"show_urls_images_frontend\":\"\"}"
+  version: 2
+  ordering: 4
+  metakey: ""
+  metadesc: ""
+  access: 1
+  hits: 2
+  metadata: "{\"robots\":\"\",\"author\":\"\",\"rights\":\"\",\"xreference\":\"\"}"
+  featured: 0
+  language: "*"
+  xreference: ""
+-
+  id: 18
+  asset_id: 116
+  title: "Fabricación e instalación de juntas de expansión "
+  alias: "fabricacion-e-instalacion-de-juntas-de-expansion"
+  introtext: "<p>{gallery}servicios/juntas-de-expansion{/gallery}</p>"
+  fulltext: ""
+  state: 1
+  catid: 11
+  created: "2015-09-11 17:29:54"
+  created_by: 994
+  created_by_alias: ""
+  modified: "2015-09-11 17:41:12"
+  modified_by: 994
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  publish_up: "2015-09-11 17:29:54"
+  publish_down: "0000-00-00 00:00:00"
+  images: "{\"image_intro\":\"\",\"float_intro\":\"\",\"image_intro_alt\":\"\",\"image_intro_caption\":\"\",\"image_fulltext\":\"\",\"float_fulltext\":\"\",\"image_fulltext_alt\":\"\",\"image_fulltext_caption\":\"\"}"
+  urls: "{\"urla\":false,\"urlatext\":\"\",\"targeta\":\"\",\"urlb\":false,\"urlbtext\":\"\",\"targetb\":\"\",\"urlc\":false,\"urlctext\":\"\",\"targetc\":\"\"}"
+  attribs: "{\"show_title\":\"\",\"link_titles\":\"\",\"show_tags\":\"\",\"show_intro\":\"\",\"info_block_position\":\"\",\"show_category\":\"\",\"link_category\":\"\",\"show_parent_category\":\"\",\"link_parent_category\":\"\",\"show_author\":\"\",\"link_author\":\"\",\"show_create_date\":\"\",\"show_modify_date\":\"\",\"show_publish_date\":\"\",\"show_item_navigation\":\"\",\"show_icons\":\"\",\"show_print_icon\":\"\",\"show_email_icon\":\"\",\"show_vote\":\"\",\"show_hits\":\"\",\"show_noauth\":\"\",\"urls_position\":\"\",\"alternative_readmore\":\"\",\"article_layout\":\"\",\"show_publishing_options\":\"\",\"show_article_options\":\"\",\"show_urls_images_backend\":\"\",\"show_urls_images_frontend\":\"\"}"
+  version: 2
+  ordering: 3
+  metakey: ""
+  metadesc: ""
+  access: 1
+  hits: 2
+  metadata: "{\"robots\":\"\",\"author\":\"\",\"rights\":\"\",\"xreference\":\"\"}"
+  featured: 0
+  language: "*"
+  xreference: ""
+-
+  id: 19
+  asset_id: 117
+  title: "Fabricación de Estaciones de Trabajo en Perfil de Aluminio"
+  alias: "fabricacion-de-estaciones-de-trabajo-en-perfil-de-aluminio"
+  introtext: "<p>{gallery}servicios/perfil-de-aluminio{/gallery}</p>"
+  fulltext: ""
+  state: 1
+  catid: 11
+  created: "2015-09-11 17:29:54"
+  created_by: 994
+  created_by_alias: ""
+  modified: "2015-09-11 17:42:09"
+  modified_by: 994
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  publish_up: "2015-09-11 17:29:54"
+  publish_down: "0000-00-00 00:00:00"
+  images: "{\"image_intro\":\"\",\"float_intro\":\"\",\"image_intro_alt\":\"\",\"image_intro_caption\":\"\",\"image_fulltext\":\"\",\"float_fulltext\":\"\",\"image_fulltext_alt\":\"\",\"image_fulltext_caption\":\"\"}"
+  urls: "{\"urla\":false,\"urlatext\":\"\",\"targeta\":\"\",\"urlb\":false,\"urlbtext\":\"\",\"targetb\":\"\",\"urlc\":false,\"urlctext\":\"\",\"targetc\":\"\"}"
+  attribs: "{\"show_title\":\"\",\"link_titles\":\"\",\"show_tags\":\"\",\"show_intro\":\"\",\"info_block_position\":\"\",\"show_category\":\"\",\"link_category\":\"\",\"show_parent_category\":\"\",\"link_parent_category\":\"\",\"show_author\":\"\",\"link_author\":\"\",\"show_create_date\":\"\",\"show_modify_date\":\"\",\"show_publish_date\":\"\",\"show_item_navigation\":\"\",\"show_icons\":\"\",\"show_print_icon\":\"\",\"show_email_icon\":\"\",\"show_vote\":\"\",\"show_hits\":\"\",\"show_noauth\":\"\",\"urls_position\":\"\",\"alternative_readmore\":\"\",\"article_layout\":\"\",\"show_publishing_options\":\"\",\"show_article_options\":\"\",\"show_urls_images_backend\":\"\",\"show_urls_images_frontend\":\"\"}"
+  version: 2
+  ordering: 2
+  metakey: ""
+  metadesc: ""
+  access: 1
+  hits: 2
+  metadata: "{\"robots\":\"\",\"author\":\"\",\"rights\":\"\",\"xreference\":\"\"}"
+  featured: 0
+  language: "*"
+  xreference: ""
+-
+  id: 20
+  asset_id: 118
+  title: "Confección de Juntas Cortadas"
+  alias: "confeccion-de-juntas-cortadas"
+  introtext: "<p>{gallery}servicios/juntas-cortadas{/gallery}</p>"
+  fulltext: ""
+  state: 1
+  catid: 11
+  created: "2015-09-11 17:29:54"
+  created_by: 994
+  created_by_alias: ""
+  modified: "2015-09-11 17:43:01"
+  modified_by: 994
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  publish_up: "2015-09-11 17:29:54"
+  publish_down: "0000-00-00 00:00:00"
+  images: "{\"image_intro\":\"\",\"float_intro\":\"\",\"image_intro_alt\":\"\",\"image_intro_caption\":\"\",\"image_fulltext\":\"\",\"float_fulltext\":\"\",\"image_fulltext_alt\":\"\",\"image_fulltext_caption\":\"\"}"
+  urls: "{\"urla\":false,\"urlatext\":\"\",\"targeta\":\"\",\"urlb\":false,\"urlbtext\":\"\",\"targetb\":\"\",\"urlc\":false,\"urlctext\":\"\",\"targetc\":\"\"}"
+  attribs: "{\"show_title\":\"\",\"link_titles\":\"\",\"show_tags\":\"\",\"show_intro\":\"\",\"info_block_position\":\"\",\"show_category\":\"\",\"link_category\":\"\",\"show_parent_category\":\"\",\"link_parent_category\":\"\",\"show_author\":\"\",\"link_author\":\"\",\"show_create_date\":\"\",\"show_modify_date\":\"\",\"show_publish_date\":\"\",\"show_item_navigation\":\"\",\"show_icons\":\"\",\"show_print_icon\":\"\",\"show_email_icon\":\"\",\"show_vote\":\"\",\"show_hits\":\"\",\"show_noauth\":\"\",\"urls_position\":\"\",\"alternative_readmore\":\"\",\"article_layout\":\"\",\"show_publishing_options\":\"\",\"show_article_options\":\"\",\"show_urls_images_backend\":\"\",\"show_urls_images_frontend\":\"\"}"
+  version: 2
+  ordering: 1
+  metakey: ""
+  metadesc: ""
+  access: 1
+  hits: 3
+  metadata: "{\"robots\":\"\",\"author\":\"\",\"rights\":\"\",\"xreference\":\"\"}"
+  featured: 0
+  language: "*"
+  xreference: ""
+-
+  id: 21
+  asset_id: 119
+  title: "Ensayos de Filtrabilidad  y Purifación de Aceites"
+  alias: "ensayos-de-filtrabilidad-y-purifacion-de-aceites"
+  introtext: "<p>{gallery}servicios/filtrabilidad-y-purificacion-aceites{/gallery}</p>\r\n<p> </p>\r\n<p>Prueba </p>"
+  fulltext: ""
+  state: 1
+  catid: 11
+  created: "2015-09-11 17:29:54"
+  created_by: 994
+  created_by_alias: ""
+  modified: "2015-09-23 23:58:19"
+  modified_by: 996
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  publish_up: "2015-09-11 17:29:54"
+  publish_down: "0000-00-00 00:00:00"
+  images: "{\"image_intro\":\"\",\"float_intro\":\"\",\"image_intro_alt\":\"\",\"image_intro_caption\":\"\",\"image_fulltext\":\"\",\"float_fulltext\":\"\",\"image_fulltext_alt\":\"\",\"image_fulltext_caption\":\"\"}"
+  urls: "{\"urla\":false,\"urlatext\":\"\",\"targeta\":\"\",\"urlb\":false,\"urlbtext\":\"\",\"targetb\":\"\",\"urlc\":false,\"urlctext\":\"\",\"targetc\":\"\"}"
+  attribs: "{\"show_title\":\"\",\"link_titles\":\"\",\"show_tags\":\"\",\"show_intro\":\"\",\"info_block_position\":\"\",\"show_category\":\"\",\"link_category\":\"\",\"show_parent_category\":\"\",\"link_parent_category\":\"\",\"show_author\":\"\",\"link_author\":\"\",\"show_create_date\":\"\",\"show_modify_date\":\"\",\"show_publish_date\":\"\",\"show_item_navigation\":\"\",\"show_icons\":\"\",\"show_print_icon\":\"\",\"show_email_icon\":\"\",\"show_vote\":\"\",\"show_hits\":\"\",\"show_noauth\":\"\",\"urls_position\":\"\",\"alternative_readmore\":\"\",\"article_layout\":\"\",\"show_publishing_options\":\"\",\"show_article_options\":\"\",\"show_urls_images_backend\":\"\",\"show_urls_images_frontend\":\"\"}"
+  version: 5
+  ordering: 0
+  metakey: ""
+  metadesc: ""
+  access: 1
+  hits: 0
+  metadata: "{\"robots\":\"\",\"author\":\"\",\"rights\":\"\",\"xreference\":\"\"}"
+  featured: 0
+  language: "*"
+  xreference: ""
+-
+  id: 22
+  asset_id: 125
+  title: "PALL - filtros que cumplen con regulaciones alimenticias"
+  alias: "pall-filtros-que-cumplen-con-regulaciones-alimenticias"
+  introtext: "<p>Para mas información puede visitar la pagina WEB:</p>\r\n<hr class=\"system-pagebreak\" />\r\n<p> </p>\r\n<p>Para mas información visite:</p>\r\n<p><a title=\"http://www.pall.com/main/food-and-beverage/food-contact-compliance-safety.page\" href=\"http://www.pall.com/main/food-and-beverage/food-contact-compliance-safety.page\" target=\"_blank\">http://www.pall.com/main/food-and-beverage/food-contact-compliance-safety.page</a></p>"
+  fulltext: ""
+  state: 0
+  catid: 9
+  created: "2015-09-15 13:51:45"
+  created_by: 996
+  created_by_alias: ""
+  modified: "2015-10-17 02:34:51"
+  modified_by: 996
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  publish_up: "2015-09-15 13:51:45"
+  publish_down: "0000-00-00 00:00:00"
+  images: "{\"image_intro\":\"images\\/noticias\\/Code-W.png\",\"float_intro\":\"\",\"image_intro_alt\":\"\",\"image_intro_caption\":\"\",\"image_fulltext\":\"\",\"float_fulltext\":\"\",\"image_fulltext_alt\":\"\",\"image_fulltext_caption\":\"\"}"
+  urls: "{\"urla\":false,\"urlatext\":\"\",\"targeta\":\"\",\"urlb\":false,\"urlbtext\":\"\",\"targetb\":\"\",\"urlc\":false,\"urlctext\":\"\",\"targetc\":\"\"}"
+  attribs: "{\"show_title\":\"\",\"link_titles\":\"\",\"show_tags\":\"\",\"show_intro\":\"\",\"info_block_position\":\"\",\"show_category\":\"\",\"link_category\":\"\",\"show_parent_category\":\"\",\"link_parent_category\":\"\",\"show_author\":\"\",\"link_author\":\"\",\"show_create_date\":\"\",\"show_modify_date\":\"\",\"show_publish_date\":\"\",\"show_item_navigation\":\"\",\"show_icons\":\"\",\"show_print_icon\":\"\",\"show_email_icon\":\"\",\"show_vote\":\"\",\"show_hits\":\"\",\"show_noauth\":\"\",\"urls_position\":\"\",\"alternative_readmore\":\"\",\"article_layout\":\"\",\"show_publishing_options\":\"\",\"show_article_options\":\"\",\"show_urls_images_backend\":\"\",\"show_urls_images_frontend\":\"\"}"
+  version: 6
+  ordering: 9
+  metakey: ""
+  metadesc: ""
+  access: 1
+  hits: 55
+  metadata: "{\"robots\":\"\",\"author\":\"\",\"rights\":\"\",\"xreference\":\"\"}"
+  featured: 0
+  language: "*"
+  xreference: ""
+-
+  id: 23
+  asset_id: 127
+  title: "Quienes Somos"
+  alias: "quienes-somos"
+  introtext: "<p>Desde sus inicios en el año 2000, Novatec Industrial se ha especializado en el manejo y sellado de fluidos para la industria, donde hoy somos líderes. Ofrecer productos de la más alta calidad, un buen servicio y mantener clientes satisfechos son nuestra razón de ser. </p>\r\n<h3>Nuestra Misión</h3>\r\n<p>Ofrecemos <strong>Soluciones</strong> para el manejo y sellado de fluidos a través de un <strong>equipo de expertos</strong> ofreciendo productos de <strong>alta tecnología</strong>, servicios de alta <strong>calidad</strong> y representando marcas <strong>líderes</strong>.</p>\r\n<h3><strong>Nuestra Visión</strong>:</h3>\r\n<p>Lideres en soluciones de manejo y sellado...</p>\r\n<h3>Nuestras áreas de especialización:</h3>\r\n<ul>\r\n<li>Manejo de fluidos</li>\r\n<li>Bombas industriales (KSB yGraco)</li>\r\n<li>Bombas sanitarias (Fristam y Graco)</li>\r\n<li>Filtros y sistemas de filtración (Pall, Filterite, SeitzShenk)</li>\r\n<li>Soluciones para aire comprimido (Transair y Pneumatech)</li>\r\n<li>Todo en neumática e hidráulica (Bosch-Rexroth)</li>\r\n</ul>\r\n<p> </p>\r\n<h3>Sellado de fluidos</h3>\r\n<ul>\r\n<li>Laminado, empaque de compresión, Orings, hules (Garlock)</li>\r\n<li>Sellos hidráulicos (MFP)</li>\r\n<li>Sellos mecánicos (Burgmann)</li>\r\n<li>Juntas de expansión (Garlock, KE-Burgmann)</li>\r\n<li>Empaques para calderas y hornos (Unifrax)</li>\r\n<li>Polímeros para la industria (Belzona)</li>\r\n</ul>\r\n<p> </p>\r\n<h3>Otros</h3>\r\n<ul>\r\n<li>Soluciones en pisos epóxicos (Polyspec Thiokol)</li>\r\n<li>Soluciones en herramientas para dispositivos médicos (Aven Tools)</li>\r\n<li>Soluciones en ergonomía y demarcación (Ergomat)</li>\r\n<li>En el año 2005 nació Novatec Servicios con el fin de ofrecerle a la industria en general un servicio especializado en el impartimiento de seminarios de capacitación, aplicación de materiales, reparación de equipos y un servicio 24/7…</li>\r\n</ul>"
+  fulltext: ""
+  state: 1
+  catid: 2
+  created: "2015-09-24 00:31:19"
+  created_by: 994
+  created_by_alias: ""
+  modified: "2015-09-24 00:38:51"
+  modified_by: 994
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  publish_up: "2015-09-24 00:31:19"
+  publish_down: "0000-00-00 00:00:00"
+  images: "{\"image_intro\":\"\",\"float_intro\":\"\",\"image_intro_alt\":\"\",\"image_intro_caption\":\"\",\"image_fulltext\":\"\",\"float_fulltext\":\"\",\"image_fulltext_alt\":\"\",\"image_fulltext_caption\":\"\"}"
+  urls: "{\"urla\":false,\"urlatext\":\"\",\"targeta\":\"\",\"urlb\":false,\"urlbtext\":\"\",\"targetb\":\"\",\"urlc\":false,\"urlctext\":\"\",\"targetc\":\"\"}"
+  attribs: "{\"show_title\":\"\",\"link_titles\":\"\",\"show_tags\":\"\",\"show_intro\":\"\",\"info_block_position\":\"\",\"show_category\":\"\",\"link_category\":\"\",\"show_parent_category\":\"\",\"link_parent_category\":\"\",\"show_author\":\"\",\"link_author\":\"\",\"show_create_date\":\"\",\"show_modify_date\":\"\",\"show_publish_date\":\"\",\"show_item_navigation\":\"\",\"show_icons\":\"\",\"show_print_icon\":\"\",\"show_email_icon\":\"\",\"show_vote\":\"\",\"show_hits\":\"\",\"show_noauth\":\"\",\"urls_position\":\"\",\"alternative_readmore\":\"\",\"article_layout\":\"\",\"show_publishing_options\":\"\",\"show_article_options\":\"\",\"show_urls_images_backend\":\"\",\"show_urls_images_frontend\":\"\"}"
+  version: 3
+  ordering: 1
+  metakey: ""
+  metadesc: ""
+  access: 1
+  hits: 19
+  metadata: "{\"robots\":\"\",\"author\":\"\",\"rights\":\"\",\"xreference\":\"\"}"
+  featured: 0
+  language: "*"
+  xreference: ""
+-
+  id: 24
+  asset_id: 128
+  title: "Bombas GRACO - Doble diafragma eléctricas "
+  alias: "bombas-graco-doble-diafragmas-electricas"
+  introtext: "<p>Bombas GRACO 1050 - Doble diafragma eléctricas </p>\r\n"
+  fulltext: "\r\n<p>Bombas de 1\" hasta 50 GPM, con motor electrico, 120 V o 240 V....</p>\r\n<p> </p>\r\n<p> </p>\r\n<p> </p>\r\n<p> </p>\r\n<p> </p>\r\n<p> </p>"
+  state: 0
+  catid: 9
+  created: "2015-09-24 00:45:37"
+  created_by: 996
+  created_by_alias: ""
+  modified: "2015-11-06 03:52:07"
+  modified_by: 998
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  publish_up: "2015-09-24 00:45:37"
+  publish_down: "0000-00-00 00:00:00"
+  images: "{\"image_intro\":\"images\\/noticias\\/BBAHE.png\",\"float_intro\":\"\",\"image_intro_alt\":\"Bombas GRACO - Doble diafragmas eléctricas \",\"image_intro_caption\":\"\",\"image_fulltext\":\"\",\"float_fulltext\":\"\",\"image_fulltext_alt\":\"\",\"image_fulltext_caption\":\"\"}"
+  urls: "{\"urla\":false,\"urlatext\":\"\",\"targeta\":\"\",\"urlb\":false,\"urlbtext\":\"\",\"targetb\":\"\",\"urlc\":false,\"urlctext\":\"\",\"targetc\":\"\"}"
+  attribs: "{\"show_title\":\"\",\"link_titles\":\"\",\"show_tags\":\"\",\"show_intro\":\"\",\"info_block_position\":\"\",\"show_category\":\"\",\"link_category\":\"\",\"show_parent_category\":\"\",\"link_parent_category\":\"\",\"show_author\":\"\",\"link_author\":\"\",\"show_create_date\":\"\",\"show_modify_date\":\"\",\"show_publish_date\":\"\",\"show_item_navigation\":\"\",\"show_icons\":\"\",\"show_print_icon\":\"\",\"show_email_icon\":\"\",\"show_vote\":\"\",\"show_hits\":\"\",\"show_noauth\":\"\",\"urls_position\":\"\",\"alternative_readmore\":\"\",\"article_layout\":\"\",\"show_publishing_options\":\"\",\"show_article_options\":\"\",\"show_urls_images_backend\":\"\",\"show_urls_images_frontend\":\"\"}"
+  version: 4
+  ordering: 8
+  metakey: ""
+  metadesc: ""
+  access: 1
+  hits: 236
+  metadata: "{\"robots\":\"\",\"author\":\"\",\"rights\":\"\",\"xreference\":\"\"}"
+  featured: 0
+  language: "*"
+  xreference: ""
+-
+  id: 25
+  asset_id: 132
+  title: "Tubería en Aluminio para aire comprimido"
+  alias: "tuberia-en-aluminio-para-aire-comprimido"
+  introtext: "<p>Tubería Transair en 1/2\" 1\"  1-1/2\"  2\"  2-1/2\"  3\"  4\"  y  6\" </p>\r\n<hr class=\"system-pagebreak\" />\r\n<p> </p>\r\n<p>Tubería para aire comprimido, gases inertes.</p>\r\n<p>única con 10 años de Garantía.</p>\r\n<p> </p>\r\n<p> </p>"
+  fulltext: ""
+  state: 1
+  catid: 9
+  created: "2015-10-17 02:12:57"
+  created_by: 996
+  created_by_alias: ""
+  modified: "2015-10-27 22:57:12"
+  modified_by: 994
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  publish_up: "2015-10-17 02:12:57"
+  publish_down: "0000-00-00 00:00:00"
+  images: "{\"image_intro\":\"images\\/familias\\/3d73730cdd61787a39f72a58c9f4a34a-aire-comprimido.jpg\",\"float_intro\":\"\",\"image_intro_alt\":\"Tubería en Aluminio para aire comprimido\",\"image_intro_caption\":\"\",\"image_fulltext\":\"\",\"float_fulltext\":\"\",\"image_fulltext_alt\":\"\",\"image_fulltext_caption\":\"\"}"
+  urls: "{\"urla\":false,\"urlatext\":\"\",\"targeta\":\"\",\"urlb\":false,\"urlbtext\":\"\",\"targetb\":\"\",\"urlc\":false,\"urlctext\":\"\",\"targetc\":\"\"}"
+  attribs: "{\"show_title\":\"\",\"link_titles\":\"\",\"show_tags\":\"\",\"show_intro\":\"\",\"info_block_position\":\"\",\"show_category\":\"\",\"link_category\":\"\",\"show_parent_category\":\"\",\"link_parent_category\":\"\",\"show_author\":\"\",\"link_author\":\"\",\"show_create_date\":\"\",\"show_modify_date\":\"\",\"show_publish_date\":\"\",\"show_item_navigation\":\"\",\"show_icons\":\"\",\"show_print_icon\":\"\",\"show_email_icon\":\"\",\"show_vote\":\"\",\"show_hits\":\"\",\"show_noauth\":\"\",\"urls_position\":\"\",\"alternative_readmore\":\"\",\"article_layout\":\"\",\"show_publishing_options\":\"\",\"show_article_options\":\"\",\"show_urls_images_backend\":\"\",\"show_urls_images_frontend\":\"\"}"
+  version: 10
+  ordering: 6
+  metakey: ""
+  metadesc: ""
+  access: 1
+  hits: 2793
+  metadata: "{\"robots\":\"\",\"author\":\"\",\"rights\":\"\",\"xreference\":\"\"}"
+  featured: 0
+  language: "*"
+  xreference: ""
+-
+  id: 26
+  asset_id: 135
+  title: "La Bomba FKL Elimina $45,000 en reparaciones"
+  alias: "fkl-pasta"
+  introtext: "<p style=\"text-align: justify;\">Una temporada típica de procesamiento de tomate en California dura tan sólo 120 días. Más o menos julio a octubre, los tomates cultivados en el verano son cosechados, procesados ​​y enlatados.</p>\r\n<p style=\"text-align: justify;\">California suministra más del 90% de los tomates procesados ​​en los Estados Unidos y la oferta tiene que durar un año entero. Con tan relativamente poco tiempo para lograr esto, el equipo de producción debe funcionar constantemente, las 24 horas al día, siete días a la semana. Cualquier interrupción en el proceso puede costar cientos de miles de dólares en tiempo perdido.</p>\r\n"
+  fulltext: "\r\n<p style=\"text-align: justify;\">Una temporada típica de procesamiento de tomate en California dura tan sólo 120 días. Más o menos de julio a octubre, los tomates cultivados en el verano son cosechados, procesados ​​y enlatados.</p>\r\n<p style=\"text-align: justify;\">California suministra más del 90% del tomate procesado ​​en los Estados Unidos y la oferta tiene que durar un año entero. Con tan relativamente poco tiempo para lograr esto, el equipo de producción debe funcionar constantemente, las 24 horas al día, siete días a la semana. Cualquier interrupción en el proceso puede costar cientos de miles de dólares en tiempo perdido.</p>\r\n<p style=\"text-align: justify;\">Una gran planta de procesamiento de tomate estaba teniendo dificultades con sus bombas de desplazamiento positivo, que no duraban la temporada completa de 120 días. Incluso con bombas completas de respaldo (spare pumps), cualquier paro en la planta, significa tiempo y dinero perdidos. El desgaste en las bombas era de dos tipos: Abrasión por las semillas y presión diferencial dentro de las bombas. </p>\r\n<p style=\"text-align: justify;\">Para combatir el desgaste, la planta decidió instalar bombas Fristam FKL 600. A 2.24 galones por revolución, podían desplazar 3 veces más pasta de tomate a la misma velocidad que la bomba anteriormente instalada. Esto permitía que la planta lograra disminuir la velocidad dramáticamente en la bomba, de 180rpm a 60rpm. Una rotación menor, significa menos daño a la bomba del estrés y un caudal más suave para obtener una mejor integridad en el producto. Además la bomba FKL 600 se encuentra validada para entregar hasta 300 psi de presión, 50% más de la presión en la que la bomba anterior estaba llegando al límite de su deformación. </p>\r\n<p style=\"text-align: justify;\">La bomba anterior debía ser completamente re-construída al final de cada temporada, a un costo del 70% de una bomba nueva. Peor aún, muchas veces no lograba durar la temporada completa, forzando a la planta a mantener bombas completas de repuesto a mano. Costos iban agregándose. Los tiempos de paro para el mantenimiento de las bombas le estaba costando mucho dinero a la planta. </p>\r\n<p style=\"text-align: justify;\">La FKL de Fristam ayudó a la planta a terminar la temporada completa sin paros debido a temas de bombeo. La bomba FKL manejó el producto abrasivo y las altas presiones con facilidad. </p>\r\n<p style=\"text-align: justify;\">Al final de la temporada, en lugar de reconstruir sus antiguas bombas, gastando cerca de $20,000 por cada una, la planta simplemente realizó mantenimientos de rutina en la FKL lo que significa cambio de sello y empaques. Adicionalmente, la planta reemplazó su bomba de procesamiento de tomate en cubo con otra FKL para lograr un éxito similar y lograron eliminar un estimado de $45,000 por bomba en re-construcciones en este proceso.</p>\r\n<p style=\"text-align: justify;\">Más allá de los costos de re-construcción, los costos de tiempos de paro en planta pueden ser astronómicos en un lapso muy limitado. La bomba FKL de Fristam ahorró dinero y tiempo, además de la paz y tranquilidad que no tiene precio para la planta y sus gerentes.</p>\r\n<p style=\"text-align: justify;\">En muchas fábricas alrededor del mundo, el desgaste excesivo en las bombas y los costos de mantenimiento son un tema de preocupación. <a href=\"contactenos\" target=\"_blank\">Contáctenos hoy</a> para discutir y estudiar su aplicación. ( <a href=\"mailto:info@novatec.cr\">info@novatec.cr</a> / +506 2239-1111 )</p>\r\n<p><a href=\"http://www.fristam.com/en-us/pumpsandblenders/positivedisplacementpumps/fklheavydutycippdpump/fklapplicationsstories/fkleliminates$45kperpumprebuilds.aspx\" target=\"_blank\">Ver el artículo original (inglés)</a></p>\r\n<center>{youtube}4AEKqOt2fuM|600|450|0{/youtube}</center>"
+  state: 1
+  catid: 9
+  created: "2015-11-05 21:01:48"
+  created_by: 998
+  created_by_alias: ""
+  modified: "2015-11-06 03:58:02"
+  modified_by: 998
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  publish_up: "2015-11-05 21:12:21"
+  publish_down: "0000-00-00 00:00:00"
+  images: "{\"image_intro\":\"images\\/productos\\/2f93b790c4ebca8e5e327f8afadc8617-FKL.jpg\",\"float_intro\":\"\",\"image_intro_alt\":\"\",\"image_intro_caption\":\"\",\"image_fulltext\":\"images\\/TomatoPaste-288w.jpg\",\"float_fulltext\":\"left\",\"image_fulltext_alt\":\"\",\"image_fulltext_caption\":\"\"}"
+  urls: "{\"urla\":false,\"urlatext\":\"\",\"targeta\":\"\",\"urlb\":false,\"urlbtext\":\"\",\"targetb\":\"\",\"urlc\":false,\"urlctext\":\"\",\"targetc\":\"\"}"
+  attribs: "{\"show_title\":\"\",\"link_titles\":\"\",\"show_tags\":\"\",\"show_intro\":\"\",\"info_block_position\":\"\",\"show_category\":\"\",\"link_category\":\"\",\"show_parent_category\":\"\",\"link_parent_category\":\"\",\"show_author\":\"\",\"link_author\":\"\",\"show_create_date\":\"\",\"show_modify_date\":\"\",\"show_publish_date\":\"\",\"show_item_navigation\":\"\",\"show_icons\":\"\",\"show_print_icon\":\"\",\"show_email_icon\":\"\",\"show_vote\":\"\",\"show_hits\":\"\",\"show_noauth\":\"\",\"urls_position\":\"\",\"alternative_readmore\":\"\",\"article_layout\":\"\",\"show_publishing_options\":\"\",\"show_article_options\":\"\",\"show_urls_images_backend\":\"\",\"show_urls_images_frontend\":\"\"}"
+  version: 19
+  ordering: 7
+  metakey: ""
+  metadesc: ""
+  access: 1
+  hits: 1627
+  metadata: "{\"robots\":\"\",\"author\":\"\",\"rights\":\"\",\"xreference\":\"\"}"
+  featured: 1
+  language: "*"
+  xreference: ""
+-
+  id: 27
+  asset_id: 137
+  title: "Horario de Semana Santa "
+  alias: "martes-23-estamos-sin-electricidad-7am-a-5-pm"
+  introtext: "<p>Horario Semana Santa:</p>\r\n<p>Lunes a Miércoles de 8 a 5:30 pm</p>\r\n<p>Jueves y Viernes cerrado.</p>\r\n<p>Para emergencias favor escribir a asistencia@novatec.cr </p>"
+  fulltext: ""
+  state: 1
+  catid: 9
+  created: "2016-03-20 01:11:00"
+  created_by: 996
+  created_by_alias: ""
+  modified: "2016-03-21 19:00:24"
+  modified_by: 996
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  publish_up: "2016-03-18 19:10:00"
+  publish_down: "2016-03-26 19:11:00"
+  images: "{\"image_intro\":\"images\\/noticias\\/NInews.jpg\",\"float_intro\":\"\",\"image_intro_alt\":\"\",\"image_intro_caption\":\"\",\"image_fulltext\":\"\",\"float_fulltext\":\"\",\"image_fulltext_alt\":\"\",\"image_fulltext_caption\":\"\"}"
+  urls: "{\"urla\":false,\"urlatext\":\"\",\"targeta\":\"\",\"urlb\":false,\"urlbtext\":\"\",\"targetb\":\"\",\"urlc\":false,\"urlctext\":\"\",\"targetc\":\"\"}"
+  attribs: "{\"show_title\":\"\",\"link_titles\":\"\",\"show_tags\":\"\",\"show_intro\":\"\",\"info_block_position\":\"\",\"show_category\":\"\",\"link_category\":\"\",\"show_parent_category\":\"\",\"link_parent_category\":\"\",\"show_author\":\"\",\"link_author\":\"\",\"show_create_date\":\"\",\"show_modify_date\":\"\",\"show_publish_date\":\"\",\"show_item_navigation\":\"\",\"show_icons\":\"\",\"show_print_icon\":\"\",\"show_email_icon\":\"\",\"show_vote\":\"\",\"show_hits\":\"\",\"show_noauth\":\"\",\"urls_position\":\"\",\"alternative_readmore\":\"\",\"article_layout\":\"\",\"show_publishing_options\":\"\",\"show_article_options\":\"\",\"show_urls_images_backend\":\"\",\"show_urls_images_frontend\":\"\"}"
+  version: 14
+  ordering: 5
+  metakey: ""
+  metadesc: ""
+  access: 1
+  hits: 37
+  metadata: "{\"robots\":\"\",\"author\":\"\",\"rights\":\"\",\"xreference\":\"\"}"
+  featured: 0
+  language: "*"
+  xreference: ""
+-
+  id: 28
+  asset_id: 138
+  title: "Novatec - Horario de Navidad y fin de año..."
+  alias: "novatec-horario-de-navidad-y-fin-de-ano"
+  introtext: "<p><img src=\"images/noticias/Tarjeta-NavideaNovatec.png\" alt=\"\" /></p>"
+  fulltext: ""
+  state: 1
+  catid: 9
+  created: "2016-12-16 18:20:00"
+  created_by: 996
+  created_by_alias: ""
+  modified: "2016-12-16 13:16:11"
+  modified_by: 996
+  checked_out: 996
+  checked_out_time: "2016-12-16 13:16:11"
+  publish_up: "2016-12-15 18:20:00"
+  publish_down: "2017-01-03 12:32:00"
+  images: "{\"image_intro\":\"images\\/noticias\\/Tarjeta-NavideaNovatec.png\",\"float_intro\":\"\",\"image_intro_alt\":\"\",\"image_intro_caption\":\"\",\"image_fulltext\":\"\",\"float_fulltext\":\"\",\"image_fulltext_alt\":\"\",\"image_fulltext_caption\":\"\"}"
+  urls: "{\"urla\":false,\"urlatext\":\"\",\"targeta\":\"\",\"urlb\":false,\"urlbtext\":\"\",\"targetb\":\"\",\"urlc\":false,\"urlctext\":\"\",\"targetc\":\"\"}"
+  attribs: "{\"show_title\":\"\",\"link_titles\":\"\",\"show_tags\":\"\",\"show_intro\":\"\",\"info_block_position\":\"\",\"show_category\":\"\",\"link_category\":\"\",\"show_parent_category\":\"\",\"link_parent_category\":\"\",\"show_author\":\"\",\"link_author\":\"\",\"show_create_date\":\"\",\"show_modify_date\":\"\",\"show_publish_date\":\"\",\"show_item_navigation\":\"\",\"show_icons\":\"\",\"show_print_icon\":\"\",\"show_email_icon\":\"\",\"show_vote\":\"\",\"show_hits\":\"\",\"show_noauth\":\"\",\"urls_position\":\"\",\"alternative_readmore\":\"\",\"article_layout\":\"\",\"show_publishing_options\":\"\",\"show_article_options\":\"\",\"show_urls_images_backend\":\"\",\"show_urls_images_frontend\":\"\"}"
+  version: 11
+  ordering: 4
+  metakey: ""
+  metadesc: ""
+  access: 1
+  hits: 117
+  metadata: "{\"robots\":\"\",\"author\":\"\",\"rights\":\"\",\"xreference\":\"\"}"
+  featured: 0
+  language: "*"
+  xreference: ""
+-
+  id: 29
+  asset_id: 139
+  title: "Filtros PALL para Alimentos y Bebidas"
+  alias: "filtros-pall-para-alimentos-y-bebidas"
+  introtext: "<p><img src=\"images/noticias/FiltroPALL.jpg\" alt=\"\" /></p>\r\n<p>Aire esteril, vapor culinario...</p>"
+  fulltext: ""
+  state: 1
+  catid: 9
+  created: "2016-02-06 18:29:46"
+  created_by: 996
+  created_by_alias: ""
+  modified: "2016-02-06 18:42:19"
+  modified_by: 996
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  publish_up: "2016-02-06 18:29:46"
+  publish_down: "0000-00-00 00:00:00"
+  images: "{\"image_intro\":\"images\\/familias\\/6e235b25165a7b8eaa9cb9f9f3dea181-PALL-General.jpg\",\"float_intro\":\"\",\"image_intro_alt\":\"\",\"image_intro_caption\":\"\",\"image_fulltext\":\"\",\"float_fulltext\":\"\",\"image_fulltext_alt\":\"\",\"image_fulltext_caption\":\"\"}"
+  urls: "{\"urla\":false,\"urlatext\":\"\",\"targeta\":\"\",\"urlb\":false,\"urlbtext\":\"\",\"targetb\":\"\",\"urlc\":false,\"urlctext\":\"\",\"targetc\":\"\"}"
+  attribs: "{\"show_title\":\"\",\"link_titles\":\"\",\"show_tags\":\"\",\"show_intro\":\"\",\"info_block_position\":\"\",\"show_category\":\"\",\"link_category\":\"\",\"show_parent_category\":\"\",\"link_parent_category\":\"\",\"show_author\":\"\",\"link_author\":\"\",\"show_create_date\":\"\",\"show_modify_date\":\"\",\"show_publish_date\":\"\",\"show_item_navigation\":\"\",\"show_icons\":\"\",\"show_print_icon\":\"\",\"show_email_icon\":\"\",\"show_vote\":\"\",\"show_hits\":\"\",\"show_noauth\":\"\",\"urls_position\":\"\",\"alternative_readmore\":\"\",\"article_layout\":\"\",\"show_publishing_options\":\"\",\"show_article_options\":\"\",\"show_urls_images_backend\":\"\",\"show_urls_images_frontend\":\"\"}"
+  version: 3
+  ordering: 2
+  metakey: ""
+  metadesc: ""
+  access: 1
+  hits: 896
+  metadata: "{\"robots\":\"\",\"author\":\"\",\"rights\":\"\",\"xreference\":\"\"}"
+  featured: 0
+  language: "*"
+  xreference: ""
+-
+  id: 30
+  asset_id: 140
+  title: "Bombas FlowServe"
+  alias: "flowserve-api-durco"
+  introtext: "<p>Consultenos para toda la linea de bombas FlowServe...</p>\r\n<p><img src=\"images/noticias/Durco.jpg\" alt=\"\" /></p>\r\n<p> </p>\r\n<p><a href=\"mailto:info@novatec.cr\">info@novatec.cr</a></p>"
+  fulltext: ""
+  state: 1
+  catid: 9
+  created: "2016-02-06 18:39:32"
+  created_by: 996
+  created_by_alias: ""
+  modified: "2017-04-18 16:22:44"
+  modified_by: 996
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  publish_up: "2016-02-06 18:39:32"
+  publish_down: "2017-04-17 10:22:32"
+  images: "{\"image_intro\":\"images\\/productos\\/thumbnails\\/dd6b6063912c311e378230ea8f2c09ab-Flowserve-API.jpg\",\"float_intro\":\"\",\"image_intro_alt\":\"\",\"image_intro_caption\":\"\",\"image_fulltext\":\"\",\"float_fulltext\":\"\",\"image_fulltext_alt\":\"\",\"image_fulltext_caption\":\"\"}"
+  urls: "{\"urla\":false,\"urlatext\":\"\",\"targeta\":\"\",\"urlb\":false,\"urlbtext\":\"\",\"targetb\":\"\",\"urlc\":false,\"urlctext\":\"\",\"targetc\":\"\"}"
+  attribs: "{\"show_title\":\"\",\"link_titles\":\"\",\"show_tags\":\"\",\"show_intro\":\"\",\"info_block_position\":\"\",\"show_category\":\"\",\"link_category\":\"\",\"show_parent_category\":\"\",\"link_parent_category\":\"\",\"show_author\":\"\",\"link_author\":\"\",\"show_create_date\":\"\",\"show_modify_date\":\"\",\"show_publish_date\":\"\",\"show_item_navigation\":\"\",\"show_icons\":\"\",\"show_print_icon\":\"\",\"show_email_icon\":\"\",\"show_vote\":\"\",\"show_hits\":\"\",\"show_noauth\":\"\",\"urls_position\":\"\",\"alternative_readmore\":\"\",\"article_layout\":\"\",\"show_publishing_options\":\"\",\"show_article_options\":\"\",\"show_urls_images_backend\":\"\",\"show_urls_images_frontend\":\"\"}"
+  version: 6
+  ordering: 3
+  metakey: ""
+  metadesc: ""
+  access: 1
+  hits: 775
+  metadata: "{\"robots\":\"\",\"author\":\"\",\"rights\":\"\",\"xreference\":\"\"}"
+  featured: 0
+  language: "*"
+  xreference: ""
+-
+  id: 31
+  asset_id: 141
+  title: "Novatec en ACIMA 2016"
+  alias: "novatec-en-acima-2016"
+  introtext: ""
+  fulltext: ""
+  state: 1
+  catid: 9
+  created: "2016-05-30 21:08:56"
+  created_by: 996
+  created_by_alias: ""
+  modified: "2016-05-30 21:08:56"
+  modified_by: 0
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  publish_up: "2016-05-30 15:08:41"
+  publish_down: "2016-06-06 15:08:44"
+  images: "{\"image_intro\":\"images\\/noticias\\/ACIMA.jpg\",\"float_intro\":\"\",\"image_intro_alt\":\"\",\"image_intro_caption\":\"\",\"image_fulltext\":\"images\\/noticias\\/ACIMA.jpg\",\"float_fulltext\":\"\",\"image_fulltext_alt\":\"\",\"image_fulltext_caption\":\"\"}"
+  urls: "{\"urla\":false,\"urlatext\":\"\",\"targeta\":\"\",\"urlb\":false,\"urlbtext\":\"\",\"targetb\":\"\",\"urlc\":false,\"urlctext\":\"\",\"targetc\":\"\"}"
+  attribs: "{\"show_title\":\"\",\"link_titles\":\"\",\"show_tags\":\"\",\"show_intro\":\"\",\"info_block_position\":\"\",\"show_category\":\"\",\"link_category\":\"\",\"show_parent_category\":\"\",\"link_parent_category\":\"\",\"show_author\":\"\",\"link_author\":\"\",\"show_create_date\":\"\",\"show_modify_date\":\"\",\"show_publish_date\":\"\",\"show_item_navigation\":\"\",\"show_icons\":\"\",\"show_print_icon\":\"\",\"show_email_icon\":\"\",\"show_vote\":\"\",\"show_hits\":\"\",\"show_noauth\":\"\",\"urls_position\":\"\",\"alternative_readmore\":\"\",\"article_layout\":\"\",\"show_publishing_options\":\"\",\"show_article_options\":\"\",\"show_urls_images_backend\":\"\",\"show_urls_images_frontend\":\"\"}"
+  version: 1
+  ordering: 1
+  metakey: ""
+  metadesc: ""
+  access: 1
+  hits: 19
+  metadata: "{\"robots\":\"\",\"author\":\"\",\"rights\":\"\",\"xreference\":\"\"}"
+  featured: 1
+  language: "*"
+  xreference: ""
+-
+  id: 32
+  asset_id: 142
+  title: "Emergencia Nacional - Huracán Otto "
+  alias: "emergencia-nacional-huracan-otto"
+  introtext: "<p><img src=\"images/noticias/NInews.jpg\" alt=\"\" /></p>\r\n<p><span style=\"color: #000000; font-family: Helvetica; font-size: 12px;\">Debido a la Emergencia Nacional por el Huracán-Otto, nos vamos a mantener cerrados, hasta nuevo aviso.  </span></p>\r\n<div style=\"color: #000000; font-family: Helvetica; font-size: 12px;\">Para emergencias favor escribir a <a href=\"mailto:asistencia@novatec.cr\">asistencia@novatec.cr</a></div>\r\n<div style=\"color: #000000; font-family: Helvetica; font-size: 12px;\"> </div>\r\n<div style=\"color: #000000; font-family: Helvetica; font-size: 12px;\"> </div>"
+  fulltext: ""
+  state: 1
+  catid: 9
+  created: "2016-11-24 13:02:51"
+  created_by: 996
+  created_by_alias: ""
+  modified: "2016-11-24 13:10:33"
+  modified_by: 996
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  publish_up: "2016-11-24 13:02:51"
+  publish_down: "2016-11-27 07:02:18"
+  images: "{\"image_intro\":\"images\\/noticias\\/Huracan-Otto.png\",\"float_intro\":\"\",\"image_intro_alt\":\"\",\"image_intro_caption\":\"\",\"image_fulltext\":\"\",\"float_fulltext\":\"\",\"image_fulltext_alt\":\"\",\"image_fulltext_caption\":\"\"}"
+  urls: "{\"urla\":false,\"urlatext\":\"\",\"targeta\":\"\",\"urlb\":false,\"urlbtext\":\"\",\"targetb\":\"\",\"urlc\":false,\"urlctext\":\"\",\"targetc\":\"\"}"
+  attribs: "{\"show_title\":\"\",\"link_titles\":\"\",\"show_tags\":\"\",\"show_intro\":\"\",\"info_block_position\":\"\",\"show_category\":\"\",\"link_category\":\"\",\"show_parent_category\":\"\",\"link_parent_category\":\"\",\"show_author\":\"\",\"link_author\":\"\",\"show_create_date\":\"\",\"show_modify_date\":\"\",\"show_publish_date\":\"\",\"show_item_navigation\":\"\",\"show_icons\":\"\",\"show_print_icon\":\"\",\"show_email_icon\":\"\",\"show_vote\":\"\",\"show_hits\":\"\",\"show_noauth\":\"\",\"urls_position\":\"\",\"alternative_readmore\":\"\",\"article_layout\":\"\",\"show_publishing_options\":\"\",\"show_article_options\":\"\",\"show_urls_images_backend\":\"\",\"show_urls_images_frontend\":\"\"}"
+  version: 3
+  ordering: 0
+  metakey: ""
+  metadesc: "Otto,huracan,novatec"
+  access: 1
+  hits: 9
+  metadata: "{\"robots\":\"\",\"author\":\"\",\"rights\":\"\",\"xreference\":\"\"}"
+  featured: 0
+  language: "*"
+  xreference: ""
+...
