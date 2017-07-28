@@ -1,8 +1,9 @@
 {{ define "main" }}
   <h1>{{.Title}}</h1>
   <ul>
-    {{ range $key, $taxonomy := .Site.Taxonomies.familias }}
-      <li><a href="/familias/{{ $key }}/">{{ $key }}</a></li>
+    {{ range ($.Site.GetPage "taxonomyTerm" "familias" ).Pages }}
+     <li><a href="{{ .Permalink }}">{{ .Title}}</a></li>
     {{ end }}
   </ul>
+  terms
 {{ end }}

@@ -2,7 +2,10 @@
   <h1>{{ .Title }}</h1>
   <ul class="tags">
     {{ range .Pages }}
-     <li><a href="{{ .Permalink }}">{{ .Title}}</a></li>
+     <li>
+       <a href="{{ .Permalink }}">{{ .Title}}</a>
+     </li>
     {{ end }}
   </ul>
+  taxonomy
 {{end}}

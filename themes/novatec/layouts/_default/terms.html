@@ -1,11 +1,9 @@
 {{ define "main" }}
-<h1>{{ .Title }}</h1>
-<ul>
-    {{ $data := .Data }} {{ range $key, $value := .Data.Terms.ByCount }}
-    <li>
-        <a href="{{ $value.Name | urlize }}">{{ $value.Name }}</a>
-        <span>({{ $value.Count }})</span>
-    </li>
+  <h1>{{ .Title }}</h1>
+  <ul>
+    {{ range ($.Site.GetPage "taxonomyTerm" .Data.Plural ).Pages }}
+     <li><a href="{{ .Permalink }}">{{ .Title}}</a></li>
     {{ end }}
-</ul>
+  </ul>
+  terms
 {{ end }}
