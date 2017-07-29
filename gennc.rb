@@ -22,6 +22,7 @@ productos.each do |producto|
     file.write("title = \"#{producto['titulo']}\"\n")
     file.write("id = #{producto['id']}\n")
     file.write("marcas = [\"#{marca}\"]\n")
+    file.write("subfamilias = [\"#{subfamilia}\"]\n")
     file.write("draft = #{state}\n")
     file.write("+++\n")
     file.write("#{producto['introtext']}\n")

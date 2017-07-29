@@ -7,6 +7,7 @@ theme = "novatec"
   industria = "industrias"
   marca = "marcas"
   familia = "familias"
+  subfamilia = "subfamilias"
 
 [[menu.principal]]
     name = "Industrias"
