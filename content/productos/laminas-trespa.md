@@ -1,6 +1,6 @@
 +++
 title = "Laminas Trespa"
-id = "123"
+id = 123
 marcas = ["Trespa"]
 familias = ["Tecnología de Ensamble"]
 industrias = ["Alimentos y Bebidas","Dispositivos Médicos","Biofarmacéuticos","Química"]

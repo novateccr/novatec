@@ -1,6 +1,6 @@
 +++
 title = "Purificadores de Aceite"
-id = "49"
+id = 49
 marcas = ["Pall"]
 familias = ["Filtros"]
 industrias = ["Energía"]

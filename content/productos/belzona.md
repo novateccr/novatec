@@ -1,6 +1,6 @@
 +++
 title = "Belzona"
-id = "19"
+id = 19
 marcas = ["Belzona"]
 familias = ["Reparaciones"]
 industrias = ["Alimentos y Bebidas","Energía","Biofarmacéuticos"]

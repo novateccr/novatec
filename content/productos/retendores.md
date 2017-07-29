@@ -1,6 +1,6 @@
 +++
 title = "Retendores"
-id = "22"
+id = 22
 marcas = ["Garlock"]
 familias = ["Sellado"]
 industrias = ["Alimentos y Bebidas","Energía","Biofarmacéuticos"]

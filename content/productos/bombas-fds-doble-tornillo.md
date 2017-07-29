@@ -1,6 +1,6 @@
 +++
 title = "Bombas FDS Doble Tornillo"
-id = "140"
+id = 140
 marcas = ["Fristam"]
 familias = ["Bombas"]
 industrias = ["Alimentos y Bebidas","Dispositivos Médicos","Biofarmacéuticos"]

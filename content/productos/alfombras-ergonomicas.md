@@ -1,6 +1,6 @@
 +++
 title = "Alfombras Ergonómicas"
-id = "105"
+id = 105
 marcas = ["Ergomat"]
 familias = ["Alfombras y Demarcación"]
 industrias = ["Biofarmacéuticos"]

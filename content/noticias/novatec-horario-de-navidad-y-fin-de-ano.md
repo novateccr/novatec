@@ -7,6 +7,7 @@ metakey = ""
 metadesc = ""
 featured = 0
 draft = false
+id = 28
 +++
 <p><img src="images/noticias/Tarjeta-NavideaNovatec.png" alt="" /></p>
 <!--more-->

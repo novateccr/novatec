@@ -1,6 +1,6 @@
 +++
 title = "Epóxicos"
-id = "17"
+id = 17
 marcas = ["PolySpec Thiokol","Flowcrete"]
 familias = ["Pisos y Polímeros"]
 industrias = ["Alimentos y Bebidas","Energía","Industria Pesada","Biofarmacéuticos"]

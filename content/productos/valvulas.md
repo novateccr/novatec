@@ -1,6 +1,6 @@
 +++
 title = "Valvulas"
-id = "96"
+id = 96
 marcas = []
 familias = ["Sellos Mecánicos"]
 industrias = ["Biofarmacéuticos"]

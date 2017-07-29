@@ -1,6 +1,6 @@
 +++
 title = "Calderas"
-id = "11"
+id = 11
 marcas = ["Flowserve"]
 familias = ["Bombas"]
 industrias = ["Alimentos y Bebidas","Energía","Biofarmacéuticos"]

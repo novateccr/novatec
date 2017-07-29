@@ -1,6 +1,6 @@
 +++
 title = "Mangueras Metalicas"
-id = "23"
+id = 23
 marcas = ["Garlock","Macoga"]
 familias = ["Sellado"]
 industrias = ["Alimentos y Bebidas","Biofarmacéuticos"]

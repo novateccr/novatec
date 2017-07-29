@@ -1,6 +1,6 @@
 +++
 title = "Valvulas de control sanitarias (Kammer)"
-id = "131"
+id = 131
 marcas = ["Flowserve"]
 familias = ["Valvulas"]
 industrias = ["Alimentos y Bebidas"]

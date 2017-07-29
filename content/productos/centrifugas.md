@@ -1,6 +1,6 @@
 +++
 title = "Centrifugas"
-id = "7"
+id = 7
 marcas = ["KSB"]
 familias = ["Bombas"]
 industrias = ["Alimentos y Bebidas","Energía","Biofarmacéuticos"]

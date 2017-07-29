@@ -1,6 +1,6 @@
 +++
 title = "Empaque Triclamp"
-id = "21"
+id = 21
 marcas = ["Garlock"]
 familias = ["Sellado"]
 industrias = ["Alimentos y Bebidas","Dispositivos Médicos","Biofarmacéuticos","Química"]

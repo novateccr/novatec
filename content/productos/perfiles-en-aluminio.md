@@ -1,6 +1,6 @@
 +++
 title = "Perfiles en aluminio"
-id = "112"
+id = 112
 marcas = ["Rexroth"]
 familias = ["Tecnología de Ensamble"]
 industrias = ["Alimentos y Bebidas","Dispositivos Médicos","Biofarmacéuticos"]

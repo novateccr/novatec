@@ -1,6 +1,6 @@
 +++
 title = "Vacío"
-id = "117"
+id = 117
 marcas = ["Flowserve"]
 familias = ["Bombas"]
 industrias = ["Alimentos y Bebidas","Dispositivos Médicos","Biofarmacéuticos","Ingenios"]

@@ -1,6 +1,6 @@
 +++
 title = "Elementos (cartuchos)"
-id = "125"
+id = 125
 marcas = ["Pall"]
 familias = ["Filtros"]
 industrias = ["Alimentos y Bebidas","Industria Pesada","Biofarmacéuticos","Agrícola","Ingenios"]

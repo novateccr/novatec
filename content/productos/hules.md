@@ -1,6 +1,6 @@
 +++
 title = "Hules"
-id = "20"
+id = 20
 marcas = ["Garlock"]
 familias = ["Sellado"]
 industrias = ["Alimentos y Bebidas","Energía","Dispositivos Médicos","Industria Pesada","Biofarmacéuticos","Química","Agrícola","Ingenios"]

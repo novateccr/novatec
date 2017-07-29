@@ -1,6 +1,6 @@
 +++
 title = "Uretanos Cementicios"
-id = "107"
+id = 107
 marcas = ["Flowcrete"]
 familias = ["Pisos y Polímeros"]
 industrias = ["Alimentos y Bebidas","Energía","Dispositivos Médicos","Industria Pesada","Biofarmacéuticos","Química","Agrícola","Ingenios","Comercial - Construcción","Electrónica"]

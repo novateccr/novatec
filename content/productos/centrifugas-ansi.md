@@ -1,6 +1,6 @@
 +++
 title = "Centrifugas ANSI"
-id = "8"
+id = 8
 marcas = ["Flowserve"]
 familias = ["Bombas"]
 industrias = ["Alimentos y Bebidas","Energía","Biofarmacéuticos"]

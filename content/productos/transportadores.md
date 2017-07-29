@@ -1,6 +1,6 @@
 +++
 title = "Transportadores"
-id = "115"
+id = 115
 marcas = ["Qc Industries"]
 familias = ["Tecnología de Ensamble"]
 industrias = ["Alimentos y Bebidas","Dispositivos Médicos","Biofarmacéuticos"]

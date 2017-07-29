@@ -1,6 +1,6 @@
 +++
 title = "Valvulas de Globo de disco excéntrico y bola segmentada (Valtek)"
-id = "129"
+id = 129
 marcas = ["Flowserve"]
 familias = ["Valvulas"]
 industrias = ["Energía"]

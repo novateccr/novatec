@@ -7,6 +7,7 @@ metakey = ""
 metadesc = "Otto,huracan,novatec"
 featured = 0
 draft = false
+id = 32
 +++
 <p><img src="images/noticias/NInews.jpg" alt="" /></p>
 <p><span style="color: #000000; font-family: Helvetica; font-size: 12px;">Debido a la Emergencia Nacional por el Huracán-Otto, nos vamos a mantener cerrados, hasta nuevo aviso.  </span></p>

@@ -1,6 +1,6 @@
 +++
 title = "Valvulas de globo, compuerta y check (Edward)"
-id = "130"
+id = 130
 marcas = ["Flowserve"]
 familias = ["Valvulas"]
 industrias = ["Energía"]

@@ -1,6 +1,6 @@
 +++
 title = "Mezcaldor de Polvos "
-id = "72"
+id = 72
 marcas = ["Fristam"]
 familias = ["Bombas"]
 industrias = ["Alimentos y Bebidas","Biofarmacéuticos"]

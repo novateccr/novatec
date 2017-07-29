@@ -1,6 +1,6 @@
 +++
 title = "Centrífugas Sanitarias"
-id = "1"
+id = 1
 marcas = ["Fristam"]
 familias = ["Bombas"]
 industrias = ["Alimentos y Bebidas","Biofarmacéuticos"]

@@ -1,6 +1,6 @@
 +++
 title = "Alfombras "
-id = "116"
+id = 116
 marcas = ["Ergomat"]
 familias = ["Tecnología de Ensamble"]
 industrias = ["Alimentos y Bebidas","Dispositivos Médicos","Biofarmacéuticos","Agrícola"]

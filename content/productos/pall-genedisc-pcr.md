@@ -1,6 +1,6 @@
 +++
 title = "PALL Genedisc - PCR"
-id = "135"
+id = 135
 marcas = ["Pall"]
 familias = ["Filtros"]
 industrias = ["Alimentos y Bebidas","Dispositivos Médicos","Biofarmacéuticos","Ingenios"]

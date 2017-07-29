@@ -1,6 +1,6 @@
 +++
 title = "Polímeros para reparación de bombas"
-id = "137"
+id = 137
 marcas = ["Belzona"]
 familias = ["Pisos y Polímeros"]
 industrias = ["Energía","Agrícola","Ingenios"]

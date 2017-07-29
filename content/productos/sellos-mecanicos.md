@@ -1,6 +1,6 @@
 +++
 title = "Sellos Mecánicos"
-id = "24"
+id = 24
 marcas = ["Eagleburgmann"]
 familias = ["Sellado"]
 industrias = ["Alimentos y Bebidas","Energía","Dispositivos Médicos","Industria Pesada","Biofarmacéuticos","Química","Agrícola","Ingenios"]

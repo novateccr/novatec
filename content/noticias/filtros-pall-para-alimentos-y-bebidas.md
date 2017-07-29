@@ -7,6 +7,7 @@ metakey = ""
 metadesc = ""
 featured = 0
 draft = false
+id = 29
 +++
 <p><img src="images/noticias/FiltroPALL.jpg" alt="" /></p>
 <p>Aire esteril, vapor culinario...</p>

@@ -1,6 +1,6 @@
 +++
 title = "KSB - Valvulas"
-id = "141"
+id = 141
 marcas = ["KSB"]
 familias = ["Valvulas"]
 industrias = ["Alimentos y Bebidas","Energía","Industria Pesada","Química","Ingenios"]

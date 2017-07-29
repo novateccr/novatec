@@ -1,6 +1,6 @@
 +++
 title = "Filtros de Laboratorio"
-id = "12"
+id = 12
 marcas = ["Pall"]
 familias = ["Filtros"]
 industrias = ["Alimentos y Bebidas","Energía","Dispositivos Médicos","Biofarmacéuticos","Química","Agrícola","Ingenios","Electrónica"]

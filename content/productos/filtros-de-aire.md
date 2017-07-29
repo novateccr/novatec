@@ -1,6 +1,6 @@
 +++
 title = "Filtros de Aire"
-id = "13"
+id = 13
 marcas = ["Pall","Pneumatech"]
 familias = ["Filtros"]
 industrias = ["Alimentos y Bebidas","Energía","Biofarmacéuticos"]

@@ -1,6 +1,6 @@
 +++
 title = "Valvulas de Control de Proceso (Worcester)"
-id = "31"
+id = 31
 marcas = ["Flowserve"]
 familias = ["Valvulas"]
 industrias = ["Alimentos y Bebidas","Energía","Industria Pesada","Biofarmacéuticos","Química"]

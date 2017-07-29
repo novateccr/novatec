@@ -1,6 +1,6 @@
 +++
 title = "Descargadores"
-id = "6"
+id = 6
 marcas = ["Graco"]
 familias = ["Bombas"]
 industrias = ["Alimentos y Bebidas","Biofarmacéuticos"]

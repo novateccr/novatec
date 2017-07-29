@@ -1,6 +1,6 @@
 +++
 title = "Centrales Hidráulicas"
-id = "69"
+id = 69
 marcas = ["Rexroth"]
 familias = ["Hidráulica"]
 industrias = ["Alimentos y Bebidas","Energía","Biofarmacéuticos","Ingenios"]

@@ -1,6 +1,6 @@
 +++
 title = "Juntas de Expansion Metálicas"
-id = "56"
+id = 56
 marcas = ["Macoga"]
 familias = ["Sellado"]
 industrias = ["Energía"]

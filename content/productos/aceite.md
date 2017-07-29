@@ -1,6 +1,6 @@
 +++
 title = "Aceite"
-id = "10"
+id = 10
 marcas = ["Flowserve"]
 familias = ["Bombas"]
 industrias = ["Alimentos y Bebidas","Energía","Biofarmacéuticos"]

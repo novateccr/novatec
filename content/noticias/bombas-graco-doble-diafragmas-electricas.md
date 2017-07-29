@@ -7,6 +7,7 @@ metakey = ""
 metadesc = ""
 featured = 0
 draft = true
+id = 24
 +++
 <p>Bombas GRACO 1050 - Doble diafragma eléctricas </p>
 

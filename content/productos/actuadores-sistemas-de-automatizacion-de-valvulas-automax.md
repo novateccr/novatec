@@ -1,6 +1,6 @@
 +++
 title = "Actuadores - Sistemas de automatizacion de Valvulas (Automax)"
-id = "132"
+id = 132
 marcas = ["Flowserve"]
 familias = ["Valvulas"]
 industrias = ["Alimentos y Bebidas","Industria Pesada","Biofarmacéuticos","Química"]

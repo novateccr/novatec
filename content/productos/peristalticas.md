@@ -1,6 +1,6 @@
 +++
 title = "Peristálticas"
-id = "5"
+id = 5
 marcas = ["Graco"]
 familias = ["Bombas"]
 industrias = ["Alimentos y Bebidas","Energía","Biofarmacéuticos"]

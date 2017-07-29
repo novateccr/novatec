@@ -1,6 +1,6 @@
 +++
 title = "Sistemas De Separación"
-id = "15"
+id = 15
 marcas = ["Pall"]
 familias = ["Filtros"]
 industrias = ["Alimentos y Bebidas","Energía","Biofarmacéuticos"]

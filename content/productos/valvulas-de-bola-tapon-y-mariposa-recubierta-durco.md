@@ -1,6 +1,6 @@
 +++
 title = "Valvulas de bola, tapon y mariposa recubierta (Durco)"
-id = "30"
+id = 30
 marcas = ["Flowserve"]
 familias = ["Valvulas"]
 industrias = ["Alimentos y Bebidas","Energía","Biofarmacéuticos","Química","Ingenios"]

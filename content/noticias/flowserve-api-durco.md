@@ -7,6 +7,7 @@ metakey = ""
 metadesc = ""
 featured = 0
 draft = false
+id = 30
 +++
 <p>Consultenos para toda la linea de bombas FlowServe...</p>
 <p><img src="images/noticias/Durco.jpg" alt="" /></p>

@@ -1,6 +1,6 @@
 +++
 title = "Filtros de Bolsa "
-id = "16"
+id = 16
 marcas = ["Pall"]
 familias = ["Filtros"]
 industrias = ["Alimentos y Bebidas","Energía","Biofarmacéuticos"]

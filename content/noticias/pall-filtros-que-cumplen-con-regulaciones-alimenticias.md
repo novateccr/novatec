@@ -7,6 +7,7 @@ metakey = ""
 metadesc = ""
 featured = 0
 draft = true
+id = 22
 +++
 <p>Para mas información puede visitar la pagina WEB:</p>
 <hr class="system-pagebreak" />

@@ -1,6 +1,6 @@
 +++
 title = "Cilindros"
-id = "32"
+id = 32
 marcas = ["Rexroth"]
 familias = ["Hidráulica"]
 industrias = ["Alimentos y Bebidas","Energía","Industria Pesada","Biofarmacéuticos","Ingenios"]

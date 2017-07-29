@@ -1,6 +1,6 @@
 +++
 title = "Doble Diafragma"
-id = "4"
+id = 4
 marcas = ["Graco"]
 familias = ["Bombas"]
 industrias = ["Alimentos y Bebidas","Energía","Industria Pesada","Biofarmacéuticos","Química","Agrícola","Ingenios"]

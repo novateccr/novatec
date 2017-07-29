@@ -1,6 +1,6 @@
 +++
 title = "Flowfresh"
-id = "18"
+id = 18
 marcas = ["Flowcrete"]
 familias = ["Pisos Uretanos Cementicios"]
 industrias = ["Alimentos y Bebidas","Energía","Biofarmacéuticos"]

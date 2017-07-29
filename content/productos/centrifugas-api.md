@@ -1,6 +1,6 @@
 +++
 title = "Centrifugas API"
-id = "111"
+id = 111
 marcas = ["Flowserve"]
 familias = ["Bombas"]
 industrias = ["Energía","Industria Pesada"]

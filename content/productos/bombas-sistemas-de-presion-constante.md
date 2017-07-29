@@ -1,6 +1,6 @@
 +++
 title = "Bombas - Sistemas de Presión Constante"
-id = "139"
+id = 139
 marcas = ["Wilo"]
 familias = ["Bombas"]
 industrias = ["Alimentos y Bebidas","Energía","Dispositivos Médicos","Biofarmacéuticos","Comercial - Construcción","Electrónica"]

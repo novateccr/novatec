@@ -1,6 +1,6 @@
 +++
 title = "Desplazamiento Positivo"
-id = "2"
+id = 2
 marcas = ["Fristam"]
 familias = ["Bombas"]
 industrias = ["Alimentos y Bebidas","Energía","Biofarmacéuticos"]
