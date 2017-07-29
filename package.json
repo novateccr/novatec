@@ -8,10 +8,11 @@
     "babel:build": "babel assets/js --out-file static/site.js --source-maps",
     "babel:watch": "babel assets/js --watch --out-file static/site.js --source-maps",
     "sass:watch": "onchange 'assets/scss/**/*.scss' -- npm run sass:build",
-    "sass:build": "node-sass --include-path node_modules/bootstrap-sass/assets/stylesheets assets/scss/main.scss static/site.css",
+    "sass:build": "node-sass assets/scss/main.scss static/site.css",
     "build:assets": "npm run clean && npm run sass:build && npm run babel:build",
     "build": "npm run build:assets && hugo",
-    "start": "npm run clean && npm run sass:build && npm run babel:build && parallelshell 'npm run sass:watch' 'npm run babel:watch' 'hugo serve'"
+    "start": "npm run clean && npm run sass:build && npm run babel:build && parallelshell 'npm run sass:watch' 'npm run babel:watch' 'hugo serve'",
+    "import": "ruby genfiles.rb && ruby gennc.rb"
   },
   "devDependencies": {
     "babel-cli": "^6.18.0",
