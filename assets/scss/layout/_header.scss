@@ -1,3 +1,74 @@
 // -----------------------------------------------------------------------------
 // This file contains all styles related to the header of the site/application.
 // -----------------------------------------------------------------------------
+header {
+  padding: $general-padding 0;
+  background: $blanco;
+  box-shadow: 1px 1px 5px rgba(68,68,68,0.3);
+  @include grid-container;
+}
+
+.header-logo-container {
+  @include grid-column(2);
+}
+
+.header-logo {
+  display: block;
+  max-height: 49px;
+  width: auto;
+}
+
+.main-nav {
+  @include grid-column(8);
+
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    @include clearfix;
+  }
+
+  li {
+    float: left;
+    display: block;
+  }
+
+  a {
+    background: $blanco;
+    border-radius: $general-border-radius;
+    color: $text-color;
+    position: relative;
+    display: inline-block;
+    padding: 15px;
+    font-size: 14px;
+    transition: background ease 0.5s;
+
+    &:hover {
+      background: $azul;
+      color: $blanco;
+      text-decoration: none;
+    }
+  }
+
+  .active a {
+    background: $azul;
+    color: $blanco;
+  }
+
+}
+
+.header-search {
+  @include grid-column(2);
+}
+
+.header-search {
+
+  input {
+    border-radius: $general-border-radius;
+    border: solid 1px $mid-grey;
+    font-size: 14px;
+    padding: 10px 15px;
+    margin-top: 5px;
+    width: 100%;
+  }
+}

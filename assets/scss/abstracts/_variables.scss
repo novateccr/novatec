@@ -20,11 +20,15 @@ $code-font-stack: 'Courier New', 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono',
 
 /// Copy text color
 /// @type Color
-$text-color: rgb(34, 34, 34) !default;
+$text-color: rgb(71, 83, 93) !default;
 
 /// Main brand color
 /// @type Color
 $brand-color: rgb(229, 0, 80) !default;
+
+/// Main azul
+/// @type Color
+$azul: rgb(39, 87, 153) !default;
 
 /// Light grey
 /// @type Color
@@ -32,11 +36,14 @@ $light-grey: rgb(237, 237, 237) !default;
 
 /// Medium grey
 /// @type Color
-$mid-grey: rgb(153, 153, 153) !default;
+$mid-grey: rgb(204, 204, 204) !default;
 
 /// Dark grey
 /// @type Color
 $dark-grey: rgb(68, 68, 68) !default;
+
+$blanco:  rgb(255, 255, 255);
+$negro:  rgb(0, 0, 0);
 
 
 
@@ -69,3 +76,18 @@ $breakpoints: (
 /// @example scss - When using a CDN
 ///   $base-url: 'http://cdn.example.com/assets/';
 $base-url: '/assets/' !default;
+
+
+
+
+///
+/// Padding and spacing
+///
+$general-padding: 20px;
+
+
+
+///
+/// Border radius
+///
+$general-border-radius: 4px;

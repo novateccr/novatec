@@ -1,20 +1,22 @@
 <header>
-  <img src="some/path" alt="Logo Description" class="logo">
-  <nav class="sidebar-nav">
+  <div class="header-logo-container">
+    <img src="/images/Logo-Novatec-amarillo.jpg" alt="Logo Description" class="header-logo">
+  </div>
+  <nav class="main-nav">
     {{ $currentPage := . }}
-    {{ range .Site.Menus.principal }}
-      <a class="sidebar-nav-item{{if or ($currentPage.IsMenuCurrent "principal" .) ($currentPage.HasMenuCurrent "principal" .) }} active{{end}}" href="{{.URL}}">{{ .Name }}</a>
-    {{ end }}
+    <ul>
+      {{ range .Site.Menus.principal }}
+        <li{{if or ($currentPage.IsMenuCurrent "principal" .) ($currentPage.HasMenuCurrent "principal" .) }} class="active"{{end}}>
+          <a href="{{.URL}}">{{ .Name }}</a>
+        </li>
+      {{ end }}
+    </ul>
   </nav>
-  <section role="search">
+  <section role="search" class="header-search">
     <form action="#" method="get">
-        <fieldset>
-            <legend>Search this website:</legend>
-            <label for="s">
-                <input type="search" name="s" id="s" placeholder="Search..." maxlength="200" />
-            </label>
-            <button type="submit" title="Search this website now">Submit</button>
-        </fieldset>
+      <label for="q">
+          <input type="search" name="q" id="s" placeholder="Buscar..." maxlength="200" />
+      </label>
     </form>
   </section>
 </header>
