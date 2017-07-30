@@ -25,13 +25,14 @@ header {
   @include grid-media($desktop-grid) {
     @include grid-column(2);
     display: inline-block;
+    padding-left: 0;
   }
 }
 
 .header-logo {
   max-height: 49px;
   width: auto;
-  display:inline-block;
+  display: inline-block;
 }
 
 #main-nav {
