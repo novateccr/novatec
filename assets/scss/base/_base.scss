@@ -9,6 +9,11 @@ html {
   box-sizing: border-box;
 }
 
+body {
+  overflow: auto;
+  padding-top: 89px;
+}
+
 /**
  * Make all elements from the DOM inherit from the parent box-sizing
  * Since `*` has a specificity of 0, it does not override the `html` value
@@ -36,5 +41,7 @@ a {
 
 main {
   transition: 0.5s;
-  overflow: visible;
+  overflow: auto;
+  box-shadow: -1px 0 5px rgba(68,68,68,0.3);
+  z-index: 2;
 }

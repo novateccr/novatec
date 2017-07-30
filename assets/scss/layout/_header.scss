@@ -9,7 +9,7 @@ header {
   height: 89px;
   min-width: 100%;
   display: table;
-  position: absolute;
+  position: fixed;
   top: 0;
 
   @include grid-media($desktop-grid) {
@@ -42,11 +42,11 @@ header {
   width: 250px;
   min-height: 100vh;
   padding: 0 $general-padding;
-  box-shadow: 1px 1px 5px rgba(68,68,68,0.3);
   overflow-x: hidden;
   transform: translate3d(-100%, 0, 0);
   transition: 0.5s;
   overflow-y: auto;
+  z-index: 1;
 
   @include grid-media($desktop-grid) {
     @include grid-column(8);
@@ -57,6 +57,7 @@ header {
     box-shadow: none;
     overflow: visible;
     transform: translate3d(0, 0, 0);
+    z-index: 1;
   }
 
   .first-level {
