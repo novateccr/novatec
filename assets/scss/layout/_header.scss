@@ -8,16 +8,23 @@ header {
   @include grid-container;
   height: 89px;
   min-width: 100%;
-  white-space: nowrap;
-  overflow: visible;
+  display: table;
+  position: absolute;
+  top: 0;
+
+  @include grid-media($desktop-grid) {
+    display: block;
+  }
 }
 
 .header-logo-container {
-  float: left;
   margin-left: $general-padding;
+  display: table-cell;
+  padding-left: $general-padding;
 
   @include grid-media($desktop-grid) {
     @include grid-column(2);
+    display: inline-block;
   }
 }
 
@@ -39,6 +46,7 @@ header {
   overflow-x: hidden;
   transform: translate3d(-100%, 0, 0);
   transition: 0.5s;
+  overflow-y: auto;
 
   @include grid-media($desktop-grid) {
     @include grid-column(8);
@@ -216,8 +224,14 @@ header {
 }
 
 #abrir-main-nav-button {
-  float: left;
   color: $text-color;
   margin-left: $general-padding;
   font-size: 1.5em;
+  display: table-cell;
+  vertical-align: middle;
+  padding-left: $general-padding;
+
+  @include grid-media($desktop-grid) {
+    display: none;
+  }
 }
