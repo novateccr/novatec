@@ -6,20 +6,49 @@ header {
   background: $blanco;
   box-shadow: 1px 1px 5px rgba(68,68,68,0.3);
   @include grid-container;
+  height: 89px;
+  min-width: 100%;
+  white-space: nowrap;
+  overflow: visible;
 }
 
 .header-logo-container {
-  @include grid-column(2);
+  float: left;
+  margin-left: $general-padding;
+
+  @include grid-media($desktop-grid) {
+    @include grid-column(2);
+  }
 }
 
 .header-logo {
-  display: block;
   max-height: 49px;
   width: auto;
+  display:inline-block;
 }
 
-.main-nav {
-  @include grid-column(8);
+#main-nav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  background: #fff;
+  width: 250px;
+  min-height: 100vh;
+  padding: 0 $general-padding;
+  box-shadow: 1px 1px 5px rgba(68,68,68,0.3);
+  overflow-x: hidden;
+  transform: translate3d(-100%, 0, 0);
+  transition: 0.5s;
+
+  @include grid-media($desktop-grid) {
+    @include grid-column(8);
+    position: static;
+    border: 0;
+    min-height: 0;
+    padding: 0;
+    box-shadow: none;
+    overflow: visible;
+  }
 
   .first-level {
     list-style: none;
@@ -38,11 +67,17 @@ header {
   }
 
   .first-level-item {
-    float: left;
+    float: none;
     display: block;
     position: relative;
     background: $blanco;
     border-radius: $general-border-radius;
+    width: 100%;
+
+    @include grid-media($desktop-grid) {
+      float: left;
+      width: auto;
+    }
 
     &:hover {
       background: $azul;
@@ -65,26 +100,35 @@ header {
   }
 
   .fa {
-    margin-left: 5px;
+    display: none;
+
+    @include grid-media($desktop-grid) {
+      display: inline;
+      margin-left: 5px;
+    }
   }
 
 }
 
 .second-level {
-  box-sizing: content-box;
   display: none;
-  position: absolute;
-  top: 100%;
-  left: 0;
-  width: 400px;
-  columns: 2;
-  -webkit-columns: 2;
-  -moz-columns: 2;
-  background: $blanco;
-  padding: $general-padding;
-  border: solid 1px $mid-grey;
-  border-radius: $general-border-radius;
-  box-shadow: 1px 1px 5px rgba(68,68,68,0.3);
+
+  @include grid-media($desktop-grid) {
+    box-sizing: content-box;
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    width: 400px;
+    columns: 2;
+    -webkit-columns: 2;
+    -moz-columns: 2;
+    background: $blanco;
+    padding: $general-padding;
+    border: solid 1px $mid-grey;
+    border-radius: $general-border-radius;
+    box-shadow: 1px 1px 5px rgba(68,68,68,0.3);
+  }
 
   .second-level-item {
     display: block;
@@ -121,7 +165,11 @@ header {
 }
 
 .header-search {
-  @include grid-column(2);
+  display: none;
+
+  @include grid-media($desktop-grid) {
+    @include grid-column(2);
+  }
 }
 
 .header-search {
@@ -134,4 +182,42 @@ header {
     margin-top: 5px;
     width: 100%;
   }
+}
+
+.cerrar-main-nav {
+  padding: 10px $general-padding;
+  background: $light-grey;
+  margin-left: -$general-padding;
+  margin-right: -$general-padding;
+  @include clearfix;
+
+  @include grid-media($desktop-grid) {
+    display: none;
+  }
+
+  h3 {
+    font-size: 14px;
+    margin: 0;
+    float:: left;
+  }
+}
+
+#cerrar-main-nav-button {
+  float: right;
+  margin: 0;
+  padding: 0 0 0 8px;
+  line-height: 1;
+  font-size: 18px;
+  color: $text-color;
+
+  &:active, &:hover, &:focus {
+    text-decoration: none;
+  }
+}
+
+#abrir-main-nav-button {
+  float: left;
+  color: $text-color;
+  margin-left: $general-padding;
+  font-size: 1.5em;
 }

@@ -7,11 +7,12 @@
   <script src="https://use.fontawesome.com/11a79f3edd.js"></script>
   <link rel="stylesheet" type="text/css" href="/site.css">
 </head>
-<body>
-  <main>
+<body translate="no">
+  <main id="main">
     {{ partial "header.html" . }}
     {{ block "main" . }}
     {{ end }}
   </main>
   {{ partial "footer.html" . }}
+  <script src="/site.js"></script>
 </body>
