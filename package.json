@@ -12,7 +12,8 @@
     "build:assets": "npm run clean && npm run sass:build && npm run babel:build",
     "build": "npm run build:assets && hugo",
     "start": "npm run clean && npm run sass:build && npm run babel:build && parallelshell 'npm run sass:watch' 'npm run babel:watch' 'hugo serve'",
-    "import": "ruby genfiles.rb && ruby gennc.rb"
+    "import": "ruby genfiles.rb && ruby gennc.rb",
+    "import-marcas": "ruby genmarcas.rb"
   },
   "devDependencies": {
     "babel-cli": "^6.18.0",
