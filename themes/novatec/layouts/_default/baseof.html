@@ -8,8 +8,8 @@
   <link rel="stylesheet" type="text/css" href="/site.css">
 </head>
 <body translate="no">
+  {{ partial "header.html" . }}
   <main id="main">
-    {{ partial "header.html" . }}
     {{ block "main" . }}
     {{ end }}
   </main>
