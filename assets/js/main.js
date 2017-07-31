@@ -16,7 +16,7 @@ function closeNav() {
 /// SLIDER en el home
 var slides = document.querySelectorAll('#slides .slide');
 var currentSlide = 0;
-var slideInterval = setInterval(nextSlide,2000);
+var slideInterval = setInterval(nextSlide,4000);
 
 function nextSlide() {
     goToSlide(currentSlide+1);
@@ -41,7 +41,7 @@ function pauseSlideshow() {
 
 function playSlideshow() {
     playing = true;
-    slideInterval = setInterval(nextSlide,2000);
+    slideInterval = setInterval(nextSlide,4000);
 }
 
 var next = document.getElementById('next');
