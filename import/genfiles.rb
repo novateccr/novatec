@@ -2,11 +2,11 @@ require 'yaml'
 require 'parameterize'
 require 'open-uri'
 
-productos = YAML.load_file('data/v5n_novatec_productos.yml').select{|p| p['state'] > -2}
-marcas = YAML.load_file('data/v5n_novatec_marcas.yml')
-industrias = YAML.load_file('data/v5n_novatec_industrias.yml')
-familias = YAML.load_file('data/v5n_novatec_familias_productos.yml')
-noticias = YAML.load_file('data/v5n_content.yml').select{|p| p['state'] > -2 and p['catid'] == 9}
+productos = YAML.load_file('import/v5n_novatec_productos.yml').select{|p| p['state'] > -2}
+marcas = YAML.load_file('import/v5n_novatec_marcas.yml')
+industrias = YAML.load_file('import/v5n_novatec_industrias.yml')
+familias = YAML.load_file('import/v5n_novatec_familias_productos.yml')
+noticias = YAML.load_file('import/v5n_content.yml').select{|p| p['state'] > -2 and p['catid'] == 9}
 
 productos.each do |product|
 

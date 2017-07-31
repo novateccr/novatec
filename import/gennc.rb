@@ -2,9 +2,9 @@ require 'yaml'
 require 'parameterize'
 require 'open-uri'
 
-productos = YAML.load_file('data/v5n_novatec_construccion_producto.yml')
-marcas = YAML.load_file('data/v5n_novatec_construccion_marcas.yml')
-subfamilias = YAML.load_file('data/v5n_novatec_construccion_subfamilias.yml')
+productos = YAML.load_file('import/v5n_novatec_construccion_producto.yml')
+marcas = YAML.load_file('import/v5n_novatec_construccion_marcas.yml')
+subfamilias = YAML.load_file('import/v5n_novatec_construccion_subfamilias.yml')
 
 productos.each do |producto|
   puts "producto - #{producto['titulo']}"
@@ -12,10 +12,10 @@ productos.each do |producto|
   state = producto['state'] > 0 ? false : true
 
   #Marca
-  marca = marcas.find{|marca| marca['id'] == producto['marca']}['titulo']
+  marca = marcas.find{|marca| marca['id'] == producto['marca']}['titulo'].strip
 
   #Subfamilia
-  subfamilia = subfamilias.find{|s| s['id'] == producto['subfamilia']}['titulo']
+  subfamilia = subfamilias.find{|s| s['id'] == producto['subfamilia']}['titulo'].strip
 
   File.open("content/novatec-construccion/#{producto['titulo'].parameterize}.md", "w+") do |file|
     file.write("+++\n")

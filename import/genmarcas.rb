@@ -3,7 +3,7 @@ require 'parameterize'
 require 'open-uri'
 require 'fileutils'
 
-marcas = YAML.load_file('data/v5n_novatec_marcas.yml')
+marcas = YAML.load_file('import/v5n_novatec_marcas.yml')
 
 marcas.each_with_index do |marca, index|
   FileUtils::mkdir_p "content/marcas/#{marca['titulo'].parameterize}"

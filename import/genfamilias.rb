@@ -3,7 +3,7 @@ require 'parameterize'
 require 'open-uri'
 require 'fileutils'
 
-familias = YAML.load_file('data/v5n_novatec_familias_productos.yml')
+familias = YAML.load_file('import/v5n_novatec_familias_productos.yml')
 
 familias.each_with_index do |familia, index|
   FileUtils::mkdir_p "content/productos/#{familia['titulo'].parameterize}"

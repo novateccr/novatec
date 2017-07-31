@@ -3,7 +3,7 @@ require 'parameterize'
 require 'open-uri'
 require 'fileutils'
 
-industrias = YAML.load_file('data/v5n_novatec_industrias.yml')
+industrias = YAML.load_file('import/v5n_novatec_industrias.yml')
 
 industrias.each_with_index do |industria, index|
   FileUtils::mkdir_p "content/industrias/#{industria['titulo'].parameterize}"

@@ -1,8 +1,8 @@
 +++
 title = "Eucobar"
 id = 23
-marcas = ["Euclid Chemical "]
-subfamilias = ["Retardante Evaporación "]
+marcas = ["Euclid Chemical"]
+subfamilias = ["Retardante Evaporación"]
 draft = false
 +++
 

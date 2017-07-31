@@ -1,7 +1,7 @@
 +++
 title = "Adercril"
 id = 17
-marcas = ["Euclid Chemical "]
+marcas = ["Euclid Chemical"]
 subfamilias = ["Acrilicos Integrales"]
 draft = false
 +++

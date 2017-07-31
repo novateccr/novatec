@@ -1,7 +1,7 @@
 +++
 title = "Emulsion Asfaltica"
 id = 6
-marcas = ["Euclid Chemical "]
+marcas = ["Euclid Chemical"]
 subfamilias = ["Asfalticos"]
 draft = false
 +++

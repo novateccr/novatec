@@ -1,7 +1,7 @@
 +++
 title = "Eucon BK-S"
 id = 54
-marcas = ["Euclid Chemical "]
+marcas = ["Euclid Chemical"]
 subfamilias = ["Aditivos Para Mamposteria"]
 draft = false
 +++

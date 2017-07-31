@@ -1,7 +1,7 @@
 +++
 title = "Aquazero"
 id = 5
-marcas = ["Euclid Chemical "]
+marcas = ["Euclid Chemical"]
 subfamilias = ["Membranas Acrilicos"]
 draft = false
 +++
