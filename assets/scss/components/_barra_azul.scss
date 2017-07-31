@@ -1,0 +1,20 @@
+.barra-azul {
+  background: $azul;
+  padding: $general-padding*3;
+  color: $blanco;
+  text-align: center;
+  border-bottom: solid 1px $blanco;
+  border-top: solid 1px $blanco;
+
+  .titular {
+    font-size: 2em;
+    font-weight: bold;
+    line-height: 1em;
+  }
+
+  .subtitular {
+    font-size: 1em;
+    font-weight: bold;
+    color: #bbb;
+  }
+}

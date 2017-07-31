@@ -46,5 +46,12 @@ slides:
     description: "<p>Bombas · Válvulas · Actuadores</p>"
     published: true
     link: "/marcas/flowserve/"
+
+barra_azul:
+  titular: Confíe en la excelencia
+  subtitular: Líderes en soluciones...
+
+barra_fondo_imagen:
+  texto: "\"Una empresa de éxito aprovecha sus puntos fuertes, debe actuar con rapidez y flexibilidad, y se concentra en lo esencial. Y para nosotros lo esencial es la satisfacción del cliente.\""
+  imagen: "/images/slideshow/slide3-dark.jpg"
 ---
-Contenido principal del index
