@@ -23,18 +23,6 @@ slides:
     published: true
     link:
   -
-    title: "Sirviendo a la industria"
-    image: "images/slideshow/home-vertical-1.jpg"
-    description: "<p>Bombas · Filtros · Sellos · Pisos · Neumática · Hidráulica</p>\r\n<p class=\"btn btn-primary\">Ver Catálogo de Productos</p>"
-    published: true
-    link:
-  -
-    title: "Consulte uno de nuestros asesores"
-    image: "images/slideshow/home-vertical-2.jpg"
-    description: "<p class=\"btn btn-primary\">Contáctenos</p>"
-    published: true
-    link: 
-  -
     title: "Todo en Pisos"
     image: "images/slideshow/marcas.jpg"
     description: ""
@@ -47,7 +35,7 @@ slides:
     published: true
     link: "/industrias/dispositivos-medicos/"
   -
-    title: "Bombas Sanitarias Fristam""
+    title: "Bombas Sanitarias Fristam"
     image: "images/slideshow/Fristam-Seal.jpg"
     description: "<p>Bombas Sanitarias Centrífugas · Desplazamiento Positivas · Mezcladoras</p>"
     published: true

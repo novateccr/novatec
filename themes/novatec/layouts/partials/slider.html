@@ -1,9 +1,15 @@
 <ul id="slides">
   {{ range $index, $element := .Params.slides }}
     <li class="slide{{ if (eq $index 0) }}showing{{end}}">
-      <img src="{{ .image }}" />
-      Slide {{$index}}
-      {{ .title }}
+      <img src="{{ .image }}" class="slide-image" />
+      <div class="slide-text">
+        <div class="slide-title">
+          {{ .title }}
+        </div>
+        {{ with .description }}
+          <div class="slide-description">{{ . | safeHTML }}</div>
+        {{ end }}
+      </div>
     </li>
   {{ end }}
   <div class="slider-controls">
