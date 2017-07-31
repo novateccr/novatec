@@ -1,35 +1,82 @@
 #slides {
-    position: relative;
-    height: 300px;
-    padding: 0px;
-    margin: 0px;
-    list-style-type: none;
+  position: relative;
+  height: 300px;
+  padding: 0px;
+  margin: 0px;
+  list-style-type: none;
+  overflow: hidden;
+
+  &:hover > .slider-controls{
+    opacity: 1;
+  }
 }
 
 .slide {
-    position: absolute;
-    left: 0px;
-    top: 0px;
-    width: 100%;
-    height: 100%;
-    opacity: 0;
-    z-index: 1;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+  opacity: 0;
+  z-index: 1;
 
-    -webkit-transition: opacity 1s;
-    -moz-transition: opacity 1s;
-    -o-transition: opacity 1s;
-    transition: opacity 1s;
+  -webkit-transition: opacity 1s;
+  -moz-transition: opacity 1s;
+  -o-transition: opacity 1s;
+  transition: opacity 1s;
 }
 
 .showing {
-    opacity: 1;
-    z-index: 2;
+  opacity: 1;
+  z-index: 2;
 }
 
 .slider-controls {
   position: absolute;
   width: 100%;
-  bottom: 0;
+  z-index: 3;
   left: 0;
-  z-index: 50;
+  top: 50%;
+  transform: translateY(-50%);
+  opacity: 0;
+  transition: opacity 0.5s;
+
+  button {
+    border-radius: 50%;
+    color: $blanco;
+    border: 0;
+    width: 40px;
+    height: 40px;
+    background: rgba(0, 0, 0, 0.5);
+    text-align: center;
+    padding: 0;
+    line-height: 1;
+    cursor: pointer;
+    opacity: 0.8;
+
+    &:hover {
+      background: rgba(0, 0, 0, 0.7);
+      opacity: 1;
+    }
+  }
+
+  #previous {
+    position: absolute;
+    left: $general-padding*2;
+    top: 0;
+
+    i {
+      margin-left: -4px;
+    }
+  }
+
+  #next {
+    position: absolute;
+    right: $general-padding*2;
+    top: 0;
+
+    i {
+      margin-right: -4px;
+    }
+  }
 }
