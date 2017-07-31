@@ -3,6 +3,9 @@ languageCode = "es-cr"
 title = "Novatec Industrial"
 theme = "novatec"
 
+[context.deploy-preview.environment]
+  HUGO_VERSION = "0.25.1"
+
 [taxonomies]
   industria = "industrias"
   marca = "marcas"
