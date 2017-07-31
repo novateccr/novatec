@@ -1,0 +1,10 @@
+<section id="ultimas-noticias">
+  <div class="container">
+    <h2>Últimas noticias</h2>
+    <ul>
+      {{ range first 4 (where (where .Data.Pages "Section" "noticias" ) ".Params.draft" "==" false) }}
+         <li>{{ .Title }} - {{.Date}}</li>
+      {{ end }}
+    </ul>
+  </div>
+</section>
