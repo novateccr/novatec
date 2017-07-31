@@ -1,6 +1,6 @@
 +++
 title = "La Bomba FKL Elimina $45,000 en reparaciones"
-date = "2015-11-05 21:01:48"
+date = "2015-11-05"
 asset_id = 135
 alias = "fkl-pasta"
 metakey = ""

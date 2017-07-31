@@ -1,6 +1,6 @@
 +++
 title = "Tubería en Aluminio para aire comprimido"
-date = "2015-10-17 02:12:57"
+date = "2015-10-17"
 asset_id = 132
 alias = "tuberia-en-aluminio-para-aire-comprimido"
 metakey = ""

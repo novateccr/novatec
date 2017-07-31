@@ -1,6 +1,6 @@
 +++
 title = "Novatec - Horario de Navidad y fin de año..."
-date = "2016-12-16 18:20:00"
+date = "2016-12-16"
 asset_id = 138
 alias = "novatec-horario-de-navidad-y-fin-de-ano"
 metakey = ""

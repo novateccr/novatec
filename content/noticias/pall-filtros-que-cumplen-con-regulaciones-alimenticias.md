@@ -1,6 +1,6 @@
 +++
 title = "PALL - filtros que cumplen con regulaciones alimenticias"
-date = "2015-09-15 13:51:45"
+date = "2015-09-15"
 asset_id = 125
 alias = "pall-filtros-que-cumplen-con-regulaciones-alimenticias"
 metakey = ""

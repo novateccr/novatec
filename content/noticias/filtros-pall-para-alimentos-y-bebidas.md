@@ -1,6 +1,6 @@
 +++
 title = "Filtros PALL para Alimentos y Bebidas"
-date = "2016-02-06 18:29:46"
+date = "2016-02-06"
 asset_id = 139
 alias = "filtros-pall-para-alimentos-y-bebidas"
 metakey = ""

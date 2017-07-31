@@ -1,6 +1,6 @@
 +++
 title = "Bombas GRACO - Doble diafragma eléctricas "
-date = "2015-09-24 00:45:37"
+date = "2015-09-24"
 asset_id = 128
 alias = "bombas-graco-doble-diafragmas-electricas"
 metakey = ""
