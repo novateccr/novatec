@@ -1,0 +1,158 @@
+%YAML 1.1
+---
+# novatecnew.v5n_djimageslider
+-
+  id: 1
+  catid: 10
+  title: "Consulte a uno de nuestros asesores"
+  alias: "consulte-a-uno-de-nuestros-asesores"
+  image: "images/slideshow/slide3.jpg"
+  description: ""
+  published: 1
+  publish_up: "0000-00-00 00:00:00"
+  publish_down: "0000-00-00 00:00:00"
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  ordering: 1
+  params: "{\"link_type\":\"menu\",\"link_menu\":\"181\",\"link_url\":\"\",\"link_article\":\"\",\"link_target\":\"\"}"
+-
+  id: 2
+  catid: 10
+  title: "Confíe en la excelencia"
+  alias: "confie-en-la-excelencia"
+  image: "images/slideshow/slide1.jpg"
+  description: ""
+  published: 1
+  publish_up: "0000-00-00 00:00:00"
+  publish_down: "0000-00-00 00:00:00"
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  ordering: 4
+  params: "{\"link_type\":\"\",\"link_menu\":\"237\",\"link_url\":\"\",\"link_article\":\"\",\"link_target\":\"\"}"
+-
+  id: 3
+  catid: 10
+  title: "Sirviendo a la industria"
+  alias: "sirviendo-a-la-industria"
+  image: "images/slideshow/slide2.jpg"
+  description: "<p>Bombas · Filtros · Sellos · Pisos · Neumática · Hidráulica</p>"
+  published: 1
+  publish_up: "0000-00-00 00:00:00"
+  publish_down: "0000-00-00 00:00:00"
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  ordering: 6
+  params: "{\"link_type\":\"\",\"link_menu\":\"237\",\"link_url\":\"\",\"link_article\":\"\",\"link_target\":\"\"}"
+-
+  id: 4
+  catid: 10
+  title: "Solucionando los desafios de nuestros clientes"
+  alias: "solucionando-los-desafios-de-nuestros-clientes"
+  image: "images/slideshow/rexroth-slide.jpg"
+  description: ""
+  published: 0
+  publish_up: "0000-00-00 00:00:00"
+  publish_down: "0000-00-00 00:00:00"
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  ordering: 5
+  params: "{\"link_type\":\"menu\",\"link_menu\":\"110\",\"link_url\":\"\",\"link_article\":\"\",\"link_target\":\"\"}"
+-
+  id: 5
+  catid: 12
+  title: "Sirviendo a la industria"
+  alias: "sirviendo-a-la-industria"
+  image: "images/slideshow/home-vertical-1.jpg"
+  description: "<p>Bombas · Filtros · Sellos · Pisos · Neumática · Hidráulica</p>\r\n<p class=\"btn btn-primary\">Ver Catálogo de Productos</p>"
+  published: 1
+  publish_up: "0000-00-00 00:00:00"
+  publish_down: "0000-00-00 00:00:00"
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  ordering: 0
+  params: "{\"link_type\":\"menu\",\"link_menu\":\"110\",\"link_url\":\"\",\"link_article\":\"\",\"link_target\":\"\"}"
+-
+  id: 6
+  catid: 12
+  title: "Consulte uno de nuestros asesores"
+  alias: "consulte-uno-de-nuestros-asesores"
+  image: "images/slideshow/home-vertical-2.jpg"
+  description: "<p class=\"btn btn-primary\">Contáctenos</p>"
+  published: 1
+  publish_up: "0000-00-00 00:00:00"
+  publish_down: "0000-00-00 00:00:00"
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  ordering: 0
+  params: "{\"link_type\":\"menu\",\"link_menu\":\"181\",\"link_url\":\"\",\"link_article\":\"\",\"link_target\":\"\"}"
+-
+  id: 7
+  catid: 12
+  title: "Innovando..."
+  alias: "innovando"
+  image: "images/slideshow/noticias.jpg"
+  description: ""
+  published: 1
+  publish_up: "0000-00-00 00:00:00"
+  publish_down: "0000-00-00 00:00:00"
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  ordering: 0
+  params: "{\"link_type\":\"menu\",\"link_menu\":\"101\",\"link_url\":\"\",\"link_article\":\"\",\"link_target\":\"\"}"
+-
+  id: 8
+  catid: 10
+  title: "Todo en Pisos"
+  alias: "todo-en-pisos"
+  image: "images/slideshow/marcas.jpg"
+  description: ""
+  published: 1
+  publish_up: "0000-00-00 00:00:00"
+  publish_down: "0000-00-00 00:00:00"
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  ordering: 7
+  params: "{\"link_type\":\"menu\",\"link_menu\":\"144\",\"link_url\":\"\",\"link_article\":\"\",\"link_target\":\"\"}"
+-
+  id: 9
+  catid: 10
+  title: "Dispositivos Médicos"
+  alias: "dispositivos-medicos"
+  image: "images/slideshow/Rexroth.jpg"
+  description: ""
+  published: 1
+  publish_up: "0000-00-00 00:00:00"
+  publish_down: "0000-00-00 00:00:00"
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  ordering: 3
+  params: "{\"link_type\":\"menu\",\"link_menu\":\"155\",\"link_url\":\"\",\"link_article\":\"\",\"link_target\":\"\"}"
+-
+  id: 10
+  catid: 10
+  title: "Bombas Sanitarias Fristam"
+  alias: "bombas-sanitarias-fristam"
+  image: "images/slideshow/Fristam-Seal.jpg"
+  description: "<p>Bombas Sanitarias Centrífugas · Desplazamiento Positivas · Mezcladoras</p>"
+  published: 1
+  publish_up: "0000-00-00 00:00:00"
+  publish_down: "0000-00-00 00:00:00"
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  ordering: 2
+  params: "{\"link_type\":\"menu\",\"link_menu\":\"167\",\"link_url\":\"\",\"link_article\":\"\",\"link_target\":\"\"}"
+-
+  id: 11
+  catid: 10
+  title: "Flowserve"
+  alias: "flowserve"
+  image: "images/slideshow/Flowserve1.jpg"
+  description: "<p>Bombas · Válvulas · Actuadores</p>"
+  published: 1
+  publish_up: "0000-00-00 00:00:00"
+  publish_down: "0000-00-00 00:00:00"
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  ordering: 8
+  params: "{\"link_type\":\"menu\",\"link_menu\":\"166\",\"link_url\":\"\",\"link_article\":\"\",\"link_target\":\"\"}"
+...
