@@ -183,10 +183,11 @@ header {
   &:after {
     content: "\f002";
     font-family: FontAwesome;
-    left: 9px;
+    left: 12px;
     position: absolute;
-    top: 9px;
+    top: 15px;
     color: $text-color;
+    font-size: 14px;
   }
 
   @include grid-media($desktop-grid) {
