@@ -32,7 +32,7 @@
     margin-bottom: 5px;
   }
 
-  a, a:active, a:focus {
+  a:not(.btn-primary), a:active, a:focus {
     color: $mid-grey;
 
     &:hover {
