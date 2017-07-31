@@ -1,9 +1,11 @@
 {{ define "main" }}
-  <h1>{{ .Title }}</h1>
-  <ul>
-    {{ range ($.Site.GetPage "taxonomyTerm" .Data.Plural ).Pages }}
-     <li><a href="{{ .Permalink }}">{{ .Title}}</a></li>
-    {{ end }}
-  </ul>
-  terms
+  <div class='container'>
+    <h1>{{ .Title }}</h1>
+    <ul>
+      {{ range ($.Site.GetPage "taxonomyTerm" .Data.Plural ).Pages }}
+       <li><a href="{{ .Permalink }}">{{ .Title}}</a></li>
+      {{ end }}
+    </ul>
+    terms
+  </div>
 {{ end }}
