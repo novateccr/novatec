@@ -176,21 +176,29 @@ header {
 }
 
 .header-search {
+
   display: none;
+  position: relative;
+
+  &:after {
+    content: "\f002";
+    font-family: FontAwesome;
+    left: 9px;
+    position: absolute;
+    top: 9px;
+    color: $text-color;
+  }
 
   @include grid-media($desktop-grid) {
     @include grid-column(2);
     display: block;
   }
-}
-
-.header-search {
 
   input {
     border-radius: $general-border-radius;
     border: solid 1px $mid-grey;
     font-size: 14px;
-    padding: 10px 15px;
+    padding: 10px 15px 10px 35px;
     margin-top: 5px;
     width: 100%;
   }
