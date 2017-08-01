@@ -1,7 +1,7 @@
 +++
 title = "PALL - filtros que cumplen con regulaciones alimenticias"
 date = "2015-09-15 13:51:45"
-image = "images/noticias/Code-W.png"
+image = "{"image_intro":"images\/noticias\/Code-W.png","float_intro":"","image_intro_alt":"","image_intro_caption":"","image_fulltext":"","float_fulltext":"","image_fulltext_alt":"","image_fulltext_caption":""}"
 asset_id = 125
 alias = "pall-filtros-que-cumplen-con-regulaciones-alimenticias"
 metakey = ""

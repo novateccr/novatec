@@ -5,9 +5,10 @@ require 'fileutils'
 
 familias = YAML.load_file('import/v5n_novatec_familias_productos.yml')
 
+FileUtils::mkdir_p "content/familias/"
+
 familias.each_with_index do |familia, index|
-  FileUtils::mkdir_p "content/productos/#{familia['titulo'].parameterize}"
-  File.open("content/productos/#{familia['titulo'].parameterize}/_index.md", "w+") do |file|
+  File.open("content/familias/#{familia['titulo'].parameterize}.md", "w+") do |file|
     file.write("---\n")
     file.write("title: \"#{familia['titulo']}\"\n")
     file.write("id: #{familia['id']}\n")

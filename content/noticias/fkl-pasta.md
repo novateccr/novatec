@@ -1,7 +1,7 @@
 +++
 title = "La Bomba FKL Elimina $45,000 en reparaciones"
 date = "2015-11-05 21:01:48"
-image = "images/productos/2f93b790c4ebca8e5e327f8afadc8617-FKL.jpg"
+image = "{"image_intro":"images\/productos\/2f93b790c4ebca8e5e327f8afadc8617-FKL.jpg","float_intro":"","image_intro_alt":"","image_intro_caption":"","image_fulltext":"images\/TomatoPaste-288w.jpg","float_fulltext":"left","image_fulltext_alt":"","image_fulltext_caption":""}"
 asset_id = 135
 alias = "fkl-pasta"
 metakey = ""
