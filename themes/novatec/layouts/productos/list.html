@@ -2,7 +2,7 @@
   <div class="container">
     <h1>{{.Title}}</h1>
     <ul>
-      {{ range ($.Site.GetPage "taxonomyTerm" "familias" ).Pages }}
+      {{ range ($.Site.GetPage "Section" "familias" ).Pages }}
        <li><a href="{{ .Permalink }}">{{ .Title}}</a></li>
       {{ end }}
     </ul>

@@ -1,7 +1,8 @@
 +++
 title = "Bombas GRACO - Doble diafragma eléctricas "
 date = "2015-09-24 00:45:37"
-image = "{"image_intro":"images\/noticias\/BBAHE.png","float_intro":"","image_intro_alt":"Bombas GRACO - Doble diafragmas eléctricas ","image_intro_caption":"","image_fulltext":"","float_fulltext":"","image_fulltext_alt":"","image_fulltext_caption":""}"
+imagen_intro = "images/noticias/BBAHE.png"
+imagen_full = ""
 asset_id = 128
 alias = "bombas-graco-doble-diafragmas-electricas"
 metakey = ""
