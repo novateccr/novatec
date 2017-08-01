@@ -1,9 +1,15 @@
-<section id="ultimas-noticias">
+<section id="noticias-home">
   <div class="container">
     <h2 class="home-title">Últimas noticias</h2>
     <ul>
       {{ range first 4 (where (where .Data.Pages "Section" "noticias" ) ".Params.draft" "==" false) }}
-         <li>{{ .Title }} - {{.Date}}</li>
+         <li>
+           <a class="noticia-title" href="{{ .Permalink }}">
+             {{ .Title }}
+             <br/>
+             <span class="noticia-fecha">{{ .Date.Format "January 2, 2006" }}</span>
+           </a>
+         </li>
       {{ end }}
     </ul>
   </div>
