@@ -3,11 +3,11 @@
     <h2 class="home-title">Nuestras marcas</h2>
     <ul>
       {{ range where .Data.Pages "Section" "marcas" }}
-        {{ $linkmarca := .Params.link }}
+        {{ $marca := . }}
         {{ with .Params.logo }}
           <li>
-            <a href="{{ $linkmarca }}">
-              <img src="/images/logos/{{ . }}" width="108"/>
+            <a href="{{ $marca.Params.link }}" target="_blank" title="Haga click para visitar el sitio web de {{ $marca.Title }}">
+              <img src="/images/logos/{{ . }}" width="108" alt="{{ $marca.Title }}" />
             </a>
           </li>
         {{ end }}
