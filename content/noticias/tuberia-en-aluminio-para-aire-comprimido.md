@@ -1,6 +1,7 @@
 +++
 title = "Tubería en Aluminio para aire comprimido"
-date = "2015-10-17"
+date = "2015-10-17 02:12:57"
+image = "images/familias/3d73730cdd61787a39f72a58c9f4a34a-aire-comprimido.jpg"
 asset_id = 132
 alias = "tuberia-en-aluminio-para-aire-comprimido"
 metakey = ""

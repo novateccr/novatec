@@ -89,6 +89,7 @@ noticias.each do |noticia|
     file.write("+++\n")
     file.write("title = \"#{noticia['title']}\"\n")
     file.write("date = \"#{noticia['created']}\"\n")
+    file.write("image = \"#{noticia['images']}\"\n")
     file.write("asset_id = #{noticia['asset_id']}\n")
     file.write("alias = \"#{noticia['alias']}\"\n")
     file.write("metakey = \"#{noticia['metakey']}\"\n")

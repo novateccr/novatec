@@ -1,6 +1,7 @@
 +++
 title = "Bombas GRACO - Doble diafragma eléctricas "
-date = "2015-09-24"
+date = "2015-09-24 00:45:37"
+image = "images/noticias/BBAHE.png"
 asset_id = 128
 alias = "bombas-graco-doble-diafragmas-electricas"
 metakey = ""

@@ -1,6 +1,7 @@
 +++
 title = "Novatec - Horario de Navidad y fin de año..."
-date = "2016-12-16"
+date = "2016-12-16 18:20:00"
+image = "images/noticias/Tarjeta-NavideaNovatec.png"
 asset_id = 138
 alias = "novatec-horario-de-navidad-y-fin-de-ano"
 metakey = ""

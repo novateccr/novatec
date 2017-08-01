@@ -1,6 +1,7 @@
 +++
 title = "Emergencia Nacional - Huracán Otto "
-date = "2016-11-24"
+date = "2016-11-24 13:02:51"
+image = "images/noticias/Huracan-Otto.png"
 asset_id = 142
 alias = "emergencia-nacional-huracan-otto"
 metakey = ""

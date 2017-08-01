@@ -1,6 +1,7 @@
 +++
 title = "Horario de Semana Santa "
-date = "2016-03-20"
+date = "2016-03-20 01:11:00"
+image = "images/noticias/NInews.jpg"
 asset_id = 137
 alias = "martes-23-estamos-sin-electricidad-7am-a-5-pm"
 metakey = ""
