@@ -1,0 +1,10 @@
+<section id="marcas">
+  <div class="container">
+    <h2>Nuestras marcas</h2>
+    <ul>
+      {{ range where .Data.Pages "Section" "marcas" }}
+        <li>{{ .Title }}{{ . }}</li>
+      {{ end }}
+    </ul>
+  </div>
+</section>
