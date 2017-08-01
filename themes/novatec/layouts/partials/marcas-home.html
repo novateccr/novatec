@@ -1,9 +1,16 @@
 <section id="marcas">
   <div class="container">
-    <h2>Nuestras marcas</h2>
+    <h2 class="home-title">Nuestras marcas</h2>
     <ul>
       {{ range where .Data.Pages "Section" "marcas" }}
-        <li>{{ .Title }}{{ . }}</li>
+        {{ $linkmarca := .Params.link }}
+        {{ with .Params.logo }}
+          <li>
+            <a href="{{ $linkmarca }}">
+              <img src="/images/logos/{{ . }}" width="108"/>
+            </a>
+          </li>
+        {{ end }}
       {{ end }}
     </ul>
   </div>
