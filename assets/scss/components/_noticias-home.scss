@@ -24,3 +24,24 @@
   }
 
 }
+
+.noticia-imagen-container {
+  position: relative;
+  height: 0;
+  width: 100%;
+  padding-top: 50%;
+  border: solid 1px $mid-grey;
+}
+
+.noticia-imagen {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  top: 0;
+  left: 0;
+
+  img {
+    max-width: 100%;
+  }
+}

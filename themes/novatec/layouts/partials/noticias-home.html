@@ -4,6 +4,13 @@
     <ul>
       {{ range first 4 (where (where .Data.Pages "Section" "noticias" ) ".Params.draft" "==" false) }}
          <li>
+           <a class="noticia-image-link" href="{{ .Permalink }}">
+             <div class="noticia-imagen-container">
+               <div class="noticia-imagen">
+                 <img src="{{ .Params.image }}" alt="{{ .Title }}" />
+               </div>
+             </div>
+           </a>
            <a class="noticia-title" href="{{ .Permalink }}">
              {{ .Title }}
              <br/>
