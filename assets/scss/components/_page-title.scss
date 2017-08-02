@@ -1,0 +1,23 @@
+.page-title {
+  padding: $general-padding*2 0;
+  position: relative;
+  z-index: -2;
+  background-size: cover;
+  margin-bottom: $general-padding;
+
+  h1 {
+    color: $blanco;
+  }
+
+  &:after {
+    content: ' ';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: $azul;
+    opacity: 0.5;
+    z-index: -1;
+  }
+}

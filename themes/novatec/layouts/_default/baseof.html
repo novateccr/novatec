@@ -10,6 +10,8 @@
 <body translate="no">
   {{ partial "header.html" . }}
   <main id="main">
+    {{ block "page-title" . }}
+    {{ end }}
     {{ block "main" . }}
     {{ end }}
   </main>
