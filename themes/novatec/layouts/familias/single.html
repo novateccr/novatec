@@ -11,7 +11,7 @@
             {{ range $value.Pages }}
               <li class="product-grid-block">
                 <a href="{{ .Permalink }}">
-                  <div class="product-grid-image" style="background-image: url({{ .Params.imagen }});"></div>
+                  <div class="product-grid-image" style="background-image: url(/{{ .Params.thumbnail }});"></div>
                   <div class="product-block-title">
                     <h3>{{ .Title }}</h3>
                   </div>
