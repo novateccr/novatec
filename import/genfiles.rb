@@ -68,7 +68,7 @@ productos.each do |product|
     file.write("marcas = #{marcas_string}\n")
     file.write("familias = #{familias_string}\n")
     file.write("industrias = #{industrias_string}\n")
-    file.write("thumbnail = \"images/productos/original-#{product['titulo'].parameterize}#{thumbnail_extension}\"\n")
+    file.write("thumbnail = \"/images/productos/original-#{product['titulo'].parameterize}#{thumbnail_extension}\"\n")
     file.write("catalogo = \"/catalogos/original-#{product['titulo'].parameterize}.pdf\"\n")
     file.write("meta_description = \"#{product['meta_description']}\"\n")
     file.write("meta_keywords = \"#{product['meta_keywords']}\"\n")
