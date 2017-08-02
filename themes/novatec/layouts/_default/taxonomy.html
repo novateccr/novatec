@@ -1,9 +1,11 @@
+{{ define "page-title"}}
+  {{ partial "page-title.html" .}}
+{{ end }}
 {{ define "main" }}
-  <h1>{{ .Title }}</h1>
   <ul class="tags">
     {{ range .Pages }}
      <li>
-       <a href="{{ .Permalink }}">{{ .Title}}</a>
+       <a href="{{ .Permalink }}">{{ .Title}}{{ .Params.thumbnail }}</a>
      </li>
     {{ end }}
   </ul>
