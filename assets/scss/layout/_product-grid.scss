@@ -1,0 +1,71 @@
+.product-grid {
+  @include grid-container;
+  @include grid-collapse;
+  list-style: none;
+  padding: 0;
+}
+
+.product-grid-block {
+  @include grid-column(3);
+  position: relative;
+  border: solid 1px $mid-grey;
+  margin-bottom: $general-padding;
+  transition: all 0.5s;
+  box-shadow: 0;
+  background-image: url('http://via.placeholder.com/268x201/f0f0f0/ffffff?text=Sin+imagen');
+
+  &:hover {
+    border-color: $azul;
+    box-shadow: 1px 1px 6px rgba(68,68,68,0.5);
+  }
+
+}
+
+.product-grid-image {
+  width: 100%;
+  padding-bottom: 75%;
+  background-size: cover;
+}
+
+.product-block-title {
+  background: rgba(39, 87, 153, 0.8);
+  padding: 10px;
+  position: absolute;
+  bottom: -1px;
+  left: -1px;
+  width: calc(100% + 2px);
+  transition: background 0.8s;
+
+  h3 {
+    font-size: 14px;
+    color: $blanco;
+    margin: 0;
+    font-weight: 400;
+
+    &:before {
+      content: '\f18e';
+      display: inline-block;
+      font: normal normal normal 1em/1 FontAwesome;
+      font-size: inherit;
+      text-rendering: auto;
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+      transform: translate(0,0);
+      color: #fff;
+      -webkit-transition: width 0.2s,margin-left 0.2s;
+      transition: width 0.2s,margin-left 0.2s;
+      margin-left: -25px;
+      margin-right: 10px;
+      overflow: visible;
+      line-height: 1.5em;
+    }
+  }
+}
+
+.product-grid-block:hover .product-block-title h3:before {
+  margin-left: 0;
+}
+
+.product-grid-block:hover .product-block-title {
+  background: rgba(39, 87, 153, 1);
+}

@@ -1,18 +1,20 @@
 {{ define "page-title"}}
   {{ partial "page-title.html" .}}
 {{ end }}
+
 {{ define "main" }}
   <div class="container">
-    <ul>
+    <ul class="product-grid">
       {{ range where .Site.Pages "Section" "familias" }}
-        <li>
-          <div class="">
-           <img src="{{ .Params.imagen }}" />
-          </div>
-          <a href="{{ .Permalink }}">{{ .Title}}</a>
+        <li class="product-grid-block">
+          <a href="{{ .Permalink }}">
+            <div class="product-grid-image" style="background-image: url({{ .Params.imagen }});"></div>
+            <div class="product-block-title">
+              <h3>{{ .Title }}</h3>
+            </div>
+          </a>
         </li>
       {{ end }}
     </ul>
-    terms
   </div>
 {{ end }}
