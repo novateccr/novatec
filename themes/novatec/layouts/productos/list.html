@@ -2,8 +2,13 @@
   <div class="container">
     <h1>{{.Title}}</h1>
     <ul>
-      {{ range ($.Site.GetPage "Section" "familias" ).Pages }}
-       <li><a href="{{ .Permalink }}">{{ .Title}}</a></li>
+      {{ range where .Site.Pages "Section" "familias" }}
+        <li>
+          <div class="">
+           <img src="{{ .Params.imagen }}" />
+          </div>
+          <a href="{{ .Permalink }}">{{ .Title}}</a>
+        </li>
       {{ end }}
     </ul>
     terms

@@ -1,7 +1,7 @@
 ---
 title: "Filtros "
 id: 30
-imagen: ""
+imagen: "/images/familias/6e235b25165a7b8eaa9cb9f9f3dea181-PALL-General.jpg"
 link: ""
 catalogo: ""
 meta_keywords: ""
