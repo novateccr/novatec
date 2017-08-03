@@ -1,0 +1,32 @@
+{{ define "page-title"}}
+  {{ partial "page-title.html" .}}
+{{ end }}
+
+{{ define "main" }}
+  <div class="container">
+    <section id="prpducto-main">
+      {{ .Content }}
+    </section>
+    <section id="marca">
+      {{ $marca := urlize (index .Params.marcas 0) }}
+      {{ $marca_path := ".md" | print $marca }}
+      {{ with .Site.GetPage "page" "marcas" $marca_path }}
+        <div id="marca-box">
+          {{ .Title }}<br/>
+          <img src="/images/logos/{{ .Params.logo }}" alt="{{ .Title }}" />
+          <a href="{{ .Params.link }}" target="_blank"><i class="fa fa-globe"></i> Ir al sitio de {{ .Title }}</a>
+        </div>
+      {{ end }}
+      <div id="marca-tags">
+        {{ range .Params.familias }}
+          <strong>Familia de productos:</strong> <a href="{{ "/familias/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>
+        {{ end }}
+        <br/>
+        {{ if .Params.industrias }}
+          <strong>Industria{{ if gt (len .Params.industrias) 1 }}s{{ end }}:</strong>
+          {{ range $index, $industria := .Params.industrias }}{{ if gt $index 0 }}, {{ end }}<a href="{{ "industrias/" | relURL }}{{ . | urlize }}">{{ . }}</a>{{ end }}
+        {{ end }}
+      </div>
+    </section>
+  </div>
+{{ end }}
