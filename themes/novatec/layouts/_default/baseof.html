@@ -16,5 +16,8 @@
     {{ end }}
   </main>
   {{ partial "footer.html" . }}
+  {{ if eq (getenv "LOCAL_DEV") "true" }}
+    {{ partial "debug.html" . }}
+  {{ end }}
   {{ block "scripts" .}}{{ end }}
 </body>
