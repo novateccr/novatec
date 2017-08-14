@@ -1,7 +1,7 @@
 ---
 title: "Hidráulica"
 id: 41
-imagen: "/images/familias/38567804fbfc7ebebd2acd318bde2d55-sellado.jpg"
+imagen: ""
 link: ""
 catalogo: ""
 meta_keywords: ""
