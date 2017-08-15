@@ -3,6 +3,10 @@ languageCode = "es-cr"
 title = "Novatec Industrial"
 theme = "novatec"
 
+#Taxonomy names with forwign characters
+preserveTaxonomyNames = true
+RemovePathAccents = true
+
 [context.deploy-preview.environment]
   HUGO_VERSION = "0.25.1"
 
