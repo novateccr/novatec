@@ -18,12 +18,12 @@ RemovePathAccents = true
 
 [[menu.principal]]
     name = "Industrias"
-    weight = 400
+    weight = 300
     identifier = "industrias"
     url = "/industrias/"
 
 [[menu.principal]]
     name = "Marcas"
-    weight = 300
+    weight = 400
     identifier = "marcas"
     url = "/marcas/"
