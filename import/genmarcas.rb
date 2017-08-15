@@ -6,8 +6,8 @@ require 'fileutils'
 marcas = YAML.load_file('import/v5n_novatec_marcas.yml')
 
 marcas.each_with_index do |marca, index|
-  #FileUtils::mkdir_p "content/marcas/#{marca['titulo'].parameterize}"
-  File.open("content/marcas/#{marca['titulo'].parameterize}.md", "w+") do |file|
+  FileUtils::mkdir_p "content/marcas/#{marca['titulo'].parameterize}"
+  File.open("content/marcas/#{marca['titulo'].parameterize}/_index.md", "w+") do |file|
     file.write("---\n")
     file.write("title: \"#{marca['titulo']}\"\n")
     file.write("id: #{marca['id']}\n")
