@@ -1,8 +1,12 @@
+{{ define "page-title"}}
+  {{ partial "page-title.html" .}}
+{{ end }}
+
 {{ define "main" }}
   <div class='container'>
     <h1>{{ .Title }}</h1>
     <ul>
-      {{ range ($.Site.GetPage "taxonomyTerm" .Data.Plural ).Pages }}
+      {{ range .Data.Pages }}
        <li><a href="{{ .Permalink }}">{{ .Title}}</a></li>
       {{ end }}
     </ul>

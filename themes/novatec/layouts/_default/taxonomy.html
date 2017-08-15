@@ -1,13 +1,13 @@
 {{ define "page-title"}}
   {{ partial "page-title.html" .}}
 {{ end }}
+
 {{ define "main" }}
-  <ul class="tags">
-    {{ range .Pages }}
-     <li>
-       <a href="{{ .Permalink }}">{{ .Title}}{{ .Params.thumbnail }}</a>
-     </li>
-    {{ end }}
-  </ul>
-  taxonomy
+  <div class="container">
+    <ul class="product-grid">
+      {{ range .Data.Pages }}
+        {{ .Render "li" }}
+      {{ end }}
+    </ul>
+  </div>
 {{end}}

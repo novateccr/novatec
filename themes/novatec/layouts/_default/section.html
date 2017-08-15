@@ -1,8 +1,8 @@
+{{ define "page-title"}}
+  {{ partial "page-title.html" .}}
+{{ end }}
+
 {{ define "main" }}
-  <h1>{{.Title}}</h1>
-  <ul class="contents">
-    {{ range .Paginator.Pages }}
-      {{ .Render "li" }}
-    {{ end }}
-  </ul>
+  Default Section template
+  {{ .Content }}
 {{ end }}

@@ -1,8 +1,13 @@
-{{ $context := . }}
-<h1>{{ .Title }}</h1>
-<ul>
-{{ $paginator := .Paginate .Data.Pages }}
-{{ range $paginator.Pages }}
-    {{ .Render "summary" }}
+{{ define "page-title"}}
+  {{ partial "page-title.html" .}}
 {{ end }}
-</ul>
+
+{{ define "main" }}
+  <div class="container">
+    <ul class="product-grid">
+      {{ range ($.Site.GetPage "taxonomyTerm" "familias").Pages }}
+        {{ .Render "li" }}
+      {{ end }}
+    </ul>
+  </div>
+{{ end }}
