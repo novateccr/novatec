@@ -16,10 +16,13 @@
     "import-marcas": "ruby import/genmarcas.rb"
   },
   "devDependencies": {
-    "babel-cli": "^6.18.0",
+    "babel-cli": "^6.26.0",
     "babel-preset-babili": "0.0.9",
     "node-sass": "^4.1.1",
     "onchange": "^3.2.1",
     "parallelshell": "^2.0.0"
+  },
+  "dependencies": {
+    "daemon": "github:zipang/daemon.node#48d0977c26fb3a6a44ae99aae3471b9d5a761085"
   }
 }

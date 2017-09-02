@@ -1,7 +1,7 @@
 ---
 title: "Hidráulica"
-id: 41
-imagen: ""
+id: 13
+imagen: "817e1f807bd0914a231bcaa175fad09c-hidraulica.jpg"
 link: ""
 catalogo: ""
 meta_keywords: ""
@@ -9,5 +9,7 @@ meta_description: ""
 menu:
   principal:
     parent: 'Productos'
-    weight: 40
+    weight: 14
+draft: false
+weight: 14
 ---

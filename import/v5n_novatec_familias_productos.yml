@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
-# novatecnew.v5n_novatec_familias_productos
+# novatec_newjm.v5n_novatec_familias_productos
 -
   id: 1
   ordering: 1
@@ -173,7 +173,7 @@
   checked_out: 0
   checked_out_time: "0000-00-00 00:00:00"
   created_by: 995
-  titulo: "Valvulas"
+  titulo: "Válvulas"
   descripcion: ""
   industria: "1,2,5"
   imagen: "5c2aeacfbb7dcdf692a9f9b89b956071-valvulas.jpg"
@@ -368,7 +368,7 @@
   checked_out: 0
   checked_out_time: "0000-00-00 00:00:00"
   created_by: 995
-  titulo: "Valvulas"
+  titulo: "Válvulas"
   descripcion: ""
   industria: 2
   imagen: ""
@@ -593,7 +593,7 @@
   checked_out: 0
   checked_out_time: "0000-00-00 00:00:00"
   created_by: 995
-  titulo: "Valvulas"
+  titulo: "Válvulas"
   descripcion: ""
   industria: 5
   imagen: ""

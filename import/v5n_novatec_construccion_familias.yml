@@ -1,154 +1,154 @@
 %YAML 1.1
 ---
-# novatecnew.v5n_novatec_construccion_familias
+# novatec_newjm.v5n_novatec_construccion_familias
 -
   id: 1
   ordering: 0
   state: 1
   checked_out: 0
   checked_out_time: "0000-00-00 00:00:00"
-  created_by: 0
-  modified_by: 0
+  created_by: 994
+  modified_by: 994
   titulo: "Impermeabilización"
-  imagen: ""
+  imagen: "images/construccion/1.jpg"
 -
   id: 2
   ordering: 0
-  state: 1
+  state: 0
   checked_out: 0
   checked_out_time: "0000-00-00 00:00:00"
   created_by: 994
   modified_by: 994
   titulo: "Adherentes"
-  imagen: "images/el-nogal.jpg"
+  imagen: ""
 -
   id: 3
   ordering: 0
   state: 1
   checked_out: 0
   checked_out_time: "0000-00-00 00:00:00"
-  created_by: 0
-  modified_by: 0
+  created_by: 994
+  modified_by: 994
   titulo: "Compuestos Curadores"
-  imagen: ""
+  imagen: "images/construccion/23.jpg"
 -
   id: 4
   ordering: 0
   state: 1
   checked_out: 0
   checked_out_time: "0000-00-00 00:00:00"
-  created_by: 0
-  modified_by: 0
+  created_by: 994
+  modified_by: 994
   titulo: "Selladores"
-  imagen: ""
+  imagen: "images/construccion/28.jpg"
 -
   id: 5
   ordering: 0
   state: 1
   checked_out: 0
   checked_out_time: "0000-00-00 00:00:00"
-  created_by: 0
-  modified_by: 0
+  created_by: 994
+  modified_by: 994
   titulo: "Morteros Y Grouts"
-  imagen: ""
+  imagen: "images/construccion/29.jpg"
 -
   id: 6
   ordering: 0
   state: 1
   checked_out: 0
   checked_out_time: "0000-00-00 00:00:00"
-  created_by: 0
-  modified_by: 0
+  created_by: 994
+  modified_by: 994
   titulo: "Sello De Juntas"
-  imagen: ""
+  imagen: "images/construccion/32.jpg"
 -
   id: 7
   ordering: 0
   state: 1
   checked_out: 0
   checked_out_time: "0000-00-00 00:00:00"
-  created_by: 0
-  modified_by: 0
+  created_by: 994
+  modified_by: 994
   titulo: "Barreras De Vapor"
-  imagen: ""
+  imagen: "images/construccion/4.jpg"
 -
   id: 8
   ordering: 0
   state: 1
   checked_out: 0
   checked_out_time: "0000-00-00 00:00:00"
-  created_by: 0
-  modified_by: 0
+  created_by: 994
+  modified_by: 994
   titulo: "Dovelas Y Accesorios"
-  imagen: ""
+  imagen: "images/construccion/37.jpg"
 -
   id: 9
   ordering: 0
   state: 1
   checked_out: 0
   checked_out_time: "0000-00-00 00:00:00"
-  created_by: 0
-  modified_by: 0
+  created_by: 994
+  modified_by: 994
   titulo: "Juntas Frias"
-  imagen: ""
+  imagen: "images/construccion/39.jpg"
 -
   id: 10
   ordering: 0
   state: 1
   checked_out: 0
   checked_out_time: "0000-00-00 00:00:00"
-  created_by: 0
-  modified_by: 0
+  created_by: 994
+  modified_by: 994
   titulo: "Endurecedores"
-  imagen: ""
+  imagen: "images/construccion/41.jpg"
 -
   id: 11
   ordering: 0
   state: 1
   checked_out: 0
   checked_out_time: "0000-00-00 00:00:00"
-  created_by: 0
-  modified_by: 0
+  created_by: 994
+  modified_by: 994
   titulo: "Proteccion Contra Fuego"
-  imagen: ""
+  imagen: "images/construccion/45.jpg"
 -
   id: 12
   ordering: 0
   state: 1
   checked_out: 0
   checked_out_time: "0000-00-00 00:00:00"
-  created_by: 0
-  modified_by: 0
+  created_by: 994
+  modified_by: 994
   titulo: "Aditivos Para Concreto "
-  imagen: ""
+  imagen: "images/construccion/1.jpg"
 -
   id: 13
   ordering: 0
-  state: 1
+  state: 0
   checked_out: 0
   checked_out_time: "0000-00-00 00:00:00"
-  created_by: 0
-  modified_by: 0
+  created_by: 994
+  modified_by: 994
   titulo: "Pisos Industriales Y Comerciales"
-  imagen: ""
+  imagen: "images/construccion/62.jpg"
 -
   id: 14
   ordering: 0
   state: 1
   checked_out: 0
   checked_out_time: "0000-00-00 00:00:00"
-  created_by: 0
-  modified_by: 0
+  created_by: 994
+  modified_by: 994
   titulo: "Concretos Arquitectonicos"
-  imagen: ""
+  imagen: "images/construccion/63.jpg"
 -
   id: 15
   ordering: 0
-  state: 1
+  state: 0
   checked_out: 0
   checked_out_time: "0000-00-00 00:00:00"
-  created_by: 0
-  modified_by: 0
+  created_by: 994
+  modified_by: 994
   titulo: "Otros"
-  imagen: ""
+  imagen: "images/construccion/17.jpg"
 ...

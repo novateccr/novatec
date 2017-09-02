@@ -1,0 +1,11 @@
+{{ define "page-title"}}
+  {{ partial "page-title.html" .}}
+{{ end }}
+
+{{ define "main" }}
+  <ul id="noticias">
+    {{ range .Paginator.Pages }}
+      {{ .Render "summary" }}
+    {{ end }}
+  </ul>
+{{ end }}

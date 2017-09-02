@@ -9,5 +9,7 @@ meta_description: ""
 menu:
   principal:
     parent: 'Productos'
-    weight: 42
+    weight: 12
+draft: false
+weight: 12
 ---

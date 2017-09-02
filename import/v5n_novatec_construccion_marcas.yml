@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
-# novatecnew.v5n_novatec_construccion_marcas
+# novatec_newjm.v5n_novatec_construccion_marcas
 -
   id: 1
   ordering: 1
@@ -8,9 +8,9 @@
   checked_out: 0
   checked_out_time: "0000-00-00 00:00:00"
   created_by: 994
-  modified_by: 994
+  modified_by: 996
   titulo: "Euclid Chemical "
-  website: "www.euclidchemical.com"
+  website: "http://www.euclidchemical.com"
   logo: ""
 -
   id: 2
@@ -19,9 +19,9 @@
   checked_out: 0
   checked_out_time: "0000-00-00 00:00:00"
   created_by: 994
-  modified_by: 994
+  modified_by: 996
   titulo: "Tremco"
-  website: "www.tremco.com"
+  website: "http://www.tremco.com"
   logo: ""
 -
   id: 3
@@ -30,9 +30,9 @@
   checked_out: 0
   checked_out_time: "0000-00-00 00:00:00"
   created_by: 994
-  modified_by: 994
+  modified_by: 996
   titulo: "Soprema "
-  website: "www.soprema.com"
+  website: "http://www.soprema.com"
   logo: ""
 -
   id: 4
@@ -41,21 +41,21 @@
   checked_out: 0
   checked_out_time: "0000-00-00 00:00:00"
   created_by: 994
-  modified_by: 994
+  modified_by: 996
   titulo: "WR Meadows"
-  website: "www.wrmeadows.com"
+  website: "http://www.wrmeadows.com"
   logo: ""
 -
   id: 5
   ordering: 5
   state: 1
-  checked_out: 994
-  checked_out_time: "2017-06-07 12:21:57"
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
   created_by: 994
-  modified_by: 994
+  modified_by: 996
   titulo: "Bo Metals"
-  website: "www.bometals.com"
-  logo: "images/logos/2b6a5e17122beb1afce28449a34f4ff3-parkerlegris.jpg"
+  website: "http://www.bometals.com"
+  logo: ""
 -
   id: 6
   ordering: 6
@@ -63,9 +63,9 @@
   checked_out: 0
   checked_out_time: "0000-00-00 00:00:00"
   created_by: 994
-  modified_by: 994
+  modified_by: 996
   titulo: "Tremco-Illbruck"
-  website: "www.nullifire.com"
+  website: "http://www.nullifire.com"
   logo: ""
 -
   id: 7
@@ -74,10 +74,10 @@
   checked_out: 0
   checked_out_time: "0000-00-00 00:00:00"
   created_by: 994
-  modified_by: 994
+  modified_by: 996
   titulo: "Flowcrete"
-  website: "www.flowcrete.com"
-  logo: ""
+  website: "http://www.flowcrete.com"
+  logo: "images/logos/1431ded0fffbbd213e8fbd0303e1ffc2-flowcrete.jpg"
 -
   id: 8
   ordering: 8
@@ -85,8 +85,8 @@
   checked_out: 0
   checked_out_time: "0000-00-00 00:00:00"
   created_by: 994
-  modified_by: 994
+  modified_by: 996
   titulo: "Increte Systems"
-  website: "www.increte.com"
+  website: "http://www.increte.com"
   logo: ""
 ...

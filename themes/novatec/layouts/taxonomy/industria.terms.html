@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+<head>
+  <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <script src="https://use.fontawesome.com/11a79f3edd.js"></script>
+  <link rel="stylesheet" type="text/css" href="/site.css">
+</head>
+<body translate="no">
+  {{ partial "header.html" . }}
+  <main id="main">
+    {{ partial "page-title.html" . }}
+    <div class="container">
+      <section id="industrias-block">
+        {{ range $taxonomyname, $taxonomy := .Site.Taxonomies.industrias }}
+          <div class="industria-title" id="{{ urlize $taxonomyname }}">{{ $taxonomyname }}</div>
+          <div class="industria-block">
+            <div class="grid-container">
+              <div class="industria-detalles">
+                {{ $industria := urlize $taxonomyname }}
+                {{- with $.Site.GetPage "taxonomyTerm" "industrias" $industria }}
+                  {{ with .Params.imagen }}<img src="/images/industrias/{{ . }}" alt="{{ $taxonomyname }}" />{{ end }}
+
+                  <a class="btn btn-primary" href="{{ .Permalink }}">Ver más información</a>
+                {{ end -}}
+              </div>
+              <div class="industria-productos">
+                <h3>Productos</h3>
+                <ul>
+                  {{ range $taxonomy.Pages }}
+                    {{ $.Scratch.Add "marcas-industria" .Params.marcas }}
+                    <li><a href="{{ .Params.permalink }}">{{ .Title }}</a></li>
+                  {{ end }}
+                </ul>
+              </div>
+              <div class="industria-marcas">
+                <h3>Marcas</h3>
+                <ul>
+                  {{ $.Scratch.Get "marcas-industria" }}
+                </ul>
+              </div>
+            </div>
+          </div>
+        {{ end }}
+      </section>
+      <nav id="industrias-nav">
+        <ul>
+          {{ range ($.Site.GetPage "taxonomyTerm" "industrias").Pages }}
+            <li><a href="#{{ urlize .Title }}">{{ .Title }}</a></li>
+          {{ end }}
+        </ul>
+      </nav>
+    </div>
+  </main>
+  {{ partial "footer.html" . }}
+  {{ if eq (getenv "LOCAL_DEV") "true" }}
+    {{ partial "debug.html" . }}
+  {{ end }}
+  {{ block "scripts" .}}{{ end }}
+</body>

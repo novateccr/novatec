@@ -1,13 +1,15 @@
 ---
 title: "Sellado "
-id: 34
-imagen: ""
+id: 6
+imagen: "38567804fbfc7ebebd2acd318bde2d55-sellado.jpg"
 link: ""
 catalogo: ""
-meta_keywords: ""
+meta_keywords: "Laminas, teflon, Grafito, packmaster"
 meta_description: ""
 menu:
   principal:
     parent: 'Productos'
-    weight: 33
+    weight: 6
+draft: false
+weight: 6
 ---

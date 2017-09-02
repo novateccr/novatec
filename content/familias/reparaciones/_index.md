@@ -1,6 +1,6 @@
 ---
 title: "Reparaciones"
-id: 33
+id: 5
 imagen: ""
 link: ""
 catalogo: ""
@@ -9,5 +9,7 @@ meta_description: ""
 menu:
   principal:
     parent: 'Productos'
-    weight: 32
+    weight: 5
+draft: true
+weight: 5
 ---

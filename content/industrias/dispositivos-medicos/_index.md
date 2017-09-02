@@ -10,4 +10,5 @@ menu:
   principal:
     parent: 'industrias'
     weight: 2
+weight: 3
 ---

@@ -1,0 +1,59 @@
+#industrias-block {
+  @include grid-column(9);
+}
+.industria-block {
+  @include grid-container;
+  @include clearfix;
+  margin-bottom: 20px;
+  padding: 20px 0;
+  border: solid 1px $light-grey;
+
+  img {
+    max-width: 100%;
+  }
+
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .btn {
+    width: 100;
+    display: block;
+  }
+
+  h3 {
+    margin-top: 0;
+  }
+
+  font-size: .9em;
+}
+.industria-title {
+  background-color: $light-grey;
+  padding: 10px 20px;
+  font-weight: bold;
+  font-size: 1.5em;
+}
+.industria-detalles {
+  @include grid-column(4);
+}
+
+.industria-productos {
+  @include grid-column(4);
+}
+
+.industria-marcas {
+  @include grid-column(4);
+}
+
+#industrias-nav {
+  @include grid-column(3);
+
+  ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+}

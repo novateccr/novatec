@@ -1,0 +1,11 @@
+<li class="noticias-grid-block">
+  <a href="{{ .Permalink }}">
+    <div class="noticias-grid-image" style="background-image: url({{ .Params.imagen_intro }});"></div>
+    <img src="/{{ .Params.imagen_intro }}" />
+    <div class="noticias-block-title">
+      <h3>{{ .Title }}</h3>
+    </div>
+    {{ .Summary }}
+    {{ .Params.date }}
+  </a>
+</li>

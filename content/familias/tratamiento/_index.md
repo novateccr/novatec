@@ -1,6 +1,6 @@
 ---
 title: "Tratamiento "
-id: 38
+id: 10
 imagen: ""
 link: ""
 catalogo: ""
@@ -9,5 +9,7 @@ meta_description: ""
 menu:
   principal:
     parent: 'Productos'
-    weight: 37
+    weight: 10
+draft: true
+weight: 10
 ---

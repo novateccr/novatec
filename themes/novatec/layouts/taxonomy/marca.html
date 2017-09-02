@@ -1,0 +1,15 @@
+This is the marca.terms.html template located at /themes/novatec/layouts/taxonomy/marca.terms.html
+{{ define "page-title"}}
+  {{ partial "page-title.html" .}}
+{{ end }}
+
+{{ define "main" }}
+  <div class='container'>
+    <ul>
+      {{ range .Data.Pages }}
+       <li><a href="{{ .Permalink }}">{{ .Title}}</a></li>
+      {{ end }}
+    </ul>
+    termsASDASD
+  </div>
+{{ end }}

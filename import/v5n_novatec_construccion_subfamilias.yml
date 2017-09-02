@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
-# novatecnew.v5n_novatec_construccion_subfamilias
+# novatec_newjm.v5n_novatec_construccion_subfamilias
 -
   id: 1
   ordering: 0
@@ -158,7 +158,7 @@
 -
   id: 15
   ordering: 0
-  state: 1
+  state: 0
   checked_out: 0
   checked_out_time: "0000-00-00 00:00:00"
   created_by: 0
@@ -532,7 +532,7 @@
 -
   id: 49
   ordering: 0
-  state: 1
+  state: 0
   checked_out: 0
   checked_out_time: "0000-00-00 00:00:00"
   created_by: 0
@@ -543,7 +543,7 @@
 -
   id: 50
   ordering: 0
-  state: 1
+  state: 0
   checked_out: 0
   checked_out_time: "0000-00-00 00:00:00"
   created_by: 0
@@ -554,7 +554,7 @@
 -
   id: 51
   ordering: 0
-  state: 1
+  state: 0
   checked_out: 0
   checked_out_time: "0000-00-00 00:00:00"
   created_by: 0

@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
-# novatecnew.v5n_novatec_marcas
+# novatec_newjm.v5n_novatec_marcas
 -
   id: 1
   ordering: 2
@@ -116,10 +116,10 @@
   titulo: "KSB"
   logo: "9c290a90f7c2e7e768e47a7d8d2ed411-ksb.jpg"
   link_default: "http://www.ksb.com/"
-  descripcion: "<p><span style=\"font-size: 13px; font-family: arial,sans,sans-serif;\" data-sheets-value=\"[null,2,&quot;Fabricante de bombas&quot;]\" data-sheets-userformat=\"[null,null,513,[null,0],null,null,null,null,null,null,null,null,0]\">Fabricante de bombas, Valvulas</span></p>"
+  descripcion: "<p><span style=\"font-size: 13px; font-family: arial,sans,sans-serif;\" data-sheets-value=\"[null,2,&quot;Fabricante de bombas&quot;]\" data-sheets-userformat=\"[null,null,513,[null,0],null,null,null,null,null,null,null,null,0]\">Fabricante de bombas, válvulas</span></p>"
   catalogo: ""
-  meta_description: "KSB, bombas Valvulas"
-  meta_keywords: "KSB, bombas, sistemas de presion constante, Valvulas"
+  meta_description: "KSB, bombas válvulas"
+  meta_keywords: "KSB, bombas, sistemas de presion constante, válvulas"
   menu_item: 171
 -
   id: 9
@@ -176,7 +176,7 @@
   titulo: "Aventics"
   logo: "1304c902693a779b7cf0a6e62f70982d-aventics.jpg"
   link_default: "http://www.aventics.com"
-  descripcion: "<p><span style=\"font-size: 13px; font-family: arial,sans,sans-serif;\" data-sheets-value=\"[null,2,&quot;Cilindros, valvulas y filtros reguladores y lubricadores&quot;]\" data-sheets-userformat=\"[null,null,513,[null,0],null,null,null,null,null,null,null,null,0]\">Cilindros, Valvulas, filtros reguladores y lubricadores</span></p>"
+  descripcion: "<p><span style=\"font-size: 13px; font-family: arial,sans,sans-serif;\" data-sheets-value=\"[null,2,&quot;Cilindros, valvulas y filtros reguladores y lubricadores&quot;]\" data-sheets-userformat=\"[null,null,513,[null,0],null,null,null,null,null,null,null,null,0]\">Cilindros, válvulas, filtros reguladores y lubricadores</span></p>"
   catalogo: ""
   meta_description: ""
   meta_keywords: ""
@@ -315,5 +315,20 @@
   catalogo: ""
   meta_description: "Rubber Fab, mangueas sanitarias"
   meta_keywords: "mangueras, conectores, hoses, sanitary hoces"
+  menu_item: 237
+-
+  id: 22
+  ordering: 22
+  state: 1
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  created_by: 996
+  titulo: "Euclid Chemical "
+  logo: "16761c81091f92d0be90d3a431922cdd-EGCA.png"
+  link_default: "http://www.euclidchemical.com"
+  descripcion: ""
+  catalogo: ""
+  meta_description: "Ecuclid"
+  meta_keywords: "Euclid"
   menu_item: 237
 ...
