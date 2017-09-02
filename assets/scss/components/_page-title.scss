@@ -20,4 +20,12 @@
     opacity: 0.5;
     z-index: -1;
   }
+
+  .container {
+    @include clearfix;
+  }
+}
+
+.title-container {
+  @include grid-column(12);
 }

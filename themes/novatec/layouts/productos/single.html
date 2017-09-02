@@ -4,21 +4,17 @@
 
 {{ define "main" }}
   <div class="container">
-    <section id="prpducto-main">
+    <div class="grid-container">
+    <section id="producto-main">
       {{ .Content }}
     </section>
     <section id="marca">
-      {{ $marca := "fristram" }}
-      {{ $marca_path := ".md" | print $marca }}
-      {{ with .Site.GetPage "page" "marcas" $marca_path }}
-        <div id="marca-box">
-          {{ .Title }}<br/>
-          <img src="/images/logos/{{ .Params.logo }}" alt="{{ .Title }}" />
-          <a href="{{ .Params.link }}" target="_blank"><i class="fa fa-globe"></i> Ir al sitio de {{ .Title }}</a>
-        </div>
-      {{ end }}
-      <div id="marca-tags">
-        {{ range .Params.familias }}
+      {{ $brand := urlize (index .Params.marcas 0) }}
+      {{- with $.Site.GetPage "taxonomyTerm" "marcas" $brand }}
+        {{ partial "marca-sidebar" . }}
+      {{ end -}}
+      <div class="marca-tags">
+        {{ range $.Params.familias }}
           <strong>Familia de productos:</strong> <a href="{{ "/familias/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>
         {{ end }}
         <br/>
@@ -28,5 +24,6 @@
         {{ end }}
       </div>
     </section>
+  </div>
   </div>
 {{ end }}

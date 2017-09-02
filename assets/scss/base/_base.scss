@@ -43,3 +43,7 @@ main {
   transition: 0.5s;
   overflow: auto;
 }
+
+.grid-container {
+  @include grid-container;
+}
