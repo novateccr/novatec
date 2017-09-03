@@ -5,10 +5,10 @@
 {{ define "main" }}
   <div class="container">
     <ul class="product-grid">
-      {{ range ($.Site.GetPage "taxonomyTerm" "familias").Pages }}
+      {{ range where ($.Site.GetPage "taxonomyTerm" "familias").Pages.ByWeight ".Params.id" "!=" nil }}
         <li class="product-grid-block">
           <a href="{{ .Permalink }}">
-            <div class="product-grid-image" style="background-image: url(/images/familias/{{ .Params.imagen }});"></div>
+            <div class="product-grid-image" style="background-image: url({{ .Params.imagen }});"></div>
             <div class="product-block-title">
               <h3>{{ .Title }}</h3>
             </div>

@@ -1,7 +1,7 @@
 ---
 title: "Hidráulica"
 id: 13
-imagen: "817e1f807bd0914a231bcaa175fad09c-hidraulica.jpg"
+imagen: "/images/familias/817e1f807bd0914a231bcaa175fad09c-hidraulica.jpg"
 link: ""
 catalogo: ""
 meta_keywords: ""

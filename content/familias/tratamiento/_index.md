@@ -1,7 +1,7 @@
 ---
 title: "Tratamiento "
 id: 10
-imagen: ""
+imagen: "/images/familias/"
 link: ""
 catalogo: ""
 meta_keywords: ""

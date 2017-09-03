@@ -8,14 +8,14 @@ familias = YAML.load_file('import/v5n_novatec_familias_productos.yml')
 FileUtils::mkdir_p "content/familias/"
 
 familias.each_with_index do |familia, index|
-  unless familia['state'] == -2
+  if familia['state'] != -2
     FileUtils::mkdir_p "content/familias/#{familia['titulo'].parameterize}"
     draft = if familia['state'] == 1 then "false" else "true" end
     File.open("content/familias/#{familia['titulo'].parameterize}/_index.md", "w+") do |file|
       file.write("---\n")
       file.write("title: \"#{familia['titulo']}\"\n")
       file.write("id: #{familia['id']}\n")
-      file.write("imagen: \"#{familia['imagen']}\"\n")
+      file.write("imagen: \"/images/familias/#{familia['imagen']}\"\n")
       file.write("link: \"#{familia['link_default']}\"\n")
       file.write("catalogo: \"#{familia['catalogo']}\"\n")
       file.write("meta_keywords: \"#{familia['meta_keywords']}\"\n")

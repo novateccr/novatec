@@ -1,7 +1,7 @@
 ---
 title: "Sellos Mecánicos"
 id: 7
-imagen: "e6880cfd326701085ad549f45a1dfbc6-Cartex.jpg"
+imagen: "/images/familias/e6880cfd326701085ad549f45a1dfbc6-Cartex.jpg"
 link: ""
 catalogo: ""
 meta_keywords: ""

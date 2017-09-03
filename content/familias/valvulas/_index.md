@@ -1,7 +1,7 @@
 ---
 title: "Válvulas"
 id: 12
-imagen: "5c2aeacfbb7dcdf692a9f9b89b956071-valvulas.jpg"
+imagen: "/images/familias/5c2aeacfbb7dcdf692a9f9b89b956071-valvulas.jpg"
 link: ""
 catalogo: ""
 meta_keywords: ""

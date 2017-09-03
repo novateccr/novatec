@@ -1,7 +1,7 @@
 ---
 title: "Reparaciones"
 id: 5
-imagen: ""
+imagen: "/images/familias/"
 link: ""
 catalogo: ""
 meta_keywords: ""
