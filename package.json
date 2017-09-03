@@ -23,6 +23,7 @@
     "parallelshell": "^2.0.0"
   },
   "dependencies": {
-    "daemon": "github:zipang/daemon.node#48d0977c26fb3a6a44ae99aae3471b9d5a761085"
+    "daemon": "github:zipang/daemon.node#48d0977c26fb3a6a44ae99aae3471b9d5a761085",
+    "imagemin": "^5.3.1"
   }
 }
