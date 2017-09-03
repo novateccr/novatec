@@ -11,4 +11,5 @@ menu:
     parent: 'industrias'
     weight: 9
 weight: 10
+draft: false
 ---

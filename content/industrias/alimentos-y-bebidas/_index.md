@@ -11,5 +11,6 @@ menu:
     parent: 'industrias'
     weight: 0
 weight: 1
+draft: false
 ---
 Industria de Alimenots y Bebidas  Para cumplir las exigencias actuales de los consumidoreses necesario producir alimentos de alta calidad, utilizando medios económica y ecológicamente beneficiosos y ofrecemos una alta gama de soluciones...

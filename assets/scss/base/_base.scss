@@ -47,3 +47,7 @@ main {
 .grid-container {
   @include grid-container;
 }
+
+img {
+  max-width: 100%;
+}

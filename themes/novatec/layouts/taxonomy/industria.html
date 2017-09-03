@@ -1,0 +1,30 @@
+{{ define "page-title"}}
+  {{ partial "page-title.html" .}}
+{{ end }}
+
+{{ define "main" }}
+  <div class="container industria-page">
+    <div class="row">
+      <div class="industria-page-imagen">
+        <img src="/images/industrias/{{ .Params.imagen }}" alt="{{ .Title }}" />
+
+        {{ with .Params.catalogo }}
+          <div class="text-center small-text">
+            <a href="{{ . }}" download="Catalogo Industria {{$.Title}} - Novatec.pdf">
+              <i class="fa fa-file-pdf-o"></i><br> Descargar catálogo de Agrícola
+            </a>
+          </div>
+        {{ end }}
+        {{ .Content }}
+      </div>
+      <div class="industria-page-productos">
+        <h2>Productos</h2>
+        {{ partial "pages-list.html" .Data.Pages }}
+      </div>
+      <div class="industria-page-marcas">
+        <h2>Marcas</h2>
+        {{ partial "pages-list.html" ($.Site.GetPage "taxonomyTerm" "industrias").Pages }}
+      </div>
+    </div>
+  </div>
+{{ end }}
