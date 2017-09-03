@@ -3,12 +3,18 @@
 {{ end }}
 
 {{ define "main" }}
-  <div class='container'>
-    <ul>
-      {{ range .Data.Pages }}
-       <li><a href="{{ .Permalink }}">{{ .Title}}</a></li>
+  <div class="container">
+    <ul class="product-grid">
+      {{ range where .Data.Pages.ByWeight ".Params.id" "!=" nil }}
+        <li class="product-grid-block-logo">
+          <a href="{{ .Permalink }}">
+            <div class="product-grid-image" style="background-image: url(/images/logos/{{ .Params.logo }});"></div>
+            <div class="product-block-title">
+              <h3>{{ .Title }}</h3>
+            </div>
+          </a>
+        </li>
       {{ end }}
     </ul>
-    termsASDASD
   </div>
 {{ end }}

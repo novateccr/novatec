@@ -10,5 +10,7 @@ menu:
   principal:
     parent: 'marcas'
     weight: 20
+draft: false
+weight: 21
 ---
 <p>Rubber Fab</p>

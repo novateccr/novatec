@@ -10,5 +10,7 @@ menu:
   principal:
     parent: 'marcas'
     weight: 15
+draft: false
+weight: 11
 ---
 <p>{youtube}YLwlVLnW-70{/youtube}</p>

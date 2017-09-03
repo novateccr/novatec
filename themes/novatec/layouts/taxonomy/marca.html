@@ -4,6 +4,16 @@
 
 {{ define "main" }}
   <div class='container'>
-    {{ partial "pages-list.html" .Data.Pages }}
+    <div class="text-center marca-page-logo">
+      <img src="/images/logos/{{ .Params.logo }}" alt="{{ .Title }}" />
+      <div class="text-center">
+        <a href="{{ .Params.link}}" target="_blank" rel="nofollow" class="small-text"><i class="fa fa-globe"></i> Ir al sitio de {{ .Title }}</a>
+      </div>
+    </div>
+    <div class="marca-page-info">
+      {{ .Content }}
+      <h2>Productos</h2>
+      {{ partial "pages-list.html" .Data.Pages }}
+    </div>
   </div>
 {{ end }}

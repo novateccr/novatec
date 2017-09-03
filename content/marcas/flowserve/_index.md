@@ -10,4 +10,6 @@ menu:
   principal:
     parent: 'marcas'
     weight: 6
+draft: true
+weight: 16
 ---

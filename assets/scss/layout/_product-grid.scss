@@ -69,3 +69,17 @@
 .product-grid-block:hover .product-block-title {
   background: rgba(39, 87, 153, 1);
 }
+
+
+.product-grid-block-logo {
+  @extend .product-grid-block;
+  background-image: none;
+  background: #fff;
+
+  .product-grid-image {
+    padding-bottom: 100%;
+    background-size: 90%;
+    background-position: center center;
+    background-repeat: no-repeat;
+  }
+}

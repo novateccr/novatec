@@ -1,0 +1,9 @@
+.marca-page-logo {
+  @include grid-column(3);
+  border: solid 1px $light-grey;
+  padding-bottom: 20px;
+}
+
+.marca-page-info {
+  @include grid-column(9);
+}
