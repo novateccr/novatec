@@ -110,3 +110,7 @@
     background-color: #fff;
     border-color: #ddd;
 }
+
+.full-width-div {
+  @include grid-column(12);
+}

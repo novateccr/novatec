@@ -1,0 +1,49 @@
+{{ define "page-title"}}
+  {{ partial "page-title.html" .}}
+{{ end }}
+
+{{ define "main" }}
+  <div class="container">
+    <div class="full-width-div">
+      {{ .Content }}
+      <ul class="areas-list">
+        {{ range .Params.areas }}
+          <li>
+            <h4 class="area-title">{{ .title }}</h4>
+            <div class="areas-imagenes">
+              {{ range .items }}
+                <img src="{{ . }}" class="areas-imagen" />
+              {{ end }}
+            </div>
+          </li>
+        {{ end }}
+      </ul>
+    </div>
+  </div>
+  <script>
+
+    function $(selector, context) {
+      return (context || document).querySelectorAll(selector);
+    }
+
+    function toggleClass(element, klass) {
+      var classes = element.className.match(/\S+/g) || [],
+          index = classes.indexOf(klass);
+
+      index >= 0 ? classes.splice(index, 1) : classes.push(klass);
+      element.className = classes.join(' ');
+    }
+
+    var targetElement = document.querySelectorAll('h4');
+    var elements = document.getElementsByClassName('area-title');
+    var matches = $('.area-title');
+
+    for (var i = matches.length - 1; i >= 0; --i) {
+      //elements[i].setAttribute('class', 'normal');
+      elements[i].onclick = function(e){
+        toggleClass(this.nextElementSibling, 'expanded');
+      }
+    }
+
+  </script>
+{{ end }}

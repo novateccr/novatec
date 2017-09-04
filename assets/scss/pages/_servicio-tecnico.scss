@@ -1,0 +1,27 @@
+.areas-list {
+  list-style: none;
+  padding: 0;
+
+  li {
+    border-bottom: solid 1px $light-grey;
+  }
+}
+
+.areas-imagenes {
+  height: 0;
+  transition: height .5s ease;
+}
+
+.areas-imagenes.expanded {
+  height: 300px;
+}
+
+.areas-imagen {
+  margin-right: 20px;
+  height: 100%;
+}
+
+.area-title {
+  cursor: pointer;
+  margin: 8px 0;
+}
