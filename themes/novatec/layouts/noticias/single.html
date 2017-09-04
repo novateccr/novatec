@@ -1,0 +1,23 @@
+{{ define "page-title"}}
+  <div class="page-title" style="background-image: url('/images/masshead/productos.jpg');">
+    <div class="container">
+      <div class="title-container">
+        <h1>{{ .Title }}</h1>
+        <small class="noticias-date-title-bar">{{ replace (dateFormat "2 #mes#, 2006" .Params.date) "#mes#" (index  (dateFormat "Jan" .Params.date)) }}</small>
+      </div>
+    </div>
+  </div>
+{{ end }}
+
+{{ define "main" }}
+  <div class="container">
+    <article class="article-content">
+      {{ if ne .Params.imagen_full "" }}
+        <div class="full-article-image">
+          <img src="{{ .Params.imagen_full }}" alt="{{$.Title}}" />
+        </div>
+      {{end}}
+      {{ .Content }}
+    </article>
+  </div>
+{{ end }}
