@@ -2,6 +2,7 @@ baseURL = "https://novatec.cr/"
 languageCode = "es-cr"
 title = "Novatec Industrial"
 theme = "novatec"
+DefaultContentLanguage = "es"
 
 #Taxonomy names with forwign characters
 preserveTaxonomyNames = true

@@ -8,7 +8,7 @@ alias = "fkl-pasta"
 metakey = ""
 metadesc = ""
 featured = 1
-draft = false
+draft = true
 id = 26
 +++
 <p style="text-align: justify;">Una temporada típica de procesamiento de tomate en California dura tan sólo 120 días. Más o menos julio a octubre, los tomates cultivados en el verano son cosechados, procesados ​​y enlatados.</p>

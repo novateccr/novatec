@@ -5,7 +5,7 @@
 {{ define "main" }}
 <div class="container">
   <section id="noticias">
-    {{ range $index, $noticia := .Paginator.Pages }}
+    {{ range $index, $noticia := (.Paginator 6).Pages }}
       {{ .Render "summary" }}
       {{ if in (slice 2 5 8 11) $index }}
         <div class="row-separator"></div>
@@ -13,4 +13,9 @@
     {{ end }}
   </section>
 </div>
+
+<div class="text-center">
+  {{ template "_internal/pagination.html" . }}
+</div>
+
 {{ end }}

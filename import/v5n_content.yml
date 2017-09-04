@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
-# novatecnew.v5n_content
+# novatec_newjm.v5n_content
 -
   id: 1
   asset_id: 64
@@ -27,7 +27,7 @@
   metakey: ""
   metadesc: ""
   access: 1
-  hits: 0
+  hits: 15
   metadata: "{\"robots\":\"\",\"author\":\"\",\"rights\":\"\",\"xreference\":\"\"}"
   featured: 0
   language: "*"
@@ -58,7 +58,7 @@
   metakey: ""
   metadesc: ""
   access: 1
-  hits: 2
+  hits: 104
   metadata: "{\"robots\":\"\",\"author\":\"\",\"rights\":\"\",\"xreference\":\"\"}"
   featured: 0
   language: "*"
@@ -89,7 +89,7 @@
   metakey: ""
   metadesc: ""
   access: 1
-  hits: 1
+  hits: 93
   metadata: "{\"robots\":\"\",\"author\":\"\",\"rights\":\"\",\"xreference\":\"\"}"
   featured: 0
   language: "*"
@@ -120,7 +120,7 @@
   metakey: ""
   metadesc: ""
   access: 1
-  hits: 2
+  hits: 90
   metadata: "{\"robots\":\"\",\"author\":\"\",\"rights\":\"\",\"xreference\":\"\"}"
   featured: 0
   language: "*"
@@ -151,7 +151,7 @@
   metakey: ""
   metadesc: ""
   access: 1
-  hits: 3
+  hits: 93
   metadata: "{\"robots\":\"\",\"author\":\"\",\"rights\":\"\",\"xreference\":\"\"}"
   featured: 0
   language: "*"
@@ -182,7 +182,7 @@
   metakey: ""
   metadesc: ""
   access: 1
-  hits: 0
+  hits: 37
   metadata: "{\"robots\":\"\",\"author\":\"\",\"rights\":\"\",\"xreference\":\"\"}"
   featured: 0
   language: "*"
@@ -213,7 +213,7 @@
   metakey: ""
   metadesc: ""
   access: 1
-  hits: 4
+  hits: 30
   metadata: "{\"robots\":\"\",\"author\":\"\",\"rights\":\"\",\"xreference\":\"\"}"
   featured: 0
   language: "*"
@@ -244,7 +244,7 @@
   metakey: ""
   metadesc: ""
   access: 1
-  hits: 2
+  hits: 49
   metadata: "{\"robots\":\"\",\"author\":\"\",\"rights\":\"\",\"xreference\":\"\"}"
   featured: 0
   language: "*"
@@ -275,7 +275,7 @@
   metakey: ""
   metadesc: ""
   access: 1
-  hits: 3
+  hits: 60
   metadata: "{\"robots\":\"\",\"author\":\"\",\"rights\":\"\",\"xreference\":\"\"}"
   featured: 0
   language: "*"
@@ -306,7 +306,7 @@
   metakey: ""
   metadesc: ""
   access: 1
-  hits: 6
+  hits: 62
   metadata: "{\"robots\":\"\",\"author\":\"\",\"rights\":\"\",\"xreference\":\"\"}"
   featured: 0
   language: "*"
@@ -337,7 +337,7 @@
   metakey: ""
   metadesc: ""
   access: 1
-  hits: 2
+  hits: 15
   metadata: "{\"robots\":\"\",\"author\":\"\",\"rights\":\"\",\"xreference\":\"\"}"
   featured: 0
   language: "*"
@@ -368,7 +368,7 @@
   metakey: ""
   metadesc: ""
   access: 1
-  hits: 4055
+  hits: 5725
   metadata: "{\"robots\":\"\",\"author\":\"\",\"rights\":\"\",\"xreference\":\"\"}"
   featured: 0
   language: "*"
@@ -461,7 +461,7 @@
   metakey: ""
   metadesc: ""
   access: 1
-  hits: 0
+  hits: 1
   metadata: "{\"robots\":\"\",\"author\":\"\",\"rights\":\"\",\"xreference\":\"\"}"
   featured: 0
   language: "*"
@@ -492,7 +492,7 @@
   metakey: ""
   metadesc: ""
   access: 1
-  hits: 0
+  hits: 1
   metadata: "{\"robots\":\"\",\"author\":\"\",\"rights\":\"\",\"xreference\":\"\"}"
   featured: 0
   language: "*"
@@ -554,7 +554,7 @@
   metakey: ""
   metadesc: ""
   access: 1
-  hits: 2
+  hits: 3
   metadata: "{\"robots\":\"\",\"author\":\"\",\"rights\":\"\",\"xreference\":\"\"}"
   featured: 0
   language: "*"
@@ -616,7 +616,7 @@
   metakey: ""
   metadesc: ""
   access: 1
-  hits: 3
+  hits: 58
   metadata: "{\"robots\":\"\",\"author\":\"\",\"rights\":\"\",\"xreference\":\"\"}"
   featured: 0
   language: "*"
@@ -647,7 +647,7 @@
   metakey: ""
   metadesc: ""
   access: 1
-  hits: 0
+  hits: 1
   metadata: "{\"robots\":\"\",\"author\":\"\",\"rights\":\"\",\"xreference\":\"\"}"
   featured: 0
   language: "*"
@@ -678,7 +678,7 @@
   metakey: ""
   metadesc: ""
   access: 1
-  hits: 55
+  hits: 59
   metadata: "{\"robots\":\"\",\"author\":\"\",\"rights\":\"\",\"xreference\":\"\"}"
   featured: 0
   language: "*"
@@ -740,7 +740,7 @@
   metakey: ""
   metadesc: ""
   access: 1
-  hits: 236
+  hits: 249
   metadata: "{\"robots\":\"\",\"author\":\"\",\"rights\":\"\",\"xreference\":\"\"}"
   featured: 0
   language: "*"
@@ -771,7 +771,7 @@
   metakey: ""
   metadesc: ""
   access: 1
-  hits: 2793
+  hits: 4405
   metadata: "{\"robots\":\"\",\"author\":\"\",\"rights\":\"\",\"xreference\":\"\"}"
   featured: 0
   language: "*"
@@ -783,7 +783,7 @@
   alias: "fkl-pasta"
   introtext: "<p style=\"text-align: justify;\">Una temporada típica de procesamiento de tomate en California dura tan sólo 120 días. Más o menos julio a octubre, los tomates cultivados en el verano son cosechados, procesados ​​y enlatados.</p>\r\n<p style=\"text-align: justify;\">California suministra más del 90% de los tomates procesados ​​en los Estados Unidos y la oferta tiene que durar un año entero. Con tan relativamente poco tiempo para lograr esto, el equipo de producción debe funcionar constantemente, las 24 horas al día, siete días a la semana. Cualquier interrupción en el proceso puede costar cientos de miles de dólares en tiempo perdido.</p>\r\n"
   fulltext: "\r\n<p style=\"text-align: justify;\">Una temporada típica de procesamiento de tomate en California dura tan sólo 120 días. Más o menos de julio a octubre, los tomates cultivados en el verano son cosechados, procesados ​​y enlatados.</p>\r\n<p style=\"text-align: justify;\">California suministra más del 90% del tomate procesado ​​en los Estados Unidos y la oferta tiene que durar un año entero. Con tan relativamente poco tiempo para lograr esto, el equipo de producción debe funcionar constantemente, las 24 horas al día, siete días a la semana. Cualquier interrupción en el proceso puede costar cientos de miles de dólares en tiempo perdido.</p>\r\n<p style=\"text-align: justify;\">Una gran planta de procesamiento de tomate estaba teniendo dificultades con sus bombas de desplazamiento positivo, que no duraban la temporada completa de 120 días. Incluso con bombas completas de respaldo (spare pumps), cualquier paro en la planta, significa tiempo y dinero perdidos. El desgaste en las bombas era de dos tipos: Abrasión por las semillas y presión diferencial dentro de las bombas. </p>\r\n<p style=\"text-align: justify;\">Para combatir el desgaste, la planta decidió instalar bombas Fristam FKL 600. A 2.24 galones por revolución, podían desplazar 3 veces más pasta de tomate a la misma velocidad que la bomba anteriormente instalada. Esto permitía que la planta lograra disminuir la velocidad dramáticamente en la bomba, de 180rpm a 60rpm. Una rotación menor, significa menos daño a la bomba del estrés y un caudal más suave para obtener una mejor integridad en el producto. Además la bomba FKL 600 se encuentra validada para entregar hasta 300 psi de presión, 50% más de la presión en la que la bomba anterior estaba llegando al límite de su deformación. </p>\r\n<p style=\"text-align: justify;\">La bomba anterior debía ser completamente re-construída al final de cada temporada, a un costo del 70% de una bomba nueva. Peor aún, muchas veces no lograba durar la temporada completa, forzando a la planta a mantener bombas completas de repuesto a mano. Costos iban agregándose. Los tiempos de paro para el mantenimiento de las bombas le estaba costando mucho dinero a la planta. </p>\r\n<p style=\"text-align: justify;\">La FKL de Fristam ayudó a la planta a terminar la temporada completa sin paros debido a temas de bombeo. La bomba FKL manejó el producto abrasivo y las altas presiones con facilidad. </p>\r\n<p style=\"text-align: justify;\">Al final de la temporada, en lugar de reconstruir sus antiguas bombas, gastando cerca de $20,000 por cada una, la planta simplemente realizó mantenimientos de rutina en la FKL lo que significa cambio de sello y empaques. Adicionalmente, la planta reemplazó su bomba de procesamiento de tomate en cubo con otra FKL para lograr un éxito similar y lograron eliminar un estimado de $45,000 por bomba en re-construcciones en este proceso.</p>\r\n<p style=\"text-align: justify;\">Más allá de los costos de re-construcción, los costos de tiempos de paro en planta pueden ser astronómicos en un lapso muy limitado. La bomba FKL de Fristam ahorró dinero y tiempo, además de la paz y tranquilidad que no tiene precio para la planta y sus gerentes.</p>\r\n<p style=\"text-align: justify;\">En muchas fábricas alrededor del mundo, el desgaste excesivo en las bombas y los costos de mantenimiento son un tema de preocupación. <a href=\"contactenos\" target=\"_blank\">Contáctenos hoy</a> para discutir y estudiar su aplicación. ( <a href=\"mailto:info@novatec.cr\">info@novatec.cr</a> / +506 2239-1111 )</p>\r\n<p><a href=\"http://www.fristam.com/en-us/pumpsandblenders/positivedisplacementpumps/fklheavydutycippdpump/fklapplicationsstories/fkleliminates$45kperpumprebuilds.aspx\" target=\"_blank\">Ver el artículo original (inglés)</a></p>\r\n<center>{youtube}4AEKqOt2fuM|600|450|0{/youtube}</center>"
-  state: 1
+  state: 0
   catid: 9
   created: "2015-11-05 21:01:48"
   created_by: 998
@@ -802,7 +802,7 @@
   metakey: ""
   metadesc: ""
   access: 1
-  hits: 1627
+  hits: 1952
   metadata: "{\"robots\":\"\",\"author\":\"\",\"rights\":\"\",\"xreference\":\"\"}"
   featured: 1
   language: "*"
@@ -833,7 +833,7 @@
   metakey: ""
   metadesc: ""
   access: 1
-  hits: 37
+  hits: 65
   metadata: "{\"robots\":\"\",\"author\":\"\",\"rights\":\"\",\"xreference\":\"\"}"
   featured: 0
   language: "*"
@@ -864,7 +864,7 @@
   metakey: ""
   metadesc: ""
   access: 1
-  hits: 117
+  hits: 145
   metadata: "{\"robots\":\"\",\"author\":\"\",\"rights\":\"\",\"xreference\":\"\"}"
   featured: 0
   language: "*"
@@ -895,7 +895,7 @@
   metakey: ""
   metadesc: ""
   access: 1
-  hits: 896
+  hits: 1469
   metadata: "{\"robots\":\"\",\"author\":\"\",\"rights\":\"\",\"xreference\":\"\"}"
   featured: 0
   language: "*"
@@ -926,7 +926,7 @@
   metakey: ""
   metadesc: ""
   access: 1
-  hits: 775
+  hits: 801
   metadata: "{\"robots\":\"\",\"author\":\"\",\"rights\":\"\",\"xreference\":\"\"}"
   featured: 0
   language: "*"
@@ -934,30 +934,30 @@
 -
   id: 31
   asset_id: 141
-  title: "Novatec en ACIMA 2016"
-  alias: "novatec-en-acima-2016"
-  introtext: ""
+  title: "Novatec - Euclid"
+  alias: "novatec-euclid"
+  introtext: "<p>Ahora todo los productos del grupo Euclid... consulte con novatec construcción a ventas-nc@novatec.cr</p>"
   fulltext: ""
   state: 1
   catid: 9
-  created: "2016-05-30 21:08:56"
+  created: "2017-07-29 21:08:00"
   created_by: 996
   created_by_alias: ""
-  modified: "2016-05-30 21:08:56"
-  modified_by: 0
+  modified: "2017-07-29 15:20:28"
+  modified_by: 996
   checked_out: 0
   checked_out_time: "0000-00-00 00:00:00"
-  publish_up: "2016-05-30 15:08:41"
-  publish_down: "2016-06-06 15:08:44"
-  images: "{\"image_intro\":\"images\\/noticias\\/ACIMA.jpg\",\"float_intro\":\"\",\"image_intro_alt\":\"\",\"image_intro_caption\":\"\",\"image_fulltext\":\"images\\/noticias\\/ACIMA.jpg\",\"float_fulltext\":\"\",\"image_fulltext_alt\":\"\",\"image_fulltext_caption\":\"\"}"
+  publish_up: "2017-07-29 15:08:00"
+  publish_down: "2017-08-31 15:08:00"
+  images: "{\"image_intro\":\"images\\/logos\\/16761c81091f92d0be90d3a431922cdd-EGCA.png\",\"float_intro\":\"\",\"image_intro_alt\":\"\",\"image_intro_caption\":\"\",\"image_fulltext\":\"images\\/logos\\/16761c81091f92d0be90d3a431922cdd-EGCA.png\",\"float_fulltext\":\"\",\"image_fulltext_alt\":\"\",\"image_fulltext_caption\":\"\"}"
   urls: "{\"urla\":false,\"urlatext\":\"\",\"targeta\":\"\",\"urlb\":false,\"urlbtext\":\"\",\"targetb\":\"\",\"urlc\":false,\"urlctext\":\"\",\"targetc\":\"\"}"
-  attribs: "{\"show_title\":\"\",\"link_titles\":\"\",\"show_tags\":\"\",\"show_intro\":\"\",\"info_block_position\":\"\",\"show_category\":\"\",\"link_category\":\"\",\"show_parent_category\":\"\",\"link_parent_category\":\"\",\"show_author\":\"\",\"link_author\":\"\",\"show_create_date\":\"\",\"show_modify_date\":\"\",\"show_publish_date\":\"\",\"show_item_navigation\":\"\",\"show_icons\":\"\",\"show_print_icon\":\"\",\"show_email_icon\":\"\",\"show_vote\":\"\",\"show_hits\":\"\",\"show_noauth\":\"\",\"urls_position\":\"\",\"alternative_readmore\":\"\",\"article_layout\":\"\",\"show_publishing_options\":\"\",\"show_article_options\":\"\",\"show_urls_images_backend\":\"\",\"show_urls_images_frontend\":\"\"}"
-  version: 1
+  attribs: "{\"article_layout\":\"\",\"show_title\":\"\",\"link_titles\":\"\",\"show_tags\":\"\",\"show_intro\":\"\",\"info_block_position\":\"\",\"info_block_show_title\":\"\",\"show_category\":\"\",\"link_category\":\"\",\"show_parent_category\":\"\",\"link_parent_category\":\"\",\"show_associations\":\"\",\"show_author\":\"\",\"link_author\":\"\",\"show_create_date\":\"\",\"show_modify_date\":\"\",\"show_publish_date\":\"\",\"show_item_navigation\":\"\",\"show_icons\":\"\",\"show_print_icon\":\"\",\"show_email_icon\":\"\",\"show_vote\":\"\",\"show_hits\":\"\",\"show_noauth\":\"\",\"urls_position\":\"\",\"alternative_readmore\":\"\",\"article_page_title\":\"\",\"show_publishing_options\":\"\",\"show_article_options\":\"\",\"show_urls_images_backend\":\"\",\"show_urls_images_frontend\":\"\"}"
+  version: 6
   ordering: 1
   metakey: ""
   metadesc: ""
   access: 1
-  hits: 19
+  hits: 265
   metadata: "{\"robots\":\"\",\"author\":\"\",\"rights\":\"\",\"xreference\":\"\"}"
   featured: 1
   language: "*"
@@ -988,7 +988,69 @@
   metakey: ""
   metadesc: "Otto,huracan,novatec"
   access: 1
-  hits: 9
+  hits: 12
+  metadata: "{\"robots\":\"\",\"author\":\"\",\"rights\":\"\",\"xreference\":\"\"}"
+  featured: 0
+  language: "*"
+  xreference: ""
+-
+  id: 33
+  asset_id: 147
+  title: "Novatec Construcción - Nueva empresa del Grupo Novatec"
+  alias: "nc"
+  introtext: "<p>Novatec Construcción es nombrado distribuidor de Euclid para Costa Rica.</p>"
+  fulltext: ""
+  state: 1
+  catid: 9
+  created: "2017-06-07 21:40:13"
+  created_by: 996
+  created_by_alias: ""
+  modified: "2017-07-26 01:22:59"
+  modified_by: 996
+  checked_out: 996
+  checked_out_time: "2017-07-29 15:19:14"
+  publish_up: "2017-06-07 15:36:04"
+  publish_down: "2017-08-31 19:22:49"
+  images: "{\"image_intro\":\"images\\/logos\\/NC.png\",\"float_intro\":\"\",\"image_intro_alt\":\"\",\"image_intro_caption\":\"\",\"image_fulltext\":\"\",\"float_fulltext\":\"\",\"image_fulltext_alt\":\"\",\"image_fulltext_caption\":\"\"}"
+  urls: "{\"urla\":false,\"urlatext\":\"\",\"targeta\":\"\",\"urlb\":false,\"urlbtext\":\"\",\"targetb\":\"\",\"urlc\":false,\"urlctext\":\"\",\"targetc\":\"\"}"
+  attribs: "{\"article_layout\":\"\",\"show_title\":\"\",\"link_titles\":\"\",\"show_tags\":\"\",\"show_intro\":\"\",\"info_block_position\":\"\",\"info_block_show_title\":\"\",\"show_category\":\"\",\"link_category\":\"\",\"show_parent_category\":\"\",\"link_parent_category\":\"\",\"show_associations\":\"\",\"show_author\":\"\",\"link_author\":\"\",\"show_create_date\":\"\",\"show_modify_date\":\"\",\"show_publish_date\":\"\",\"show_item_navigation\":\"\",\"show_icons\":\"\",\"show_print_icon\":\"\",\"show_email_icon\":\"\",\"show_vote\":\"\",\"show_hits\":\"\",\"show_noauth\":\"\",\"urls_position\":\"\",\"alternative_readmore\":\"\",\"article_page_title\":\"\",\"show_publishing_options\":\"\",\"show_article_options\":\"\",\"show_urls_images_backend\":\"\",\"show_urls_images_frontend\":\"\"}"
+  version: 6
+  ordering: 0
+  metakey: ""
+  metadesc: ""
+  access: 1
+  hits: 331
+  metadata: "{\"robots\":\"\",\"author\":\"\",\"rights\":\"\",\"xreference\":\"\"}"
+  featured: 0
+  language: "*"
+  xreference: ""
+-
+  id: 34
+  asset_id: 148
+  title: "La nueva bomba Fristam FDS"
+  alias: "la-nueva-bomba-fristam-fds"
+  introtext: "<p>FDS nueva bomba Fristam sanitaria de doble tornillo, consulte en ventas@novatec.cr</p>"
+  fulltext: ""
+  state: 1
+  catid: 9
+  created: "2017-07-29 15:26:37"
+  created_by: 0
+  created_by_alias: ""
+  modified: "2017-07-29 15:30:01"
+  modified_by: 996
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  publish_up: "2017-07-29 09:25:00"
+  publish_down: "2017-09-29 09:26:00"
+  images: "{\"image_intro\":\"images\\/noticias\\/FDS.png\",\"float_intro\":\"\",\"image_intro_alt\":\"\",\"image_intro_caption\":\"\",\"image_fulltext\":\"images\\/productos\\/4b06ce7671547c3cfe009ee8d8a4ee2c-FDS.jpg\",\"float_fulltext\":\"\",\"image_fulltext_alt\":\"\",\"image_fulltext_caption\":\"\"}"
+  urls: "{\"urla\":false,\"urlatext\":\"\",\"targeta\":\"\",\"urlb\":false,\"urlbtext\":\"\",\"targetb\":\"\",\"urlc\":false,\"urlctext\":\"\",\"targetc\":\"\"}"
+  attribs: "{\"article_layout\":\"\",\"show_title\":\"\",\"link_titles\":\"\",\"show_tags\":\"\",\"show_intro\":\"\",\"info_block_position\":\"\",\"info_block_show_title\":\"\",\"show_category\":\"\",\"link_category\":\"\",\"show_parent_category\":\"\",\"link_parent_category\":\"\",\"show_associations\":\"\",\"show_author\":\"\",\"link_author\":\"\",\"show_create_date\":\"\",\"show_modify_date\":\"\",\"show_publish_date\":\"\",\"show_item_navigation\":\"\",\"show_icons\":\"\",\"show_print_icon\":\"\",\"show_email_icon\":\"\",\"show_vote\":\"\",\"show_hits\":\"\",\"show_noauth\":\"\",\"urls_position\":\"\",\"alternative_readmore\":\"\",\"article_page_title\":\"\",\"show_publishing_options\":\"\",\"show_article_options\":\"\",\"show_urls_images_backend\":\"\",\"show_urls_images_frontend\":\"\"}"
+  version: 4
+  ordering: 0
+  metakey: "FDS, Fristam, doble tornillo"
+  metadesc: "FDS"
+  access: 1
+  hits: 230
   metadata: "{\"robots\":\"\",\"author\":\"\",\"rights\":\"\",\"xreference\":\"\"}"
   featured: 0
   language: "*"
