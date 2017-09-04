@@ -3,9 +3,14 @@
 {{ end }}
 
 {{ define "main" }}
-  <ul id="noticias">
-    {{ range .Paginator.Pages }}
+<div class="container">
+  <section id="noticias">
+    {{ range $index, $noticia := .Paginator.Pages }}
       {{ .Render "summary" }}
+      {{ if in (slice 2 5 8 11) $index }}
+        <div class="row-separator"></div>
+      {{ end }}
     {{ end }}
-  </ul>
+  </section>
+</div>
 {{ end }}
