@@ -1,3 +1,4 @@
+{{ $meses := index $.Site.Data.meses }}
 <article class="post-item">
   <div class="inner">
   	<header class="entry-header">
@@ -16,7 +17,7 @@
   			<div class="meta-inner">
 					<span class="post__date">
             <i class="fa fa-clock-o"></i>
-            {{ dateFormat "2 Jan 2006" .Params.date }}
+            {{ dateFormat "2" .Params.date }} {{ index $meses (dateFormat "Jan" .Params.date) }}, {{ dateFormat "2006" .Params.date }}
           </span>
   			</div>
   		</div>
