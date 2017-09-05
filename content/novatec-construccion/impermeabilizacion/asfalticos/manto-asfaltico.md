@@ -1,7 +1,7 @@
 +++
 title = "Manto Asfaltico"
 id = 7
-marcas = ["Euclid Chemical"]
+ncmarcas = ["Euclid Chemical"]
 draft = false
 imagen = "/images/construccion/7.jpg"
 +++

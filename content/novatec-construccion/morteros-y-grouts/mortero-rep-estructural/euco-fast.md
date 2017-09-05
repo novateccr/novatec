@@ -1,7 +1,7 @@
 +++
 title = "Euco Fast"
 id = 29
-marcas = ["Euclid Chemical"]
+ncmarcas = ["Euclid Chemical"]
 draft = false
 imagen = "/images/construccion/30.jpg"
 +++

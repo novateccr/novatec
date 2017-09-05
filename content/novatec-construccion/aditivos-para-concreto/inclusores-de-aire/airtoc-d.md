@@ -1,7 +1,7 @@
 +++
 title = "Airtoc D"
 id = 49
-marcas = ["Euclid Chemical"]
+ncmarcas = ["Euclid Chemical"]
 draft = false
 imagen = "/images/construccion/51.jpg"
 +++

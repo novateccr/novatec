@@ -1,7 +1,7 @@
 +++
 title = "Backed Rod"
 id = 33
-marcas = ["Tremco"]
+ncmarcas = ["Tremco"]
 draft = false
 imagen = "/images/construccion/34.jpg"
 +++

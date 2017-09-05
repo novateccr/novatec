@@ -1,7 +1,7 @@
 +++
 title = "Eucoshot"
 id = 53
-marcas = ["Euclid Chemical"]
+ncmarcas = ["Euclid Chemical"]
 draft = false
 imagen = "/images/construccion/55.jpg"
 +++

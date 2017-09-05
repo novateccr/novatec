@@ -1,7 +1,7 @@
 +++
 title = "Super Stop"
 id = 38
-marcas = ["Tremco"]
+ncmarcas = ["Tremco"]
 draft = false
 imagen = "/images/construccion/39.jpg"
 +++

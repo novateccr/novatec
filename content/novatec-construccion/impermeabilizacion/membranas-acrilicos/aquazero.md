@@ -1,7 +1,7 @@
 +++
 title = "Aquazero"
 id = 5
-marcas = ["Euclid Chemical"]
+ncmarcas = ["Euclid Chemical"]
 draft = false
 imagen = "/images/construccion/5.jpg"
 +++

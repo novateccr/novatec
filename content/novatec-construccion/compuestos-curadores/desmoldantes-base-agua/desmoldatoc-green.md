@@ -1,7 +1,7 @@
 +++
 title = "Desmoldatoc Green"
 id = 24
-marcas = ["Euclid Chemical"]
+ncmarcas = ["Euclid Chemical"]
 draft = false
 imagen = "/images/construccion/25.jpg"
 +++

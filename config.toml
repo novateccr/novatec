@@ -16,7 +16,7 @@ RemovePathAccents = true
   marca = "marcas"
   familia = "familias"
   subfamilia = "subfamilias"
-  ncfamilia = "ncfamilias"
+  ncmarca = "ncmarcas"
 
 [[menu.principal]]
     name = "Industrias"

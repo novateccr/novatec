@@ -1,7 +1,7 @@
 +++
 title = "Tremproof 201/60"
 id = 8
-marcas = ["Tremco"]
+ncmarcas = ["Tremco"]
 draft = false
 imagen = "/images/construccion/8.jpg"
 +++
