@@ -28,7 +28,8 @@
                   {{ $marcas := urlize .Title }}
                   {{ $taxonomy := index $.Site.Taxonomies.industrias .Title }}
                   {{ range $taxonomy.Pages }}
-                    {{ $.Scratch.Add $marcas .Params.marcas }}
+                    {{ $this_marca := .Params.marcas }}
+                    {{ $.Scratch.Add $marcas $this_marca }}
                     <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
                   {{ end }}
                 </ul>
@@ -36,11 +37,12 @@
 
               <div class="industria-marcas">
                 <h3>Marcas</h3>
-                {{ partial "pages-list.html" .Data.Pages }}
                 <ul>
-                  {{ range uniq ($.Scratch.Get $marcas) }}
-                    {{ $marca := $.Site.GetPage "taxonomyTerm" "marcas" (urlize .)  }}
-                    <li><a href="{{ $marca.Permalink }}">{{ $marca.Title }}</a></li>
+                  {{ $current_marcas := $.Scratch.Get $marcas}}
+                  {{ range uniq $current_marcas }}
+                    {{ with $.Site.GetPage "taxonomyTerm" "marcas" (urlize .) }}
+                      <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+                    {{ end }}
                   {{ end }}
                 </ul>
               </div>
@@ -59,8 +61,5 @@
     </div>
   </main>
   {{ partial "footer.html" . }}
-  {{ if eq (getenv "LOCAL_DEV") "true" }}
-    {{ partial "debug.html" . }}
-  {{ end }}
   {{ block "scripts" .}}{{ end }}
 </body>
