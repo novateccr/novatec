@@ -2,7 +2,11 @@
   <a href="javascript:void(0)" id="abrir-main-nav-button" onclick="openNav()"><i class="fa fa-bars" aria-hidden="true"></i>
 </a>
   <div class="header-logo-container">
-    <img src="/images/Logo-Novatec-amarillo.jpg" alt="Logo Description" class="header-logo">
+    {{ if eq .Section "novatec-construccion" }}
+      <img src="/images/logos/NC.png" alt="Logo Description" class="header-logo">
+    {{ else }}
+      <img src="/images/Logo-Novatec-amarillo.jpg" alt="Logo Description" class="header-logo">
+    {{ end }}
   </div>
   <nav id="main-nav" role="navigation">
     <div class="cerrar-main-nav">

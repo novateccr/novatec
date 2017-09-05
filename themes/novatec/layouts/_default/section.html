@@ -3,6 +3,14 @@
 {{ end }}
 
 {{ define "main" }}
-  Default Section template
-  {{ .Content }}
+  <div class="container">
+    <ul class="product-grid">
+      {{ with .Sections }}
+        {{ partial "blocks.html" . }}
+      {{ end }}
+      {{ with .Pages }}
+        {{ partial "blocks.html" . }}
+      {{ end }}
+    </ul>
+  </div>
 {{ end }}

@@ -4,8 +4,28 @@
 
 {{ define "main" }}
   <div class="container">
-    <div class="full-width-div">
+    <div class="grid-container">
+    <section id="producto-main">
       {{ .Content }}
-    </div>
+    </section>
+    <section id="marca">
+      {{ if .Params.industrias }}
+        {{ $brand := urlize (index .Params.marcas 0) }}
+        {{- with $.Site.GetPage "taxonomyTerm" "marcas" $brand }}
+          {{ partial "marca-sidebar" . }}
+        {{ end -}}
+      {{ end }}
+      <div class="marca-tags">
+        {{ range $.Params.familias }}
+          <strong>Familia de productos:</strong> <a href="{{ "/familias/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>
+        {{ end }}
+        <br/>
+        {{ if .Params.industrias }}
+          <strong>Industria{{ if gt (len .Params.industrias) 1 }}s{{ end }}:</strong>
+          {{ range $index, $industria := .Params.industrias }}{{ if gt $index 0 }}, {{ end }}<a href="{{ "industrias/" | relURL }}{{ . | urlize }}">{{ . }}</a>{{ end }}
+        {{ end }}
+      </div>
+    </section>
+  </div>
   </div>
 {{ end }}

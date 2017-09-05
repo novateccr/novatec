@@ -584,37 +584,37 @@
   titulo: "Fibras para concreto"
   familia: 15
   imagen: ""
--
-  id: 54
-  ordering: 0
-  state: 1
-  checked_out: 0
-  checked_out_time: "0000-00-00 00:00:00"
-  created_by: 0
-  modified_by: 0
-  titulo: "Aislantes Térmicos"
-  familia: 16
-  imagen: "/images/construccion/17.jpg"
--
-  id: 55
-  ordering: 0
-  state: 1
-  checked_out: 0
-  checked_out_time: "0000-00-00 00:00:00"
-  created_by: 0
-  modified_by: 0
-  titulo: "Aislantes Acusticos"
-  familia: 16
-  imagen: "/images/construccion/18.jpg"
--
-  id: 56
-  ordering: 0
-  state: 1
-  checked_out: 0
-  checked_out_time: "0000-00-00 00:00:00"
-  created_by: 0
-  modified_by: 0
-  titulo: "Refuerzos Estructurales"
-  familia: 16
-  imagen: "/images/construccion/48.jpg"
+# -
+#   id: 54
+#   ordering: 0
+#   state: -1
+#   checked_out: 0
+#   checked_out_time: "0000-00-00 00:00:00"
+#   created_by: 0
+#   modified_by: 0
+#   titulo: "Aislantes Térmicos"
+#   familia: 16
+#   imagen: "/images/construccion/17.jpg"
+# -
+#   id: 55
+#   ordering: 0
+#   state: -1
+#   checked_out: 0
+#   checked_out_time: "0000-00-00 00:00:00"
+#   created_by: 0
+#   modified_by: 0
+#   titulo: "Aislantes Acusticos"
+#   familia: 16
+#   imagen: "/images/construccion/18.jpg"
+# -
+#   id: 56
+#   ordering: 0
+#   state: -1
+#   checked_out: 0
+#   checked_out_time: "0000-00-00 00:00:00"
+#   created_by: 0
+#   modified_by: 0
+#   titulo: "Refuerzos Estructurales"
+#   familia: 16
+#   imagen: "/images/construccion/48.jpg"
 ...
