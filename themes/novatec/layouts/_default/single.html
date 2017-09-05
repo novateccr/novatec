@@ -4,19 +4,6 @@
 
 {{ define "main" }}
   <div class="container">
-    <div class="grid-container">
-    <section id="producto-main">
-      <img src="{{ .Params.imagen }}" />
-      {{ .Content }}
-    </section>
-    <section id="marca">
-      {{ if .Params.ncmarcas }}
-        {{ $brand := urlize (index .Params.ncmarcas 0) }}
-        {{- with $.Site.GetPage "taxonomyTerm" "ncmarcas" $brand }}
-          {{ partial "marca-sidebar" . }}
-        {{ end -}}
-      {{ end }}
-    </section>
-  </div>
+    {{ .Content }}
   </div>
 {{ end }}
