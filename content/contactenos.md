@@ -6,7 +6,10 @@ menu:
 ---
 <div class="container-container">
 <div class="contact-form-left">
-  <form class="contact-form" form>
+  <form name="contacto" action="gracias" netlify-honeypot="adios" netlify>
+    <p class="visually-hidden">
+      <label>Don’t fill this out: <input name="adios"></label>
+    </p>
     <label for="nombre">Nombre</label>
     <input type="text" name="nombre" id="nombre" />
     <label for="email">Correo electrónico</label>

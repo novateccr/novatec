@@ -47,7 +47,10 @@
   </section>
   <section class="footer-section">
     <h3>Boletín de noticias</h3>
-    <form>
+    <form name="contacto-footer" action="/gracias" netlify-honeypot="adios" netlify>
+      <p class="visually-hidden">
+        <label>Don’t fill this out: <input name="adios"></label>
+      </p>
       <label for="email">Email</label>
       <input type="email" name="email" />
       <label for="nombre">Nombre</label>
