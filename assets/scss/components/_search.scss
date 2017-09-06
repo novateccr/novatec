@@ -1,0 +1,41 @@
+.header-search {
+  position: relative;
+}
+
+.search-results-box {
+  position: absolute;
+  top: 100%;
+  width: 100%;
+  height: auto;
+  border: solid 1px $light-grey;
+  box-sizing: border-box;
+  padding: 0 20px;
+  background: #fff;
+  display: none;
+  overflow: hidden;
+
+  &.expanded {
+    display: block;
+  }
+
+  //&:after{
+  //  display: block;
+  //  content: "Sin resultados...";
+  //  position: absolute;
+  //  top: 0px;
+  //  width: 100%;
+  //  font-size: 0.8em;
+  //}
+
+  ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  li {
+    cursor: pointer;
+    margin: 10px 0;
+    font-size: 0.8em;
+  }
+}

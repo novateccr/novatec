@@ -19,5 +19,11 @@
   {{ if eq (getenv "LOCAL_DEV") "true" }}
     {{ partial "debug.html" . }}
   {{ end }}
+<script
+  src="https://code.jquery.com/jquery-3.2.1.min.js"
+  integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+  crossorigin="anonymous"></script>
+  <script src="https://unpkg.com/lunr/lunr.js"></script>
+  <script src="/js/search.js"></script>
   {{ block "scripts" .}}{{ end }}
 </body>
