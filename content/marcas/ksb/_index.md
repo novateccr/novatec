@@ -1,7 +1,7 @@
 ---
 title: "KSB"
 id: 8
-logo: "9c290a90f7c2e7e768e47a7d8d2ed411-ksb.jpg"
+logo: "/images/logos/9c290a90f7c2e7e768e47a7d8d2ed411-ksb.jpg"
 link: "http://www.ksb.com/"
 catalogo: ""
 meta_keywords: "KSB, bombas, sistemas de presion constante, válvulas"

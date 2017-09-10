@@ -1,7 +1,7 @@
 ---
 title: "Belzona"
 id: 3
-logo: "a308c8c076f43229bafa2c5aff6145ea-belzona.jpg"
+logo: "/images/logos/a308c8c076f43229bafa2c5aff6145ea-belzona.jpg"
 link: "http://www.belzona.com"
 catalogo: ""
 meta_keywords: ""

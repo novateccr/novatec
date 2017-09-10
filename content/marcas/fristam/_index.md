@@ -1,7 +1,7 @@
 ---
 title: "Fristam"
 id: 10
-logo: "4943668b4f5be6720ec8923279452ae2-fristam.jpg"
+logo: "/images/logos/4943668b4f5be6720ec8923279452ae2-fristam.jpg"
 link: "http://www.fristam.com/Home.aspx"
 catalogo: ""
 meta_keywords: ""

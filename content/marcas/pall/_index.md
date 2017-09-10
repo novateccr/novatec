@@ -1,7 +1,7 @@
 ---
 title: "Pall"
 id: 4
-logo: "8f8a22a0e4c21e877f034299958e9cbe-pall.jpg"
+logo: "/images/logos/8f8a22a0e4c21e877f034299958e9cbe-pall.jpg"
 link: "http://www.pall.com"
 catalogo: ""
 meta_keywords: ""

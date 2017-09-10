@@ -1,7 +1,7 @@
 ---
 title: "Aventics"
 id: 12
-logo: "1304c902693a779b7cf0a6e62f70982d-aventics.jpg"
+logo: "/images/logos/1304c902693a779b7cf0a6e62f70982d-aventics.jpg"
 link: "http://www.aventics.com"
 catalogo: ""
 meta_keywords: ""

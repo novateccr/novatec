@@ -1,7 +1,7 @@
 ---
 title: "Wilo "
 id: 20
-logo: "3e7c851dd6401aa77a90282490d44506-Wilo-logo.jpg"
+logo: "/images/logos/3e7c851dd6401aa77a90282490d44506-Wilo-logo.jpg"
 link: "http://www.wilo-usa.com"
 catalogo: ""
 meta_keywords: "wilo,pumps,bombas,presión constant,Aire acondicionado, wilo Costa Rica"

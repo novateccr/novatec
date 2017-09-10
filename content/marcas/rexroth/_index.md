@@ -1,7 +1,7 @@
 ---
 title: "Rexroth"
 id: 16
-logo: "31e7fe75fd4f48ea3a5de33fcb050b4e-rexroth.jpg"
+logo: "/images/logos/31e7fe75fd4f48ea3a5de33fcb050b4e-rexroth.jpg"
 link: "http://www.rexroth.com"
 catalogo: ""
 meta_keywords: ""
