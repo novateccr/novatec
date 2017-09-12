@@ -11,6 +11,5 @@ menu:
   principal:
     parent: marcas
     weight: 0
-draft: true
 
 ---
