@@ -1,15 +1,16 @@
 +++
-title = "Novatec - Horario de Navidad y fin de año..."
-date = "2016-12-16 18:20:00"
-imagen_intro = "images/noticias/Tarjeta-NavideaNovatec.png"
-imagen_full = ""
-asset_id = 138
 alias = "novatec-horario-de-navidad-y-fin-de-ano"
-metakey = ""
-metadesc = ""
+asset_id = 138
+date = "2016-12-16T18:20:00Z"
+draft = true
 featured = 0
-draft = false
 id = 28
+imagen_full = ""
+imagen_intro = "images/noticias/Tarjeta-NavideaNovatec.png"
+metadesc = ""
+metakey = ""
+title = "Novatec - Horario de Navidad y fin de año..."
+
 +++
 <p><img src="images/noticias/Tarjeta-NavideaNovatec.png" alt="" /></p>
 <!--more-->
