@@ -2,6 +2,7 @@
 alias = "novatec-horario-de-navidad-y-fin-de-ano"
 asset_id = 138
 date = "2016-12-16T18:20:00Z"
+draft = true
 featured = 0
 id = 28
 imagen_full = ""
