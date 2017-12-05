@@ -3,7 +3,7 @@
     <h2 class="home-title">Nuestras marcas</h2>
     <ul>
       {{ if eq .Section "novatec-construccion" }}
-        {{ $.Scratch.Set "marcas" ($.Site.GetPage "taxonomyTerm" "ncmarcas").Pages }}
+        {{ $.Scratch.Set "marcas" ($.Site.GetPage "section" "ncmarcas").Pages }}
       {{ else }}
         {{ $.Scratch.Set "marcas" ($.Site.GetPage "taxonomyTerm" "marcas").Pages }}
       {{ end }}
