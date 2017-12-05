@@ -11,7 +11,7 @@
     "sass:build": "node-sass assets/scss/main.scss static/site.css",
     "build:assets": "npm run clean && npm run sass:build && npm run babel:build",
     "build": "npm run build:assets && hugo",
-    "start": "npm run clean && npm run sass:build && npm run babel:build && parallelshell 'npm run sass:watch' 'npm run babel:watch' 'hugo serve'",
+    "start": "npm run clean && npm run sass:build && npm run babel:build | npm run sass:watch | npm run babel:watch | hugo serve",
     "import": "ruby import/genfiles.rb && ruby import/gennc.rb",
     "import-marcas": "ruby import/genmarcas.rb",
     "index": "hugo-lunr -i \"content/subdir/**\" -o public/my-index.json"
