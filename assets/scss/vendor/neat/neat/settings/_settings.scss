@@ -86,3 +86,11 @@ $desktop-grid: (
  color: rgba(#00d4ff, 0.25),
  direction: ltr,
 );
+
+$large-desktop-grid: (
+ columns: 12,
+ gutter: 20px,
+ media: 1240px,
+ color: rgba(#00d4ff, 0.25),
+ direction: ltr,
+);

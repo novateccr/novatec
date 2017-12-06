@@ -1,0 +1,87 @@
+.header-search {
+
+  display: none;
+  position: relative;
+  z-index: z('search');
+
+  form {
+    float: right;
+    position: relative;
+    z-index: z('base');
+
+    &:after {
+      content: "\f002";
+      font-family: FontAwesome;
+      left: 12px;
+      position: absolute;
+      top: 15px;
+      color: $text-color;
+      font-size: 14px;
+      width: 20px;
+      z-index: z('base');
+      pointer-events: none;
+   cursor: default;
+
+      @include grid-media($desktop-grid) {
+        position: absolute;
+        top: 15px;
+      }
+
+      @include grid-media($large-desktop-grid) {
+        position: absolute;
+        left: 12px;
+        top: 15px;
+      }
+    }
+  }
+
+  @include grid-media($desktop-grid) {
+    @include grid-column(2);
+    display: block;
+    position: absolute;
+    right: 20px;
+    top: 20px;
+  }
+
+  @include grid-media($large-desktop-grid) {
+    @include grid-column(2);
+    position: relative;
+    top: 0;
+  }
+
+  input {
+    border-radius: $general-border-radius;
+    border: solid 1px $mid-grey;
+    font-size: 14px;
+    margin-top: 5px;
+    padding: 10px 15px 10px 35px;
+    width: 100%;
+    z-index: z('search-input');
+
+    @include grid-media($desktop-grid) {
+      padding: 10px 10px 10px 26px;
+      width: 33px;
+      box-sizing: border-box;
+    }
+
+    @include grid-media($large-desktop-grid) {
+      padding: 10px 15px 10px 35px;
+      width: 100%;
+    }
+
+    &:focus {
+      padding: 10px 15px 10px 35px;
+      width: 100%;
+      outline: 0;
+      -webkit-box-shadow: 1px 1px 4px 1px rgba(0,0,0,0.25);
+      -moz-box-shadow: 1px 1px 4px 1px rgba(0,0,0,0.25);
+      box-shadow: 1px 1px 4px 1px rgba(0,0,0,0.25);
+    }
+  }
+
+  label {
+    z-index: z('search-label');
+    pointer-events: none;
+    cursor: default;
+  }
+}

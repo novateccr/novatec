@@ -51,7 +51,7 @@
   z-index: 1;
 
   @include grid-media($desktop-grid) {
-    @include grid-column(8);
+    @include grid-column(10);
     position: static;
     border: 0;
     min-height: 0;
@@ -60,6 +60,10 @@
     overflow: visible;
     transform: translate3d(0, 0, 0);
     z-index: 1;
+  }
+
+  @include grid-media($large-desktop-grid) {
+    @include grid-column(8);
   }
 
   .first-level {
@@ -76,6 +80,15 @@
     padding: 15px;
     font-size: 14px;
     transition: background ease 0.5s;
+
+    @include grid-media($desktop-grid) {
+      font-size: 13px;
+      padding: 12px;
+    }
+
+    @include grid-media($large-desktop-grid) {
+      padding: 13px;
+    }
   }
 
   .first-level-item {
@@ -174,36 +187,6 @@
 
 .first-level li:hover > .second-level {
   display: block;
-}
-
-.header-search {
-
-  display: none;
-  position: relative;
-
-  &:after {
-    content: "\f002";
-    font-family: FontAwesome;
-    left: 12px;
-    position: absolute;
-    top: 15px;
-    color: $text-color;
-    font-size: 14px;
-  }
-
-  @include grid-media($desktop-grid) {
-    @include grid-column(2);
-    display: block;
-  }
-
-  input {
-    border-radius: $general-border-radius;
-    border: solid 1px $mid-grey;
-    font-size: 14px;
-    padding: 10px 15px 10px 35px;
-    margin-top: 5px;
-    width: 100%;
-  }
 }
 
 .cerrar-main-nav {

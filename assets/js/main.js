@@ -57,3 +57,10 @@ previous.onclick = function() {
     previousSlide();
     playSlideshow();
 };
+
+
+// Focus al search
+var elm_rows = document.getElementsByClassName("main-search-form")[0];
+elm_rows.addEventListener("click", function (e) {
+    this.getElementsByTagName("input")[0].focus();
+});
