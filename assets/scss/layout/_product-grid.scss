@@ -6,13 +6,21 @@
 }
 
 .product-grid-block {
-  @include grid-column(3);
+  @include grid-column(12);
   position: relative;
   border: solid 1px $mid-grey;
   margin-bottom: $general-padding;
   transition: all 0.5s;
   box-shadow: 0;
   background-image: url('http://via.placeholder.com/268x201/f0f0f0/ffffff?text=Sin+imagen');
+
+  @include grid-media($tablet-grid) {
+    @include grid-column(4);
+  }
+
+  @include grid-media($desktop-grid) {
+    @include grid-column(3);
+  }
 
   &:hover {
     border-color: $azul;

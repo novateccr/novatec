@@ -79,6 +79,14 @@ $neat-custom-grid: (
   direction: ltr,
 ) !default;
 
+$tablet-grid: (
+ columns: 12,
+ gutter: 20px,
+ media: 768px,
+ color: rgba(#00d4ff, 0.25),
+ direction: ltr,
+);
+
 $desktop-grid: (
  columns: 12,
  gutter: 20px,
