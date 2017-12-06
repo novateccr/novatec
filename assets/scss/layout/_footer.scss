@@ -102,7 +102,7 @@
   padding: ($general-padding*2) $general-padding;
   font-size: 12px;
 
-  @include grid-media($desktop-grid) {
+  @include grid-media($tablet-grid) {
     margin-left: 0;
     margin-right: 0;
     width: 100%;
