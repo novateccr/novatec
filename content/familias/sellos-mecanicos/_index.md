@@ -1,15 +1,16 @@
 ---
-title: "Sellos Mecánicos"
+title: Sellos Mecánicos
 id: 7
 imagen: "/images/familias/e6880cfd326701085ad549f45a1dfbc6-Cartex.jpg"
-link: ""
-catalogo: ""
-meta_keywords: ""
-meta_description: ""
+link: ''
+catalogo: ''
+meta_keywords: eagleburgmann
+meta_description: ''
+weight: 7
 menu:
   principal:
-    parent: 'Productos'
+    parent: Productos
     weight: 7
 draft: true
-weight: 7
+
 ---
