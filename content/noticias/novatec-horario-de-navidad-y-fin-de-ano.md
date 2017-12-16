@@ -6,11 +6,10 @@ draft = true
 featured = 0
 id = 28
 imagen_full = ""
-imagen_intro = "images/noticias/Tarjeta-NavideaNovatec.png"
+imagen_intro = "/images/banners/noticias/NInews.jpg"
 metadesc = ""
 metakey = ""
 title = "Novatec - Horario de Navidad y fin de año..."
 
 +++
-<p><img src="images/noticias/Tarjeta-NavideaNovatec.png" alt="" /></p>
-<!--more-->
+Estaremos cerrados a partir del Lunes 25 de Diciembre y regresamos el Martes 2 de Enero 2018.
