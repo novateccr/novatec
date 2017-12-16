@@ -12,3 +12,5 @@ title = "Novatec - Horario de Navidad y fin de año..."
 
 +++
 Estaremos cerrados a partir del Lunes 25 de Diciembre y regresamos el Martes 2 de Enero 2018.
+
+Para emergencias nos puedes escribir a : asistencia@novatec.cr
