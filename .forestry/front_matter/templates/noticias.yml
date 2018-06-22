@@ -26,3 +26,5 @@ fields:
   description: 'Slug: "Noticia de prueba" debería ser "noticia-de-prueba"'
   config:
     required: true
+pages:
+- content/noticias/esta-es-otra-prueba.md
