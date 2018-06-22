@@ -10,5 +10,3 @@ fields:
 - type: text
   name: title
   label: Title
-pages:
-- content/noticias/prueba.md

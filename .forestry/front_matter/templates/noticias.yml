@@ -1,0 +1,28 @@
+---
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: title
+  label: Title
+  config:
+    required: true
+- type: datetime
+  name: date
+  label: Date
+  config:
+    required: true
+- type: file
+  name: imagen_intro
+  label: Imagen Intro
+  description: Esta es la imagen que sale en el home
+- type: file
+  label: Imagen Full
+  name: imagen_full
+  description: Imagen que va adentro de la noticia
+- type: text
+  name: alias
+  label: Alias
+  description: 'Slug: "Noticia de prueba" debería ser "noticia-de-prueba"'
+  config:
+    required: true
