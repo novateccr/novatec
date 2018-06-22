@@ -7,3 +7,5 @@ fields:
   type: field_group
   hidden: false
   default: {}
+pages:
+- content/noticias/prueba.md
