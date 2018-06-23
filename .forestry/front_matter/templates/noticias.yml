@@ -20,5 +20,8 @@ fields:
   label: Imagen Full
   name: imagen_full
   description: Imagen que va adentro de la noticia
+- type: tag_list
+  name: tags
+  label: Tags
 pages:
 - content/noticias/esta-es-otra-prueba.md
