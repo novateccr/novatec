@@ -63,5 +63,11 @@
 }
 
 .article-content {
-  @include grid-column(12);
+  max-width: 800px;
+}
+
+.article-full-image {
+  img {
+    max-height: 40vh;
+  }
 }
