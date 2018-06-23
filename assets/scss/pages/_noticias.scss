@@ -1,9 +1,22 @@
 #noticias {
-  @include grid-container;
+  display: flex;
+  flex-flow: row wrap;
+  margin: 0 10px;
 }
 
 .post-item {
-  @include grid-column(4);
+  flex-grow: 1;
+  flex-shrink: 1;
+  flex-basis:48%;
+  background: #f1f1f1;
+  min-width: 300px;
+  border: solid 1px #eee;
+  max-width: 100%;
+  margin: 0 10px 20px;
+
+  @include grid-media($tablet-grid){
+    max-width: 48%;
+  }
 }
 
 .entry-header {
@@ -19,6 +32,10 @@
     left: 0;
     overflow: hidden;
   }
+}
+
+.entry-content {
+  padding: 20px;
 }
 
 .noticia-title {

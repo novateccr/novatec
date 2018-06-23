@@ -7,9 +7,6 @@
   <section id="noticias">
     {{ range $index, $noticia := (.Paginator 6).Pages }}
       {{ .Render "summary" }}
-      {{ if in (slice 2 5 8 11) $index }}
-        <div class="row-separator"></div>
-      {{ end }}
     {{ end }}
   </section>
 </div>
