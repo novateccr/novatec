@@ -9,7 +9,7 @@ imagen_intro = "/uploads/2017/09/12/EG.jpg"
 metadesc = ""
 metakey = ""
 title = "Novatec - Euclid"
-
+tags= ["Productos"]
 +++
 <p>Ahora todo los productos del grupo Euclid... consulte con novatec construcción a ventas-nc@novatec.cr</p>
 <!--more-->

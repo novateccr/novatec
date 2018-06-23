@@ -10,6 +10,7 @@ metadesc = ""
 featured = 0
 draft = false
 id = 29
+tags= ["Productos"]
 +++
 <p><img src="images/noticias/FiltroPALL.jpg" alt="" /></p>
 <p>Aire esteril, vapor culinario...</p>

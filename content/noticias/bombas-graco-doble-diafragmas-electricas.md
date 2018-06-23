@@ -10,6 +10,7 @@ metadesc = ""
 featured = 0
 draft = true
 id = 24
+tags= ["Productos"]
 +++
 <p>Bombas GRACO 1050 - Doble diafragma eléctricas </p>
 

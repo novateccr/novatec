@@ -10,6 +10,7 @@ metadesc = "FDS"
 featured = 0
 draft = false
 id = 34
+tags= ["Productos"]
 +++
 <p>FDS nueva bomba Fristam sanitaria de doble tornillo, consulte en ventas@novatec.cr</p>
 <!--more-->

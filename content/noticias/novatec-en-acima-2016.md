@@ -10,6 +10,6 @@ imagen_intro = "images/noticias/ACIMA.jpg"
 metadesc = ""
 metakey = ""
 title = "Novatec en ACIMA 2016"
-
+tags= ["Productos"]
 +++
 <!--more-->

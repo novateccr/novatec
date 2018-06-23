@@ -10,7 +10,7 @@ imagen_intro = "/uploads/2017/12/16/Screen Shot 2017-12-16 at 10.42.24 AM.png"
 metadesc = ""
 metakey = ""
 title = "Novatec - Horario de Navidad y fin de año..."
-
+tags= ["Productos"]
 +++
 Estaremos cerrados a partir del Lunes 25 de Diciembre y regresamos el Martes 2 de Enero 2018.
 

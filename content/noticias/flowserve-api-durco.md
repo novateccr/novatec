@@ -10,7 +10,7 @@ imagen_intro = "images/productos/thumbnails/dd6b6063912c311e378230ea8f2c09ab-Flo
 metadesc = ""
 metakey = ""
 title = "Bombas FlowServe"
-
+tags= ["Productos"]
 +++
 <p>Consultenos para toda la linea de bombas FlowServe...</p>
 <p><img src="images/noticias/Durco.jpg" alt="" /></p>

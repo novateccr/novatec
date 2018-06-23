@@ -24,8 +24,8 @@
       {{ with .Params.tags }}
         <h3>Categoría:</h3>
         <ul>
-          {{ range .Params.tags }}
-            <li><a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a> </li>
+          {{ range . }}
+            <li>{{ . }}</li>
           {{ end }}
         </ul>
       {{ end }}
