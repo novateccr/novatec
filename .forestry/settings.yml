@@ -7,8 +7,8 @@ sections:
   content/productos:
     default_front_matter_template: productos
 upload_dir: ''
-public_path: ''
+public_path: https://res.cloudinary.com/novatec
 front_matter_path: ''
-use_front_matter_path: 
+use_front_matter_path: true
 file_template: ":filename:"
 version: '0.26'
