@@ -3,6 +3,7 @@ languageCode = "es-cr"
 title = "Novatec Industrial"
 theme = "novatec"
 DefaultContentLanguage = "es"
+cloudinary_url = "https://res.cloudinary.com/novatec/"
 
 #Taxonomy names with forwign characters
 preserveTaxonomyNames = true
