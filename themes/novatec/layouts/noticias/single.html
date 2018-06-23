@@ -20,5 +20,15 @@
       <p class="article-date"><small>{{ replace (dateFormat "2 #mes#, 2006" .Params.date) "#mes#" (index  (dateFormat "Jan" .Params.date)) }}</small></p>
       {{ .Content }}
     </article>
+    <aside class="article-aside">
+      {{ with .Params.tags }}
+        <h3>Categoría:</h3>
+        <ul>
+          {{ range .Params.tags }}
+            <li><a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a> </li>
+          {{ end }}
+        </ul>
+      {{ end }}
+    </aside>
   </div>
 {{ end }}
