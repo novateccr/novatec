@@ -2,6 +2,19 @@
 	padding: 0;
 	margin: 0;
   list-style-type: none;
+
+	.desktop {
+		display: none;
+	}
+
+	@include grid-media($tablet-grid){
+		.desktop {
+			display: block;
+		}
+		.mobile {
+			display: none;
+		}
+	}
 }
 
 .slide-text {
