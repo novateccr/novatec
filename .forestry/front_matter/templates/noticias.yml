@@ -12,6 +12,7 @@ fields:
   label: Date
   config:
     required: true
+    date_format: DD/MM/YY
 - type: file
   name: imagen_intro
   label: Imagen Intro
