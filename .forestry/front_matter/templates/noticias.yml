@@ -21,4 +21,5 @@ fields:
   name: tags
   label: Tags
 pages:
+- content/noticias/prueba.md
 - content/noticias/esta-es-otra-prueba.md
