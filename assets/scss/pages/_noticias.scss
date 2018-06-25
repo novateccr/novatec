@@ -72,6 +72,10 @@
 
 .article-full-image {
   img {
+    max-width: 100%;
+  }
+
+  .limit-article-image {
     max-height: 40vh;
   }
 }
