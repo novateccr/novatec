@@ -1,7 +1,7 @@
 ---
 title: Tremco
 id: 2
-logo: "/uploads/2017/10/09/TREMCO_Com_Sealants_Lrg.png"
+logo: "/v1530091908/logos/TREMCO_Com_Sealants_Lrg.png"
 link: ''
 catalogo: ''
 meta_keywords: ''
