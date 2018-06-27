@@ -1,15 +1,16 @@
 ---
-title: "Macoga"
+title: Macoga
 id: 17
-logo: "/images/logos/d3dc579210bee7ea22796b6cb7fe9e2e-macoga-logo.jpg"
-link: "http://www.macoga.com/"
-catalogo: ""
-meta_keywords: ""
-meta_description: ""
+logo: "/v1530089074/logos/d3dc579210bee7ea22796b6cb7fe9e2e-macoga-logo.jpg"
+link: http://www.macoga.com/
+catalogo: ''
+meta_keywords: ''
+meta_description: ''
 menu:
   principal:
-    parent: 'marcas'
+    parent: marcas
     weight: 16
 draft: false
 weight: 18
+
 ---
