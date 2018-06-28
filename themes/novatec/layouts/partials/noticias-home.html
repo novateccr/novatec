@@ -16,7 +16,9 @@
            <a class="noticia-title" href="{{ .Permalink }}">
              {{ .Title }}
              <br/>
-             <span class="noticia-fecha">{{ .Date.Format "January 2, 2006" }}</span>
+             <span class="noticia-fecha">
+               {{ replace (dateFormat "2 #mes#, 2006" .Date) "#mes#" (index $.Site.Data.meses (dateFormat "Jan" .Date)) }}
+              </span>
            </a>
          </li>
       {{ end }}
