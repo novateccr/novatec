@@ -1,16 +1,17 @@
 +++
-title = "La Bomba FKL Elimina $45,000 en reparaciones"
-date = "2015-11-05 21:01:48"
-imagen_intro = "images/productos/2f93b790c4ebca8e5e327f8afadc8617-FKL.jpg"
-imagen_full = "images/TomatoPaste-288w.jpg"
-asset_id = 135
 alias = "fkl-pasta"
-metakey = ""
-metadesc = ""
-featured = 1
+asset_id = 135
+date = "2015-11-05 21:01:48"
 draft = true
+featured = 1
 id = 26
-tags= ["Productos"]
+imagen_full = "/v1529917501/fristam-seal.jpg"
+imagen_intro = "/v1529917501/fristam-seal.jpg"
+metadesc = ""
+metakey = ""
+tags = ["Productos"]
+title = "La Bomba FKL Elimina $45,000 en reparaciones"
+
 +++
 <p style="text-align: justify;">Una temporada típica de procesamiento de tomate en California dura tan sólo 120 días. Más o menos julio a octubre, los tomates cultivados en el verano son cosechados, procesados ​​y enlatados.</p>
 <p style="text-align: justify;">California suministra más del 90% de los tomates procesados ​​en los Estados Unidos y la oferta tiene que durar un año entero. Con tan relativamente poco tiempo para lograr esto, el equipo de producción debe funcionar constantemente, las 24 horas al día, siete días a la semana. Cualquier interrupción en el proceso puede costar cientos de miles de dólares en tiempo perdido.</p>
