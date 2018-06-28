@@ -28,6 +28,10 @@
 .noticia-imagen-container {
   border: solid 1px $mid-grey;
   overflow: hidden;
+
+  img {
+    display: block;
+  }
 }
 
 .noticia-imagen {
