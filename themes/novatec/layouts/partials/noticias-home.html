@@ -6,9 +6,7 @@
          <li>
            <a class="noticia-image-link" href="{{ .Permalink }}">
              <div class="noticia-imagen-container">
-               <div class="noticia-imagen">
-                 <img src="{{ .Params.imagen_intro }}" alt="{{ .Title }}" />
-               </div>
+                <img src="{{ $.Site.Params.cloudinary_url }}f_auto,w_260,h_195,c_fit{{ .Params.imagen_intro }}" alt="{{ .Title }}" />
              </div>
            </a>
            <a class="noticia-title" href="{{ .Permalink }}">
