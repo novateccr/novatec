@@ -8,8 +8,9 @@ imagen_full = ""
 imagen_intro = "images/noticias/Code-W.png"
 metadesc = ""
 metakey = ""
+tags = ["Productos"]
 title = "PALL - filtros que cumplen con regulaciones alimenticias"
-tags= ["Productos"]
+
 +++
 <p>Para mas información puede visitar la pagina WEB:</p>
 <hr class="system-pagebreak" />
