@@ -20,5 +20,9 @@ fields:
 - type: tag_list
   name: tags
   label: Tags
+- type: boolean
+  name: featured
+  label: Featured
+  description: Debe aparecer en el home?
 pages:
 - content/noticias/esta-es-otra-prueba.md
