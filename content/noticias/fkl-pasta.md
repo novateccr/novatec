@@ -2,7 +2,7 @@
 alias = "fkl-pasta"
 asset_id = 135
 date = "2015-11-05 21:01:48"
-draft = true
+draft = false
 featured = 1
 id = 26
 imagen_full = "/v1529917501/fristam-seal.jpg"
