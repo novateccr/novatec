@@ -1,18 +1,8 @@
 <article class="post-item">
   <div class="inner">
-    {{ $t := (time .Params.date) }}
-    {{ $z := (time "2018-06-23") }}
-    {{ if $t.After $z }}
       <header>
         <img src="{{ .Site.Params.cloudinary_url }}w_550,h_413,c_fit{{ .Params.imagen_full }}" alt="{{ .Title }}">
       </header>
-    {{ else }}
-      <header class="entry-header">
-        <a class="post-thumbnail__link" href="{{ .Permalink }}">
-          <img class="smart-box-image" src="/{{ .Params.imagen_intro }}" alt="{{ .Title }}">
-        </a>
-      </header>
-    {{ end }}
   	<div class="entry-content">
   		<h5 class="noticia-title">
   			<a href="{{ .Permalink }}">{{ .Title }}</a>
