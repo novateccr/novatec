@@ -13,5 +13,5 @@ draft = false
 taxonomyCover = false
 +++
 <p>Empaque sanitario Bio-Pro cumplen con los mas altos standtard de la industria sanitaria para conexiones TRI-CLAMP y SMS</p>
-<p> </p>
-<p><span style="color: #000000; font-family: Arial; font-size: 13px; line-height: 14.399999618530273px; text-align: justify; white-space: pre-wrap;">{youtube}qV04H2fQKlo{/youtube}</span></p>
+
+{{< youtube qV04H2fQKlo >}}

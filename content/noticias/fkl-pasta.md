@@ -26,4 +26,4 @@ tags= ["Productos"]
 <p style="text-align: justify;">Más allá de los costos de re-construcción, los costos de tiempos de paro en planta pueden ser astronómicos en un lapso muy limitado. La bomba FKL de Fristam ahorró dinero y tiempo, además de la paz y tranquilidad que no tiene precio para la planta y sus gerentes.</p>
 <p style="text-align: justify;">En muchas fábricas alrededor del mundo, el desgaste excesivo en las bombas y los costos de mantenimiento son un tema de preocupación. <a href="contactenos" target="_blank">Contáctenos hoy</a> para discutir y estudiar su aplicación. ( <a href="mailto:info@novatec.cr">info@novatec.cr</a> / +506 2239-1111 )</p>
 <p><a href="http://www.fristam.com/en-us/pumpsandblenders/positivedisplacementpumps/fklheavydutycippdpump/fklapplicationsstories/fkleliminates$45kperpumprebuilds.aspx" target="_blank">Ver el artículo original (inglés)</a></p>
-<center>{youtube}4AEKqOt2fuM|600|450|0{/youtube}</center>
+{{< youtube 4AEKqOt2fuM >}}
