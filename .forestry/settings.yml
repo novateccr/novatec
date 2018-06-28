@@ -6,6 +6,8 @@ webhook_url:
 sections:
   content/productos:
     default_front_matter_template: productos
+  content/noticias:
+    default_front_matter_template: noticias
 upload_dir: ''
 public_path: https://res.cloudinary.com/novatec
 front_matter_path: ''
