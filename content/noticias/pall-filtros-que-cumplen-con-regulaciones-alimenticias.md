@@ -2,7 +2,7 @@
 alias = "pall-filtros-que-cumplen-con-regulaciones-alimenticias"
 asset_id = 125
 date = "2015-09-15T13:51:45Z"
-featured = 0
+featured = false
 id = 22
 imagen_full = ""
 imagen_intro = "images/noticias/Code-W.png"
