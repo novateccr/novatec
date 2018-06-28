@@ -14,4 +14,4 @@ draft: false
 weight: 11
 
 ---
-<p>{youtube}YLwlVLnW-70{/youtube}</p>
+{{< youtube YLwlVLnW-70 >}}
