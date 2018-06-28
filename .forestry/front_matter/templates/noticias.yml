@@ -25,4 +25,5 @@ fields:
   label: Featured
   description: Debe aparecer en el home?
 pages:
+- content/noticias/pall-filtros-que-cumplen-con-regulaciones-alimenticias.md
 - content/noticias/esta-es-otra-prueba.md
