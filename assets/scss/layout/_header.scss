@@ -167,8 +167,12 @@
     width: 100%;
     border-radius: 0;
     color: $text-color;
-    font-size: 14px;
+    font-size: 16px;
     transition: background ease 0.5s;
+
+    @include grid-media($desktop-grid) {
+      font-size: 14px;
+    }
 
     &:hover {
       background: $light-grey;
@@ -201,7 +205,7 @@
   }
 
   h3 {
-    font-size: 14px;
+    font-size: 16px;
     margin: 0;
     float:: left;
   }

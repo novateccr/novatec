@@ -7,7 +7,7 @@
   padding: $general-padding $general-padding 0;
   color: $mid-grey;
   @include grid-container;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 1.5em;
   margin-top: $general-padding*2;
 
@@ -100,7 +100,7 @@
   margin-left: -$general-padding;
   margin-right: -$general-padding;
   padding: ($general-padding*2) $general-padding;
-  font-size: 12px;
+  font-size: 16px;
 
   @include grid-media($tablet-grid) {
     margin-left: 0;
