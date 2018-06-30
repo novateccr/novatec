@@ -26,11 +26,12 @@
 }
 
 .noticia-imagen-container {
-  position: relative;
-  height: 0;
-  width: 100%;
-  padding-top: 50%;
   border: solid 1px $mid-grey;
+  overflow: hidden;
+
+  img {
+    display: block;
+  }
 }
 
 .noticia-imagen {

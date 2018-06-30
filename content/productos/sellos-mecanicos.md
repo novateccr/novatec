@@ -12,8 +12,8 @@ weight = 24
 draft = false
 taxonomyCover = false
 +++
-<p>Sellos de componete, Cartuchos, API, CARTEX, ANSI, Tipo 21, Fuelle, M32, MG1,MG9, M7N, H75, etc.</p>
-<p><span style="color: #000000; font-family: Arial; font-size: 13px; line-height: 14.399999618530273px; text-align: justify; white-space: pre-wrap;">{youtube}Nmot_N6w5rA{/youtube}</span></p>
-<p><span style="color: #000000; font-family: Arial; font-size: 13px; line-height: 14.399999618530273px; text-align: justify; white-space: pre-wrap;">{youtube}9LyDcly1qSU{/youtube}</span></p>
-<p> </p>
-<p> </p>
+Sellos de componete, Cartuchos, API, CARTEX, ANSI, Tipo 21, Fuelle, M32, MG1,MG9, M7N, H75, etc.
+
+{{< youtube Nmot_N6w5rA >}}
+
+{{< youtube 9LyDcly1qSU >}}

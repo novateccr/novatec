@@ -4,6 +4,8 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
+  content/noticias:
+    default_front_matter_template: noticias
   content/productos:
     default_front_matter_template: productos
 upload_dir: ''

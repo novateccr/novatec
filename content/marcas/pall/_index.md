@@ -14,4 +14,5 @@ draft: false
 weight: 4
 
 ---
-<p>Filtración, separación, y equipos y sistemas de purificación</p><p>{youtube}cr55kE1mks0{/youtube}</p>
+Filtración, separación, y equipos y sistemas de purificación
+{{< youtube cr55kE1mks0 >}}

@@ -19,5 +19,5 @@ taxonomyCover = false
 <p> </p>
 <p> Video...</p>
 <p> </p>
-<p><span id="docs-internal-guid-4e07385f-9b43-28b1-a49e-e79cebc58318"><span style="font-size: 13.333333333333332px; font-family: Arial; color: #000000; background-color: transparent; vertical-align: baseline; white-space: pre-wrap;">{youtube}7mkKrZvFxP8{/youtube}</span></span></p>
-<p> </p>
+
+{{< youtube 7mkKrZvFxP8 >}}

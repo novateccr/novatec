@@ -2,19 +2,23 @@
   <div class="container">
     <h2 class="home-title">Últimas noticias</h2>
     <ul>
-      {{ range first 4 (where (where .Data.Pages "Section" "noticias" ) ".Params.draft" "==" false) }}
+      {{ $noticias := where .Data.Pages "Section" "noticias" }}
+      {{ $published := where .Data.Pages "Params.draft" false }}
+      {{ $featured := where .Data.Pages "Params.featured" true }}
+      {{ $filtered := $noticias | intersect $featured }}
+      {{ range first 4 $filtered }}
          <li>
            <a class="noticia-image-link" href="{{ .Permalink }}">
              <div class="noticia-imagen-container">
-               <div class="noticia-imagen">
-                 <img src="{{ .Params.imagen_intro }}" alt="{{ .Title }}" />
-               </div>
+                <img src="{{ $.Site.Params.cloudinary_url }}f_auto,w_260,h_195,c_fill{{ .Params.imagen_intro }}" alt="{{ .Title }}" />
              </div>
            </a>
            <a class="noticia-title" href="{{ .Permalink }}">
              {{ .Title }}
              <br/>
-             <span class="noticia-fecha">{{ .Date.Format "January 2, 2006" }}</span>
+             <span class="noticia-fecha">
+               {{ replace (dateFormat "2 #mes#, 2006" .Date) "#mes#" (index $.Site.Data.meses (dateFormat "Jan" .Date)) }}
+              </span>
            </a>
          </li>
       {{ end }}

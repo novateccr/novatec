@@ -13,9 +13,6 @@
     <article class="article-content">
       {{ if ne .Params.imagen_full "" }}
         <div class="article-full-image">
-          {{ $t := (time .Params.date) }}
-          {{ $z := (time "2018-06-23") }}
-          {{ if $t.After $z }}
             <img srcset="{{ .Site.Params.cloudinary_url }}w_320{{ .Params.imagen_full }} 320w,
                    {{ .Site.Params.cloudinary_url }}w_480{{ .Params.imagen_full }} 480w,
                    {{ .Site.Params.cloudinary_url }}w_820{{ .Params.imagen_full }} 820w"
@@ -23,9 +20,6 @@
                     (max-width: 480px) 440px,
                     820px"
              src="{{ .Site.Params.cloudinary_url }}w_820{{ .Params.imagen_full }}" alt="{{ $.Title }}">
-          {{ else }}
-            <img src="{{ .Params.imagen_full }}" alt="{{$.Title}}"  class="limit-article-image"/>
-          {{ end }}
         </div>
       {{end}}
       <h2>{{ .Title }}</h2>

@@ -21,7 +21,6 @@ function initLunr() {
     $.getJSON("/index.json")
         .done(function(index) {
             pagesIndex = index;
-            console.log("index:", pagesIndex);
             lunrIndex = lunr(function() {
                 this.field("title", { boost: 10 });
                 this.field("tags", { boost: 5 });

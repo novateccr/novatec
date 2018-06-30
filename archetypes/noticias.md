@@ -7,7 +7,7 @@ asset_id = 135
 alias = ""
 metakey = ""
 metadesc = ""
-featured = 1
+featured = true
 draft = true
 id = 
 ---

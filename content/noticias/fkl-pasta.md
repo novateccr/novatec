@@ -1,16 +1,16 @@
 +++
-title = "La Bomba FKL Elimina $45,000 en reparaciones"
-date = "2015-11-05 21:01:48"
-imagen_intro = "images/productos/2f93b790c4ebca8e5e327f8afadc8617-FKL.jpg"
-imagen_full = "images/TomatoPaste-288w.jpg"
-asset_id = 135
 alias = "fkl-pasta"
-metakey = ""
-metadesc = ""
-featured = 1
-draft = true
+asset_id = 135
+date = "2015-11-05 21:01:48"
+draft = false
+featured = true
 id = 26
-tags= ["Productos"]
+imagen_full = "/v1529917501/fristam-seal.jpg"
+imagen_intro = "/v1529917501/fristam-seal.jpg"
+metadesc = ""
+metakey = ""
+tags = ["Productos"]
+title = "La Bomba FKL Elimina $45,000 en reparaciones"
 +++
 <p style="text-align: justify;">Una temporada típica de procesamiento de tomate en California dura tan sólo 120 días. Más o menos julio a octubre, los tomates cultivados en el verano son cosechados, procesados ​​y enlatados.</p>
 <p style="text-align: justify;">California suministra más del 90% de los tomates procesados ​​en los Estados Unidos y la oferta tiene que durar un año entero. Con tan relativamente poco tiempo para lograr esto, el equipo de producción debe funcionar constantemente, las 24 horas al día, siete días a la semana. Cualquier interrupción en el proceso puede costar cientos de miles de dólares en tiempo perdido.</p>
@@ -26,4 +26,4 @@ tags= ["Productos"]
 <p style="text-align: justify;">Más allá de los costos de re-construcción, los costos de tiempos de paro en planta pueden ser astronómicos en un lapso muy limitado. La bomba FKL de Fristam ahorró dinero y tiempo, además de la paz y tranquilidad que no tiene precio para la planta y sus gerentes.</p>
 <p style="text-align: justify;">En muchas fábricas alrededor del mundo, el desgaste excesivo en las bombas y los costos de mantenimiento son un tema de preocupación. <a href="contactenos" target="_blank">Contáctenos hoy</a> para discutir y estudiar su aplicación. ( <a href="mailto:info@novatec.cr">info@novatec.cr</a> / +506 2239-1111 )</p>
 <p><a href="http://www.fristam.com/en-us/pumpsandblenders/positivedisplacementpumps/fklheavydutycippdpump/fklapplicationsstories/fkleliminates$45kperpumprebuilds.aspx" target="_blank">Ver el artículo original (inglés)</a></p>
-<center>{youtube}4AEKqOt2fuM|600|450|0{/youtube}</center>
+{{< youtube 4AEKqOt2fuM >}}
