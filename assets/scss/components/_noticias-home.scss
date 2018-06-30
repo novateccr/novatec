@@ -9,8 +9,12 @@
 
   li {
     display: inline-block;
-    @include grid-column(3);
     text-align: center;
+    @include grid-column(12);
+
+    @include grid-media($tablet-grid){
+      @include grid-column(3);
+    }
   }
 
   .noticia-title {
