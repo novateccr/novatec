@@ -1,6 +1,6 @@
-<ul id="slides">
+<div id="slides">
   {{ range $index, $element := .Params.slides }}
-    <li class="slide {{ if (eq $index 0) }}showing{{end}}">
+    <div class="slide {{ if (eq $index 0) }}showing{{end}}">
       {{ with .link }}
         <a href="{{ . }}">
       {{ end }}
@@ -41,6 +41,6 @@
       {{ with .link }}
         </a>
       {{ end }}
-    </li>
+      </div>
   {{ end }}
-</ul>
+    </div>
