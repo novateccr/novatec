@@ -15,10 +15,14 @@
                target="_blank" 
                rel="noopener noreferrer"
                title="Haga click para visitar el sitio web de {{ $marca.Title }}">
-              <img src="{{ $.Site.Params.cloudinary_url }}f_auto,w_108,h_108,c_fit,q_80{{ . }}" width="108" alt="{{ $marca.Title }}" />
+              <img
+                 class="lazy"
+                 data-src="{{ $.Site.Params.cloudinary_url }}f_auto,w_108,h_108,c_fit,q_80{{ . }}" 
+                 width="108" 
+                 alt="{{ $marca.Title }}" />
             </a>
           </li>
-        {{ end }}
+        {{ end }} 
       {{ end }}
     </ul>
   </div>

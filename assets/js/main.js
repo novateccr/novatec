@@ -30,3 +30,7 @@ $(document).ready(function(){
 		lazyLoad: 'ondemand'
 	});
 });
+
+$(function () {
+	$('.lazy').Lazy();
+});

@@ -7,8 +7,8 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <!-- <link rel="preload" href="/fonts/slick.woff" as="font"> -->
-  <link rel="preload" rel="stylesheet" type="text/css" href="/site.css" media="all">
-  <script rel="preload" src="/js/11a79f3edd.js"></script>
+  <link rel="preload" rel="stylesheet" type="text/css" href="/site.css" media="all" as="style">
+  <script rel="preload" src="/js/11a79f3edd.js" as="javascript"></script>
   {{ partial "social-metatags.html" . }}
 </head>
 <body translate="no">
@@ -27,6 +27,7 @@
   src="https://code.jquery.com/jquery-3.2.1.min.js"
   integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
   crossorigin="anonymous"></script>
+  <script type="text/javascript" src="/js/jquery.lazy.min.js"></script>
   <script src="/js/lunr.min.js"></script>
   <script src="/js/search.js"></script>
   {{ block "scripts" .}}{{ end }}
