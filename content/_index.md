@@ -1,5 +1,6 @@
 ---
 title: Inicio
+description: Especialistas en soluciones para el manejo y sellado de fluidos
 menu:
   principal:
     weight: 1
