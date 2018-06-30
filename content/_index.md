@@ -46,6 +46,6 @@ barra_fondo_imagen:
   texto: '"Una empresa de éxito aprovecha sus puntos fuertes, debe actuar con rapidez
     y flexibilidad, y se concentra en lo esencial. Y para nosotros lo esencial es
     la satisfacción del cliente."'
-  imagen: "/images/slideshow/slide3-dark.jpg"
+  imagen: "https://res.cloudinary.com/novatec/image/upload/f_auto,q_80/v1530333582/slide3-dark.jpg"
 
 ---
