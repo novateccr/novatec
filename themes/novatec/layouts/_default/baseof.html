@@ -14,7 +14,6 @@
 <body translate="no">
   {{ partial "header.html" . }}
   <main id="main">
-    <h1>{{ getenv "ENV" }}</h1>
     {{ block "page-title" . }}
     {{ end }}
     {{ block "main" . }}
