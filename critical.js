@@ -5,6 +5,7 @@ critical.generate({
   base: 'public/',
   src: 'index.html',
   dest: 'index.html',
+  minify: true,
   width: 1366,
   height: 768
 });
