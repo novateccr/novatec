@@ -11,11 +11,15 @@ critical.generate({
   include: [
     ".slick-slider",
     ".slick-list",
+    ".slick-list.draggable",
+    ".draggable",
     ".slick-list:focus",
     ".slick-track",
     ".slick-slide",
     ".slick-slide img",
     "slick-loading img",
+    ".slick-initialized",
+    ".slick-initialized .slick-slide",
     ".slick-slide.slick-initialized",
     ".slick-slide.slick-loading",
     ".slick-slide.slick-vertical",
@@ -33,6 +37,10 @@ critical.generate({
     ".slide-text",
     ".slide-title",
     ".slide-description",
-    ".slide img"
+    ".slide img",
+    "lazy",
+    ".slide",
+    ".showing",
+    ".slick-slide",
   ]
 });
