@@ -1,4 +1,15 @@
 #slides {
+
+  min-height: 400px;
+
+  @include grid-media($desktop-grid){
+    min-height: 410px;
+  }
+
+  @include grid-media($large-desktop-grid){
+    min-height: 496px;
+  }
+
 	.desktop {
 		display: none;
 	}
