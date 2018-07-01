@@ -11,12 +11,21 @@ critical.generate({
   include: [
     ".slick-slider",
     ".slick-list",
+    ".slick-list:focus",
     ".slick-track",
     ".slick-slide",
+    ".slick-slide img",
+    "slick-loading img",
+    ".slick-slide.slick-initialized",
+    ".slick-slide.slick-loading",
+    ".slick-slide.slick-vertical",
     ".slick-arrow.slick-hidden",
     ".slick-list",
+    ".slick-list .slick-loading",
     ".slick-loading",
     ".slick-prev",
-    ".slick-next"
+    ".slick-next",
+    ".slick-slider .slick-track",
+    ".slick-slider .slick-list",
   ]
 });
