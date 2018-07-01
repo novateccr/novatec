@@ -27,5 +27,12 @@ critical.generate({
     ".slick-next",
     ".slick-slider .slick-track",
     ".slick-slider .slick-list",
+    "#slides",
+    "#slides .desktop",
+    "#slides .mobile",
+    ".slide-text",
+    ".slide-title",
+    ".slide-description",
+    ".slide img"
   ]
 });
