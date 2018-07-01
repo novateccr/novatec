@@ -9,7 +9,7 @@
     "babel:minify": "minify assets/site.js --out-file static/js/site.js --mangle.keepClassName",
     "babel:watch": "babel assets/js --watch --out-file static/js/site.js --source-maps",
     "sass:watch": "onchange 'assets/scss/**/*.scss' -- npm run sass:build",
-    "sass:build": "node-sass assets/scss/main.scss static/site.css",
+    "sass:build": "node-sass assets/scss/main.scss static/site.css --output-style compressed",
     "build:assets": "npm run clean && npm run sass:build && npm run babel:build && npm run babel:minify",
     "build": "npm run build:assets && hugo && node critical.js",
     "start": "npm run clean && npm run sass:build && npm run babel:build | npm run sass:watch | npm run babel:watch | hugo serve",
