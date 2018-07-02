@@ -1,6 +1,9 @@
 <header id="main-header">
-  <a href="javascript:void(0)" id="abrir-main-nav-button" onclick="openNav()"><i class="fa fa-bars" aria-hidden="true"></i>
-</a>
+  <a href="javascript:void(0)" id="abrir-main-nav-button" onclick="openNav()">
+    <svg viewBox="0 0 8 8" class="icon">
+      <use xlink:href="open-iconic.svg#menu"></use>
+    </svg>
+  </a>
   <div class="header-logo-container">
     {{ if eq .Section "novatec-construccion" }}
       <a href="/novatec-construccion/"><img src="/images/logos/NC.png" alt="Logo Description" class="header-logo"></a>
