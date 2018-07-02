@@ -6,37 +6,37 @@ menu:
     weight: 1
 slides:
 - title: Consulte a uno de nuestros asesores
-  image: slide1.jpg
+  image: "/v1530542510/slide1.jpg"
   description: ''
   published: true
   link: "/contactenos"
 - title: Confíe en la excelencia
-  image: b8a1605322b2dc125bc8204170717c09.png
+  image: "/v1530542510/b8a1605322b2dc125bc8204170717c09.png"
   description: ''
   published: true
   link: 
 - title: Sirviendo a la industria
-  image: slide2.jpg
+  image: "/v1530542510/slide2.jpg"
   description: "<p>Bombas · Filtros · Sellos · Pisos · Neumática · Hidráulica</p>"
   published: true
   link: 
 - title: Todo en Pisos
-  image: marcas.jpg
+  image: "/v1530542510/marcas.jpg"
   description: ''
   published: true
   link: 
 - title: Dispositivos Médicos
-  image: rexroth.jpg
+  image: "/v1530542510/rexroth.jpg"
   description: ''
   published: true
   link: "/industrias/dispositivos-medicos/"
 - title: Bombas Sanitarias Fristam
-  image: fristam-seal.jpg
+  image: "/v1530542510/fristam-seal.jpg"
   description: "<p>Bombas Sanitarias Centrífugas · Desplazamiento Positivas · Mezcladoras</p>"
   published: true
   link: "/marcas/fristam/"
 - title: Flowserve
-  image: flowserve1.jpg
+  image: "/v1530542510/flowserve1.jpg"
   description: "<p>Bombas · Válvulas · Actuadores</p>"
   published: true
   link: "/marcas/flowserve/"
