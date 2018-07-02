@@ -11,7 +11,7 @@ slides:
   published: true
   link: "/contactenos"
 - title: Confíe en la excelencia
-  image: "/v1530542510/b8a1605322b2dc125bc8204170717c09.png"
+  image: "/v1529917192/slide3.jpg"
   description: ''
   published: true
   link: 
