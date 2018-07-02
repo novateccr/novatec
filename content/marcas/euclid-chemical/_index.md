@@ -10,7 +10,7 @@ menu:
   principal:
     parent: marcas
     weight: 21
-draft: false
 weight: 22
+draft: true
 
 ---
