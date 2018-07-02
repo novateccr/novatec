@@ -11,6 +11,5 @@ menu:
     parent: marcas
     weight: 21
 weight: 22
-draft: true
 
 ---
