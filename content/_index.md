@@ -6,7 +6,7 @@ menu:
     weight: 1
 slides:
 - title: Consulte a uno de nuestros asesores
-  image: https://res.cloudinary.com/novatec/image/upload/w_1500,h_417,f_auto,c_fill,g_face,q_75/v1529916990/slide1.jpg
+  image: slide1.jpg
   description: ''
   published: true
   link: "/contactenos"
