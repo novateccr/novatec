@@ -1,48 +1,60 @@
-<div id="slides">
-  {{ range $index, $element := .Params.slides }}
-    <div class="slide {{ if (eq $index 0) }}showing{{end}}">
-      {{ with .link }}
-        <a href="{{ . }}">
-      {{ end }}
+<div class="slider-container">
+  <div id="slides">
+    {{ range $index, $element := .Params.slides }}
+      <div class="slide {{ if (eq $index 0) }}showing{{end}}">
+        {{ with .link }}
+          <a href="{{ . }}">
+        {{ end }}
 
-        <img data-srcset="{{ $.Site.Params.cloudinary_url }}f_auto,w_320,h_400,c_fill,g_face,q_75{{ .image }} 320w,
-						 {{ $.Site.Params.cloudinary_url }}f_auto,w_480,h_400,c_fill,g_face,q_75{{ .image }} 480w,
-						 {{ $.Site.Params.cloudinary_url }}f_auto,w_800,h_222,c_fill,g_face,q_75{{ .image }} 800w,
-						 {{ $.Site.Params.cloudinary_url }}f_auto,w_1100,h_306,c_fill,g_face,q_75{{ .image }} 1100w,
-						 {{ $.Site.Params.cloudinary_url }}f_auto,w_1500,h_417,c_fill,g_face,q_75{{ .image }} 1500w,
-             {{ $.Site.Params.cloudinary_url }}f_auto,w_2000,h_800,c_fill,g_face,q_75{{ .image }} 2000w"
-             data-sizes="(max-width: 320px) 320px,
-             (max-width: 480px) 480px,
-             (max-width: 800px) 800px,
-             (max-width: 1100px) 1100px,
-             (max-width: 1500px) 1500px,
-             2000px"
-             data-lazy="{{ $.Site.Params.cloudinary_url }}w_1500,h_417,f_auto,c_fill,g_face,q_75{{ .image }}" 
-             alt="{{ $.Title }}" class="desktop" />
-				<img data-srcset="{{ $.Site.Params.cloudinary_url }}f_auto,w_320,h_400,c_fill,g_face{{ .image }} 320w,
-						 {{ $.Site.Params.cloudinary_url }}f_auto,w_480,h_600,c_fill,g_face,q_75{{ .image }} 480w,
-						 {{ $.Site.Params.cloudinary_url }}f_auto,w_800,h_1000,c_fill,g_face,q_75{{ .image }} 800w,
-						 {{ $.Site.Params.cloudinary_url }}f_auto,w_1100,h_1375,c_fill,g_face,q_75{{ .image }} 1100w,
-						 {{ $.Site.Params.cloudinary_url }}f_auto,w_1500,h_1875,c_fill,g_face,q_75{{ .image }} 1500w"
-             data-sizes="(max-width: 320px) 320px,
-						 (max-width: 480px) 480px,
-						 (max-width: 800px) 800px,
-						 (max-width: 1100px) 1100px,
-						 1500px"
-             data-lazy="{{ $.Site.Params.cloudinary_url }}w_1500,h_1875,f_auto,c_fill,g_face,q_75{{ .image }}"
-             alt="{{ $.Title }}" class="mobile" />
+          <img data-srcset="{{ $.Site.Params.cloudinary_url }}f_auto,w_320,h_400,c_fill,g_face,q_75{{ .image }} 320w,
+              {{ $.Site.Params.cloudinary_url }}f_auto,w_480,h_400,c_fill,g_face,q_75{{ .image }} 480w,
+              {{ $.Site.Params.cloudinary_url }}f_auto,w_800,h_222,c_fill,g_face,q_75{{ .image }} 800w,
+              {{ $.Site.Params.cloudinary_url }}f_auto,w_1100,h_306,c_fill,g_face,q_75{{ .image }} 1100w,
+              {{ $.Site.Params.cloudinary_url }}f_auto,w_1500,h_417,c_fill,g_face,q_75{{ .image }} 1500w,
+              {{ $.Site.Params.cloudinary_url }}f_auto,w_2000,h_800,c_fill,g_face,q_75{{ .image }} 2000w"
+              data-sizes="(max-width: 320px) 320px,
+              (max-width: 480px) 480px,
+              (max-width: 800px) 800px,
+              (max-width: 1100px) 1100px,
+              (max-width: 1500px) 1500px,
+              2000px"
+              data-lazy="{{ $.Site.Params.cloudinary_url }}w_1500,h_417,f_auto,c_fill,g_face,q_75{{ .image }}" 
+              alt="{{ $.Title }}" class="desktop" />
+          <img data-srcset="{{ $.Site.Params.cloudinary_url }}f_auto,w_320,h_400,c_fill,g_face{{ .image }} 320w,
+              {{ $.Site.Params.cloudinary_url }}f_auto,w_480,h_600,c_fill,g_face,q_75{{ .image }} 480w,
+              {{ $.Site.Params.cloudinary_url }}f_auto,w_800,h_1000,c_fill,g_face,q_75{{ .image }} 800w,
+              {{ $.Site.Params.cloudinary_url }}f_auto,w_1100,h_1375,c_fill,g_face,q_75{{ .image }} 1100w,
+              {{ $.Site.Params.cloudinary_url }}f_auto,w_1500,h_1875,c_fill,g_face,q_75{{ .image }} 1500w"
+              data-sizes="(max-width: 320px) 320px,
+              (max-width: 480px) 480px,
+              (max-width: 800px) 800px,
+              (max-width: 1100px) 1100px,
+              1500px"
+              data-lazy="{{ $.Site.Params.cloudinary_url }}w_1500,h_1875,f_auto,c_fill,g_face,q_75{{ .image }}"
+              alt="{{ $.Title }}" class="mobile" />
 
-        <div class="slide-text">
-          <div class="slide-title">
-            {{ .title }}
+          <div class="slide-text">
+            <div class="slide-title">
+              {{ .title }}
+            </div>
+            {{ with .description }}
+              <div class="slide-description">{{ . | safeHTML }}</div>
+            {{ end }}
           </div>
-          {{ with .description }}
-            <div class="slide-description">{{ . | safeHTML }}</div>
-          {{ end }}
+        {{ with .link }}
+          </a>
+        {{ end }}
         </div>
-      {{ with .link }}
-        </a>
-      {{ end }}
-      </div>
-  {{ end }}
-    </div>
+    {{ end }}
+  </div>
+  <div class="prev">
+    <svg viewBox="0 0 8 8" class="icon">
+      <use xlink:href="/open-iconic.svg#chevron-left"></use>
+    </svg>
+  </div>
+  <div class="next">
+    <svg viewBox="0 0 8 8" class="icon">
+      <use xlink:href="/open-iconic.svg#chevron-right"></use>
+    </svg>
+  </div>
+</div>

@@ -27,7 +27,9 @@ $(document).ready(function(){
 		speed: 500,
 		fade: true,
 		cssEase: 'linear',
-		lazyLoad: 'ondemand'
+		lazyLoad: 'ondemand',
+		prevArrow: $('.prev'),
+		nextArrow: $('.next')
 	});
 });
 
