@@ -11,7 +11,6 @@ menu:
     parent: marcas
     weight: 20
 weight: 21
-draft: true
 
 ---
 <p>Rubber Fab</p>
