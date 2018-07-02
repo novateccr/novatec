@@ -15,6 +15,10 @@
     @include grid-media($tablet-grid){
       @include grid-column(3);
     }
+
+    img {
+      width: 100%;
+    }
   }
 
   .noticia-title {
