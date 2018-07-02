@@ -11,7 +11,7 @@ slides:
   published: true
   link: "/contactenos"
 - title: Confíe en la excelencia
-  image: https://res.cloudinary.com/novatec/image/upload/w_1500,h_417,f_auto,c_fill,g_face,q_75/v1529916990/slide1.jpg
+  image: "/b8a1605322b2dc125bc8204170717c09.png"
   description: ''
   published: true
   link: 
