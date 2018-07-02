@@ -4,10 +4,35 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
-  content/noticias:
-    default_front_matter_template: noticias
-  content/productos:
-    default_front_matter_template: productos
+- path: content
+  label: Pages
+  create: all
+- path: content/familias
+  label: Familias
+  create: all
+- path: content/industrias
+  label: Industrias
+  create: all
+- path: content/marcas
+  label: Marcas
+  create: all
+- path: content/novatec-construccion
+  label: Novatec construccion
+  create: all
+- path: content/ncmarcas
+  label: Ncmarcas
+  create: all
+- path: content/noticias
+  label: Noticias
+  create: all
+  default_front_matter_template: noticias
+- path: content/servicio-tecnico
+  label: Servicio tecnico
+  create: all
+- path: content/productos
+  label: Productos
+  create: all
+  default_front_matter_template: productos
 upload_dir: ''
 public_path: https://res.cloudinary.com/novatec
 front_matter_path: ''

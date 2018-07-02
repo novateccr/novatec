@@ -6,7 +6,7 @@ menu:
     weight: 1
 slides:
 - title: Consulte a uno de nuestros asesores
-  image: "/v1529917192/slide3.jpg"
+  image: https://res.cloudinary.com/novatec/image/upload/w_1500,h_417,f_auto,c_fill,g_face,q_75/v1529916990/slide1.jpg
   description: ''
   published: true
   link: "/contactenos"
@@ -47,6 +47,6 @@ barra_fondo_imagen:
   texto: '"Una empresa de éxito aprovecha sus puntos fuertes, debe actuar con rapidez
     y flexibilidad, y se concentra en lo esencial. Y para nosotros lo esencial es
     la satisfacción del cliente."'
-  imagen: "https://res.cloudinary.com/novatec/image/upload/f_auto,q_80/v1530333582/slide3-dark.jpg"
+  imagen: https://res.cloudinary.com/novatec/image/upload/f_auto,q_80/v1530333582/slide3-dark.jpg
 
 ---
