@@ -43,16 +43,14 @@ fields:
     type: text
     hidden: false
     default: ''
-  - name: image
-    label: Image
-    type: text
-    hidden: false
-    default: ''
   - name: description
     label: Description
     type: text
     hidden: false
     default: ''
+  - type: file
+    label: Image
+    name: image
   - name: published
     label: Published
     type: boolean
