@@ -7,6 +7,11 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="/site.css" >
+  <script src="/js/svg-injector.min.js"></script>
+  <script>
+    var mySVGsToInject = document.querySelectorAll('.iconic-sprite');
+    SVGInjector(mySVGsToInject);
+  </script>
   {{ partial "social-metatags.html" . }}
 </head>
 <body translate="no">

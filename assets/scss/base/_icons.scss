@@ -1,0 +1,18 @@
+.icon {
+  width: 16px;
+  height: 16px;
+}
+
+.icon-account-login {
+  fill: #000;
+}
+
+.caret {
+  width: 8px;
+  height: 8px;
+  fill: #47535d;
+}
+
+.first-level-link:hover > .caret {
+  fill: #fff;
+}
