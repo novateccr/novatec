@@ -42,5 +42,9 @@ critical.generate({
     ".slide",
     ".showing",
     ".slick-slide",
+    "barra-azul",
+    ".barra-azul .titular",
+    ".barra-azul .subtitular",
+    ".fondo-imagen"
   ]
 });
