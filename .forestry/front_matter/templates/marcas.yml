@@ -63,4 +63,5 @@ fields:
   label: Logo
   name: logo
 pages:
+- content/ncmarcas/tremco/_index.md
 - content/marcas/rexroth/_index.md
