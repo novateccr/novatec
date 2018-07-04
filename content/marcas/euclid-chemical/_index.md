@@ -1,7 +1,7 @@
 ---
 title: 'Euclid Chemical '
 id: 22
-logo: "/v1529902538/16761c81091f92d0be90d3a431922cdd-EGCA.png"
+logo: "/v1530192891/euclid.jpg"
 link: http://www.euclidchemical.com
 catalogo: ''
 meta_keywords: Euclid
