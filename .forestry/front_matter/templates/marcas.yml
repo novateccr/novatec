@@ -63,5 +63,6 @@ fields:
   label: Logo
   name: logo
 pages:
+- content/ncmarcas/euclid-chemical/_index.md
 - content/ncmarcas/tremco/_index.md
 - content/marcas/rexroth/_index.md
