@@ -4,6 +4,7 @@ description: Especialistas en soluciones para el manejo y sellado de fluidos
 menu:
   principal:
     weight: 1
+    parent: ''
 slides:
 - title: Consulte a uno de nuestros asesores
   image: "/v1530542510/slide1.jpg"
@@ -16,7 +17,7 @@ slides:
   published: true
   link: 
 - title: Sirviendo a la industria
-  image: "/v1530542510/slide2.jpg"
+  image: "/v1530797347/1.jpg"
   description: "<p>Bombas · Filtros · Sellos · Pisos · Neumática · Hidráulica</p>"
   published: true
   link: 
