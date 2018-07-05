@@ -5,6 +5,10 @@
 {{ define "main" }}
   <div class="container">
     <ul class="product-grid">
+      {{ $title := lower (replace (replace .Title "á" "a") "í" "i") }}
+      {{ with $.Site.GetPage "taxonomyTerm" "familias" "valvulas" }}
+        {{ .Render "li" }}
+      {{ end }}
       {{ range .Data.Pages }}
         {{ .Render "li" }}
       {{ end }}
