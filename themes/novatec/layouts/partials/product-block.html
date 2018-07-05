@@ -1,0 +1,10 @@
+<li class="product-grid-block">
+  <a href="{{ .Permalink }}">
+    <div class="product-grid-image">
+      <img src="{{ $.Site.Params.cloudinary_url }}{{ .Params.imagen }}" alt="{{ .Title }}" />
+    </div>
+    <div class="product-block-title">
+      <h3>{{ .Title }}</h3>
+    </div>
+  </a>
+</li>

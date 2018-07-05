@@ -9,14 +9,7 @@
         {{ range $key, $value := . }}
           {{ if eq (urlize $key) (urlize (lower $.Title)) }}
             {{ range $value.Pages }}
-              <li class="product-grid-block">
-                <a href="{{ .Permalink }}">
-                  <div class="product-grid-image" style="background-image: url({{ .Params.thumbnail }});"></div>
-                  <div class="product-block-title">
-                    <h3>{{ .Title }}</h3>
-                  </div>
-                </a>
-              </li>
+              {{ partial "product-block.html" . }}
             {{ end }}
           {{ end }}
         {{ end }}

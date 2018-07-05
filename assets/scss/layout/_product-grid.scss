@@ -1,26 +1,23 @@
 .product-grid {
-  @include grid-container;
-  @include grid-collapse;
+  display: flex;
+  flex-flow: row wrap;
   list-style: none;
   padding: 0;
+  width: calc(100% - 20px);
+  margin: 0 auto;
 }
 
 .product-grid-block {
-  @include grid-column(12);
+  flex: 1 1 230px;
+  max-width: 250px;
+  min-width: 100px;
+  margin: 10px;
+
   position: relative;
   border: solid 1px $mid-grey;
   margin-bottom: $general-padding;
   transition: all 0.5s;
-  box-shadow: 0;
-  background-image: url('https://via.placeholder.com/268x201/f0f0f0/ffffff?text=Sin+imagen');
-
-  @include grid-media($tablet-grid) {
-    @include grid-column(4);
-  }
-
-  @include grid-media($desktop-grid) {
-    @include grid-column(3);
-  }
+  box-shadow: none;
 
   &:hover {
     border-color: $azul;
@@ -30,9 +27,7 @@
 }
 
 .product-grid-image {
-  width: 100%;
-  padding-bottom: 75%;
-  background-size: cover;
+  padding: 10px;
 }
 
 .product-block-title {
