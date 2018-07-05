@@ -4,14 +4,10 @@
 
 {{ define "main" }}
   <div class='container'>
-    <div class="text-center marca-page-logo">
-      <div class="marca-page-logo-content">
-        <img src="{{ $.Site.Params.cloudinary_url }}f_auto,w_280,h_280,c_fit,q_80{{ .Params.logo }}" alt="{{ .Title }}" />
-        <div class="text-center">
-          <a href="{{ .Params.link}}" target="_blank" rel="noopener noreferrer" class="small-text"><i class="fa fa-globe"></i> Ir al sitio de {{ .Title }}</a>
-        </div>
-        </div>
+    <div class="text-center marca-page-logo logo-container">
+      {{ partial "marca-logo.html" . }}
     </div>
+    
     <div class="marca-page-info">
       {{ .Content }}
       <h2>Productos</h2>

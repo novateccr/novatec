@@ -9,10 +9,10 @@
       {{ .Content }}
     </section>
     <section id="marca">
-      {{ $brand := urlize (index .Params.marcas 0) }}
-      {{- with $.Site.GetPage "taxonomyTerm" "marcas" $brand }}
-        {{ partial "marca-sidebar" . }}
-      {{ end -}}
+      {{ $brand := $.Site.GetPage "taxonomyTerm" "marcas" (urlize (index .Params.marcas 0))}}
+      <div class="marca-page-logo">
+        {{ partial "marca-logo.html" $brand }}
+      </div>
       <div class="marca-tags">
         {{ range $.Params.familias }}
           <strong>Familia de productos:</strong> <a href="{{ "/familias/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>
