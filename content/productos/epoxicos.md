@@ -2,9 +2,9 @@
 title = "Epóxicos"
 id = 17
 marcas = ["PolySpec Thiokol","Flowcrete"]
-familias = ["Pisos y Polímeros"]
+familias = ["Pisos y Polimeros"]
 industrias = ["Alimentos y Bebidas","energia","Industria Pesada","Biofarmaceuticos"]
-imagen = "/images/productos/original-epoxicos.jpg"
+imagen = "/v1530797588/productos/original-epoxicos.jpg"
 catalogo = "/catalogos/original-epoxicos.pdf"
 meta_description = "epoxicos"
 meta_keywords = ""

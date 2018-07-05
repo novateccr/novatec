@@ -2,9 +2,9 @@
 title = "Estaciones de Trabajo"
 id = 113
 marcas = ["Rexroth"]
-familias = ["Tecnología de Ensamble"]
+familias = ["Tecnologia de Ensamble"]
 industrias = ["Alimentos y Bebidas","Dispositivos Medicos","Biofarmaceuticos"]
-imagen = "/images/productos/original-estaciones-de-trabajo.jpg"
+imagen = "/v1530797588/productos/original-estaciones-de-trabajo.jpg"
 catalogo = "/catalogos/original-estaciones-de-trabajo.pdf"
 meta_description = ""
 meta_keywords = ""

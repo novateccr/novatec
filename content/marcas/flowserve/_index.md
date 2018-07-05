@@ -1,7 +1,7 @@
 ---
 title: Flowserve
 id: 7
-logo: "/images/logos/df1ad1581f8d8ccae6afdf48d40326b3-flowserve.jpg"
+logo: "/v1530797588/logos/df1ad1581f8d8ccae6afdf48d40326b3-flowserve.jpg"
 link: http://flowserve.com/es_XL/
 catalogo: ''
 meta_keywords: ''

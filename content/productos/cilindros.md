@@ -2,9 +2,9 @@
 title = "Cilindros"
 id = 32
 marcas = ["Rexroth"]
-familias = ["Hidráulica"]
+familias = ["Hidraulica"]
 industrias = ["Alimentos y Bebidas","energia","Industria Pesada","Biofarmaceuticos","Ingenios"]
-imagen = "/images/productos/original-cilindros"
+imagen = "/v1530797588/productos/original-cilindros"
 catalogo = "/catalogos/original-cilindros.pdf"
 meta_description = "Cilindro hidraulico"
 meta_keywords = "Cilindro, piston, rexroth"

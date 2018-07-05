@@ -2,9 +2,9 @@
 title = "Juntas de control"
 id = 108
 marcas = ["Flowcrete","Belzona"]
-familias = ["Pisos y Polímeros"]
+familias = ["Pisos y Polimeros"]
 industrias = ["Alimentos y Bebidas","energia","Dispositivos Medicos"]
-imagen = "/images/productos/original-juntas-de-control.jpg"
+imagen = "/v1530797588/productos/original-juntas-de-control.jpg"
 catalogo = "/catalogos/original-juntas-de-control.pdf"
 meta_description = ""
 meta_keywords = "juntas"
