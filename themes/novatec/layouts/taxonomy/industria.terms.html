@@ -18,7 +18,7 @@
           <div class="industria-block">
             <div class="grid-container">
               <div class="industria-detalles">
-                  {{ with .Params.imagen }}<img src="/images/industrias/{{ . }}" alt="" />{{ end }}
+                  {{ with .Params.imagen }}<img src="{{ $.Site.Params.cloudinary_url }}{{ . }}" alt="" />{{ end }}
                   <a class="btn btn-primary" href="{{ .Permalink }}">Ver más información</a>
               </div>
 
