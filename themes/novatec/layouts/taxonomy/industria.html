@@ -19,11 +19,26 @@
       </div>
       <div class="industria-page-productos">
         <h2>Productos</h2>
-        {{ partial "pages-list.html" .Data.Pages }}
+        <ul class="pages-list">
+          {{ range .Pages }}
+            {{ range .Params.marcas }}
+              {{ $.Scratch.Add "marcas" (slice .) }}
+            {{ end }}
+            <li>
+              <a href="{{ .Permalink }}">{{ .Title }}</a>
+            </li>
+          {{ end }}
+        </ul>
       </div>
       <div class="industria-page-marcas">
         <h2>Marcas</h2>
-        {{ partial "pages-list.html" ($.Site.GetPage "taxonomyTerm" "marcas").Pages }}
+        <ul class="pages-list">
+          {{ range ($.Scratch.Get "marcas" | uniq)  }}
+            <li>
+              <a href="/marcas/{{ . | urlize }}">{{ . }}</a>
+            </li>
+          {{ end }}
+        </ul>
       </div>
     </div>
   </div>
