@@ -10,10 +10,9 @@ DefaultContentLanguage = "es"
 
 #Taxonomy names with forwign characters
 preserveTaxonomyNames = true
-RemovePathAccents = true
 
 [context.deploy-preview.environment]
-  HUGO_VERSION = "0.25.1"
+  HUGO_VERSION = "0.42.2"
 
 [taxonomies]
   industria = "industrias"
