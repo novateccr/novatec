@@ -1,6 +1,5 @@
 +++
 date = "2018-07-17T17:24:18-06:00"
-draft = true
 featured = true
 imagen_intro = "/v1530089073/logos/9c290a90f7c2e7e768e47a7d8d2ed411-ksb.jpg"
 tags = []
