@@ -25,14 +25,12 @@ sections:
 - path: content/noticias
   label: Noticias
   create: all
-  default_front_matter_template: noticias
 - path: content/servicio-tecnico
   label: Servicio tecnico
   create: all
 - path: content/productos
   label: Productos
   create: all
-  default_front_matter_template: productos
 upload_dir: ''
 public_path: https://res.cloudinary.com/novatec
 front_matter_path: ''
