@@ -6,10 +6,10 @@
   <div class="container">
     <ul class="product-grid">
       {{ with .Sections }}
-        {{ partial "blocks.html" . }}
+        {{ partial "product-block.html" . }}
       {{ end }}
       {{ with .Pages }}
-        {{ partial "blocks.html" . }}
+        {{ partial "product-block.html" . }}
       {{ end }}
     </ul>
   </div>
