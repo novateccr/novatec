@@ -19,13 +19,16 @@
 }
 
 #marca {
-  @include grid-column(3);
   padding: 4px;
   margin-bottom: 20px;
   line-height: 1.42857143;
   background-color: #ffffff;
   border: 1px solid #dddddd;
   border-radius: 3px;
+
+  @include grid-media($tablet-grid) {
+    @include grid-column(3);
+  }
 }
 
 .marca-box {
