@@ -1,7 +1,7 @@
 ---
 title: "Revestimientos Intumesentes"
 id: 35
-imagen: "/images/construccion/47.jpg"
+imagen: "/v1532656894/construccion/47.jpg"
 meta_keywords: ""
 meta_description: ""
 draft: false

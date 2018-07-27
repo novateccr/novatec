@@ -1,7 +1,7 @@
 ---
 title: "Otros"
 id: 15
-imagen: /images/construccion/17.jpg
+imagen: /v1532656894/construccion/17.jpg
 meta_keywords: ""
 meta_description: ""
 draft: true

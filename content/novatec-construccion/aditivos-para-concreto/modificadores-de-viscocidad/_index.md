@@ -1,7 +1,7 @@
 ---
 title: "Modificadores De Viscocidad"
 id: 37
-imagen: "/images/construccion/50.jpg"
+imagen: "/v1532656894/construccion/50.jpg"
 meta_keywords: ""
 meta_description: ""
 draft: false

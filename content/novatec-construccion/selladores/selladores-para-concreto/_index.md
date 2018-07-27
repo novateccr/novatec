@@ -1,7 +1,7 @@
 ---
 title: "Selladores Para Concreto "
 id: 16
-imagen: "/images/construccion/28.jpg"
+imagen: "/v1532656894/construccion/28.jpg"
 meta_keywords: ""
 meta_description: ""
 draft: false

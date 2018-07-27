@@ -1,7 +1,7 @@
 ---
 title: "Asfalticos"
 id: 3
-imagen: "/images/construccion/6.jpg"
+imagen: "/v1532656894/construccion/6.jpg"
 meta_keywords: ""
 meta_description: ""
 draft: false

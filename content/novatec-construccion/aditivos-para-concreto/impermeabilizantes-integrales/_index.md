@@ -1,7 +1,7 @@
 ---
 title: "Impermeabilizantes integrales"
 id: 38
-imagen: "/images/construccion/51.jpg"
+imagen: "/v1532656894/construccion/51.jpg"
 meta_keywords: ""
 meta_description: ""
 draft: false

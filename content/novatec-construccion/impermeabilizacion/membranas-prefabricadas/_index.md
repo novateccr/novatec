@@ -1,7 +1,7 @@
 ---
 title: "Membranas Prefabricadas	"
 id: 6
-imagen: "/images/construccion/.jpg"
+imagen: "/v1532656894/construccion/.jpg"
 meta_keywords: ""
 meta_description: ""
 draft: false

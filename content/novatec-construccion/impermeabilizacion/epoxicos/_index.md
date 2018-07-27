@@ -1,7 +1,7 @@
 ---
 title: "Epoxicos	"
 id: 5
-imagen: "/images/construccion/60.jpg"
+imagen: "/v1532656894/construccion/60.jpg"
 meta_keywords: ""
 meta_description: ""
 draft: true

@@ -1,7 +1,7 @@
 ---
 title: "Pulidos Y Brillados"
 id: 51
-imagen: "/images/construccion/64.jpg"
+imagen: "/v1532656894/construccion/64.jpg"
 meta_keywords: ""
 meta_description: ""
 draft: true

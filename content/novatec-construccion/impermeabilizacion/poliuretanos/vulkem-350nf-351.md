@@ -3,7 +3,7 @@ title = "Vulkem 350Nf/351"
 id = 11
 ncmarcas = ["Tremco"]
 draft = false
-imagen = "/images/construccion/11.jpg"
+imagen = "/v1532656894/construccion/11.jpg"
 +++
 
 <!--more-->

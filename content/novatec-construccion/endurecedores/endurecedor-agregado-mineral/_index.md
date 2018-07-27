@@ -1,7 +1,7 @@
 ---
 title: "Endurecedor Agregado Mineral "
 id: 30
-imagen: "/images/construccion/42.jpg"
+imagen: "/v1532656894/construccion/42.jpg"
 meta_keywords: ""
 meta_description: ""
 draft: false

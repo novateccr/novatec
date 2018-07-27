@@ -1,7 +1,7 @@
 ---
 title: "Tintes"
 id: 50
-imagen: "/images/construccion/63.jpg"
+imagen: "/v1532656894/construccion/63.jpg"
 meta_keywords: ""
 meta_description: ""
 draft: true

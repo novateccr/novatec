@@ -3,7 +3,7 @@ title = "Vistrol"
 id = 47
 ncmarcas = ["Euclid Chemical"]
 draft = false
-imagen = "/images/construccion/49.jpg"
+imagen = "/v1532656894/construccion/49.jpg"
 +++
 
 <!--more-->

@@ -1,7 +1,7 @@
 ---
 title: "Compuestos Curadores"
 id: 3
-imagen: /images/construccion/23.jpg
+imagen: /v1532656894/construccion/23.jpg
 meta_keywords: ""
 meta_description: ""
 draft: false

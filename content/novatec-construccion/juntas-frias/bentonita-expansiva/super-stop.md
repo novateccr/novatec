@@ -3,7 +3,7 @@ title = "Super Stop"
 id = 38
 ncmarcas = ["Tremco"]
 draft = false
-imagen = "/images/construccion/39.jpg"
+imagen = "/v1532656894/construccion/39.jpg"
 +++
 
 <!--more-->

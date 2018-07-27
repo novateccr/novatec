@@ -1,7 +1,7 @@
 ---
 title: "Decorativos "
 id: 48
-imagen: "/images/construccion/61.jpg"
+imagen: "/v1532656894/construccion/61.jpg"
 meta_keywords: ""
 meta_description: ""
 draft: false

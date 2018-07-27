@@ -1,7 +1,7 @@
 ---
 title: "Water Stop"
 id: 27
-imagen: "/images/construccion/39.jpg"
+imagen: "/v1532656894/construccion/39.jpg"
 meta_keywords: ""
 meta_description: ""
 draft: false

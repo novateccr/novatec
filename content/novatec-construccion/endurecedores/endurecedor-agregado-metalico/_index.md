@@ -1,7 +1,7 @@
 ---
 title: "Endurecedor Agregado Metalico "
 id: 29
-imagen: "/images/construccion/41.jpg"
+imagen: "/v1532656894/construccion/41.jpg"
 meta_keywords: ""
 meta_description: ""
 draft: false

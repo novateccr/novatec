@@ -1,7 +1,7 @@
 ---
 title: "Membranas Acrilicos"
 id: 2
-imagen: "/images/construccion/5.jpg"
+imagen: "/v1532656894/construccion/5.jpg"
 meta_keywords: ""
 meta_description: ""
 draft: false

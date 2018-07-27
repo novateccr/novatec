@@ -1,7 +1,7 @@
 ---
 title: "Cementicia	"
 id: 1
-imagen: "/images/construccion/1.jpg"
+imagen: "/v1532656894/construccion/1.jpg"
 meta_keywords: ""
 meta_description: ""
 draft: false
