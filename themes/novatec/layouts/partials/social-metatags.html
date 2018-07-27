@@ -18,11 +18,13 @@
 <meta name="twitter:site" content="@novatecnews">
 
 
-<!-- <meta itemprop="image" content="http://www.example.com/image.jpg"> -->
-<!-- <meta name="twitter:card" content="summary_large_image"> -->
-<!-- Twitter summary card with large image must be at least 280x150px -->
-<!-- <meta name="twitter:image:src" content="http://www.example.com/image.jpg"> -->
-<!-- <meta property="og:image" content="http://example.com/image.jpg" /> -->
+{{ with .Params.imagen_intro }}
+  <meta itemprop="image" content="{{.}}">
+  <meta name="twitter:card" content="summary_large_image">
+  <!-- Twitter summary card with large image must be at least 280x150px -->
+  <meta name="twitter:image:src" content="{{.}}">
+  <meta property="og:image" content="{{.}}" />
+{{ end }}
 
 <!-- Open Graph data -->
 <meta property="og:type" content="article" />
