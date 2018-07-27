@@ -19,10 +19,10 @@
 
 
 {{ with .Params.imagen_intro }}
-  <meta itemprop="image" content="{{ .Site.Params.cloudinary_url }}f_auto,w_550,h_413,c_fill{{.}}">
-  <meta name="twitter:card" content="{{ .Site.Params.cloudinary_url }}f_auto,w_550,h_413,c_fill{{.}}">
-  <meta name="twitter:image:src" content="{{ .Site.Params.cloudinary_url }}f_auto,w_550,h_413,c_fill{{.}}">
-  <meta property="og:image" content="{{ .Site.Params.cloudinary_url }}f_auto,w_550,h_413,c_fill{{.}}" />
+  <meta itemprop="image" content="{{ $.Site.Params.cloudinary_url }}f_auto,w_550,h_413,c_fill{{.}}">
+  <meta name="twitter:card" content="{{ $.Site.Params.cloudinary_url }}f_auto,w_550,h_413,c_fill{{.}}">
+  <meta name="twitter:image:src" content="{{ $.Site.Params.cloudinary_url }}f_auto,w_550,h_413,c_fill{{.}}">
+  <meta property="og:image" content="{{ $.Site.Params.cloudinary_url }}f_auto,w_550,h_413,c_fill{{.}}" />
 {{ end }}
 
 <!-- Open Graph data -->
