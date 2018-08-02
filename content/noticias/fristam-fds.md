@@ -1,6 +1,5 @@
 +++
 date = "2018-08-02T12:25:29-06:00"
-draft = true
 featured = true
 imagen_intro = "/v1533235755/file.jpg"
 tags = ["Fristram,"]
