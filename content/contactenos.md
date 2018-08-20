@@ -16,7 +16,7 @@ meta_description: Contáctenos aquí
     <input type="text" name="nombre" id="nombre" required/>
     <label for="email" class="requerido">Correo electrónico</label>
     <input type="text" name="email" id="email" required/>
-    <label for="telefono" class="requerido">Correo electrónico</label>
+    <label for="telefono" class="requerido">Teléfono</label>
     <input type="text" name="telefono" id="telefono" required/>
     <label for="subject">Asunto</label>
     <input type="text" name="subject" id="subject" />
