@@ -15,12 +15,14 @@ meta_description: Contáctenos aquí
     <label for="nombre" class="requerido">Nombre</label>
     <input type="text" name="nombre" id="nombre" required/>
     <label for="email" class="requerido">Correo electrónico</label>
-    <input type="text" name="email" required/>
+    <input type="text" name="email" id="email" required/>
+    <label for="telefono" class="requerido">Correo electrónico</label>
+    <input type="text" name="telefono" id="telefono" required/>
     <label for="subject">Asunto</label>
-    <input type="text" name="subject" />
+    <input type="text" name="subject" id="subject" />
     <label for="mensaje" class="requerido">Mensaje</label>
     <textarea name="mensaje" required></textarea>
-    <input type="submit" value="Enviar" class="btn btn-primary"/>
+    <input type="submit" value="Enviar" class="btn btn-primary" id="mensaje" />
   </form>
 </div>
 
