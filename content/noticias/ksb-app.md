@@ -1,6 +1,5 @@
 +++
 date = "2018-08-29T17:19:26-06:00"
-draft = true
 featured = true
 imagen_intro = "/v1535584782/ksbselect.jpg"
 tags = []
