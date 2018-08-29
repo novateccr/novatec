@@ -26,6 +26,7 @@ fields:
   label: Featured
   description: Debe aparecer en el home?
 pages:
+- content/noticias/novatec-euclid.md
 - content/noticias/fristam-fds.md
 - content/noticias/meganorm-blog-ksb.md
 - content/noticias/pall-filtros-que-cumplen-con-regulaciones-alimenticias.md
@@ -38,7 +39,6 @@ pages:
 - content/noticias/novatec-horario-de-navidad-y-fin-de-ano.md
 - content/noticias/bombas-graco-doble-diafragmas-electricas.md
 - content/noticias/filtros-pall-para-alimentos-y-bebidas.md
-- content/noticias/novatec-euclid.md
 - content/noticias/_index.md
 - content/noticias/fkl-pasta.md
 - content/noticias/novatec-en-acima-2016.md
