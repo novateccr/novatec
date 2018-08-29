@@ -64,6 +64,7 @@ fields:
   label: Logo
   name: logo
 pages:
+- content/marcas/wilo/_index.md
 - content/ncmarcas/euclid-chemical/_index.md
 - content/marcas/flowcrete/_index.md
 - content/marcas/euclid-chemical/_index.md

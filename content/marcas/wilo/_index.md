@@ -1,16 +1,17 @@
 ---
-title: 'Wilo '
+title: 'Hyamat KSB '
 id: 20
-logo: "/v1530089073/logos/3e7c851dd6401aa77a90282490d44506-Wilo-logo.jpg"
-link: http://www.wilo-usa.com
+logo: "/v1535583100/ksb.jpg"
+link: https://www.ksb.com/ksb-en/Products_and_Services/building-services/water_supply/Hyamat_SVP/
 catalogo: ''
-meta_keywords: wilo,pumps,bombas,presión constant,Aire acondicionado, wilo Costa Rica
-meta_description: wilo,pumps,bombas,presión constante, bombas wilo
+meta_keywords: ksb, pumps, bombas, presión constante, Aire acondicionado, ksb Costa
+  Rica
+meta_description: ksb, pumps, bombas, presión constante, bombas, ksb
+weight: 20
 menu:
   principal:
     parent: marcas
     weight: 19
-weight: 20
 
 ---
 <h1 class="csc-firstHeader" style="padding: 0px; margin: 0px 0px 7px; border: 0px; font-family: WILOPlusFMRegular, Verdana, Arial, Helvetica, sans-serif; font-weight: 400; color: #000000;"> </h1>
