@@ -1,9 +1,9 @@
 +++
 date = "2018-09-10T21:10:04-06:00"
 draft = true
-featured = false
+featured = true
 imagen_intro = "/v1536636258/elevadores.jpg"
-tags = []
+tags = ["rexroth,", "elevadores,"]
 title = "Elevadores eléctricos para cajas"
 
 +++
