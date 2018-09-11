@@ -26,6 +26,7 @@ fields:
   label: Featured
   description: Debe aparecer en el home?
 pages:
+- content/noticias/elevadores-electricos-para-cajas.md
 - content/noticias/ksb-app.md
 - content/noticias/novatec-euclid.md
 - content/noticias/fristam-fds.md
