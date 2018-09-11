@@ -1,9 +1,9 @@
 +++
 date = "2018-09-10T21:10:04-06:00"
 draft = true
-featured = true
+featured = false
 imagen_intro = "/v1536636258/elevadores.jpg"
-tags = ["rexroth,", "elevadores,", "electricos,"]
+tags = []
 title = "Elevadores eléctricos para cajas"
 
 +++
@@ -29,4 +29,4 @@ El novedoso elevador de cajas de Rexroth le ofrece las siguientes ventajas, entr
 
 􀁦 La ranura de 10 mm permite un montaje sencillo de componentes del sistema modular de elementos básicos de mecánica
 
-Descargar PDF con especificaciones
+[Elevadores.pdf](https://res.cloudinary.com/novatec/v1536636634/elevadores.pdf "elevadores.pdf")
