@@ -2,7 +2,6 @@
 catalogo = ""
 categoria = ""
 date = "2018-10-10T20:21:05-06:00"
-draft = true
 familias = ["Bombas,"]
 id = ""
 imagen = "/v1539224967/7053-12972745.jpg"
