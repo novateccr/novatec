@@ -1,14 +1,17 @@
 +++
-title = "Calderas"
-id = 11
-marcas = ["Flowserve"]
-familias = ["Bombas"]
-industrias = ["Alimentos y Bebidas","energia","Biofarmaceuticos"]
-imagen = "/v1530797588/productos/original-calderas.png"
 catalogo = "/catalogos/original-calderas.pdf"
+categoria = ""
+familias = ["Bombas"]
+id = 11
+imagen = "/v1530797588/productos/original-calderas.png"
+industrias = ["Alimentos y Bebidas", "energia", "Biofarmaceuticos"]
+marcas = ["ksb,"]
 meta_description = ""
 meta_keywords = ""
-weight = 11
-draft = false
 taxonomyCover = false
+title = "Calderas"
+titulo = ""
+type = ""
+weight = 11
+
 +++
