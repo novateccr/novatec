@@ -74,6 +74,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- content/productos/bombas-sistemas-de-presión-constante.md
 - content/productos/laminados-libres-de-asbesto.md
 - content/productos/alfombras-ergonomicas.md
 - content/productos/elementos-cartuchos.md
