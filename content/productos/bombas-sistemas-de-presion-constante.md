@@ -9,11 +9,11 @@ marcas = ["ksb,"]
 meta_description = "Sistema de presión constante, Ksb, bombas, variador"
 meta_keywords = "Ksb, Presión constante"
 taxonomyCover = false
-title = "Bombas - Sistemas de Alta Presión"
+title = "Bombas para Alta Presión tipo Movitec"
 titulo = ""
 type = ""
 weight = 139
 
 +++
-<p>Sistemas de Alta Presión.</p>
+<p>Bombas para Alta Presión tipo Movitec</p>
 <p>HAVC, Chilers, Agua Helada, Recirculacion </p>
