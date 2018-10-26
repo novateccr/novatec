@@ -35,12 +35,14 @@ Belzona 1212 es fácil de mezclar y aplicar sin necesidad de herramientas especi
 ![](https://res.cloudinary.com/novatec/v1540582445/Screenshot%202018-10-26%2013.33.00.png)
 
 | Datos técnicos clave: |
-| --- | --- |
-| Vida útil a 20°C (68°F): | 9 minutos |
-| Tiempo de carga mecánica completa a 20°C (68°F): | 8 horas |
-| Adherencia por tracción (ASTM D4541 / ISO 4624) en acero de base preparado manualmente (SSPC-SP11 / ISO 8501-1 St3) | 4105 psi (28,3 MPa) en acero dulce contaminado con aceite de transformador; 4100 psi (28,3 MPa) en acero suave húmedo |
-| Resistencia a la compresión (ASTM D695): | 10 935 psi (75,4 MPa) con fraguado de 24 horas a 20°C (68°F) |
-| Resistencia a la flexión (ASTM D790): | 8905 psi (61,4 MPa) con fraguado de 24 horas a 20°C (68°F) |
-| Se adhiere a las siguientes superficies: | Sustratos metálicos, incluidos el acero dulce, acero inoxidable, aluminio, cobre, latón y plomo |
-| Aplicaciones típicas: | Superficies mojadas, contaminadas con aceite y sumergidas preparadas manualmente, inclusive unión de placas, reparaciones de parche, relleno de picaduras, y mucho más |
-| Tamaño de la unidad: | 450g (Los tamaños de empaque pueden variar localmente). |
+| --- |
+| Vida útil a 20°C (68°F): |
+| Tiempo de carga mecánica completa a 20°C (68°F): |
+| Adherencia por tracción (ASTM D4541 / ISO 4624) en acero de base preparado manualmente (SSPC-SP11 / ISO 8501-1 St3) |
+| Resistencia a la compresión (ASTM D695): |
+| Resistencia a la flexión (ASTM D790): |
+| Se adhiere a las siguientes superficies: |
+| Aplicaciones típicas: |
+| Tamaño de la unidad: |
+
+  
