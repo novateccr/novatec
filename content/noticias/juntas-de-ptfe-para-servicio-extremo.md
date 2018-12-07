@@ -1,9 +1,9 @@
 +++
 date = "2018-12-07T13:57:19-06:00"
 draft = true
-featured = false
+featured = true
 imagen_intro = "/v1544212707/Garlock.jpg"
-tags = []
+tags = ["garlock", "juntas"]
 title = "Juntas de PTFE para servicio extremo"
 
 +++
