@@ -1,9 +1,9 @@
 ---
-title: "Otros"
+title: Otros
 id: 15
-imagen: /v1532656894/construccion/17.jpg
-meta_keywords: ""
-meta_description: ""
-draft: true
+imagen: "/v1532656894/construccion/17.jpg"
+meta_keywords: ''
+meta_description: ''
 weight: 0
+
 ---
