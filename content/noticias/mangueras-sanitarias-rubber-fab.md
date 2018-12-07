@@ -7,6 +7,10 @@ tags = []
 title = "Mangueras Sanitarias Rubber Fab"
 
 +++
-  
-\# Rubber Fab  
-ofrece una variedad de mangueras de goma en diferentes materiales para satisfacer prácticamente cualquier aplicación de manguera sanitaria. Nuestros conjuntos de manguera y manguera siempre cumplen con los estándares de calidad establecidos por las industrias farmacéutica y alimentaria. Cubiertas de manguera y accesorios también están disponibles.
+# La prestigiosa marca Rubber Fab
+
+Ofrece una variedad de mangueras de goma en diferentes materiales para satisfacer prácticamente cualquier aplicación de manguera sanitaria. 
+
+La gama de mangueras siempre cumplen con los estándares de calidad establecidos por las industrias farmacéutica y alimentaria.
+
+Disponibles también cubiertas de manguera y accesorios.
