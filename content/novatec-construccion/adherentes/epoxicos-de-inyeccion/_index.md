@@ -1,9 +1,9 @@
 ---
-title: "Epoxicos De Inyeccion "
+title: 'Epoxicos De Inyeccion '
 id: 10
-imagen: "/v1532656894/construccion/22.jpg"
-meta_keywords: ""
-meta_description: ""
-draft: false
+imagen: "/v1544209322/INYECCI%E2%80%A1N%201.jpg"
+meta_keywords: ''
+meta_description: ''
 weight: 0
+
 ---
