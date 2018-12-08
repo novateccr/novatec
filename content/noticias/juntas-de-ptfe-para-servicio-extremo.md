@@ -1,6 +1,5 @@
 +++
 date = "2018-12-07T13:57:19-06:00"
-draft = true
 featured = true
 imagen_intro = "/v1544212707/Garlock.jpg"
 tags = ["garlock", "juntas"]
