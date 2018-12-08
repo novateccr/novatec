@@ -1,6 +1,5 @@
 +++
 date = "2018-12-02T13:35:16-06:00"
-draft = true
 featured = true
 imagen_intro = "/v1544211350/Ruibber-Fab.jpg"
 tags = []
