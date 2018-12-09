@@ -36,12 +36,12 @@
                 </li>
               {{ end }}
             </ul>
-            </li>
-          {{ else }}
-            <li class="first-level-item{{if or ($currentPage.IsMenuCurrent "principal" .) ($currentPage.HasMenuCurrent "principal" .) }} active{{end}}">
-              <a class="first-level-link" href="{{.URL}}">{{ .Name }}</a>
-            </li>
-          {{ end }}
+          </li>
+        {{ else }}
+          <li class="first-level-item{{if or ($currentPage.IsMenuCurrent "principal" .) ($currentPage.HasMenuCurrent "principal" .) }} active{{end}}">
+            <a class="first-level-link" href="{{.URL}}">{{ .Name }}</a>
+          </li>
+        {{ end }}
         </li>
       {{ end }}
     </ul>
