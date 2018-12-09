@@ -1,7 +1,6 @@
 baseURL = "https://www.novatec.cr/"
 languageCode = "es-cr"
 title = "Novatec Industrial"
-theme = "novatec"
 DefaultContentLanguage = "es"
 
 #CUSTOM PARAMS
