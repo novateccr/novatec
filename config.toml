@@ -12,15 +12,3 @@ preserveTaxonomyNames = true
 
 [context.deploy-preview.environment]
   HUGO_VERSION = "0.42.2"
-
-[[menu.principal]]
-    name = "Industrias"
-    weight = 300
-    identifier = "industrias"
-    url = "/industrias/"
-
-[[menu.principal]]
-    name = "Marcas"
-    weight = 400
-    identifier = "marcas"
-    url = "/marcas/"
