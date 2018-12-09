@@ -14,13 +14,6 @@ preserveTaxonomyNames = true
 [context.deploy-preview.environment]
   HUGO_VERSION = "0.42.2"
 
-[taxonomies]
-  industria = "industrias"
-  marca = "marcas"
-  familia = "familias"
-  subfamilia = "subfamilias"
-  ncmarca = "ncmarcas"
-
 [[menu.principal]]
     name = "Industrias"
     weight = 300
