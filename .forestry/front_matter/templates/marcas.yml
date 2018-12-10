@@ -63,11 +63,3 @@ fields:
 - type: file
   label: Logo
   name: logo
-pages:
-- content/ncmarcas/euclid-chemical/_index.md
-- content/marcas/rexroth/_index.md
-- content/marcas/euclid-chemical/_index.md
-- content/marcas/wilo/_index.md
-- content/ncmarcas/flowcrete/_index.md
-- content/marcas/flowcrete/_index.md
-- content/ncmarcas/tremco/_index.md
