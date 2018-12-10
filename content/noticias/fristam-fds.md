@@ -2,7 +2,7 @@
 date = "2018-08-02T12:25:29-06:00"
 featured = true
 imagen_intro = "/v1533236069/file.jpg"
-tags = ["Fristram,"]
+tags = ["Fristram"]
 title = "Caso de éxito Fristam"
 
 +++

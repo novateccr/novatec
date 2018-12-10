@@ -2,7 +2,7 @@
 date = "2018-10-26T13:31:52-06:00"
 featured = true
 imagen_intro = "/v1540582324/1212_10.jpg"
-tags = ["belzona,", "1212"]
+tags = ["belzona", "1212"]
 title = "Belzona 1212"
 
 +++
