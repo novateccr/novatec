@@ -6,12 +6,10 @@ link: http://www.pneumatech.com
 catalogo: ''
 meta_keywords: ''
 meta_description: ''
-menu:
-  principal:
-    parent: marcas
-    weight: 12
 draft: false
 weight: 10
-
+menu:
+  principal:
+    parent: "Marcas"
 ---
 <p>Fabricante de tratamiento para el aire comprimido</p>

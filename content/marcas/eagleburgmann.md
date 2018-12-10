@@ -6,11 +6,9 @@ link: https://www.eagleburgmann.com
 catalogo: ''
 meta_keywords: ''
 meta_description: ''
-menu:
-  principal:
-    parent: marcas
-    weight: 4
 draft: false
 weight: 5
-
+menu:
+  principal:
+    parent: "Marcas"
 ---

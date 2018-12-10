@@ -6,12 +6,10 @@ link: http://www.aventics.com
 catalogo: ''
 meta_keywords: ''
 meta_description: ''
-menu:
-  principal:
-    parent: marcas
-    weight: 11
 draft: false
 weight: 13
-
+menu:
+  principal:
+    parent: "Marcas"
 ---
 <p>Cilindros, válvulas, filtros reguladores y lubricadores</p>

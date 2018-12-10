@@ -6,11 +6,9 @@ link: http://qcconveyors.com/
 catalogo: ''
 meta_keywords: ''
 meta_description: ''
-menu:
-  principal:
-    parent: marcas
-    weight: 14
 draft: false
 weight: 15
-
+menu:
+  principal:
+    parent: "Marcas"
 ---

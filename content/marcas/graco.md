@@ -6,11 +6,9 @@ link: http://www.graco.com
 catalogo: ''
 meta_keywords: ''
 meta_description: ''
-menu:
-  principal:
-    parent: marcas
-    weight: 8
 draft: false
 weight: 1
-
+menu:
+  principal:
+    parent: "Marcas"
 ---

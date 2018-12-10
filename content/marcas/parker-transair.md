@@ -6,12 +6,10 @@ link: http://promo.parker.com/promotionsite/transair/us/en/home
 catalogo: ''
 meta_keywords: ''
 meta_description: ''
-menu:
-  principal:
-    parent: marcas
-    weight: 10
 draft: false
 weight: 9
-
+menu:
+  principal:
+    parent: "Marcas"
 ---
 <p>Fabricante de tuberias de 1/2", 1" , 1-1/2" 2", 2-1/2", 3", 4", 6"</p>

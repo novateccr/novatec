@@ -6,10 +6,9 @@ link: "http://www.garlock.com/"
 catalogo: ""
 meta_keywords: ""
 meta_description: ""
-menu:
-  principal:
-    parent: 'marcas'
-    weight: 13
 draft: true
 weight: 14
+menu:
+  principal:
+    parent: "Marcas"
 ---

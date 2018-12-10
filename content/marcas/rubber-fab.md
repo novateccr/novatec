@@ -6,11 +6,9 @@ link: http://www.rubberfab.com
 catalogo: ''
 meta_keywords: mangueras, conectores, hoses, sanitary hoces
 meta_description: Rubber Fab, mangueas sanitarias
+weight: 21
 menu:
   principal:
-    parent: marcas
-    weight: 20
-weight: 21
-
+    parent: "Marcas"
 ---
 <p>Rubber Fab</p>

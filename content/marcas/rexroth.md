@@ -6,12 +6,10 @@ link: http://www.rexroth.com
 catalogo: ''
 meta_keywords: ''
 meta_description: ''
-menu:
-  principal:
-    parent: marcas
-    weight: 15
 weight: 11
 draft: true
-
+menu:
+  principal:
+    parent: "Marcas"
 ---
 {{< youtube YLwlVLnW-70 >}}

@@ -6,11 +6,9 @@ link: http://www.ergomat.com/global/
 catalogo: ''
 meta_keywords: ''
 meta_description: ''
-menu:
-  principal:
-    parent: marcas
-    weight: 17
 draft: false
 weight: 12
-
+menu:
+  principal:
+    parent: "Marcas"
 ---

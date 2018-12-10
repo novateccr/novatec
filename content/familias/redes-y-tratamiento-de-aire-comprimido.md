@@ -6,10 +6,9 @@ link: ""
 catalogo: "92a1d257c293b965aea8e9433ddcc38e-transair.pdf"
 meta_keywords: ""
 meta_description: ""
-menu:
-  principal:
-    parent: 'Productos'
-    weight: 9
 draft: false
 weight: 9
+menu:
+  principal:
+    parent: "Productos"
 ---

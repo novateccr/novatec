@@ -7,10 +7,8 @@ catalogo: ''
 meta_keywords: ''
 meta_description: ''
 weight: 2
+draft: true
 menu:
   principal:
-    parent: marcas
-    weight: 0
-draft: true
-
+    parent: "Marcas"
 ---

@@ -6,10 +6,9 @@ link: ""
 catalogo: ""
 meta_keywords: ""
 meta_description: ""
-menu:
-  principal:
-    parent: 'Productos'
-    weight: 2
 draft: false
 weight: 2
+menu:
+  principal:
+    parent: "Productos"
 ---

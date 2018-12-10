@@ -6,10 +6,6 @@ link: ''
 catalogo: ''
 meta_keywords: ''
 meta_description: ''
-menu:
-  principal:
-    parent: marcas
-    weight: 1
 weight: 17
 
 ---

@@ -6,11 +6,10 @@ link: ""
 catalogo: ""
 meta_keywords: ""
 meta_description: ""
-menu:
-  principal:
-    parent: 'Productos'
-    weight: 1
 draft: false
 weight: 1
+menu:
+  principal:
+    parent: "Productos"
 ---
 <p>Todo en bombas consultenos...</p>

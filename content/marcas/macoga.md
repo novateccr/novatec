@@ -6,11 +6,9 @@ link: http://www.macoga.com/
 catalogo: ''
 meta_keywords: ''
 meta_description: ''
-menu:
-  principal:
-    parent: marcas
-    weight: 16
 draft: false
 weight: 18
-
+menu:
+  principal:
+    parent: "Marcas"
 ---

@@ -6,11 +6,9 @@ link: http://www.trespa.com/us/toplab
 catalogo: ''
 meta_keywords: ''
 meta_description: ''
-menu:
-  principal:
-    parent: marcas
-    weight: 18
 weight: 19
 draft: true
-
+menu:
+  principal:
+    parent: "Marcas"
 ---

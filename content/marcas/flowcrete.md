@@ -6,9 +6,8 @@ link: http://es.flowcreteamericas.com
 catalogo: ''
 meta_keywords: ''
 meta_description: ''
+weight: 17
 menu:
   principal:
-    parent: marcas
-    weight: 1
-weight: 17
+    parent: "Marcas"
 ---

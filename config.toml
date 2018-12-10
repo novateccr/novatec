@@ -7,8 +7,5 @@ DefaultContentLanguage = "es"
 [params]
   cloudinary_url = "https://res.cloudinary.com/novatec/image/upload/"
 
-#Taxonomy names with forwign characters
-preserveTaxonomyNames = true
-
 [context.deploy-preview.environment]
   HUGO_VERSION = "0.42.2"

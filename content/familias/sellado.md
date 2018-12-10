@@ -6,10 +6,9 @@ link: ""
 catalogo: ""
 meta_keywords: "Laminas, teflon, Grafito, packmaster"
 meta_description: ""
-menu:
-  principal:
-    parent: 'Productos'
-    weight: 6
 draft: false
 weight: 6
+menu:
+  principal:
+    parent: "Productos"
 ---

@@ -6,12 +6,10 @@ link: http://www.garlock.com/es/
 catalogo: ''
 meta_keywords: ''
 meta_description: ''
-menu:
-  principal:
-    parent: marcas
-    weight: 5
 draft: false
 weight: 6
-
+menu:
+  principal:
+    parent: "Marcas"
 ---
 <p><span style="color: #000000; font-family: arial, sans, sans-serif; font-size: 13px; line-height: normal; white-space: pre-wrap;">Fabricante de sellado general</span></p>

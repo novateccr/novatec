@@ -6,13 +6,11 @@ link: http://www.pall.com
 catalogo: ''
 meta_keywords: ''
 meta_description: ''
-menu:
-  principal:
-    parent: marcas
-    weight: 3
 draft: false
 weight: 4
-
+menu:
+  principal:
+    parent: "Marcas"
 ---
 Filtración, separación, y equipos y sistemas de purificación
 {{< youtube cr55kE1mks0 >}}

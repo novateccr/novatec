@@ -6,10 +6,8 @@ link: http://flowserve.com/es_XL/
 catalogo: ''
 meta_keywords: ''
 meta_description: ''
+weight: 16
 menu:
   principal:
-    parent: marcas
-    weight: 6
-weight: 16
-
+    parent: "Marcas"
 ---

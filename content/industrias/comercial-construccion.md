@@ -6,10 +6,9 @@ link: ""
 catalogo: ""
 meta_keywords: ""
 meta_description: ""
-menu:
-  principal:
-    parent: 'industrias'
-    weight: 8
 weight: 9
 draft: false
+menu:
+  principal:
+    parent: "Industrias"
 ---

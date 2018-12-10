@@ -6,10 +6,8 @@ link: http://www.euclidchemical.com
 catalogo: ''
 meta_keywords: Euclid
 meta_description: Ecuclid
+weight: 22
 menu:
   principal:
-    parent: marcas
-    weight: 21
-weight: 22
-
+    parent: "Marcas"
 ---
