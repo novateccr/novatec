@@ -1,5 +1,5 @@
 ---
-title: 'Hyamat KSB '
+title: 'Hyamat KSB'
 id: 20
 logo: "/v1535583100/ksb.jpg"
 link: https://www.ksb.com/ksb-en/Products_and_Services/building-services/water_supply/Hyamat_SVP/

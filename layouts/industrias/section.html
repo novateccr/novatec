@@ -25,7 +25,7 @@
               <div class="industria-productos">
                 <h3>Productos</h3>
                 {{ $array := slice .Title }}
-                {{ .Scratch.Set "marcas" (slice "") }}
+                {{ $.Scratch.Set "marcas" (slice "") }}
                 {{ $paginas := where .Site.RegularPages "Params.industrias" "intersect" $array }}
                 <ul>
                   {{ range $paginas }}
@@ -59,6 +59,7 @@
 
             </div>
           </div>
+          {{ .Scratch.Delete "marcas" }}
         {{ end }}
       </section>
       <nav id="industrias-nav">
