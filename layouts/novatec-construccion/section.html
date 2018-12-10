@@ -1,0 +1,21 @@
+{{ define "page-title"}}
+  {{ partial "page-title.html" .}}
+{{ end }}
+
+{{ define "main" }}
+  <div class="container">
+    <ul class="product-grid">
+      {{ with .Sections }}
+        {{ range . }}
+           {{ partial "product-block.html" . }}
+        {{ end }}
+      {{ end }}
+      {{ with .Pages }}
+        {{ range . }}
+           {{ partial "product-block.html" . }}
+        {{ end }}
+      {{ end }}
+    </ul>
+  </div>
+  {{ partial "marcas-home.html" .}}
+{{ end }}

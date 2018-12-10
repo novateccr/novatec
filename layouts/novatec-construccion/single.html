@@ -5,10 +5,26 @@
 {{ define "main" }}
   <div class="container">
     <div class="grid-container">
-    <section id="producto-main">
-      <img src="{{ .Params.imagen }}" />
-      {{ .Content }}
-    </section>
-  </div>
+      <section id="producto-main">
+        {{ .Content }}
+      </section>
+      {{ with .Params.ncmarcas }}
+        <section id="marca">
+          {{ $path := (print "/marcas/" (urlize (index . 0)) ) }}
+          {{ $brand := $.Site.GetPage $path }}
+          {{ with $brand }}
+            <div class="marca-page-logo">
+              {{ partial "marca-logo.html" . }}
+            </div>
+          {{ end }}
+          <div class="marca-tags">
+            {{ range $.Params.familias }}
+              <strong>Familia de productos:</strong> <a href="{{ "/familias/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>
+            {{ end }}
+            <br/>
+          </div>
+        </section>
+      {{ end }}
+    </div>
   </div>
 {{ end }}
