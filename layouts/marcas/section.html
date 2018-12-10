@@ -7,7 +7,7 @@
     <ul class="product-grid">
       {{ range .Pages }}
         <li class="product-grid-block">
-          <a href="">
+          <a href="{{ .Permalink }}">
             <div class="product-grid-image">
               <img src="{{ $.Site.Params.cloudinary_url }}{{ .Params.logo }}" alt="{{ .Title }}" />
             </div>
