@@ -24,12 +24,21 @@
 
               <div class="industria-productos">
                 <h3>Productos</h3>
-                {{ $current_industria := urlize .Title }}
+                {{ $array := slice .Title }}
+                {{ .Scratch.Set "marcas" (slice "") }}
+                {{ $paginas := where .Site.RegularPages "Params.industrias" "intersect" $array }}
                 <ul>
-                  {{ range .Pages }} {{ range .Params.marcas }} {{ $.Scratch.Add $current_industria (slice .) }} {{ end }}
-                  <li>
-                    <a href="{{ .Permalink }}">{{ .Title }}</a>
-                  </li>
+                  {{ range $paginas }}
+
+                    {{ with .Params.marcas}}
+                      {{ range . }}
+                        {{ $.Scratch.Add "marcas" (slice .) }}
+                      {{ end }}
+                    {{ end}}
+                    
+                    <li>
+                      <a href="{{ .Permalink }}">{{ .Title }}</a>
+                    </li>
                   {{ end }}
                 </ul>
               </div>
@@ -37,7 +46,15 @@
               <div class="industria-marcas">
                 <h3>Marcas</h3>
                 <ul>
+                  {{ $current_marcas := $.Scratch.Get "marcas" }}
+                  {{ range uniq $current_marcas }}
+                    {{ $brand := $.Site.GetPage (print "/marcas/" (urlize (index .)) ) }}
+                    {{ with $brand }}
+                      <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+                    {{ end }}
+                  {{ end }}
                 </ul>
+                
               </div>
 
             </div>
