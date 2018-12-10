@@ -11,7 +11,9 @@
     <div class="marca-page-info">
       {{ .Content }}
       <h2>Productos</h2>
-      {{ partial "pages-list.html" .Data.Pages }}
+      {{ $array := slice .Title }}
+      {{ $paginas := where .Site.RegularPages "Params.marcas" "intersect" $array }}
+      {{ partial "pages-list.html" $paginas }}
     </div>
   </div>
 {{ end }}
