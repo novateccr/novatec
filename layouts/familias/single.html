@@ -5,15 +5,7 @@
 {{ define "main" }}
   <div class="container">
     <ul class="product-grid">
-      {{ range .Site.Taxonomies }}
-        {{ range $key, $value := . }}
-          {{ if eq (urlize $key) (urlize (lower $.Title)) }}
-            {{ range $value.Pages }}
-              {{ partial "product-block.html" . }}
-            {{ end }}
-          {{ end }}
-        {{ end }}
-      {{ end }}
+      
     </ul>
   </div>
 {{ end }}

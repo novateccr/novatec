@@ -5,9 +5,7 @@
 {{ define "main" }}
   <div class="container">
     <ul class="product-grid">
-      {{ range ($.Site.GetPage "taxonomyTerm" "familias").Pages.ByWeight }}
-        {{ .Render "li" }}
-      {{ end }}
+      
     </ul>
   </div>
 {{ end }}
