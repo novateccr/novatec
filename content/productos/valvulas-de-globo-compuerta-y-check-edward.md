@@ -1,15 +1,15 @@
 +++
 catalogo = "/catalogos/original-valvulas-de-globo-compuerta-y-check-edward.pdf"
 categoria = ""
-familias = ["Valvulas"]
+familias = ["Válvulas"]
 id = 130
 imagen = "/v1530797588/productos/original-valvulas-de-globo-compuerta-y-check-edward.jpg"
 industrias = ["energia"]
 marcas = ["KSB"]
-meta_description = "Valvulas Eduard,"
+meta_description = "Válvulas Eduard,"
 meta_keywords = "valvular para vapor"
 taxonomyCover = false
-title = "Valvulas de globo, compuerta y check (Edward)"
+title = "Válvulas de globo, compuerta y check (Edward)"
 titulo = ""
 weight = 130
 

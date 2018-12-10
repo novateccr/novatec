@@ -1,8 +1,8 @@
 +++
-title = "Valvulas bola tipo Trunnion - API 6D (Valbart) "
+title = "Válvulas bola tipo Trunnion - API 6D (Valbart) "
 id = 133
 marcas = ["Flowserve"]
-familias = ["Valvulas"]
+familias = ["Válvulas"]
 industrias = ["energia","Quimica","Ingenios"]
 imagen = "/v1530797588/productos/original-valvulas-bola-tipo-trunnion-api-6d-valbart.jpg"
 catalogo = "/catalogos/original-valvulas-bola-tipo-trunnion-api-6d-valbart.pdf"

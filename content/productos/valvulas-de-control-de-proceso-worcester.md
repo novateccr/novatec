@@ -1,8 +1,8 @@
 +++
-title = "Valvulas de Control de Proceso (Worcester)"
+title = "Válvulas de Control de Proceso (Worcester)"
 id = 31
 marcas = ["Flowserve"]
-familias = ["Valvulas"]
+familias = ["Válvulas"]
 industrias = ["Alimentos y Bebidas","energia","Industria Pesada","Biofarmaceuticos","Quimica"]
 imagen = "/v1530797588/productos/original-valvulas-de-control-de-proceso-worcester.jpg"
 catalogo = "/catalogos/original-valvulas-de-control-de-proceso-worcester.pdf"

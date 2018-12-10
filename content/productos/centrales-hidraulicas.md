@@ -2,7 +2,7 @@
 title = "Centrales Hidráulicas"
 id = 69
 marcas = ["Rexroth"]
-familias = ["Hidraulica"]
+familias = ["Hidráulica"]
 industrias = ["Alimentos y Bebidas","energia","Biofarmaceuticos","Ingenios"]
 imagen = "/v1530797588/productos/original-centrales-hidraulicas"
 catalogo = "/catalogos/original-centrales-hidraulicas.pdf"

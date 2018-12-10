@@ -2,7 +2,7 @@
 title = "Polímeros para reparación de bombas"
 id = 137
 marcas = ["Belzona"]
-familias = ["Pisos y Polimeros"]
+familias = ["Pisos y Polímeros"]
 industrias = ["energia","Agricola","Ingenios"]
 imagen = "/v1530797588/productos/original-polimeros-para-reparacion-de-bombas.jpg"
 catalogo = "/catalogos/original-polimeros-para-reparacion-de-bombas.pdf"

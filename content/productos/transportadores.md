@@ -2,7 +2,7 @@
 title = "Transportadores"
 id = 115
 marcas = ["Qc Industries"]
-familias = ["Tecnologia de Ensamble"]
+familias = ["Tecnología de Ensamble"]
 industrias = ["Alimentos y Bebidas","Dispositivos Medicos","Biofarmaceuticos"]
 imagen = "/v1530797588/productos/original-transportadores.jpg"
 catalogo = "/catalogos/original-transportadores.pdf"

@@ -2,7 +2,7 @@
 title = "Alfombras "
 id = 116
 marcas = ["Ergomat"]
-familias = ["Tecnologia de Ensamble"]
+familias = ["Tecnología de Ensamble"]
 industrias = ["Alimentos y Bebidas","Dispositivos Medicos","Biofarmaceuticos","Agricola"]
 imagen = "/v1530797588/productos/original-alfombras.jpg"
 catalogo = "/catalogos/original-alfombras.pdf"

@@ -2,7 +2,7 @@
 title = "Uretanos Cementicios"
 id = 107
 marcas = ["Flowcrete"]
-familias = ["Pisos y Polimeros"]
+familias = ["Pisos y Polímeros"]
 industrias = ["Alimentos y Bebidas","energia","Dispositivos Medicos","Industria Pesada","Biofarmaceuticos","Quimica","Agricola","Ingenios","Comercial Construccion","Electronica"]
 imagen = "/v1530797588/productos/original-uretanos-cementicios.jpg"
 catalogo = "/catalogos/original-uretanos-cementicios.pdf"

@@ -2,7 +2,7 @@
 title = "Belzona 1111 - Super metal "
 id = 138
 marcas = ["Belzona"]
-familias = ["Pisos y Polimeros"]
+familias = ["Pisos y Polímeros"]
 industrias = ["Alimentos y Bebidas","energia","Industria Pesada","Quimica","Agricola","Ingenios"]
 imagen = "/v1530797588/productos/original-belzona-1111-super-metal.jpg"
 catalogo = "/catalogos/original-belzona-1111-super-metal.pdf"

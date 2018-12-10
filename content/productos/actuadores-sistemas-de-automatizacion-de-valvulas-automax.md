@@ -1,8 +1,8 @@
 +++
-title = "Actuadores - Sistemas de automatizacion de Valvulas (Automax)"
+title = "Actuadores - Sistemas de automatizacion de Válvulas (Automax)"
 id = 132
 marcas = ["Flowserve"]
-familias = ["Valvulas"]
+familias = ["Válvulas"]
 industrias = ["Alimentos y Bebidas","Industria Pesada","Biofarmaceuticos","Quimica"]
 imagen = "/v1530797588/productos/original-actuadores-sistemas-de-automatizacion-de-valvulas-automax.jpg"
 catalogo = "/catalogos/original-actuadores-sistemas-de-automatizacion-de-valvulas-automax.pdf"

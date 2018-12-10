@@ -1,5 +1,5 @@
 ---
-title: "Tratamiento "
+title: "Tratamiento"
 id: 10
 imagen: "/v1530801710/familias/"
 link: ""
