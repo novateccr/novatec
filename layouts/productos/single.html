@@ -17,8 +17,11 @@
           </div>
         {{ end }}
         <div class="marca-tags">
-          {{ range $.Params.familias }}
-            <strong>Familia de productos:</strong> <a href="{{ "/familias/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>
+          {{ range .Params.familias }}
+            <strong>Familia de productos:</strong>&nbsp;
+            {{ range (where $.Site.Pages "Params.title" .) }}
+              <a href="{{.Permalink}}">{{ .Title }}</a>
+            {{ end }}
           {{ end }}
           <br/>
           {{ if .Params.industrias }}
