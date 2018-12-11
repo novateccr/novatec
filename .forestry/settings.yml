@@ -49,6 +49,10 @@ sections:
   label: Productos
   create: all
   match: "**/*"
+- type: document
+  path: data/social.yml
+  label: Social Networks
+  match: "**/*"
 upload_dir: ''
 public_path: https://res.cloudinary.com/novatec
 front_matter_path: ''
