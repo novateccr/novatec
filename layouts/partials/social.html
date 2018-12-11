@@ -1,0 +1,9 @@
+<ul class="nav  nav-pills nav-stacked list-unstyled" id="social-footer">
+  {{ range $.Site.Data.social.profiles }}
+    <li>
+      <a class="" href="{{ .link }}" target="_blank" rel="noopener noreferrer">
+        <span>{{ .title }}</span>
+      </a>
+    </li>
+  {{ end }}
+</ul>
