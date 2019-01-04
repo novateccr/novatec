@@ -1,6 +1,6 @@
 +++
 date = "2018-12-20T00:00:00-06:00"
-featured = true
+featured = false
 imagen_intro = "/v1545321763/feliz-navidadweb.jpg"
 tags = ["vacaciones"]
 title = "Tiempo para descansar"
