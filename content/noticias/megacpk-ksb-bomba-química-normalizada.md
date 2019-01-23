@@ -9,7 +9,7 @@ title = "MegaCPK KSB – Bomba química normalizada"
 +++
 # MegaCPK – Bomba química normalizada
 
-Campos de aplicación: 
+Campos de aplicación:
 
 Para el bombeo de fluidos agresivos orgánicos e inorgánicos en los siguientes sectores:
 
