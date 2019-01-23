@@ -48,3 +48,5 @@ Para el bombeo de fluidos agresivos orgánicos e inorgánicos en los siguientes 
 **Altura** hasta 162 m (50 Hz) / hasta 233 m (60 Hz)  
 **Temperatura** -40 °C hasta +400 °C  
 **Presión** de trabajo hasta 25 bar
+
+[**VER VIDEO**](https://www.youtube.com/watch?v=Md6awpB5tY4 "KSB MEGACPK")
