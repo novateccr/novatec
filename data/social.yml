@@ -1,5 +1,8 @@
+---
 profiles:
-  - title: Facebook
-    link: https://www.facebook.com/NovatecIndustrial
-  - title: Twitter
-    link: https://twitter.com/novatecnews
+- title: Linkedin
+  link: https://www.linkedin.com/company/novatec-industrial/
+- title: Facebook
+  link: https://www.facebook.com/NovatecIndustrial
+- title: Twitter
+  link: https://twitter.com/novatecnews
