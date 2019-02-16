@@ -33,7 +33,7 @@ slides:
   published: true
   link: "/marcas/fristam/"
 - title: Flowserve
-  image: "/v1530542510/flowserve1.jpg"
+  image: "/v1550353343/BOMBAS1.jpg"
   description: "<p>Bombas · Válvulas · Actuadores</p>"
   published: true
   link: "/marcas/flowserve/"
