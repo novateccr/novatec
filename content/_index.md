@@ -1,13 +1,9 @@
 ---
 title: Inicio
 description: Especialistas en soluciones para el manejo y sellado de fluidos
-menu:
-  principal:
-    weight: 1
-    parent: ''
 slides:
 - title: Consulte a uno de nuestros asesores
-  image: "/v1530542510/slide1.jpg"
+  image: "/v1550352882/ASESOR.jpg"
   description: ''
   published: true
   link: "/contactenos"
@@ -49,5 +45,9 @@ barra_fondo_imagen:
     y flexibilidad, y se concentra en lo esencial. Y para nosotros lo esencial es
     la satisfacción del cliente."'
   imagen: https://res.cloudinary.com/novatec/image/upload/f_auto,q_80/v1530333582/slide3-dark.jpg
+menu:
+  principal:
+    parent: ''
+    weight: 1
 
 ---
