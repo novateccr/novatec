@@ -1,16 +1,19 @@
 +++
-title = "Doble Diafragma - Sanitarias "
-id = 128
-marcas = ["Graco"]
-familias = ["Bombas"]
-industrias = ["Alimentos y Bebidas","Dispositivos Médicos","Biofarmacéuticos"]
-imagen = "/v1530797588/productos/original-doble-diafragma-sanitarias.jpg"
 catalogo = "/catalogos/original-doble-diafragma-sanitarias.pdf"
-meta_description = ""
-meta_keywords = ""
-weight = 128
-draft = false
+categoria = ""
+familias = ["Bombas"]
+id = 128
+imagen = "/v1530797588/productos/original-doble-diafragma-sanitarias.jpg"
+industrias = ["Alimentos y Bebidas", "Dispositivos Médicos", "Biofarmacéuticos"]
+marcas = ["Graco"]
+meta_description = "Doble Diafragma - Sanitarias "
+meta_keywords = "Doble Diafragma - Sanitarias "
 taxonomyCover = false
+title = "Doble Diafragma - Sanitarias "
+titulo = ""
+type = ""
+weight = 128
+
 +++
 # SANIFORCE
 

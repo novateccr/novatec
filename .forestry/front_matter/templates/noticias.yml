@@ -1,7 +1,6 @@
 ---
 label: Noticias
 hide_body: false
-is_partial: false
 fields:
 - type: text
   name: title
@@ -26,30 +25,30 @@ fields:
   label: Featured
   description: Debe aparecer en el home?
 pages:
-- content/noticias/flowserve-api-durco.md
-- content/noticias/martes-23-estamos-sin-electricidad-7am-a-5-pm.md
-- content/noticias/amplia-gama.md
-- content/noticias/mangueras-sanitarias-rubber-fab.md
-- content/noticias/juntas-de-ptfe-para-servicio-extremo.md
-- content/noticias/tiempo-para-descansar.md
-- content/noticias/fristam-fds.md
-- content/noticias/filtros-pall-para-alimentos-y-bebidas.md
-- content/noticias/novatec-euclid.md
-- content/noticias/ksb-app.md
-- content/noticias/belzona-1212.md
-- content/noticias/novatec-horario-de-navidad-y-fin-de-ano.md
-- content/noticias/elevadores-electricos-para-cajas.md
-- content/noticias/bombas-graco-doble-diafragmas-electricas.md
-- content/noticias/esta-es-otra-prueba.md
-- content/noticias/tuberia-en-aluminio-para-aire-comprimido.md
-- content/noticias/la-nueva-bomba-fristam-fds.md
-- content/noticias/pall-filtros-que-cumplen-con-regulaciones-alimenticias.md
-- content/noticias/sistema-flow-fast.md
-- content/noticias/emergencia-nacional-huracan-otto.md
-- content/noticias/meganorm-blog-ksb.md
-- content/noticias/movitec-de-ksb-.md
-- content/noticias/_index.md
-- content/noticias/novatec-en-acima-2016.md
-- content/noticias/fkl-pasta.md
-- content/noticias/nc.md
 - content/noticias/megacpk-ksb-bomba-química-normalizada.md
+- content/noticias/tiempo-para-descansar.md
+- content/noticias/movitec-de-ksb-.md
+- content/noticias/meganorm-blog-ksb.md
+- content/noticias/emergencia-nacional-huracan-otto.md
+- content/noticias/sistema-flow-fast.md
+- content/noticias/pall-filtros-que-cumplen-con-regulaciones-alimenticias.md
+- content/noticias/la-nueva-bomba-fristam-fds.md
+- content/noticias/tuberia-en-aluminio-para-aire-comprimido.md
+- content/noticias/esta-es-otra-prueba.md
+- content/noticias/bombas-graco-doble-diafragmas-electricas.md
+- content/noticias/elevadores-electricos-para-cajas.md
+- content/noticias/novatec-horario-de-navidad-y-fin-de-ano.md
+- content/noticias/belzona-1212.md
+- content/noticias/juntas-de-ptfe-para-servicio-extremo.md
+- content/noticias/mangueras-sanitarias-rubber-fab.md
+- content/noticias/ksb-app.md
+- content/noticias/novatec-euclid.md
+- content/noticias/fristam-fds.md
+- content/noticias/amplia-gama.md
+- content/noticias/martes-23-estamos-sin-electricidad-7am-a-5-pm.md
+- content/noticias/flowserve-api-durco.md
+- content/noticias/nc.md
+- content/noticias/filtros-pall-para-alimentos-y-bebidas.md
+- content/noticias/_index.md
+- content/noticias/fkl-pasta.md
+- content/noticias/novatec-en-acima-2016.md
