@@ -1,14 +1,17 @@
 +++
-title = "Centrifugas"
-id = 7
-marcas = ["KSB"]
-familias = ["Bombas"]
-industrias = ["Alimentos y Bebidas","Energía","Biofarmacéuticos"]
-imagen = "/v1530797588/productos/original-centrifugas.jpg"
 catalogo = "/catalogos/original-centrifugas.pdf"
-meta_description = "bombas centrifugas"
-meta_keywords = ""
-weight = 7
-draft = false
+categoria = ""
+familias = ["Bombas"]
+id = 7
+imagen = "/v1530797588/productos/original-centrifugas.jpg"
+industrias = ["Alimentos y Bebidas", "Energía", "Biofarmacéuticos"]
+marcas = ["KSB"]
+meta_description = "bombas centrifugas, especialistas en bombas, especialistas en sistemas de bombeo"
+meta_keywords = "bombas centrifugas, megachem, meganorm, megacpk, hydrobloc"
 taxonomyCover = false
+title = "Centrifugas"
+titulo = ""
+type = ""
+weight = 7
+
 +++
