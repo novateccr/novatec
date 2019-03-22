@@ -25,7 +25,6 @@ fields:
   label: Featured
   description: Debe aparecer en el home?
 pages:
-- content/noticias/tiempo-para-descansar.md
 - content/noticias/megacpk-ksb-bomba-química-normalizada.md
 - content/noticias/movitec-de-ksb-.md
 - content/noticias/meganorm-blog-ksb.md
