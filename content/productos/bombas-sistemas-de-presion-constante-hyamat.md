@@ -3,6 +3,7 @@ catalogo = ""
 categoria = ""
 familias = ["Bombas"]
 id = ""
+imagen = "/v1553721174/download.jpg"
 industrias = ["Alimentos y Bebidas", "energía", "Dispositivos Médicos", "Biofarmaceuticos", "Comercial Construccion", "Electrónica"]
 marcas = ["KSB"]
 meta_description = "Sistema de presión constante, Ksb, bombas, variador"

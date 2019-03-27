@@ -73,6 +73,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- content/productos/bombas-sistemas-de-presion-constante-hyamat.md
 - content/productos/epoxicos.md
 - content/productos/actuadores-sistemas-de-automatizacion-de-valvulas-automax.md
 - content/productos/vacio.md
