@@ -15,4 +15,4 @@ type = ""
 weight = 139
 
 +++
-<p>Bombas tipo Movitec para alta presión.</p>
+<p>Bombas Sistema de Presión Constante tipo Hyamat.</p>
