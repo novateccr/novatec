@@ -32,7 +32,7 @@ slides:
   description: "<p>Bombas Sanitarias Centrífugas · Desplazamiento Positivas · Mezcladoras</p>"
   published: true
   link: "/marcas/fristam/"
-- title: Flowserve
+- title: Fristam
   image: "/v1550353343/BOMBAS1.jpg"
   description: "<p>Bombas · Válvulas · Actuadores</p>"
   published: true
