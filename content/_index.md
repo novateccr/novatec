@@ -4,7 +4,7 @@ description: Especialistas en soluciones para el manejo y sellado de fluidos
 slides:
 - title: Consulte a uno de nuestros asesores
   image: "/v1550352882/ASESOR.jpg"
-  description: ''
+  description: "...estamos para servirle"
   published: true
   link: "/contactenos"
 - title: Confíe en la excelencia
