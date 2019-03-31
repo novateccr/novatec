@@ -73,6 +73,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- content/productos/tuberia-en-aluminio-para-aire-comprimido-y-gases-inertes.md
 - content/productos/bombas-sistemas-de-presion-constante-hyamat.md
 - content/productos/epoxicos.md
 - content/productos/actuadores-sistemas-de-automatizacion-de-valvulas-automax.md
@@ -80,7 +81,6 @@ pages:
 - content/productos/carcazas-housing.md
 - content/productos/mezcaldor-de-polvos.md
 - content/productos/bomba-positiva-de-engranajes-tipo-gr.md
-- content/productos/tuberia-en-aluminio-para-aire-comprimido-y-gases-inertes.md
 - content/productos/doble-diafragma.md
 - content/productos/juntas-de-expansion-elastomericas.md
 - content/productos/mangueras-metalicas.md
