@@ -36,7 +36,7 @@ slides:
   image: "/v1550353343/BOMBAS1.jpg"
   description: "<p>Bombas · Válvulas · Actuadores</p>"
   published: true
-  link: "/marcas/flowserve/"
+  link: "/marcas/fristam"
 barra_azul:
   titular: Confíe en la excelencia
   subtitular: Líderes en soluciones...
