@@ -1,15 +1,16 @@
 ---
-title: Aventics
+title: Aventics - Emerson
 id: 12
 logo: "/v1530089074/logos/1304c902693a779b7cf0a6e62f70982d-aventics.jpg"
 link: http://www.aventics.com
 catalogo: ''
-meta_keywords: ''
-meta_description: ''
-draft: false
+meta_keywords: Aventics - Novatec
+meta_description: Aventics - Novatec
 weight: 13
 menu:
   principal:
-    parent: "Marcas"
+    parent: Marcas
+    weight: 13
+
 ---
 <p>Cilindros, válvulas, filtros reguladores y lubricadores</p>
