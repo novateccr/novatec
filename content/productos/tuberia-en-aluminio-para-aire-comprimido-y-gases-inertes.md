@@ -19,21 +19,18 @@ weight = 28
 
 Transair ofrece innovadoras soluciones de canalización. Transair ofrece las soluciones adecuadas para todas sus aplicaciones de aire comprimido, agua de refrigeración, gases neutros y vacío.
 
-Rápido montaje, durabilidad, excelente rendimiento y reducción de los costes generales de la canalización de aire comprimido, tubos con conexión rápida para fluidos y canalizaciones en aluminio. Un montaje rápido implica una reducción en los costes de instalación.
+Rápido montaje, durabilidad, excelente rendimiento y **reducción de los costes generales de la canalización de aire comprimido**, tubos con conexión rápida para fluidos y canalizaciones en aluminio. Un montaje rápido implica una reducción en los costes de instalación.
 
-La ausencia de óxido y contaminantes proporciona una protección duradera de los equipos conectados.
+La **ausencia de óxido y contaminantes** proporciona una protección duradera de los equipos conectados.
 
-Las conexiones rápidas de paso completo implican una eficiencia óptima de la maquinaria y las herramientas.
+**Links de interes:**
 
-Links de interes:
+[**Literatura**](http://promo.parker.com/promotionsite/transair/us/en/video-library "Parker")  
+    - Case Studies  
+    - Calculadores (Versión Computadora)
 
-[Literatura](http://promo.parker.com/promotionsite/transair/us/en/video-library "Parker")  
-\- Case Studies  
-\- Calculadores (Versión Computadora)  
-\- Transair Submittal para proyectos
+[**Videos e instrucciones Parker Transair**](http://promo.parker.com/promotionsite/transair/us/en/video-library "Parker")
 
-[Videos e instrucciones Parker Transair](http://promo.parker.com/promotionsite/transair/us/en/video-library "Parker")
+[**Dibujos en CAD 2D y 3D**](http://promo.parker.com/promotionsite/transair/us/en/engineering-tools "Parker")
 
-[Dibujos en CAD 2D y 3D](http://promo.parker.com/promotionsite/transair/us/en/engineering-tools "Parker")
-
-    <script type="text/javascript" src="https://publish.vidavee.com/publish/trh/embedAsset.js?width=640&height=360&d=CD8FB56FE48623F30C2BD7C720A6461E&secure=true"></script>
+    
