@@ -27,11 +27,13 @@ Las conexiones rápidas de paso completo implican una eficiencia óptima de la m
 
 Links de interes:
 
-Literatura  
+[Literatura](http://promo.parker.com/promotionsite/transair/us/en/video-library "Parker")  
 \- Case Studies  
 \- Calculadores (Versión Computadora)  
 \- Transair Submittal para proyectos
 
-[Ir a página Parker](http://promo.parker.com/promotionsite/transair/us/en/video-library "Parker")
+[Videos e instrucciones Parker Transair](http://promo.parker.com/promotionsite/transair/us/en/video-library "Parker")
+
+[Dibujos en CAD 2D y 3D](http://promo.parker.com/promotionsite/transair/us/en/engineering-tools "Parker")
 
     <script type="text/javascript" src="https://publish.vidavee.com/publish/trh/embedAsset.js?width=640&height=360&d=CD8FB56FE48623F30C2BD7C720A6461E&secure=true"></script>
