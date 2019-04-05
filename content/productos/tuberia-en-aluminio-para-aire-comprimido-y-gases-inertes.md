@@ -25,9 +25,11 @@ La **ausencia de óxido y contaminantes** proporciona una protección duradera d
 
 **Links de interes:**
 
+**ir a:**
+
 [**Literatura**](http://promo.parker.com/promotionsite/transair/us/en/video-library "Parker")  
-    - Case Studies  
-    - Calculadores (Versión Computadora)
+\- Case Studies  
+\- Calculadores (Versión Computadora)
 
 [**Videos e instrucciones Parker Transair**](http://promo.parker.com/promotionsite/transair/us/en/video-library "Parker")
 
