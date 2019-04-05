@@ -23,7 +23,7 @@ Rápido montaje, durabilidad, excelente rendimiento y **reducción de los costes
 
 La **ausencia de óxido y contaminantes** proporciona una protección duradera de los equipos conectados.
 
-**Links de interes:**
+**Links de interes**
 
 **ir a:**
 
