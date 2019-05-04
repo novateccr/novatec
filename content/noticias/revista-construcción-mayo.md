@@ -1,6 +1,5 @@
 +++
 date = "2019-05-03T00:00:00-06:00"
-draft = true
 featured = true
 imagen_intro = "/v1556940588/image003.jpg"
 tags = ["revista construcción"]
