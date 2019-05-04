@@ -1,7 +1,7 @@
 +++
 date = "2019-05-03T00:00:00-06:00"
 featured = true
-imagen_intro = "/v1556940588/image003.jpg"
+imagen_intro = "/v1556941933/novatec.jpg"
 tags = ["revista construcción"]
 title = "Revista Construcción Mayo"
 
