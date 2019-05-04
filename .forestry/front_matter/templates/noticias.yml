@@ -25,6 +25,7 @@ fields:
   label: Featured
   description: Debe aparecer en el home?
 pages:
+- content/noticias/revista-construcción-mayo.md
 - content/noticias/megacpk-ksb-bomba-química-normalizada.md
 - content/noticias/movitec-de-ksb-.md
 - content/noticias/meganorm-blog-ksb.md
