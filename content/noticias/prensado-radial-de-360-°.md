@@ -1,6 +1,5 @@
 +++
 date = "2019-05-07T00:00:00-06:00"
-draft = true
 featured = true
 imagen_intro = "/v1557374649/Mangueras-Sanitarias%20Marca%20Rubber-FAB2.jpg"
 tags = ["rubber fab", "mangueras sanitarias", "mangueras"]
