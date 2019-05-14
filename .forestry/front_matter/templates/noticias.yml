@@ -25,6 +25,7 @@ fields:
   label: Featured
   description: Debe aparecer en el home?
 pages:
+- content/noticias/rendimiento-imbatible-en-cualquier-ubicación.md
 - content/noticias/prensado-radial-de-360-°.md
 - content/noticias/revista-construcción-mayo.md
 - content/noticias/megacpk-ksb-bomba-química-normalizada.md
