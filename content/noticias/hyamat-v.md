@@ -1,6 +1,5 @@
 +++
 date = "2019-05-24T00:00:00-06:00"
-draft = true
 featured = true
 imagen_intro = "/v1558742951/NOVATEC_POSTEOS_FACEBOOK%20copy%206.png"
 tags = ["hyamat v", "ksb"]
