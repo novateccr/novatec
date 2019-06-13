@@ -1,6 +1,5 @@
 +++
 date = "2019-06-13T00:00:00-06:00"
-draft = true
 featured = true
 imagen_intro = "/v1560436251/eficienciaenergetica.png"
 tags = ["ksb", "eficiencia energética", " novatec"]
