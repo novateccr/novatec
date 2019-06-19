@@ -15,4 +15,4 @@ type = ""
 weight = 139
 
 +++
-<p>Bombas Sistema de Presión Constante tipo Hyamat.</p>
+<p>Bombas Sistema de Presión Constante KSB tipo Hyamat.</p>
