@@ -73,6 +73,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- content/productos/alfombras.md
 - content/productos/alfombras-ergonomicas.md
 - content/productos/tuberia-en-aluminio-para-aire-comprimido-y-gases-inertes.md
 - content/productos/centrales-hidraulicas.md
@@ -86,7 +87,6 @@ pages:
 - content/productos/empaquetadura-de-compresion.md
 - content/productos/centrifugas-api.md
 - content/productos/calderas.md
-- content/productos/alfombras.md
 - content/productos/desplazamiento-positivo.md
 - content/productos/transportadores.md
 - content/productos/hules.md

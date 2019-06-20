@@ -1,15 +1,18 @@
 +++
-title = "Alfombras"
-id = 116
-marcas = ["Ergomat"]
-familias = ["Tecnología de Ensamble"]
-industrias = ["Alimentos y Bebidas","Dispositivos Médicos","Biofarmacéuticos","Agrícola"]
-imagen = "/v1530797588/productos/original-alfombras.jpg"
 catalogo = "/catalogos/original-alfombras.pdf"
+categoria = ""
+familias = ["Tecnología de Ensamble"]
+id = 116
+imagen = "/v1530797588/productos/original-alfombras.jpg"
+industrias = ["Alimentos y Bebidas", "Dispositivos Médicos", "Biofarmacéuticos", "Agrícola"]
+marcas = ["Ergomat"]
 meta_description = "alfombras"
 meta_keywords = "Ergonomicas"
-weight = 116
-draft = false
 taxonomyCover = false
+title = "Alfombras Ergonómicas"
+titulo = ""
+type = ""
+weight = 116
+
 +++
 <p>Alfombras anti-fatiga </p>
