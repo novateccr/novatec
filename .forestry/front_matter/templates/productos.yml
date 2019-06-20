@@ -73,6 +73,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- content/productos/alfombras-ergonomicas.md
 - content/productos/tuberia-en-aluminio-para-aire-comprimido-y-gases-inertes.md
 - content/productos/centrales-hidraulicas.md
 - content/productos/centrifugas.md
@@ -120,7 +121,6 @@ pages:
 - content/productos/peristalticas.md
 - content/productos/belzona.md
 - content/productos/laminas-trespa.md
-- content/productos/alfombras-ergonomicas.md
 - content/productos/laminados-libres-de-asbesto.md
 - content/productos/elementos-cartuchos.md
 - content/productos/sellos-mecanicos.md

@@ -1,14 +1,18 @@
 +++
-title = "Alfombras Ergonómicas"
-id = 105
-marcas = ["Ergomat"]
-familias = ["Alfombras y Demarcación"]
-industrias = ["Biofarmacéuticos"]
-imagen = "/v1530797588/productos/original-alfombras-ergonomicas"
 catalogo = "/catalogos/original-alfombras-ergonomicas.pdf"
+categoria = ""
+familias = ["Alfombras y Demarcación"]
+id = 105
+imagen = "/v1530797588/productos/original-alfombras-ergonomicas"
+industrias = ["Biofarmacéuticos"]
+marcas = ["Ergomat"]
 meta_description = ""
 meta_keywords = ""
-weight = 105
-draft = false
 taxonomyCover = false
+title = "Alfombras Ergonómicas"
+titulo = ""
+type = ""
+weight = 105
+
 +++
+Todo en Alfombras ergonomicas...
