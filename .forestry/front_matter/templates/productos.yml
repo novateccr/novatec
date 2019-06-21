@@ -64,6 +64,11 @@ fields:
   label: Galería
   description: Imágenes adicionales para cada producto
 pages:
+- content/productos/bombas-dosificadoras.md
+- content/productos/centrifugas.md
+- content/productos/perfiles-en-aluminio.md
+- content/productos/desplazamiento-positivo.md
+- content/productos/centrifugas-sanitarias.md
 - content/productos/calderas.md
 - content/productos/bombas-sistemas-de-presion-constante.md
 - content/productos/doble-diafragma-sanitarias.md
@@ -71,7 +76,6 @@ pages:
 - content/productos/alfombras-ergonomicas.md
 - content/productos/tuberia-en-aluminio-para-aire-comprimido-y-gases-inertes.md
 - content/productos/centrales-hidraulicas.md
-- content/productos/centrifugas.md
 - content/productos/filtros-de-aire.md
 - content/productos/empaque-triclamp.md
 - content/productos/purificadores-de-aceite.md
@@ -80,7 +84,6 @@ pages:
 - content/productos/filtro-regulado-lubricador-frl.md
 - content/productos/empaquetadura-de-compresion.md
 - content/productos/centrifugas-api.md
-- content/productos/desplazamiento-positivo.md
 - content/productos/transportadores.md
 - content/productos/hules.md
 - content/productos/empaques-espirometalicos-rwi-rw-sw.md
@@ -104,7 +107,6 @@ pages:
 - content/productos/centrifugas-ansi.md
 - content/productos/valvulas-de-globo-compuerta-y-check-edward.md
 - content/productos/sistemas-de-separacion.md
-- content/productos/perfiles-en-aluminio.md
 - content/productos/filtros-de-laboratorio.md
 - content/productos/descargadores.md
 - content/productos/juntas-de-control.md
@@ -125,7 +127,6 @@ pages:
 - content/productos/juntas-de-expansion-textil.md
 - content/productos/estaciones-de-trabajo.md
 - content/productos/filtros-hidraulicos.md
-- content/productos/centrifugas-sanitarias.md
 - content/productos/flowfresh.md
 - content/productos/juntas-de-expansion-metalicas.md
 - content/productos/recubrimiento-de-tanques.md

@@ -2,6 +2,7 @@
 catalogo = "/catalogos/original-centrifugas.pdf"
 categoria = ""
 familias = ["Bombas"]
+galeria = ["/v1548255324/megacpk.jpg"]
 id = 7
 imagen = "/v1530797588/productos/original-centrifugas.jpg"
 industrias = ["Alimentos y Bebidas", "Energía", "Biofarmacéuticos"]
@@ -14,3 +15,6 @@ titulo = ""
 weight = 7
 
 +++
+Bombas KSB 
+
+bombas centrifugas, MegaCpk, hydrobloc y opcional con motores sincrónicos de super alta eficiencia.

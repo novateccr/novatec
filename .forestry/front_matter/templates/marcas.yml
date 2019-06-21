@@ -17,6 +17,7 @@ fields:
   type: text
   hidden: false
   default: ''
+  description: 'Página del proveedor. Ej: https://rexroth.com'
 - name: catalogo
   label: Catalogo
   type: text
@@ -62,6 +63,8 @@ fields:
 - type: file
   label: Logo
   name: logo
+  description: Archivo jpg o png del logo. El tamaño se ajusta automáticamente
 pages:
+- content/marcas/miltonroy.md
 - content/marcas/rexroth.md
 - content/marcas/euclid-chemical.md
