@@ -62,5 +62,10 @@ fields:
 - type: file
   label: Logo
   name: logo
+- name: test
+  type: file
+  config:
+    maxSize: 250
+  label: test
 pages:
 - content/marcas/euclid-chemical.md
