@@ -1,7 +1,7 @@
 +++
 catalogo = "/catalogos/original-centrifugas-sanitarias.pdf"
 familias = ["Bombas"]
-galeria = []
+galeria = ["/v1550353343/BOMBAS1.jpg"]
 id = 1
 imagen = "/v1530797588/productos/original-centrifugas-sanitarias.jpg"
 industrias = ["Alimentos y Bebidas", "Biofarmacéuticos"]
