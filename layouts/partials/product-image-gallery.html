@@ -1,0 +1,7 @@
+<div style="padding: 0 30px;">
+  <div id="product-gallery">
+    {{ range .imgs }}
+      <img src="{{ $.dir }}{{ . }}" />
+    {{ end }}
+  </div>
+</div>

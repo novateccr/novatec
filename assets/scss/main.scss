@@ -39,9 +39,8 @@
   'components/marcas',
   'components/search',
   'components/header-search',
-  'components/slides',
-  'slick',
-  'slick-theme';
+  'components/slides'
+  ;
 
 // 6. Page-specific styles
 @import
@@ -54,4 +53,6 @@
 
 // 7. Themes
 @import
-  'themes/default';
+  'themes/default',
+  'slick-theme',
+  'slick';

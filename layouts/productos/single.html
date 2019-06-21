@@ -1,3 +1,10 @@
+{{ define "custom-css"}}
+  {{ with .Params.galeria }}
+    <link rel="stylesheet" type="text/css" href="slick/slick.css"/>
+    <link rel="stylesheet" type="text/css" href="slick/slick-theme.css"/>
+  {{ end }}
+{{ end }}
+
 {{ define "page-title"}}
   {{ partial "page-title.html" .}}
 {{ end }}
@@ -6,6 +13,10 @@
   <div class="container">
     <div class="grid-container">
       <section id="producto-main">
+        {{ with .Params.galeria }}
+          {{ partial "product-image-gallery.html" ( dict "dir" $.Site.Params.cloudinary_url "imgs" . ) }}
+        {{ end }}
+        
         {{ .Content }}
       </section>
       <section id="marca">
@@ -25,4 +36,18 @@
       </section>
     </div>
   </div>
+{{ end }}
+
+{{ define "scripts"}}
+  {{ with .Params.galeria }}
+    <script type="text/javascript" src="/js/slick.min.js"></script>
+    <script>
+      $(document).ready(function(){
+        $('#product-gallery').slick({
+          dots: true,
+          adaptiveHeight: true,
+        });
+      });
+    </script>
+  {{ end }}
 {{ end }}
