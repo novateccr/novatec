@@ -11,7 +11,6 @@ meta_keywords = "bombas centrifugas, megachem, meganorm, megacpk, hydrobloc"
 taxonomyCover = false
 title = "Centrifugas"
 titulo = ""
-type = ""
 weight = 7
 
 +++

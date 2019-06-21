@@ -11,7 +11,6 @@ meta_keywords = ""
 taxonomyCover = false
 title = "Filtro, Regulado, Lubricador (Frl)"
 titulo = ""
-type = ""
 weight = 102
 
 +++

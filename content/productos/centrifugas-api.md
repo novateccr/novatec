@@ -11,7 +11,6 @@ meta_keywords = "Bomba API"
 taxonomyCover = false
 title = "Centrifugas API"
 titulo = ""
-type = ""
 weight = 111
 
 +++

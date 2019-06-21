@@ -11,7 +11,6 @@ meta_keywords = "Doble Diafragma - Sanitarias "
 taxonomyCover = false
 title = "Doble Diafragma - Sanitarias "
 titulo = ""
-type = ""
 weight = 128
 
 +++

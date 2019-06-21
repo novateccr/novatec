@@ -11,7 +11,6 @@ meta_keywords = ""
 taxonomyCover = false
 title = "Alfombras Ergonómicas"
 titulo = ""
-type = ""
 weight = 105
 
 +++

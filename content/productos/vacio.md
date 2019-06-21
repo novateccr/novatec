@@ -12,7 +12,6 @@ meta_keywords = "vacío, bomba, aire, anillo liquido"
 taxonomyCover = false
 title = "Vacío"
 titulo = ""
-type = ""
 weight = 117
 
 +++

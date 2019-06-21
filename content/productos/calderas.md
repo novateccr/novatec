@@ -11,7 +11,6 @@ meta_keywords = ""
 taxonomyCover = false
 title = "Calderas"
 titulo = ""
-type = ""
 weight = 11
 
 +++

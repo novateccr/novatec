@@ -11,7 +11,6 @@ meta_keywords = "Ksb, Presión constante, grundfos"
 taxonomyCover = false
 title = "Bombas para Alta Presión tipo Movitec"
 titulo = ""
-type = ""
 weight = 139
 
 +++

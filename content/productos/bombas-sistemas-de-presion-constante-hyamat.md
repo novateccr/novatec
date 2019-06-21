@@ -11,7 +11,6 @@ meta_keywords = "Ksb, Presión constante"
 taxonomyCover = false
 title = "Bombas Sistema de Presión Constante KSB tipo Hyamat"
 titulo = ""
-type = ""
 weight = 139
 
 +++

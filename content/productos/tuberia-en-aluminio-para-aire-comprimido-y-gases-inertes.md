@@ -11,7 +11,6 @@ meta_keywords = "Tubería para aire comprimido, air pipe"
 taxonomyCover = false
 title = "Tubería en Aluminio para Aire Comprimido y Gases Inertes"
 titulo = ""
-type = ""
 weight = 28
 
 +++

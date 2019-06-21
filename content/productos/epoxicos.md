@@ -11,7 +11,6 @@ meta_keywords = ""
 taxonomyCover = false
 title = "Epóxicos"
 titulo = ""
-type = ""
 weight = 17
 
 +++
