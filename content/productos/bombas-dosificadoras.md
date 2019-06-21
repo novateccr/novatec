@@ -1,12 +1,12 @@
 +++
 catalogo = ""
 categoria = ""
-familias = []
+familias = ["Bombas"]
 galeria = []
 id = ""
 imagen = "/v1561160297/MiltonRoy-pump.jpg"
 industrias = []
-marcas = []
+marcas = ["MiltonRoy"]
 meta_description = ""
 meta_keywords = ""
 taxonomyCover = false
