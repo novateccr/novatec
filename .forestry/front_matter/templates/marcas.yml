@@ -45,7 +45,7 @@ fields:
       label: Parent
       type: text
       hidden: true
-      default: marcas
+      default: Marcas
     - name: weight
       label: Weight
       type: text
@@ -65,7 +65,6 @@ fields:
   name: logo
   description: Archivo jpg o png del logo. El tamaño se ajusta automáticamente
 pages:
-- content/marcas/test.md
 - content/marcas/miltonroy.md
 - content/marcas/rexroth.md
 - content/marcas/euclid-chemical.md
