@@ -12,12 +12,18 @@
   max-width: 250px;
   min-width: 100px;
   margin: 10px;
-
+  display: flex;
+  align-items: center;
   position: relative;
   border: solid 1px $mid-grey;
   margin-bottom: $general-padding;
   transition: all 0.5s;
   box-shadow: none;
+
+  a {
+    display: block;
+    width: 100%;
+  }
 
   &:hover {
     border-color: $azul;
