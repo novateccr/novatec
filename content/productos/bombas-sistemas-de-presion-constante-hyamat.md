@@ -1,5 +1,5 @@
 +++
-catalogo = ""
+catalogo = "KSB"
 categoria = ""
 familias = ["Bombas"]
 galeria = ["/v1553721174/download.jpg"]
