@@ -32,6 +32,7 @@
             {{ range $index, $industria := .Params.industrias }}{{ if gt $index 0 }}, {{ end }}<a href="{{ "industrias/" | relURL }}{{ . | urlize }}">{{ . }}</a>{{ end }}
           {{ end }}
         </div>
+        {{ partial "contact-form.html" (dict "producto" .Title ) }}
       </section>
     </div>
   </div>

@@ -1,0 +1,19 @@
+<div class="contact-form-container">
+  <h3>¿Le interesa este producto?</h3>
+  <p>Escríbanos</p>
+  <form class="internal-contact-form" name="Contacto Página Producto" action="/gracias" netlify-honeypot="adios" netlify>
+    <p class="visually-hidden">
+      <label><input name="adios"></label>
+    </p>
+    <label for="nombre">Nombre</label>
+    <input type="text" name="nombre"/>
+    <label for="email">Email</label>
+    <input type="email" name="email"/>
+    <label for="tel">Teléfono</label>
+    <input type="text" name="tel"/>
+    <label for="mensaje">Mensaje</label>
+    <input type="hidden" value="{{ .producto }}" name="producto" />
+    <textarea name="mensaje"></textarea>
+    <input type="submit" class="btn-primary" value="Enviar" />
+  </form>
+</div>
