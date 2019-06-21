@@ -42,13 +42,18 @@
   left: 0;
   background: #fff;
   width: 250px;
-  max-height: 100vh;
+  height: 100vh;
   padding: 0 $general-padding;
   overflow-x: hidden;
   transform: translate3d(-100%, 0, 0);
   transition: 0.5s;
   overflow-y: scroll;
   z-index: 1;
+
+  @include grid-media($desktop-grid) {
+    height: auto;
+    max-height: 100vh;
+  }
 
   @include grid-media($desktop-grid) {
     @include grid-column(10);
