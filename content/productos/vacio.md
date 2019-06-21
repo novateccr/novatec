@@ -3,6 +3,7 @@ catalogo = "/catalogos/original-vacio.pdf"
 categoria = ""
 draft = true
 familias = ["Bombas"]
+galeria = []
 id = 117
 imagen = "/v1530797588/productos/original-vacio.jpg"
 industrias = ["Alimentos y Bebidas", "Dispositivos Médicos", "Biofarmacéuticos", "Ingenios"]
@@ -16,3 +17,5 @@ weight = 117
 
 +++
 {{< youtube RO6ToHgasWU >}}
+
+[kjlkjlkjsdf](https://hello.com "YEAH")
