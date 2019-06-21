@@ -57,21 +57,11 @@ fields:
   type: boolean
   hidden: false
   default: ''
-- name: type
-  label: Type
-  type: text
-  hidden: false
-  default: ''
-- name: titulo
-  label: Titulo
-  type: text
-  hidden: false
-  default: ''
-- name: categoria
-  label: Categoria
-  type: text
-  hidden: false
-  default: ''
+- name: galeria
+  type: image_gallery
+  config: {}
+  label: Galería
+  description: Imágenes adicionales para cada producto
 pages:
 - content/productos/alfombras.md
 - content/productos/alfombras-ergonomicas.md
