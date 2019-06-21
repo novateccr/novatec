@@ -63,4 +63,5 @@ fields:
   label: Logo
   name: logo
 pages:
+- content/marcas/rexroth.md
 - content/marcas/euclid-chemical.md
