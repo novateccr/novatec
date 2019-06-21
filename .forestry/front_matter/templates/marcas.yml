@@ -45,7 +45,7 @@ fields:
       label: Parent
       type: text
       hidden: true
-      default: marcas
+      default: Marcas
     - name: weight
       label: Weight
       type: text
