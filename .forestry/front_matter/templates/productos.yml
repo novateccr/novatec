@@ -1,6 +1,7 @@
 ---
 label: Productos
 hide_body: false
+display_field: title
 fields:
 - name: title
   label: Title
@@ -63,6 +64,9 @@ fields:
   label: Galería
   description: Imágenes adicionales para cada producto
 pages:
+- content/productos/calderas.md
+- content/productos/bombas-sistemas-de-presion-constante.md
+- content/productos/doble-diafragma-sanitarias.md
 - content/productos/alfombras.md
 - content/productos/alfombras-ergonomicas.md
 - content/productos/tuberia-en-aluminio-para-aire-comprimido-y-gases-inertes.md
@@ -76,7 +80,6 @@ pages:
 - content/productos/filtro-regulado-lubricador-frl.md
 - content/productos/empaquetadura-de-compresion.md
 - content/productos/centrifugas-api.md
-- content/productos/calderas.md
 - content/productos/desplazamiento-positivo.md
 - content/productos/transportadores.md
 - content/productos/hules.md
@@ -107,7 +110,6 @@ pages:
 - content/productos/juntas-de-control.md
 - content/productos/polimeros-para-reparacion-de-bombas.md
 - content/productos/valvulas-bola-tipo-trunnion-api-6d-valbart.md
-- content/productos/bombas-sistemas-de-presion-constante.md
 - content/productos/peristalticas.md
 - content/productos/belzona.md
 - content/productos/laminas-trespa.md
@@ -116,7 +118,6 @@ pages:
 - content/productos/sellos-mecanicos.md
 - content/productos/valvulas-de-bola-tapon-y-mariposa-recubierta-durco.md
 - content/productos/valvulas.md
-- content/productos/doble-diafragma-sanitarias.md
 - content/productos/secadores-de-aire-comprimido.md
 - content/productos/valvulas-de-control-de-proceso-worcester.md
 - content/productos/cilindros.md
