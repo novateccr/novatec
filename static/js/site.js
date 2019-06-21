@@ -679,6 +679,7 @@ function closeNav() {
 	document.getElementById("main-nav").style.transform = "translate3d(-100%, 0, 0)";
 	document.getElementById("main").style.marginLeft = "0";
 	document.body.style.backgroundColor = "white";
+	document.body.style.overflow = "auto";
 }
 
 // Focus al search
