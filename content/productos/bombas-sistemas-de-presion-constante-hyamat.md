@@ -2,6 +2,7 @@
 catalogo = ""
 categoria = ""
 familias = ["Bombas"]
+galeria = ["/v1553721174/download.jpg"]
 id = ""
 imagen = "/v1553721174/download.jpg"
 industrias = ["Alimentos y Bebidas", "energía", "Dispositivos Médicos", "Biofarmaceuticos", "Comercial Construccion", "Electrónica"]
@@ -11,6 +12,7 @@ meta_keywords = "Ksb, Presión constante"
 taxonomyCover = false
 title = "Bombas Sistema de Presión Constante KSB tipo Hyamat"
 titulo = ""
+type = ""
 weight = 139
 
 +++
