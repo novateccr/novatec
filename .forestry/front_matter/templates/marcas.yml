@@ -44,8 +44,8 @@ fields:
     - name: parent
       label: Parent
       type: text
-      hidden: false
-      default: ''
+      hidden: true
+      default: marcas
     - name: weight
       label: Weight
       type: text
