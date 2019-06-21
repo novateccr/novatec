@@ -64,6 +64,7 @@ fields:
   label: Galería
   description: Imágenes adicionales para cada producto
 pages:
+- content/productos/centrifugas-sanitarias.md
 - content/productos/calderas.md
 - content/productos/bombas-sistemas-de-presion-constante.md
 - content/productos/doble-diafragma-sanitarias.md
@@ -125,7 +126,6 @@ pages:
 - content/productos/juntas-de-expansion-textil.md
 - content/productos/estaciones-de-trabajo.md
 - content/productos/filtros-hidraulicos.md
-- content/productos/centrifugas-sanitarias.md
 - content/productos/flowfresh.md
 - content/productos/juntas-de-expansion-metalicas.md
 - content/productos/recubrimiento-de-tanques.md
