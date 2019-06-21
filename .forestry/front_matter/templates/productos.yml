@@ -64,6 +64,7 @@ fields:
   label: Galería
   description: Imágenes adicionales para cada producto
 pages:
+- content/productos/perfiles-en-aluminio.md
 - content/productos/desplazamiento-positivo.md
 - content/productos/centrifugas-sanitarias.md
 - content/productos/calderas.md
@@ -105,7 +106,6 @@ pages:
 - content/productos/centrifugas-ansi.md
 - content/productos/valvulas-de-globo-compuerta-y-check-edward.md
 - content/productos/sistemas-de-separacion.md
-- content/productos/perfiles-en-aluminio.md
 - content/productos/filtros-de-laboratorio.md
 - content/productos/descargadores.md
 - content/productos/juntas-de-control.md
