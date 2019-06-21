@@ -17,13 +17,6 @@
           </div>
         {{ end }}
         <div class="marca-tags">
-          {{ range .Params.familias }}
-            <strong>Familia de productos:</strong>&nbsp;
-            {{ range (where $.Site.Pages "Params.title" .) }}
-              <a href="{{.Permalink}}">{{ .Title }}</a>
-            {{ end }}
-          {{ end }}
-          <br/>
           {{ if .Params.industrias }}
             <strong>Industria{{ if gt (len .Params.industrias) 1 }}s{{ end }}:</strong>
             {{ range $index, $industria := .Params.industrias }}{{ if gt $index 0 }}, {{ end }}<a href="{{ "industrias/" | relURL }}{{ . | urlize }}">{{ . }}</a>{{ end }}
