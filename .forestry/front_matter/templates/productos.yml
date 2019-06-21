@@ -64,6 +64,7 @@ fields:
   label: Galería
   description: Imágenes adicionales para cada producto
 pages:
+- content/productos/desplazamiento-positivo.md
 - content/productos/centrifugas-sanitarias.md
 - content/productos/calderas.md
 - content/productos/bombas-sistemas-de-presion-constante.md
@@ -81,7 +82,6 @@ pages:
 - content/productos/filtro-regulado-lubricador-frl.md
 - content/productos/empaquetadura-de-compresion.md
 - content/productos/centrifugas-api.md
-- content/productos/desplazamiento-positivo.md
 - content/productos/transportadores.md
 - content/productos/hules.md
 - content/productos/empaques-espirometalicos-rwi-rw-sw.md
