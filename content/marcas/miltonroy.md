@@ -8,7 +8,7 @@ meta_keywords = ""
 title = "MiltonRoy"
 weight = ""
 [menu.principal]
-parent = ""
+parent = "Marcas"
 weight = 1101
 
 +++
