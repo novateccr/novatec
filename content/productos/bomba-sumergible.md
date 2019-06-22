@@ -10,7 +10,7 @@ marcas = ["KSB"]
 meta_description = "upa, upa chrome"
 meta_keywords = ""
 taxonomyCover = false
-title = "Bomba Sumergible"
+title = "Bombas Sumergibles"
 titulo = ""
 weight = ""
 
