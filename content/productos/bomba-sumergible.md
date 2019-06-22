@@ -16,3 +16,5 @@ weight = ""
 
 +++
 ###### **Bombas de pozo profundo UPA - mejor desempeño para un óptimo funcionamiento**
+
+Excelente eficiencia y bajos costos de energía son características prominentes de las bombas de pozo profundo UPA de KSB.
