@@ -1,16 +1,17 @@
 +++
-title = "Filtros de Aire"
-id = 13
-marcas = ["Pall","Pneumatech"]
-familias = ["Filtros"]
-industrias = ["Alimentos y Bebidas","Energía","Biofarmacéuticos"]
-imagen = "/v1530797588/productos/original-filtros-de-aire.png"
 catalogo = "/catalogos/original-filtros-de-aire.pdf"
-meta_description = ""
+familias = ["Filtros"]
+galeria = []
+id = 13
+imagen = "/v1530797588/productos/original-filtros-de-aire.png"
+industrias = ["Alimentos y Bebidas", "Energía", "Biofarmacéuticos"]
+marcas = ["Pall", "Pneumatech"]
+meta_description = "Filtros de Aire comprimido, drenes y secadores, Novatec consultemos !!"
 meta_keywords = ""
-weight = 13
-draft = false
 taxonomyCover = false
+title = "Filtros de Aire"
+weight = 13
+
 +++
 <p>Filtros para Aire Comprimido, Coalecentes, Partículas, Estéril, Trampas, Drenes...</p>
 <p>Certificaciones </p>

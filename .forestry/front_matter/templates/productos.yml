@@ -64,6 +64,8 @@ fields:
   label: Galería
   description: Imágenes adicionales para cada producto
 pages:
+- content/productos/filtros-de-aire.md
+- content/productos/bomba-sumergible.md
 - content/productos/bombas-dosificadoras.md
 - content/productos/centrifugas.md
 - content/productos/perfiles-en-aluminio.md
@@ -76,7 +78,6 @@ pages:
 - content/productos/alfombras-ergonomicas.md
 - content/productos/tuberia-en-aluminio-para-aire-comprimido-y-gases-inertes.md
 - content/productos/centrales-hidraulicas.md
-- content/productos/filtros-de-aire.md
 - content/productos/empaque-triclamp.md
 - content/productos/purificadores-de-aceite.md
 - content/productos/pall-genedisc-pcr.md
