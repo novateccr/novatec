@@ -39,16 +39,20 @@
 #main-nav {
   position: fixed;
   top: 0;
-  left: 0;
+  left: -250px;
   background: #fff;
   width: 250px;
   height: 100vh;
   padding: 0 $general-padding;
   overflow-x: hidden;
-  transform: translate3d(-100%, 0, 0);
   transition: 0.5s;
   overflow-y: scroll;
   z-index: 1;
+
+  &.expanded {
+    left: 0;
+    box-shadow: 1px 1px 15px rgba(0,0,0,.2);
+  }
 
   @include grid-media($desktop-grid) {
     height: auto;
@@ -150,7 +154,6 @@
   display: none;
   background: $blanco;
   padding: 0 ;
-  font-size: 16px;
 
   @include grid-media($desktop-grid) {
     box-sizing: content-box;
@@ -181,7 +184,7 @@
     width: 100%;
     border-radius: 0;
     color: $text-color;
-    font-size: 16px;
+    font-size: 14px;
     transition: background ease 0.5s;
 
     @include grid-media($desktop-grid) {
