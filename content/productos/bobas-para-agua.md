@@ -1,7 +1,6 @@
 +++
 catalogo = ""
 categoria = ""
-draft = true
 familias = []
 galeria = ["/v1561297170/ksb-megabloc.jpg"]
 id = ""
