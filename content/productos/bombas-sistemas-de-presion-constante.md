@@ -2,6 +2,7 @@
 catalogo = "/catalogos/original-bombas-sistemas-de-presion-constante.pdf"
 categoria = ""
 familias = ["Bombas"]
+galeria = ["/v1561318825/KSB-Movitec.jpg"]
 id = 139
 imagen = "/v1536632843/ksbbombas.jpg"
 industrias = ["Alimentos y Bebidas", "Energía", "Dispositivos Médicos", "Biofarmacéuticos", "Comercial - Construcción", "Electrónica"]
