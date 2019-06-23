@@ -1,7 +1,7 @@
 +++
 catalogo = ""
 categoria = ""
-familias = ["bombas"]
+familias = ["Bombas"]
 galeria = ["/v1561297170/ksb-megabloc.jpg"]
 id = ""
 imagen = "/v1561297083/bomba-centrifuga-ksb-hydrobloc.jpg"
