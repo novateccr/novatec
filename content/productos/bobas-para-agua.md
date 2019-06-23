@@ -9,9 +9,9 @@ imagen = "/v1561297083/bomba-centrifuga-ksb-hydrobloc.jpg"
 industrias = []
 marcas = ["KSB"]
 meta_description = "Todo en bombas para agua, consultenos !!"
-meta_keywords = ""
+meta_keywords = "bomba de agua, bombas de agua, bomba para agua"
 taxonomyCover = false
-title = "Bobas para agua"
+title = "Bomba para agua"
 titulo = ""
 weight = ""
 
