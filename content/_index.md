@@ -3,7 +3,7 @@ title: Inicio
 description: Especialistas en soluciones para el manejo y sellado de fluidos
 slides:
 - title: Consulte a uno de nuestros asesores...
-  image: "/v1548255324/megacpk.jpg"
+  image: "/v1550352882/ASESOR.jpg"
   description: estamos para servirle
   published: true
   link: "/contactenos"
