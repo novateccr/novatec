@@ -64,6 +64,7 @@ fields:
   label: Galería
   description: Imágenes adicionales para cada producto
 pages:
+- content/productos/bobas-para-agua.md
 - content/productos/filtros-de-aire.md
 - content/productos/bomba-sumergible.md
 - content/productos/bombas-dosificadoras.md
