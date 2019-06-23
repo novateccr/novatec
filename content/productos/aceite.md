@@ -1,7 +1,7 @@
 +++
 catalogo = "/catalogos/original-aceite.pdf"
 familias = ["Bombas"]
-galeria = []
+galeria = ["/v1561319088/KSB-Heat-Transfer-oil.jpg"]
 id = 10
 imagen = "/v1530797588/productos/original-aceite.jpg"
 industrias = ["Alimentos y Bebidas", "Energía", "Biofarmacéuticos"]
