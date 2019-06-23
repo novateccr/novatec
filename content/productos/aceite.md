@@ -1,14 +1,15 @@
 +++
-title = "Aceite"
-id = 10
-marcas = ["Flowserve"]
-familias = ["Bombas"]
-industrias = ["Alimentos y Bebidas","Energía","Biofarmacéuticos"]
-imagen = "/v1530797588/productos/original-aceite.jpg"
 catalogo = "/catalogos/original-aceite.pdf"
+familias = ["Bombas"]
+galeria = []
+id = 10
+imagen = "/v1530797588/productos/original-aceite.jpg"
+industrias = ["Alimentos y Bebidas", "Energía", "Biofarmacéuticos"]
+marcas = ["Flowserve"]
 meta_description = ""
 meta_keywords = ""
-weight = 10
-draft = false
 taxonomyCover = false
+title = "Bombas para aceite termico"
+weight = 10
+
 +++
