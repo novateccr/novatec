@@ -11,18 +11,18 @@ slides:
   image: "/v1530797347/2.jpg"
   description: ''
   published: true
-  link: 
+  link: ''
 - title: Sirviendo a la industria
   image: "/v1550353163/ASESOR1.jpg"
   description: "<p>Bombas · Filtros · Sellos · Pisos · Neumática · Hidráulica</p>"
   published: true
-  link: 
+  link: ''
 - title: Todo en Pisos
   image: "/v1530542510/marcas.jpg"
   description: ''
   published: true
-  link: 
-- title: Dispositivos Médicos
+  link: ''
+- title: Dispositivos Médicos -Estaciones de trabajo...
   image: "/v1530542510/rexroth.jpg"
   description: ''
   published: true
@@ -48,6 +48,6 @@ barra_fondo_imagen:
 menu:
   principal:
     parent: ''
-    weight: 1
+    weight: "1"
 
 ---
