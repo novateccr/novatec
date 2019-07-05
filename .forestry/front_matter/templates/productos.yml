@@ -64,6 +64,7 @@ fields:
   label: Galería
   description: Imágenes adicionales para cada producto
 pages:
+- content/productos/empaques-para-calderas-cleaver-brooks.md
 - content/productos/calderas.md
 - content/productos/bombas-sistemas-de-presion-constante.md
 - content/productos/bobas-para-agua.md
