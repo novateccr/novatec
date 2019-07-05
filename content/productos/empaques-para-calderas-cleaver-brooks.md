@@ -1,7 +1,6 @@
 +++
 catalogo = ""
 categoria = ""
-draft = true
 familias = []
 galeria = ["/v1562370897/Kit_Empaque_CleaverBrooks.png"]
 id = ""
@@ -16,4 +15,8 @@ titulo = ""
 weight = ""
 
 +++
-Kit de empaques para calderas - (Cleaver Brooks) consultenos !
+Kit de empaques para calderas - (Cleaver Brooks) 
+
+Lado fuego, lado agua (Manhole, handhole)
+
+consultenos !
