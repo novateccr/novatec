@@ -64,6 +64,7 @@ fields:
   label: Galería
   description: Imágenes adicionales para cada producto
 pages:
+- content/productos/calderas.md
 - content/productos/bombas-sistemas-de-presion-constante.md
 - content/productos/bobas-para-agua.md
 - content/productos/filtros-de-aire.md
@@ -73,7 +74,6 @@ pages:
 - content/productos/perfiles-en-aluminio.md
 - content/productos/desplazamiento-positivo.md
 - content/productos/centrifugas-sanitarias.md
-- content/productos/calderas.md
 - content/productos/doble-diafragma-sanitarias.md
 - content/productos/alfombras.md
 - content/productos/alfombras-ergonomicas.md
