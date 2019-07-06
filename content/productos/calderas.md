@@ -10,7 +10,7 @@ marcas = ["KSB"]
 meta_description = "bombas para alimentación de calderas tipo multitec"
 meta_keywords = "multitec"
 taxonomyCover = false
-title = "Calderas"
+title = "Bombas de Alimentación de Calderas"
 titulo = ""
 weight = 11
 
