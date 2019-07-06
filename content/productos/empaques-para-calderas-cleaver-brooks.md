@@ -1,7 +1,7 @@
 +++
 catalogo = ""
 categoria = ""
-familias = []
+familias = ["Sellado"]
 galeria = ["/v1562370897/Kit_Empaque_CleaverBrooks.png"]
 id = ""
 imagen = "/v1562370705/Caldera%20Cleaver%20Brooks.jpg"
@@ -19,4 +19,4 @@ Kit de empaques para calderas - (Cleaver Brooks)
 
 Lado fuego, lado agua (Manhole, handhole)
 
-consultenos!
+consultenos !
