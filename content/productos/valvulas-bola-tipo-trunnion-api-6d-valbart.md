@@ -1,14 +1,15 @@
 +++
-title = "Válvulas bola tipo Trunnion - API 6D (Valbart) "
-id = 133
-marcas = ["Flowserve"]
-familias = ["Válvulas"]
-industrias = ["Energía","Química","Ingenios"]
-imagen = "/v1530797588/productos/original-valvulas-bola-tipo-trunnion-api-6d-valbart.jpg"
 catalogo = "/catalogos/original-valvulas-bola-tipo-trunnion-api-6d-valbart.pdf"
+familias = ["Válvulas"]
+galeria = []
+id = 133
+imagen = "/v1563304810/KSB-boax-b.png"
+industrias = ["Energía", "Química", "Ingenios"]
+marcas = ["KSB"]
 meta_description = ""
 meta_keywords = ""
-weight = 133
-draft = false
 taxonomyCover = false
+title = "Válvulas de mariposa Tipo Boax"
+weight = 133
+
 +++

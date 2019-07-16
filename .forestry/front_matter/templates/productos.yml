@@ -64,6 +64,7 @@ fields:
   label: Galería
   description: Imágenes adicionales para cada producto
 pages:
+- content/productos/valvulas-bola-tipo-trunnion-api-6d-valbart.md
 - content/productos/empaques-para-calderas-cleaver-brooks.md
 - content/productos/calderas.md
 - content/productos/bombas-sistemas-de-presion-constante.md
@@ -114,7 +115,6 @@ pages:
 - content/productos/descargadores.md
 - content/productos/juntas-de-control.md
 - content/productos/polimeros-para-reparacion-de-bombas.md
-- content/productos/valvulas-bola-tipo-trunnion-api-6d-valbart.md
 - content/productos/peristalticas.md
 - content/productos/belzona.md
 - content/productos/laminas-trespa.md
