@@ -1,7 +1,7 @@
 +++
 catalogo = "/catalogos/original-valvulas-bola-tipo-trunnion-api-6d-valbart.pdf"
 familias = ["Válvulas"]
-galeria = []
+galeria = ["/v1563304866/KSB-BOAX.jpg"]
 id = 133
 imagen = "/v1563304810/KSB-boax-b.png"
 industrias = ["Energía", "Química", "Ingenios"]
@@ -13,3 +13,4 @@ title = "Válvulas de mariposa Tipo Boax"
 weight = 133
 
 +++
+Consultenos !!
