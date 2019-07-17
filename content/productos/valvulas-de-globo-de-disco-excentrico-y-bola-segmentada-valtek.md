@@ -1,7 +1,7 @@
 +++
 catalogo = ""
 familias = ["Válvulas"]
-galeria = []
+galeria = ["/v1563387423/KSB-ecoline-blc-1000.png"]
 id = 129
 imagen = "/v1563387423/KSB-ecoline-blc-1000.png"
 industrias = ["Energía"]

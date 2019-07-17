@@ -64,6 +64,7 @@ fields:
   label: Galería
   description: Imágenes adicionales para cada producto
 pages:
+- content/productos/valvulas-de-globo-de-disco-excentrico-y-bola-segmentada-valtek.md
 - content/productos/valvulas-de-globo-compuerta-y-check-edward.md
 - content/productos/valvulas-de-bola-tapon-y-mariposa-recubierta-durco.md
 - content/productos/valvulas-bola-tipo-trunnion-api-6d-valbart.md
@@ -102,7 +103,6 @@ pages:
 - content/productos/doble-diafragma.md
 - content/productos/juntas-de-expansion-elastomericas.md
 - content/productos/mangueras-metalicas.md
-- content/productos/valvulas-de-globo-de-disco-excentrico-y-bola-segmentada-valtek.md
 - content/productos/uretanos-cementicios.md
 - content/productos/valvulas-de-control-sanitarias-kammer.md
 - content/productos/ksb-valvulas.md
