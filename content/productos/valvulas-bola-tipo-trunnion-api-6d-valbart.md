@@ -9,7 +9,7 @@ marcas = ["KSB"]
 meta_description = "Válvula de mariposa de disco centrado tipo KSB"
 meta_keywords = "Válvula de mariposa"
 taxonomyCover = false
-title = "Válvulas KSB de mariposa Tipo Boax-B"
+title = "Válvulas de mariposa KSB Tipo Boax-B"
 weight = 133
 
 +++
