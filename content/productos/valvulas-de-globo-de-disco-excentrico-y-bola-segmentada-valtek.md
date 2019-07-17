@@ -1,14 +1,17 @@
 +++
-title = "Válvulas de Globo de disco excéntrico y bola segmentada (Valtek)"
-id = 129
-marcas = ["Flowserve"]
+catalogo = ""
 familias = ["Válvulas"]
+galeria = []
+id = 129
+imagen = "/v1563387423/KSB-ecoline-blc-1000.png"
 industrias = ["Energía"]
-imagen = "/v1530797588/productos/original-valvulas-de-globo-de-disco-excentrico-y-bola-segmentada-valtek.jpg"
-catalogo = "/catalogos/original-valvulas-de-globo-de-disco-excentrico-y-bola-segmentada-valtek.pdf"
-meta_description = "valtek"
-meta_keywords = "valtek"
-weight = 129
-draft = false
+marcas = ["KSB"]
+meta_description = "Válvula de bola KSB de 2 y 3 cuerpos"
+meta_keywords = "KSB"
 taxonomyCover = false
+title = "Válvulas de bola KSB tipo SI3IT"
+weight = 129
+
 +++
+  
+**Diseño Válvula de bola para ANSI / ASME** con extremos roscados (NPT), extremos de soldadura a tope o soldadura de casquillo, cuerpo de tres piezas, orificio completo, bola flotante. Sellado de plastómeros (también en diseño a prueba de incendios). Solicitud Industria general, centrales eléctricas, industria química, industria petroquímica y todas las ramas relacionadas de la industria, industria del papel, industria alimentaria e industria farmacéutica.
