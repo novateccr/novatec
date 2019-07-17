@@ -1,7 +1,9 @@
 +++
 catalogo = "/catalogos/original-valvulas-de-globo-compuerta-y-check-edward.pdf"
 categoria = ""
+draft = true
 familias = ["Válvulas"]
+galeria = []
 id = 130
 imagen = "/v1530797588/productos/original-valvulas-de-globo-compuerta-y-check-edward.jpg"
 industrias = ["Energía"]

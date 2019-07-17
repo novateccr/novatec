@@ -64,6 +64,7 @@ fields:
   label: Galería
   description: Imágenes adicionales para cada producto
 pages:
+- content/productos/valvulas-de-globo-compuerta-y-check-edward.md
 - content/productos/valvulas-de-bola-tapon-y-mariposa-recubierta-durco.md
 - content/productos/valvulas-bola-tipo-trunnion-api-6d-valbart.md
 - content/productos/empaques-para-calderas-cleaver-brooks.md
@@ -110,7 +111,6 @@ pages:
 - content/productos/bombas-fds-doble-tornillo.md
 - content/productos/belzona-1111-super-metal.md
 - content/productos/centrifugas-ansi.md
-- content/productos/valvulas-de-globo-compuerta-y-check-edward.md
 - content/productos/sistemas-de-separacion.md
 - content/productos/filtros-de-laboratorio.md
 - content/productos/descargadores.md
