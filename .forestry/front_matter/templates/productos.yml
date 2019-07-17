@@ -64,6 +64,7 @@ fields:
   label: Galería
   description: Imágenes adicionales para cada producto
 pages:
+- content/productos/valvulas-de-bola-tapon-y-mariposa-recubierta-durco.md
 - content/productos/valvulas-bola-tipo-trunnion-api-6d-valbart.md
 - content/productos/empaques-para-calderas-cleaver-brooks.md
 - content/productos/calderas.md
@@ -121,7 +122,6 @@ pages:
 - content/productos/laminados-libres-de-asbesto.md
 - content/productos/elementos-cartuchos.md
 - content/productos/sellos-mecanicos.md
-- content/productos/valvulas-de-bola-tapon-y-mariposa-recubierta-durco.md
 - content/productos/valvulas.md
 - content/productos/secadores-de-aire-comprimido.md
 - content/productos/valvulas-de-control-de-proceso-worcester.md
