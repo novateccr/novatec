@@ -64,6 +64,7 @@ fields:
   label: Galería
   description: Imágenes adicionales para cada producto
 pages:
+- content/productos/valvulas-de-control-de-proceso-worcester.md
 - content/productos/valvulas-de-globo-de-disco-excentrico-y-bola-segmentada-valtek.md
 - content/productos/valvulas-de-globo-compuerta-y-check-edward.md
 - content/productos/valvulas-de-bola-tapon-y-mariposa-recubierta-durco.md
@@ -124,7 +125,6 @@ pages:
 - content/productos/sellos-mecanicos.md
 - content/productos/valvulas.md
 - content/productos/secadores-de-aire-comprimido.md
-- content/productos/valvulas-de-control-de-proceso-worcester.md
 - content/productos/cilindros.md
 - content/productos/filtros-de-bolsa.md
 - content/productos/juntas-de-expansion-textil.md
