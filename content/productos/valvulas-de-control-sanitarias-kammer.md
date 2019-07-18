@@ -1,7 +1,7 @@
 +++
 catalogo = ""
 familias = ["Válvulas"]
-galeria = []
+galeria = ["/v1563462611/es000841-sisto-drainna.png"]
 id = 131
 imagen = "/v1563462450/es000320-sisto-c.png"
 industrias = ["Alimentos y Bebidas"]
