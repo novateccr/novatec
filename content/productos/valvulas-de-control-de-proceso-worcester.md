@@ -18,4 +18,6 @@ weight = 31
 
 Válvula reductora de presión automática, cuerpo de fundición nodular, extremos revestidos de epoxi, con bridas. 
 
-**Aplicaciones** Industria general, agua limpia.
+**Aplicaciones** 
+
+Industria general, agua limpia.
