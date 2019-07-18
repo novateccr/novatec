@@ -1,14 +1,15 @@
 +++
-title = "Actuadores - Sistemas de automatizacion de Válvulas (Automax)"
-id = 132
-marcas = ["Flowserve"]
+catalogo = ""
 familias = ["Válvulas"]
-industrias = ["Alimentos y Bebidas","Industria Pesada","Biofarmacéuticos","Química"]
-imagen = "/v1530797588/productos/original-actuadores-sistemas-de-automatizacion-de-valvulas-automax.jpg"
-catalogo = "/catalogos/original-actuadores-sistemas-de-automatizacion-de-valvulas-automax.pdf"
-meta_description = "automax"
+galeria = []
+id = 132
+imagen = "/v1563463942/es000407-actelec-leb10.png"
+industrias = ["Alimentos y Bebidas", "Industria Pesada", "Biofarmacéuticos", "Química"]
+marcas = ["KSB"]
+meta_description = "Todo en actuadores KSB... Electricos, neumaticos."
 meta_keywords = ""
-weight = 132
-draft = false
 taxonomyCover = false
+title = "Actuadores - Sistemas de automatización de Válvulas KSB (Automax)"
+weight = 132
+
 +++
