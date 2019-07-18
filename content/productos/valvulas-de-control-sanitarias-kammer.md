@@ -1,14 +1,17 @@
 +++
-title = "Válvulas de control sanitarias (Kammer)"
-id = 131
-marcas = ["Flowserve"]
+catalogo = ""
 familias = ["Válvulas"]
+galeria = []
+id = 131
+imagen = "/v1563462450/es000320-sisto-c.png"
 industrias = ["Alimentos y Bebidas"]
-imagen = "/v1530797588/productos/original-valvulas-de-control-sanitarias-kammer.jpg"
-catalogo = "/catalogos/original-valvulas-de-control-sanitarias-kammer.pdf"
-meta_description = "Kammer"
-meta_keywords = "Válvulas de control"
-weight = 131
-draft = false
+marcas = []
+meta_description = "Válvulas sanitarias KSB tipos SISTO C"
+meta_keywords = "Válvulas sanitarias"
 taxonomyCover = false
+title = "Válvulas sanitarias KSB tipo SISTO C"
+weight = 131
+
 +++
+  
+Diseño Válvula de diafragma con extremos o abrazaderas de soldadura a tope; De forma recta, patrón Y o T, o como una válvula multipuerto; Cierre y sellado a la atmósfera mediante diafragma completamente cerrado. Sin volúmenes muertos, adecuado para esterilización, diseño compatible con SIP / CIP, indicador de posición. Todas las partes móviles están separadas del fluido por el diafragma. Libre de mantenimiento. Solicitud Biotecnología, industria farmacéutica, procesos estériles, industria de alimentos y bebidas.
