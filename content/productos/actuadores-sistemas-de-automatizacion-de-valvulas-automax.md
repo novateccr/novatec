@@ -9,8 +9,10 @@ marcas = ["KSB"]
 meta_description = "Todo en actuadores KSB... Electricos, neumaticos."
 meta_keywords = ""
 taxonomyCover = false
-title = "Actuadores - Sistemas de automatización de Válvulas KSB (Automax)"
+title = "Actuadores - Sistemas de automatización de Válvulas KSB"
 weight = 132
 
 +++
-    Todo para su proyecto: Catálogo de productos de KSB. Navegue por nuestro Catálogo de productos en línea para obtener especificaciones detalladas, datos y publicaciones sobre nuestrosproductos y servicios.
+**Todo para su proyecto:** 
+
+Catálogo de productos de KSB. Navegue por nuestro Catálogo de productos en línea para obtener especificaciones detalladas, datos y publicaciones sobre nuestros productos y servicios.
