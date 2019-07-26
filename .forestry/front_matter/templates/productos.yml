@@ -64,10 +64,10 @@ fields:
   label: Galería
   description: Imágenes adicionales para cada producto
 pages:
+- content/productos/valvulas-de-bola-tapon-y-mariposa-recubierta-durco.md
 - content/productos/valvulas-de-control-de-proceso-worcester.md
 - content/productos/valvulas-de-globo-de-disco-excentrico-y-bola-segmentada-valtek.md
 - content/productos/valvulas-de-globo-compuerta-y-check-edward.md
-- content/productos/valvulas-de-bola-tapon-y-mariposa-recubierta-durco.md
 - content/productos/valvulas-bola-tipo-trunnion-api-6d-valbart.md
 - content/productos/empaques-para-calderas-cleaver-brooks.md
 - content/productos/calderas.md
