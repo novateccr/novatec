@@ -64,6 +64,7 @@ fields:
   label: Galería
   description: Imágenes adicionales para cada producto
 pages:
+- content/productos/hules.md
 - content/productos/valvulas-de-bola-tapon-y-mariposa-recubierta-durco.md
 - content/productos/valvulas-de-control-de-proceso-worcester.md
 - content/productos/valvulas-de-globo-de-disco-excentrico-y-bola-segmentada-valtek.md
@@ -93,7 +94,6 @@ pages:
 - content/productos/empaquetadura-de-compresion.md
 - content/productos/centrifugas-api.md
 - content/productos/transportadores.md
-- content/productos/hules.md
 - content/productos/empaques-espirometalicos-rwi-rw-sw.md
 - content/productos/epoxicos.md
 - content/productos/actuadores-sistemas-de-automatizacion-de-valvulas-automax.md
