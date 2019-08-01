@@ -1,5 +1,6 @@
 +++
 catalogo = "/catalogos/original-desplazamiento-positivo.pdf"
+draft = true
 familias = ["Bombas"]
 galeria = []
 id = 2
@@ -20,3 +21,5 @@ Deje de reconstruir, reemplazar y desperdiciar su valioso tiempo con otras bomba
 Los rotores balanceados y la durable caja de engranaje incorporadas en la FKL aseguran que es la bomba de desplazamiento positivo más duradera. Se califica al estándar 500 PSI.
 
 ####  {{< youtube 69ah0Jdj1Ag >}}
+
+Prueba
