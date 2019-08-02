@@ -5,7 +5,7 @@ slides:
 - title: Novatec en Edimaq
   description: 'Visitenos '
   image: "/v1564763854/Edimaq_oeqamu.jpg"
-  published: false
+  published: true
   link: ''
 - title: Consulte a uno de nuestros asesores...
   image: "/v1550352882/ASESOR.jpg"
@@ -54,6 +54,5 @@ menu:
   principal:
     parent: ''
     weight: "1"
-draft: true
 
 ---
