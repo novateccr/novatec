@@ -2,6 +2,11 @@
 title: Inicio
 description: Especialistas en soluciones para el manejo y sellado de fluidos
 slides:
+- title: Novatec en Edimaq
+  description: 'Visitenos '
+  image: "/v1564763081/Edimaq_psjdbo.png"
+  published: false
+  link: ''
 - title: Consulte a uno de nuestros asesores...
   image: "/v1550352882/ASESOR.jpg"
   description: estamos para servirle
