@@ -30,7 +30,7 @@ slides:
 - title: Dispositivos Médicos -Estaciones de trabajo...
   image: "/v1530542510/rexroth.jpg"
   description: ''
-  published: true
+  published: false
   link: "/industrias/dispositivos-medicos/"
 - title: Bombas Sanitarias Fristam
   image: "/v1530542510/fristam-seal.jpg"
