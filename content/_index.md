@@ -3,7 +3,7 @@ title: Inicio
 description: Especialistas en soluciones para el manejo y sellado de fluidos
 slides:
 - title: Novatec en Edimaq
-  description: 'Visitenos '
+  description: Visitenos, Stand Montezuma F22
   image: "/v1564763854/Edimaq_oeqamu.jpg"
   published: true
   link: ''
