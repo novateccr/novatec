@@ -5,7 +5,7 @@ link = "https://www.miltonroy.com"
 logo = "/v1561159051/milton-roy-logo.jpg"
 meta_description = ""
 meta_keywords = ""
-title = "MiltonRoy"
+title = "LMI - MiltonRoy"
 weight = ""
 [menu.principal]
 parent = "Marcas"
