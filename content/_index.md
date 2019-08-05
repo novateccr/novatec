@@ -56,8 +56,3 @@ menu:
     weight: "1"
 
 ---
-Pruebaf
-
-dfdfdf
-
-dfdf
