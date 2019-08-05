@@ -4,7 +4,7 @@ id = ""
 link = "https://www.miltonroy.com"
 logo = "/v1565046599/LMI_fjwhsu.jpg"
 meta_description = ""
-meta_keywords = ""
+meta_keywords = "Todo en bombas dosificadoras"
 title = "LMI - MiltonRoy"
 weight = ""
 [menu.principal]
