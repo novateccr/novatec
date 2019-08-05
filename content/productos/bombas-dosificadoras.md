@@ -2,7 +2,7 @@
 catalogo = ""
 categoria = ""
 familias = ["Bombas"]
-galeria = ["/v1561161109/LMI.jpg"]
+galeria = ["/v1565046885/LMI-PD_giry5p.jpg"]
 id = ""
 imagen = "/v1561160297/MiltonRoy-pump.jpg"
 industrias = []
