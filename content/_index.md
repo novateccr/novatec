@@ -2,7 +2,7 @@
 title: Inicio
 description: Especialistas en soluciones para el manejo y sellado de fluidos
 slides:
-- title: Novatec en Edimaq - Miercoles 7 a Sabado 10 de agosto
+- title: Novatec en Edimaq    -    Miercoles 7  - Sabado 10 de Agosto
   description: Visitenos, Stand Montezuma F22
   image: "/v1564960540/edimaq-2_emzwqx.jpg"
   published: true
@@ -56,4 +56,8 @@ menu:
     weight: "1"
 
 ---
-Prueba
+Pruebaf
+
+dfdfdf
+
+dfdf
