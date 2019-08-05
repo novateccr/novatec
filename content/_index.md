@@ -6,7 +6,7 @@ slides:
   description: Visitenos, Stand Montezuma F22
   image: "/v1564960540/edimaq-2_emzwqx.jpg"
   published: true
-  link: ''
+  link: "/novatec-construccion/"
 - title: Consulte a uno de nuestros asesores...
   image: "/v1550352882/ASESOR.jpg"
   description: estamos para servirle
