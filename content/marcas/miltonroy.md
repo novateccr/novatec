@@ -2,7 +2,7 @@
 catalogo = ""
 id = ""
 link = "https://www.miltonroy.com"
-logo = "/v1561159051/milton-roy-logo.jpg"
+logo = "/v1565046599/LMI_fjwhsu.jpg"
 meta_description = ""
 meta_keywords = ""
 title = "LMI - MiltonRoy"
