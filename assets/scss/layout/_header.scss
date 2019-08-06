@@ -2,38 +2,32 @@
 // This file contains all styles related to the header of the site/application.
 // -----------------------------------------------------------------------------
 #main-header {
-  padding: $general-padding 0;
+  padding: $general-padding;
   background: $blanco;
   box-shadow: 1px 1px 5px rgba(68,68,68,0.3);
-  @include grid-container;
   height: 89px;
   min-width: 100%;
-  display: table;
+  display: flex;
   position: fixed;
+  align-items: center;
   top: 0;
   z-index: 100;
-
-  @include grid-media($desktop-grid) {
-    display: block;
-  }
 }
 
 .header-logo-container {
-  margin-left: $general-padding;
-  display: table-cell;
-  padding-left: $general-padding;
+  flex: none;
+  height: 49px;
+  width: 178px;
+}
 
-  @include grid-media($desktop-grid) {
-    @include grid-column(2);
-    display: inline-block;
-    padding-left: 0;
-  }
+.header-logo-link {
+  display: block;
 }
 
 .header-logo {
-  max-height: 49px;
-  width: auto;
-  display: inline-block;
+  height: 49px;
+  width: 178px;
+  display: block;
 }
 
 #main-nav {
@@ -57,35 +51,34 @@
   @include grid-media($desktop-grid) {
     height: auto;
     max-height: 100vh;
-  }
-
-  @include grid-media($desktop-grid) {
-    @include grid-column(10);
     position: static;
     border: 0;
-    min-height: 0;
-    padding: 0;
     box-shadow: none;
     overflow: visible;
     transform: translate3d(0, 0, 0);
     z-index: 1;
-  }
-
-  @include grid-media($large-desktop-grid) {
-    @include grid-column(8);
+    display: flex;
+    justify-content: center;
+    flex: 1 1;
+    width: auto;
   }
 
   .first-level {
     list-style: none;
     margin: 0;
     padding: 0;
-    @include clearfix;
+    display: flex;
+    flex-direction: column;
+
+    @include grid-media($desktop-grid) {
+      flex-direction: row;
+    }
   }
 
   .first-level-link {
     color: $text-color;
     position: relative;
-    display: inline-block;
+    display: block;
     padding: 15px;
     font-size: 14px;
     transition: background ease 0.5s;
@@ -120,6 +113,10 @@
       & > .first-level-link {
         color: $blanco;
         text-decoration: none;
+      }
+
+      .caret {
+        fill: $blanco;
       }
     }
 
@@ -175,6 +172,9 @@
     display: block;
     width: 100%;
     padding-left: $general-padding;
+    @include grid-media($desktop-grid) {
+      padding: 0;
+    }
   }
 
   .second-level-link {
@@ -252,11 +252,10 @@
 
 #abrir-main-nav-button {
   color: $text-color;
-  margin-left: $general-padding;
   font-size: 1.5em;
   display: table-cell;
   vertical-align: middle;
-  padding-left: $general-padding;
+  margin-right: $general-padding;
 
   @include grid-media($desktop-grid) {
     display: none;

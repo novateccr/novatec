@@ -11,15 +11,12 @@
   }
 
   @include grid-media($desktop-grid) {
-    @include grid-column(2);
     display: block;
-    position: absolute;
-    right: 20px;
-    top: 20px;
+    flex: none;
+    width: 150px;
   }
 
   @include grid-media($large-desktop-grid) {
-    @include grid-column(2);
     position: relative;
     top: 0;
   }
