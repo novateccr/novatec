@@ -215,8 +215,10 @@
   }
 }
 
-.first-level li:hover > .second-level {
-  display: block;
+@include grid-media($desktop-grid) {
+  .first-level li:hover > .second-level {
+    display: block;
+  }
 }
 
 .cerrar-main-nav {
