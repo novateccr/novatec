@@ -5,7 +5,7 @@ slides:
 - title: Novatec en Edimaq    -    Miercoles 7  a Sabado 10 de Agosto
   description: Visitenos, Stand Montezuma F22
   image: "/v1564960540/edimaq-2_emzwqx.jpg"
-  published: true
+  published: false
   link: "/novatec-construccion/"
 - title: Consulte a uno de nuestros asesores...
   image: "/v1550352882/ASESOR.jpg"
