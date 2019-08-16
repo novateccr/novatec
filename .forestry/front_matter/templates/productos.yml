@@ -64,6 +64,7 @@ fields:
   label: Galería
   description: Imágenes adicionales para cada producto
 pages:
+- content/productos/laminas-trespa.md
 - content/productos/bombas-dosificadoras.md
 - content/productos/desplazamiento-positivo.md
 - content/productos/valvulas-de-globo-compuerta-y-check-edward.md
@@ -84,7 +85,6 @@ pages:
 - content/productos/perfiles-en-aluminio.md
 - content/productos/pall-genedisc-pcr.md
 - content/productos/mezcaldor-de-polvos.md
-- content/productos/laminas-trespa.md
 - content/productos/ksb-valvulas.md
 - content/productos/juntas-de-expansion-textil.md
 - content/productos/hules.md
