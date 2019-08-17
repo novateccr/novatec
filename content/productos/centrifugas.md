@@ -15,6 +15,6 @@ titulo = ""
 weight = 7
 
 +++
-Bombas KSB 
+Bombas KSB
 
-bombas centrifugas, MegaCpk, hydrobloc y opcional con motores sincrónicos de super alta eficiencia.
+bombas centrifugas KSB, tipo: MegaCpk, hydrobloc, etc y opcional **con motores sincrónicos** de super alta eficiencia.
