@@ -64,6 +64,7 @@ fields:
   label: Galería
   description: Imágenes adicionales para cada producto
 pages:
+- content/productos/bombas-fds-doble-tornillo.md
 - content/productos/laminas-trespa.md
 - content/productos/bombas-dosificadoras.md
 - content/productos/desplazamiento-positivo.md
@@ -105,7 +106,6 @@ pages:
 - content/productos/centrifugas.md
 - content/productos/centrales-hidraulicas.md
 - content/productos/calderas.md
-- content/productos/bombas-fds-doble-tornillo.md
 - content/productos/bombas-sistemas-de-presion-constante.md
 - content/productos/bomba-positiva-de-engranajes-tipo-gr.md
 - content/productos/belzona-1111-super-metal.md
