@@ -19,7 +19,7 @@ weight = 72
 
 Deje de perder su valioso tiempo y dinero en sistemas de mezclado obsoletos, demasiado grandes o que no le brindan el rendimiento necesario.
 
-La mezcladora de polvos Fristam permite mezclar rápidamente y con alto rendimiento ingredientes húmedos y secos en un chorro de uido.
+La mezcladora de polvos Fristam permite mezclar rápidamente y con alto rendimiento ingredientes húmedos y secos en un chorro de fuido.
 
 * Reduce el Tiempo de Proceso Hasta un 95%
 * Produce Lotes Consistentes
