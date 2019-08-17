@@ -2,7 +2,7 @@
 catalogo = "/catalogos/original-epoxicos.pdf"
 categoria = ""
 familias = ["Pisos y Polímeros"]
-galeria = ["/v1566007518/decorative-epoxy-finishes-header-image-02_afctdj.jpg", "/v1566007213/commercial-Epoxico-FC_vko50g.jpg"]
+galeria = ["/v1566008918/aerospace-02-Flowcrete_y6wapx.jpg", "/v1566007518/decorative-epoxy-finishes-header-image-02_afctdj.jpg", "/v1566007213/commercial-Epoxico-FC_vko50g.jpg"]
 id = 17
 imagen = "/v1530797588/productos/original-epoxicos.jpg"
 industrias = ["Alimentos y Bebidas", "Energía", "Industria Pesada", "Biofarmacéuticos"]
