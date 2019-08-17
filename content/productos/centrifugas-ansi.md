@@ -1,7 +1,7 @@
 +++
 catalogo = "/catalogos/original-centrifugas-ansi.pdf"
 familias = ["Bombas"]
-galeria = []
+galeria = ["/v1566006001/megacpk-KSB_be4dfc.png"]
 id = 8
 imagen = "/v1530797588/productos/original-centrifugas-ansi.jpg"
 industrias = ["Alimentos y Bebidas", "Energía", "Biofarmacéuticos"]
