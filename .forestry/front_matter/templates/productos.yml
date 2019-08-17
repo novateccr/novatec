@@ -64,6 +64,7 @@ fields:
   label: Galería
   description: Imágenes adicionales para cada producto
 pages:
+- content/productos/centrifugas.md
 - content/productos/centrifugas-ansi.md
 - content/productos/centrifugas-api.md
 - content/productos/mezcaldor-de-polvos.md
@@ -103,7 +104,6 @@ pages:
 - content/productos/descargadores.md
 - content/productos/cilindros.md
 - content/productos/centrifugas-sanitarias.md
-- content/productos/centrifugas.md
 - content/productos/centrales-hidraulicas.md
 - content/productos/calderas.md
 - content/productos/bombas-sistemas-de-presion-constante.md
