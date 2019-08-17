@@ -13,8 +13,6 @@ title = "Mezcaldor de Polvos "
 weight = 72
 
 +++
-{{< [youtu.be/H_e0h5QgrDE](https://youtu.be/H_e0h5QgrDE "https://youtu.be/H_e0h5QgrDE") >}}
-
 # Una mejor mezcla en menos tiempo
 
 Deje de perder su valioso tiempo y dinero en sistemas de mezclado obsoletos, demasiado grandes o que no le brindan el rendimiento necesario.
