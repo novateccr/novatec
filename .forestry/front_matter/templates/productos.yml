@@ -64,6 +64,7 @@ fields:
   label: Galería
   description: Imágenes adicionales para cada producto
 pages:
+- content/productos/uretanos-cementicios.md
 - content/productos/epoxicos.md
 - content/productos/centrifugas.md
 - content/productos/centrifugas-ansi.md
@@ -79,7 +80,6 @@ pages:
 - content/productos/valvulas-de-globo-de-disco-excentrico-y-bola-segmentada-valtek.md
 - content/productos/valvulas-de-control-de-proceso-worcester.md
 - content/productos/valvulas-bola-tipo-trunnion-api-6d-valbart.md
-- content/productos/uretanos-cementicios.md
 - content/productos/transportadores.md
 - content/productos/sistemas-de-separacion.md
 - content/productos/sellos-mecanicos.md
