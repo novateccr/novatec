@@ -64,6 +64,7 @@ fields:
   label: Galería
   description: Imágenes adicionales para cada producto
 pages:
+- content/productos/centrifugas-api.md
 - content/productos/mezcaldor-de-polvos.md
 - content/productos/bombas-fds-doble-tornillo.md
 - content/productos/laminas-trespa.md
@@ -101,7 +102,6 @@ pages:
 - content/productos/descargadores.md
 - content/productos/cilindros.md
 - content/productos/centrifugas-sanitarias.md
-- content/productos/centrifugas-api.md
 - content/productos/centrifugas-ansi.md
 - content/productos/centrifugas.md
 - content/productos/centrales-hidraulicas.md
