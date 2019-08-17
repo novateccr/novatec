@@ -2,7 +2,7 @@
 catalogo = "/catalogos/original-epoxicos.pdf"
 categoria = ""
 familias = ["Pisos y Polímeros"]
-galeria = []
+galeria = ["/v1566007213/commercial-Epoxico-FC_vko50g.jpg"]
 id = 17
 imagen = "/v1530797588/productos/original-epoxicos.jpg"
 industrias = ["Alimentos y Bebidas", "Energía", "Industria Pesada", "Biofarmacéuticos"]
