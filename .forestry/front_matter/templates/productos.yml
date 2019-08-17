@@ -64,8 +64,8 @@ fields:
   label: Galería
   description: Imágenes adicionales para cada producto
 pages:
-- content/productos/epoxicos.md
 - content/productos/uretanos-cementicios.md
+- content/productos/epoxicos.md
 - content/productos/centrifugas.md
 - content/productos/centrifugas-ansi.md
 - content/productos/centrifugas-api.md
