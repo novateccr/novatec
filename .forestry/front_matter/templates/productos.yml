@@ -64,6 +64,7 @@ fields:
   label: Galería
   description: Imágenes adicionales para cada producto
 pages:
+- content/productos/epoxicos.md
 - content/productos/centrifugas.md
 - content/productos/centrifugas-ansi.md
 - content/productos/centrifugas-api.md
@@ -117,7 +118,6 @@ pages:
 - content/productos/tuberia-en-aluminio-para-aire-comprimido-y-gases-inertes.md
 - content/productos/empaque-triclamp.md
 - content/productos/bombas-sistemas-de-presion-constante-hyamat.md
-- content/productos/epoxicos.md
 - content/productos/actuadores-sistemas-de-automatizacion-de-valvulas-automax.md
 - content/productos/vacio.md
 - content/productos/carcazas-housing.md
