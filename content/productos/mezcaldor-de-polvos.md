@@ -13,8 +13,6 @@ title = "Mezcaldor de Polvos "
 weight = 72
 
 +++
-{{< youtube n-Cn2s4ivvk >}}
-
 {{< [youtu.be/H_e0h5QgrDE](https://youtu.be/H_e0h5QgrDE "https://youtu.be/H_e0h5QgrDE") >}}
 
 # Una mejor mezcla en menos tiempo
