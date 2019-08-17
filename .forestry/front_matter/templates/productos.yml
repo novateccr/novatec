@@ -64,6 +64,7 @@ fields:
   label: Galería
   description: Imágenes adicionales para cada producto
 pages:
+- content/productos/mezcaldor-de-polvos.md
 - content/productos/bombas-fds-doble-tornillo.md
 - content/productos/laminas-trespa.md
 - content/productos/bombas-dosificadoras.md
@@ -85,7 +86,6 @@ pages:
 - content/productos/peristalticas.md
 - content/productos/perfiles-en-aluminio.md
 - content/productos/pall-genedisc-pcr.md
-- content/productos/mezcaldor-de-polvos.md
 - content/productos/ksb-valvulas.md
 - content/productos/juntas-de-expansion-textil.md
 - content/productos/hules.md

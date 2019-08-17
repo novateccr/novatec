@@ -1,17 +1,31 @@
 +++
-title = "Mezcaldor de Polvos "
-id = 72
-marcas = ["Fristam"]
-familias = ["Bombas"]
-industrias = ["Alimentos y Bebidas","Biofarmacéuticos"]
-imagen = "/v1530797588/productos/original-mezcaldor-de-polvos.png"
 catalogo = "/catalogos/original-mezcaldor-de-polvos.pdf"
+familias = ["Bombas"]
+galeria = []
+id = 72
+imagen = "/v1530797588/productos/original-mezcaldor-de-polvos.png"
+industrias = ["Alimentos y Bebidas", "Biofarmacéuticos"]
+marcas = ["Fristam"]
 meta_description = ""
 meta_keywords = ""
-weight = 72
-draft = false
 taxonomyCover = false
+title = "Mezcaldor de Polvos "
+weight = 72
+
 +++
 {{< youtube n-Cn2s4ivvk >}}
 
-{{< youtube SWIhYoNvZeM >}}
+{{< [youtu.be/H_e0h5QgrDE](https://youtu.be/H_e0h5QgrDE "https://youtu.be/H_e0h5QgrDE") >}}
+
+# Una mejor mezcla en menos tiempo
+
+Deje de perder su valioso tiempo y dinero en sistemas de mezclado obsoletos, demasiado grandes o que no le brindan el rendimiento necesario.
+
+La mezcladora de polvos Fristam permite mezclar rápidamente y con alto rendimiento ingredientes húmedos y secos en un chorro de uido.
+
+* Reduce el Tiempo de Proceso Hasta un 95%
+* Produce Lotes Consistentes
+* Devora Terrones Y Grumos
+* Limpieza en el Lugar (CIP)
+* Elimina el uso de Escaleras
+* Adaptable a Diferentes Tamaños, Configuraciones Y Opciones
