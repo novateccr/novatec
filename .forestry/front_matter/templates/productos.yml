@@ -64,6 +64,7 @@ fields:
   label: Galería
   description: Imágenes adicionales para cada producto
 pages:
+- content/productos/flowfast-sistema-de-rápida-curación.md
 - content/productos/deckshield-sistema-de-cubiertas-parqueos.md
 - content/productos/uretanos-cementicios.md
 - content/productos/epoxicos.md
