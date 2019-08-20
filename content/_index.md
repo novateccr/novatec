@@ -2,6 +2,11 @@
 title: Inicio
 description: Especialistas en soluciones para el manejo y sellado de fluidos
 slides:
+- title: 'Especialistas en pisos '
+  description: ''
+  image: "/v1566339168/flowfast-1_1_znojns.jpg"
+  published: false
+  link: ''
 - title: Novatec - Euclid
   description: Consultenos !!
   image: "/v1565455877/Euclid-soluciones_myhy5w.jpg"
@@ -54,5 +59,6 @@ menu:
   principal:
     parent: ''
     weight: "1"
+draft: true
 
 ---
