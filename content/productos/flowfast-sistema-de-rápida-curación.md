@@ -2,9 +2,9 @@
 catalogo = ""
 categoria = ""
 familias = ["Pisos y Polímeros"]
-galeria = ["/v1566335750/flowfast-1_nfhlou.jpg", "/v1566335676/flowfast-header-image-01_xxaioo.jpg"]
+galeria = ["/v1566336162/flowfast-4_m0qnfv.jpg", "/v1566335750/flowfast-1_nfhlou.jpg", "/v1566335676/flowfast-header-image-01_xxaioo.jpg"]
 id = ""
-imagen = "/v1566335606/flowfast-header-image-03_gcacza.jpg"
+imagen = "/v1566336179/flowfast-1_1_rjgmw2.jpg"
 industrias = []
 marcas = ["Flowcrete"]
 meta_description = "La pintura para pavimentos Flowfast acrílico ha sido diseñado para ofrecer a sus clientes un acabado de pavimento decorativo"
