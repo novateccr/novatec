@@ -1,8 +1,7 @@
 +++
 catalogo = ""
 categoria = ""
-draft = true
-familias = ["Pisos y Polimeros"]
+familias = ["Pisos y Polímeros"]
 galeria = ["/v1566335750/flowfast-1_nfhlou.jpg", "/v1566335676/flowfast-header-image-01_xxaioo.jpg"]
 id = ""
 imagen = "/v1566335606/flowfast-header-image-03_gcacza.jpg"
