@@ -59,6 +59,5 @@ menu:
   principal:
     parent: ''
     weight: "1"
-draft: true
 
 ---
