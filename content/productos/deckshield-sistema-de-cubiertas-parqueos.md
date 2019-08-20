@@ -1,8 +1,7 @@
 +++
 catalogo = ""
 categoria = ""
-draft = true
-familias = ["Pisos y Polimeros"]
+familias = ["Pisos y Polímeros"]
 galeria = ["/v1566335468/car-parks-04_rlm25y.jpg"]
 id = ""
 imagen = "/v1566335403/deckshield-header-image-02_fbhg66.jpg"
