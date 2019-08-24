@@ -16,4 +16,6 @@ type = ""
 weight = 139
 
 +++
-<p>Bombas Sistema de Presión Constante KSB tipo Hyamat.</p>
+<p>Bombas **Sistema de Presión Constante** KSB tipo Hyamat.</p>
+
+#####  Sistema de presión constante con de 2 a 6 bombas de alta presión verticales, para regulación constante de la velocidad variable de una bomba para control electrónico de la presión requerida, standard volt-free change over contact for operating status / general fault reporting and live-zero monitoring of the connected sensors. Configuración y función según DIN 1988, Parte 5. Aplicaciones: edificios residenciales y de oficinas, hospitales, hoteles, almacenes, industria, etc.

@@ -64,6 +64,7 @@ fields:
   label: Galería
   description: Imágenes adicionales para cada producto
 pages:
+- content/productos/bombas-sistemas-de-presion-constante-hyamat.md
 - content/productos/tuberia-en-aluminio-para-aire-comprimido-y-gases-inertes.md
 - content/productos/flowfast-sistema-de-rápida-curación.md
 - content/productos/deckshield-sistema-de-cubiertas-parqueos.md
@@ -119,7 +120,6 @@ pages:
 - content/productos/bobas-para-agua.md
 - content/productos/bomba-sumergible.md
 - content/productos/empaque-triclamp.md
-- content/productos/bombas-sistemas-de-presion-constante-hyamat.md
 - content/productos/actuadores-sistemas-de-automatizacion-de-valvulas-automax.md
 - content/productos/vacio.md
 - content/productos/carcazas-housing.md
