@@ -64,6 +64,7 @@ fields:
   label: Galería
   description: Imágenes adicionales para cada producto
 pages:
+- content/productos/perfiles-en-aluminio.md
 - content/productos/estaciones-de-trabajo.md
 - content/productos/pall-genedisc-pcr.md
 - content/productos/bombas-sistemas-de-presion-constante-hyamat.md
@@ -94,7 +95,6 @@ pages:
 - content/productos/productos-de-teflon.md
 - content/productos/polimeros-para-reparacion-de-bombas.md
 - content/productos/peristalticas.md
-- content/productos/perfiles-en-aluminio.md
 - content/productos/ksb-valvulas.md
 - content/productos/juntas-de-expansion-textil.md
 - content/productos/hules.md
