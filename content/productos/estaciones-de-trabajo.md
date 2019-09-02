@@ -1,7 +1,7 @@
 +++
 catalogo = "/catalogos/original-estaciones-de-trabajo.pdf"
 familias = ["Tecnología de Ensamble"]
-galeria = ["/v1567437266/BRL-WS_ridzvc.jpg", "/v1567437266/ES-BRL_un3liv.jpg"]
+galeria = ["/v1567437367/ES1-BRL_t3bqoe.jpg", "/v1567437266/BRL-WS_ridzvc.jpg", "/v1567437266/ES-BRL_un3liv.jpg"]
 id = 113
 imagen = "/v1530797588/productos/original-estaciones-de-trabajo.jpg"
 industrias = ["Alimentos y Bebidas", "Dispositivos Médicos", "Biofarmacéuticos"]
