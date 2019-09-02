@@ -62,7 +62,7 @@ fields:
   type: image_gallery
   config: {}
   label: Galería
-  description: Imágenes adicionales para cada producto
+  description: Imágenes adicionales para cada producto. Ancho mínimo 760px
 pages:
 - content/productos/estaciones-de-trabajo.md
 - content/productos/perfiles-en-aluminio.md
