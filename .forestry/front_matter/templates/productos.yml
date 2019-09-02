@@ -64,8 +64,8 @@ fields:
   label: Galería
   description: Imágenes adicionales para cada producto
 pages:
-- content/productos/perfiles-en-aluminio.md
 - content/productos/estaciones-de-trabajo.md
+- content/productos/perfiles-en-aluminio.md
 - content/productos/pall-genedisc-pcr.md
 - content/productos/bombas-sistemas-de-presion-constante-hyamat.md
 - content/productos/tuberia-en-aluminio-para-aire-comprimido-y-gases-inertes.md

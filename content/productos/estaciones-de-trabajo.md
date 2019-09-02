@@ -18,3 +18,5 @@ weight = 113
 Las estaciones de trabajo personalizadas ofrecen dimensiones variables y componentes versátiles para la configuración individual y flexible de sus estaciones de trabajo.
 
 Por ejemplo, puede equipar su estación de trabajo con una mesa, suministro de material e iluminación. Esto permite un diseño de sistema kanban, es decir, una división de ensamblaje y logística.
+
+[https://www.boschrexroth.com/es/mx/productos/grupo-de-productos/tecnologia-de-ensamble/sistemas-de-produccion-manual/puestos-de-trabajo]()
