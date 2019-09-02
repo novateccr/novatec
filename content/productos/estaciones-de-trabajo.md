@@ -1,13 +1,13 @@
 +++
 catalogo = "/catalogos/original-estaciones-de-trabajo.pdf"
 familias = ["Tecnología de Ensamble"]
-galeria = ["/v1567436814/CI_Workstation-BRL_ikmvpx.jpg"]
+galeria = ["/v1567437266/BRL-WS_ridzvc.jpg", "/v1567437266/ES-BRL_un3liv.jpg"]
 id = 113
 imagen = "/v1530797588/productos/original-estaciones-de-trabajo.jpg"
 industrias = ["Alimentos y Bebidas", "Dispositivos Médicos", "Biofarmacéuticos"]
 marcas = ["Rexroth"]
-meta_description = ""
-meta_keywords = ""
+meta_description = "Bosch Rexroth, BRL, item"
+meta_keywords = "Estaciones de trabajo personalizadas de Bosch Rexroth"
 taxonomyCover = false
 title = "Estaciones de Trabajo"
 weight = 113
