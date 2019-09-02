@@ -64,6 +64,7 @@ fields:
   label: Galería
   description: Imágenes adicionales para cada producto
 pages:
+- content/productos/estaciones-de-trabajo.md
 - content/productos/pall-genedisc-pcr.md
 - content/productos/bombas-sistemas-de-presion-constante-hyamat.md
 - content/productos/tuberia-en-aluminio-para-aire-comprimido-y-gases-inertes.md
@@ -131,7 +132,6 @@ pages:
 - content/productos/belzona.md
 - content/productos/laminados-libres-de-asbesto.md
 - content/productos/valvulas.md
-- content/productos/estaciones-de-trabajo.md
 - content/productos/flowfresh.md
 - content/productos/juntas-de-expansion-metalicas.md
 - content/productos/recubrimiento-de-tanques.md
