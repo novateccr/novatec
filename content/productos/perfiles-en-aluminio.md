@@ -9,7 +9,7 @@ marcas = ["Rexroth"]
 meta_description = "perfil en aluminio de Bosch Rexroth..."
 meta_keywords = "Perfil, Aluminio, Item, Rexroth"
 taxonomyCover = false
-title = "Perfiles en aluminio"
+title = "`"
 weight = 112
 
 +++
