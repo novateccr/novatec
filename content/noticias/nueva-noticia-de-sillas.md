@@ -1,6 +1,5 @@
 +++
 date = "2019-09-02T00:00:00-06:00"
-draft = true
 featured = false
 imagen_intro = "/v1566335606/flowfast-header-image-03_gcacza.jpg"
 tags = []
