@@ -1,7 +1,6 @@
 +++
 catalogo = ""
 categoria = ""
-draft = true
 familias = ["bombas"]
 galeria = ["/v1568048209/amarex-krt_dcmesq.png"]
 id = ""
