@@ -1,7 +1,7 @@
 +++
 catalogo = ""
 categoria = ""
-familias = ["bombas"]
+familias = ["Bombas"]
 galeria = ["/v1568048209/amarex-krt_dcmesq.png"]
 id = ""
 imagen = "/v1568048268/amarex-n_a6fgdk.png"
