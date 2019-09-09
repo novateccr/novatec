@@ -64,6 +64,7 @@ fields:
   label: Galería
   description: Imágenes adicionales para cada producto. Ancho mínimo 760px
 pages:
+- content/productos/calderas.md
 - content/productos/perfiles-en-aluminio.md
 - content/productos/estaciones-de-trabajo.md
 - content/productos/pall-genedisc-pcr.md
@@ -111,7 +112,6 @@ pages:
 - content/productos/cilindros.md
 - content/productos/centrifugas-sanitarias.md
 - content/productos/centrales-hidraulicas.md
-- content/productos/calderas.md
 - content/productos/bombas-sistemas-de-presion-constante.md
 - content/productos/bomba-positiva-de-engranajes-tipo-gr.md
 - content/productos/belzona-1111-super-metal.md
