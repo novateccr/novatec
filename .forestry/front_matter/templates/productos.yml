@@ -64,6 +64,7 @@ fields:
   label: Galería
   description: Imágenes adicionales para cada producto. Ancho mínimo 760px
 pages:
+- content/productos/bomba-para-aguas-servidas.md
 - content/productos/calderas.md
 - content/productos/perfiles-en-aluminio.md
 - content/productos/estaciones-de-trabajo.md
