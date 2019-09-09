@@ -10,7 +10,7 @@ marcas = ["KSB"]
 meta_description = "KSB ofrece soluciones integrales para aplicaciones de aguas servidas, tipo Amarex, KRT..."
 meta_keywords = "Flight, KRT, Amarex "
 taxonomyCover = false
-title = "Bomba para aguas servidas"
+title = "Bombas para aguas servidas"
 titulo = ""
 weight = ""
 
