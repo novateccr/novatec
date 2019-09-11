@@ -17,6 +17,6 @@ weight = 107
 
 Los sistemas en uretano presentan un coeficiente de expansión térmica similar a la del concreto. Esto ofrece excelentes beneficios en ambientes sujetos a cambios bruscos de temperatura y ciclos térmicos, ya que evita el agrietamiento del material cuando está sujeto a grandes oscilaciones de temperatura. </p>
 
-para mas informacion visite:
+Para más informacion  de HACCP visite:
 
-[https://es.flowcreteamericas.com/](https://es.flowcreteamericas.com/ "https://es.flowcreteamericas.com/")
+[https://es.flowcreteamericas.com/nuestros-productos/beneficios-del-producto/certificado-internacional-haccp/](https://es.flowcreteamericas.com/nuestros-productos/beneficios-del-producto/certificado-internacional-haccp/ "https://es.flowcreteamericas.com/nuestros-productos/beneficios-del-producto/certificado-internacional-haccp/")
