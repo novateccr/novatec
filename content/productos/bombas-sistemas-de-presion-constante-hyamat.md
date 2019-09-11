@@ -24,6 +24,12 @@ Sistema automático de agua a presión, con 2 a 6 bombas verticales y control va
 
 Regulación de presión en edificios residenciales, hospitales, edificios de oficinas, hoteles, centros comerciales, industria y otras aplicaciones.
 
-Descargar APP
+**Descargar APP**
+
+iphone:
 
 [https://apps.apple.com/us/app/ksb-select-compare/id1321997179](https://apps.apple.com/us/app/ksb-select-compare/id1321997179 "iphone")
+
+android
+
+[https://play.google.com/store/apps/details?id=com.ksb.movitec_comeo&hl=en](https://play.google.com/store/apps/details?id=com.ksb.movitec_comeo&hl=en "android") 
