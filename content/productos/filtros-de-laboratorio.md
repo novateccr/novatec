@@ -1,7 +1,7 @@
 +++
 catalogo = "/catalogos/original-filtros-de-laboratorio.pdf"
 familias = ["Filtros"]
-galeria = ["/v1568655518/Acrodisc_PALL_rxkzo2.jpg"]
+galeria = ["/v1568655681/Manifiold_PALL_bvuiid.jpg", "/v1568655518/Acrodisc_PALL_rxkzo2.jpg"]
 id = 12
 imagen = "/v1530797588/productos/original-filtros-de-laboratorio.png"
 industrias = ["Alimentos y Bebidas", "Energía", "Dispositivos Médicos", "Biofarmacéuticos", "Química", "Agrícola", "Ingenios", "Electrónica"]
