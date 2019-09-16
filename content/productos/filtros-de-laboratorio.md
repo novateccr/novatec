@@ -14,3 +14,5 @@ weight = 12
 
 +++
 <p>Microbiologia, Quimica Analitica, Cultivo Celular, Filtracion Esteril</p>
+
+    Somos un gran proveedor mundial de membranas y soluciones de filtración diseñadas para aplicaciones de laboratorio. Mantenemos vínculos estrechos con científicos, investigadores y técnicos de laboratorio de todo el mundo para garantizar que sus soluciones ofrezcan resultados precisos, escalabilidad, calificaciones impresionantes y una operación fácil de usar. Estamos orgullosos de contar con especialistas en aplicaciones de laboratorio para apoyar a los laboratorios de todo el mundo, ya sea en la industria privada, la academia o en el campo. Una amplia gama de tecnología avanzada de filtración y separación proporciona soluciones únicas y rentables para los desafíos de laboratorio y los requisitos de cumplimiento de seguridad.
