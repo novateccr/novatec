@@ -1,7 +1,6 @@
 +++
 catalogo = ""
 categoria = ""
-draft = true
 familias = ["Sellado"]
 galeria = ["/v1568654819/Rubber_Fab_mangueras_2_dq6qgs.jpg"]
 id = ""
