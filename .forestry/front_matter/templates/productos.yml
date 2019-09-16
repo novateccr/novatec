@@ -64,6 +64,7 @@ fields:
   label: Galería
   description: Imágenes adicionales para cada producto. Ancho mínimo 760px
 pages:
+- content/productos/mangueras-metalicas.md
 - content/productos/uretanos-cementicios.md
 - content/productos/bombas-sistemas-de-presion-constante-hyamat.md
 - content/productos/bomba-para-aguas-servidas.md
@@ -127,7 +128,6 @@ pages:
 - content/productos/carcazas-housing.md
 - content/productos/doble-diafragma.md
 - content/productos/juntas-de-expansion-elastomericas.md
-- content/productos/mangueras-metalicas.md
 - content/productos/aceite.md
 - content/productos/juntas-de-control.md
 - content/productos/belzona.md
