@@ -1,7 +1,7 @@
 +++
 catalogo = "/catalogos/original-filtros-de-laboratorio.pdf"
 familias = ["Filtros"]
-galeria = ["/v1568655292/PALL_LAB1_yvqdtu.jpg", "/v1568655279/PALL_LAB2_mgaruy.jpg", "/v1568655265/PALL_LAB3_ejzwl5.jpg", "/v1568655252/PALL_Acrodisc_le8ylm.jpg"]
+galeria = ["/v1568655518/Acrodisc_PALL_rxkzo2.jpg", "/v1568655279/PALL_LAB2_mgaruy.jpg", "/v1568655265/PALL_LAB3_ejzwl5.jpg", "/v1568655252/PALL_Acrodisc_le8ylm.jpg"]
 id = 12
 imagen = "/v1530797588/productos/original-filtros-de-laboratorio.png"
 industrias = ["Alimentos y Bebidas", "Energía", "Dispositivos Médicos", "Biofarmacéuticos", "Química", "Agrícola", "Ingenios", "Electrónica"]
