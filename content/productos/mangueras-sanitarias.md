@@ -2,7 +2,7 @@
 catalogo = ""
 categoria = ""
 familias = ["Sellado"]
-galeria = ["/v1568654819/Rubber_Fab_mangueras_2_dq6qgs.jpg"]
+galeria = ["/v1569023316/RFH_bbg5ys.jpg"]
 id = ""
 imagen = "/v1568654654/download_-_RubberFAB_cwtti3.jpg"
 industrias = []
