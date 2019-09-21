@@ -1,14 +1,15 @@
 +++
-title = "Mangueras Metalicas"
-id = 23
-marcas = ["Garlock","Macoga"]
-familias = ["Sellado"]
-industrias = ["Alimentos y Bebidas","Biofarmacéuticos"]
-imagen = "/v1530797588/productos/original-mangueras-metalicas.jpg"
 catalogo = "/catalogos/original-mangueras-metalicas.pdf"
-meta_description = ""
+familias = ["Sellado"]
+galeria = []
+id = 23
+imagen = "/v1530797588/productos/original-mangueras-metalicas.jpg"
+industrias = ["Alimentos y Bebidas", "Biofarmacéuticos"]
+marcas = ["Garlock", "Macoga"]
+meta_description = "Todo en mangueras metálicas, consultenos..."
 meta_keywords = ""
-weight = 23
-draft = false
 taxonomyCover = false
+title = "Mangueras Metalicas"
+weight = 23
+
 +++
