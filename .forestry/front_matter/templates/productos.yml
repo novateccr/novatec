@@ -64,6 +64,7 @@ fields:
   label: Galería
   description: Imágenes adicionales para cada producto. Ancho mínimo 760px
 pages:
+- content/productos/elementos-cartuchos.md
 - content/productos/mangueras-sanitarias.md
 - content/productos/filtros-de-laboratorio.md
 - content/productos/mangueras-metalicas.md
@@ -109,7 +110,6 @@ pages:
 - content/productos/filtro-regulado-lubricador-frl.md
 - content/productos/empaquetadura-de-compresion.md
 - content/productos/empaques-espirometalicos-rwi-rw-sw.md
-- content/productos/elementos-cartuchos.md
 - content/productos/doble-diafragma-sanitarias.md
 - content/productos/descargadores.md
 - content/productos/cilindros.md
