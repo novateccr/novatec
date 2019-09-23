@@ -2,7 +2,7 @@
 catalogo = ""
 categoria = ""
 familias = ["Sellado"]
-galeria = ["/v1569024978/RFH_djgvot.jpg"]
+galeria = ["/v1569261885/JFG_h4mapy.jpg"]
 id = ""
 imagen = "/v1568654654/download_-_RubberFAB_cwtti3.jpg"
 industrias = []

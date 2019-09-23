@@ -64,8 +64,8 @@ fields:
   label: Galería
   description: Imágenes adicionales para cada producto. Ancho mínimo 760px
 pages:
-- content/productos/elementos-cartuchos.md
 - content/productos/mangueras-sanitarias.md
+- content/productos/elementos-cartuchos.md
 - content/productos/filtros-de-laboratorio.md
 - content/productos/mangueras-metalicas.md
 - content/productos/uretanos-cementicios.md
