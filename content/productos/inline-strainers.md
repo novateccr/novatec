@@ -1,10 +1,11 @@
 +++
 catalogo = ""
 categoria = ""
+draft = true
 familias = ["Filtros"]
-galeria = ["/v1569268928/Inline_Strainer_Cutaway.jpg_p2jwal.jpg"]
+galeria = []
 id = ""
-imagen = "/v1569268903/Inline_Strainer_Small.jpg_dcc2db.jpg"
+imagen = ""
 industrias = []
 marcas = ["Rubber Fab"]
 meta_description = "Strainers en linea... "
