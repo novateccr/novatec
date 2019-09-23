@@ -2,7 +2,7 @@
 catalogo = ""
 categoria = ""
 familias = ["Sellado"]
-galeria = ["/v1569263278/Hoses_sz93ud.jpg"]
+galeria = ["/v1569268713/RF-FabHosecutaway_zupced.jpg", "/v1569263278/Hoses_sz93ud.jpg"]
 id = ""
 imagen = "/v1569263425/hosepage_prnm8v.jpg"
 industrias = []
