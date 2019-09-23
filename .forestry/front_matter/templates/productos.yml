@@ -64,6 +64,7 @@ fields:
   label: Galería
   description: Imágenes adicionales para cada producto. Ancho mínimo 760px
 pages:
+- content/productos/empaque-triclamp.md
 - content/productos/mangueras-sanitarias.md
 - content/productos/elementos-cartuchos.md
 - content/productos/filtros-de-laboratorio.md
@@ -123,7 +124,6 @@ pages:
 - content/productos/empaques-para-calderas-cleaver-brooks.md
 - content/productos/bobas-para-agua.md
 - content/productos/bomba-sumergible.md
-- content/productos/empaque-triclamp.md
 - content/productos/actuadores-sistemas-de-automatizacion-de-valvulas-automax.md
 - content/productos/vacio.md
 - content/productos/carcazas-housing.md

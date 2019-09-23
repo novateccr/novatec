@@ -1,7 +1,7 @@
 +++
 catalogo = "/catalogos/original-empaque-triclamp.pdf"
 familias = ["Sellado"]
-galeria = ["/v1562371569/Rubber%20Fab%20-%20Tuf-Flex.jpg", "/v1562371505/Rubber%20Fab%20-%20TC.jpg"]
+galeria = ["/v1569268289/tufflex_2_qrpsln.jpg"]
 id = 21
 imagen = "/v1530797588/productos/original-empaque-triclamp.jpg"
 industrias = ["Alimentos y Bebidas", "Dispositivos Médicos", "Biofarmacéuticos", "Química"]
