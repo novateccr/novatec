@@ -64,6 +64,7 @@ fields:
   label: Galería
   description: Imágenes adicionales para cada producto. Ancho mínimo 760px
 pages:
+- content/productos/inline-strainers.md
 - content/productos/mangueras-sanitarias.md
 - content/productos/empaque-triclamp.md
 - content/productos/elementos-cartuchos.md
