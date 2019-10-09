@@ -64,8 +64,8 @@ fields:
   label: Galería
   description: Imágenes adicionales para cada producto. Ancho mínimo 760px
 pages:
-- content/productos/bombas-dosificadoras.md
 - content/productos/juntas-de-expansion-elastomericas.md
+- content/productos/bombas-dosificadoras.md
 - content/productos/inline-strainers.md
 - content/productos/mangueras-sanitarias.md
 - content/productos/empaque-triclamp.md

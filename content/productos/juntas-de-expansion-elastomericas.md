@@ -15,4 +15,4 @@ weight = 55
 +++
 Las juntas de expansión de Garlock ofrecen un rendimiento, confiabilidad y vida útil superiores, lo que resulta en una mayor seguridad de la planta y una mayor integridad mecánica del equipo. Como productos diseñados específicamente que se insertan en un sistema de tuberías rígidas, las juntas de expansión de goma.
 
-ir a: pagina de [Garlcok](www.garlock.com/en/products/rubber-expansion-joints "juntas de expansion ")
+ir a: pagina de [Garlcok](www.garlock.com/en/products/rubber-expansion-joints/ "juntas de expansion ")
