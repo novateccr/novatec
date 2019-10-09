@@ -64,6 +64,7 @@ fields:
   label: Galería
   description: Imágenes adicionales para cada producto. Ancho mínimo 760px
 pages:
+- content/productos/bombas-dosificadoras.md
 - content/productos/juntas-de-expansion-elastomericas.md
 - content/productos/inline-strainers.md
 - content/productos/mangueras-sanitarias.md
@@ -88,7 +89,6 @@ pages:
 - content/productos/mezcaldor-de-polvos.md
 - content/productos/bombas-fds-doble-tornillo.md
 - content/productos/laminas-trespa.md
-- content/productos/bombas-dosificadoras.md
 - content/productos/desplazamiento-positivo.md
 - content/productos/valvulas-de-globo-compuerta-y-check-edward.md
 - content/productos/valvulas-de-control-sanitarias-kammer.md
