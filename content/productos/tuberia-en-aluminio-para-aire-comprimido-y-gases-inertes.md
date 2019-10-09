@@ -25,10 +25,10 @@ La **ausencia de óxido y contaminantes** proporciona una protección duradera d
 
 **Links de interes**
 
-**ir a :** [**Literatura**](http://promo.parker.com/promotionsite/transair/us/en/video-library "Parker")  
+**ir a:** [**Literatura**](http://promo.parker.com/promotionsite/transair/us/en/video-library "Parker")  
 \- Case Studies  
-\- Calculadores (Versión Computadora)
+\- Calculadora (Versión Computadora)
 
-**ir a:** [**Videos e instrucciones Parker Transair**](http://promo.parker.com/promotionsite/transair/us/en/video-library "Parker")
+**ir a pagina web:** [**Videos e instrucciones Parker Transair**](http://promo.parker.com/promotionsite/transair/us/en/video-library "Parker")
 
-[**Dibujos en CAD 2D y 3D**](http://promo.parker.com/promotionsite/transair/us/en/engineering-tools "Parker")
+**ir a libreria de:** [**Dibujos en CAD 2D y 3D**](http://promo.parker.com/promotionsite/transair/us/en/engineering-tools "Parker")
