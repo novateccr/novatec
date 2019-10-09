@@ -64,6 +64,7 @@ fields:
   label: Galería
   description: Imágenes adicionales para cada producto. Ancho mínimo 760px
 pages:
+- content/productos/tuberia-en-aluminio-para-aire-comprimido-y-gases-inertes.md
 - content/productos/juntas-de-expansion-elastomericas.md
 - content/productos/bombas-dosificadoras.md
 - content/productos/inline-strainers.md
@@ -79,7 +80,6 @@ pages:
 - content/productos/perfiles-en-aluminio.md
 - content/productos/estaciones-de-trabajo.md
 - content/productos/pall-genedisc-pcr.md
-- content/productos/tuberia-en-aluminio-para-aire-comprimido-y-gases-inertes.md
 - content/productos/flowfast-sistema-de-rápida-curación.md
 - content/productos/deckshield-sistema-de-cubiertas-parqueos.md
 - content/productos/epoxicos.md
