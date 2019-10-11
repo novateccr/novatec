@@ -1,7 +1,6 @@
 +++
 catalogo = ""
 categoria = ""
-draft = true
 familias = []
 galeria = ["/v1570828976/valvula_hera-sa_naujdv.png"]
 id = ""
