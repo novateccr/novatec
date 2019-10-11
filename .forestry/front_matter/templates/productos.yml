@@ -64,6 +64,7 @@ fields:
   label: Galería
   description: Imágenes adicionales para cada producto. Ancho mínimo 760px
 pages:
+- content/productos/valvulas-ksb-de-guillotina-tipo-era-sh.md
 - content/productos/juntas-de-expansion-metalicas.md
 - content/productos/tuberia-en-aluminio-para-aire-comprimido-y-gases-inertes.md
 - content/productos/juntas-de-expansion-elastomericas.md
