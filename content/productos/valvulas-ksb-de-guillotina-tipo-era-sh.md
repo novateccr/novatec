@@ -1,7 +1,7 @@
 +++
 catalogo = ""
 categoria = ""
-familias = []
+familias = ["valvulas"]
 galeria = ["/v1570828976/valvula_hera-sa_naujdv.png"]
 id = ""
 imagen = "/v1570828976/valvula_hera-sa_naujdv.png"
@@ -10,7 +10,7 @@ marcas = ["KSB"]
 meta_description = "Valvula de guillotina "
 meta_keywords = "ERA SH"
 taxonomyCover = false
-title = "Valvulas KSB de Guillotina tipo ERA SH"
+title = "Válvulas KSB de Guillotina tipo ERA SH"
 titulo = ""
 weight = ""
 
