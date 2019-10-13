@@ -26,12 +26,6 @@
             {{ partial "marca-logo.html" . }}
           </div>
         {{ end }}
-        <div class="marca-tags">
-          {{ if .Params.industrias }}
-            <strong>Industria{{ if gt (len .Params.industrias) 1 }}s{{ end }}:</strong>
-            {{ range $index, $industria := .Params.industrias }}{{ if gt $index 0 }}, {{ end }}<a href="{{ "industrias/" | relURL }}{{ . | urlize }}">{{ . }}</a>{{ end }}
-          {{ end }}
-        </div>
         {{ partial "contact-form.html" (dict "producto" .Title ) }}
       </section>
     </div>
