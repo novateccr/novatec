@@ -2,9 +2,9 @@
 catalogo = ""
 categoria = ""
 familias = ["Sellado"]
-galeria = ["/v1569024978/RFH_djgvot.jpg"]
+galeria = ["/v1569268713/RF-FabHosecutaway_zupced.jpg", "/v1569263278/Hoses_sz93ud.jpg"]
 id = ""
-imagen = "/v1568654654/download_-_RubberFAB_cwtti3.jpg"
+imagen = "/v1569263425/hosepage_prnm8v.jpg"
 industrias = []
 marcas = ["Rubber Fab"]
 meta_description = "Todo en mangueras sanitarias... "

@@ -2,7 +2,7 @@
 catalogo = "/catalogos/original-tuberia-en-aluminio-para-aire-comprimido-y-gases-inertes.pdf"
 categoria = ""
 familias = ["Redes y tratamiento de Aire Comprimido"]
-galeria = []
+galeria = ["/v1570655077/Four_Transair_fittings_with_pipe_ue2bje.jpg", "/v1570655013/fitting_and_pipe_image_amx1ac.jpg"]
 id = 28
 imagen = "/v1530797588/productos/original-tuberia-en-aluminio-para-aire-comprimido-y-gases-inertes.png"
 industrias = ["Alimentos y Bebidas", "Energía", "Dispositivos Médicos", "Industria Pesada", "Biofarmacéuticos", "Química", "Agrícola", "Ingenios", "Comercial - Construcción", "Electrónica"]
@@ -25,10 +25,10 @@ La **ausencia de óxido y contaminantes** proporciona una protección duradera d
 
 **Links de interes**
 
-**ir a :** [**Literatura**](http://promo.parker.com/promotionsite/transair/us/en/video-library "Parker")  
+**ir a:** [**Literatura**](http://promo.parker.com/promotionsite/transair/us/en/video-library "Parker")  
 \- Case Studies  
-\- Calculadores (Versión Computadora)
+\- Calculadora (Versión Computadora)
 
-**ir a:** [**Videos e instrucciones Parker Transair**](http://promo.parker.com/promotionsite/transair/us/en/video-library "Parker")
+**ir a pagina web:** [**Videos e instrucciones Parker Transair**](http://promo.parker.com/promotionsite/transair/us/en/video-library "Parker")
 
-[**Dibujos en CAD 2D y 3D**](http://promo.parker.com/promotionsite/transair/us/en/engineering-tools "Parker")
+**ir a libreria de:** [**Dibujos en CAD 2D y 3D**](http://promo.parker.com/promotionsite/transair/us/en/engineering-tools "Parker")
