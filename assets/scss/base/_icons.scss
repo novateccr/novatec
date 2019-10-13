@@ -11,6 +11,11 @@
   width: 8px;
   height: 8px;
   fill: #47535d;
+  display: none;
+
+  @include grid-media($tablet-grid) {
+    display: inline-block;
+  }
 }
 
 .first-level-link:hover > .caret {
