@@ -1,15 +1,5 @@
-<!DOCTYPE html>
-<html lang="{{ .Site.LanguageCode }}">
-<head>
-  <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <script src="/11a79f3edd.js"></script>
-  <link rel="stylesheet" type="text/css" href="/site.css">
-</head>
-<body translate="no">
-  {{ partial "header.html" . }}
-  <main id="main">
+{{ define "main" }}
+
     {{ partial "page-title.html" . }}
     <div class="container">
       <section id="industrias-block">
@@ -69,8 +59,6 @@
           {{ end }}
         </ul>
       </nav>
-    </div>
-  </main>
-  {{ partial "footer.html" . }}
-  {{ block "scripts" .}}{{ end }}
-</body>
+
+
+{{ end }}
