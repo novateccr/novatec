@@ -52,7 +52,7 @@ exports.handler = async (event, context, callback) => {
   try {
     const response = await axios.post("https://api.getresponse.com/v3/contacts", data, options);
     console.log("SUCCESS!!!!!")
-    return { statusCode: 200, body: response.statusText };
+    return { statusCode: 200, body: JSON.stringify({response: response.statusText}) };
   } catch (error) {
     console.log("FAIL!!!!!");
     console.error(error);
