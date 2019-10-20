@@ -58,7 +58,7 @@ exports.handler = async (event, context, callback) => {
     };
   } catch (error) {
     const errorData = error.response.data;
-    // console.log(errorData);
+    console.log(errorData);
     return ({
       "statusCode": errorData.httpStatus,
       body: errorData.message
