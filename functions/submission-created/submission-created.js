@@ -9,7 +9,8 @@ const lists = [
 ];
 
 exports.handler = async (event, context, callback) => {
-  console.log({ event: event.body.payload });
+  const test = JSON.parse(event.body).payload;
+  console.log({ test });
   const { nombre, email, tel, empresa } = JSON.parse(event.body);
   const data = {
     name: nombre,
