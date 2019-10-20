@@ -34,11 +34,11 @@ const formatData = ({ name, email, campaignId, phone, company }) =>
       }
     ]
   });
-exports.handler = async event => {
-  console.log({event})
-  const data = JSON.parse(event.body)
+exports.handler = async (event, context, callback) => {
+  console.log({ event });
+  const data = JSON.parse(event.body);
   const { nombre, email, tel, empresa } = data;
-  console.log(`Recieved a submission: ${email}`)
+  console.log(`Recieved a submission: ${email}`);
   return fetch(apiEndpoint, {
     method: "POST",
     headers: {
@@ -55,7 +55,9 @@ exports.handler = async event => {
   })
     .then(response => response.json())
     .then(data => {
-      console.log(`Submitted to getresponse:\n ${JSON.stringify(data,null,2)}`);
+      console.log(
+        `Submitted to getresponse:\n ${JSON.stringify(data, null, 2)}`
+      );
     })
     .catch(error => ({ statusCode: 422, body: String(error) }));
-}
+};
