@@ -18,7 +18,6 @@
     "import-marcas": "ruby import/genmarcas.rb",
     "index": "hugo-lunr -i \"content/subdir/**\" -o public/my-index.json",
     "zip": "cd functions/submission-created && npm install && zip -r submission-created.zip *",
-    "postzip": "mv functions/submission-created/submission-created.zip functions-build",
    "prebuild": "npm run clean && npm run zip"
   },
   "devDependencies": {
