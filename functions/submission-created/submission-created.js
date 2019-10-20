@@ -1,10 +1,8 @@
 /* eslint-disable */
 // require('dotenv').config()
 
-// // details in https://css-tricks.com/using-netlify-forms-and-netlify-functions-to-build-an-email-sign-up-widget
-const fetch = require("node-fetch").default;
+const https = require("https");
 const { GET_RESPONSE_TOKEN } = process.env;
-const apiEndpoint = `https://api.getresponse.com/v3/contacts`;
 const lists = [
   {
     name: `novatec_industial_web_products_req`,
@@ -34,30 +32,39 @@ const formatData = ({ name, email, campaignId, phone, company }) =>
       }
     ]
   });
+
 exports.handler = async (event, context, callback) => {
-  console.log({ event });
-  const data = JSON.parse(event.body);
-  const { nombre, email, tel, empresa } = data;
-  console.log(`Recieved a submission: ${email}`);
-  return fetch(apiEndpoint, {
+  const { nombre, email, tel, empresa } = JSON.parse(event.body);
+  const data = formatData({
+    name: nombre,
+    email,
+    campaignId: lists[0].token,
+    phone: tel,
+    company: empresa
+  });
+
+  const options = {
+    hostname: "api.getresponse.com",
+    path: "/v3/contacts",
     method: "POST",
     headers: {
-      "X-Auth-Token": `api-key ${GET_RESPONSE_TOKEN}`,
-      "Content-Type": "application/json"
-    },
-    body: formatData({
-      name: nombre,
-      email,
-      campaignId: lists[0].token,
-      phone: tel,
-      company: empresa
-    })
-  })
-    .then(response => response.json())
-    .then(data => {
-      console.log(
-        `Submitted to getresponse:\n ${JSON.stringify(data, null, 2)}`
-      );
-    })
-    .catch(error => ({ statusCode: 422, body: String(error) }));
+      "Content-Type": "application/json",
+      "X-Auth-Token": `api-key ${GET_RESPONSE_TOKEN}`
+    }
+  };
+
+  const req = https.request(options, res => {
+    console.log(`statusCode: ${res.statusCode}`);
+
+    res.on("data", d => {
+      process.stdout.write(d);
+    });
+  });
+
+  req.on("error", error => {
+    console.error(error);
+  });
+
+  req.write(data);
+  req.end();
 };
