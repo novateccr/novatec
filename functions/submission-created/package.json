@@ -15,6 +15,7 @@
   "license": "MIT",
   "dependencies": {
     "dotenv": "^8.2.0",
+    "encoding": "^0.1.12",
     "node-fetch": "^2.3.0"
   }
 }

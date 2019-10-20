@@ -16,8 +16,7 @@
     "drafts": "npm run clean && npm run sass:build && npm run babel:build | npm run sass:watch | npm run babel:watch | hugo serve -D --bind 0.0.0.0",
     "import": "ruby import/genfiles.rb && ruby import/gennc.rb",
     "import-marcas": "ruby import/genmarcas.rb",
-    "index": "hugo-lunr -i \"content/subdir/**\" -o public/my-index.json",
-    "postinstall": "netlify-lambda install"
+    "index": "hugo-lunr -i \"content/subdir/**\" -o public/my-index.json"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
@@ -30,7 +29,6 @@
   },
   "dependencies": {
     "daemon": "github:zipang/daemon.node#48d0977c26fb3a6a44ae99aae3471b9d5a761085",
-    "imagemin": "^5.3.1",
-    "netlify-lambda": "^1.6.3"
+    "imagemin": "^5.3.1"
   }
 }
