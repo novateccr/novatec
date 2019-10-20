@@ -7,28 +7,6 @@ const lists = [
     id: `166811701`
   }
 ];
-// const formatData = ({ name, email, campaignId, phone, company }) =>
-//   {
-//     name,
-//     email,
-//     "campaign": {
-//       campaignId: campaignId
-//     },
-//     customFieldValues: [
-//       {
-//         customFieldId: "Vjnecm",
-//         value: [phone]
-//       },
-//       {
-//         customFieldId: "VjnJhw",
-//         value: [company]
-//       },
-//       {
-//         customFieldId: "VP4wqx",
-//         value: ["Website"]
-//       }
-//     ]
-//   };
 
 exports.handler = async (event, context, callback) => {
   const { nombre, email, tel, empresa } = JSON.parse(event.body);
@@ -36,7 +14,7 @@ exports.handler = async (event, context, callback) => {
     name: nombre,
     email,
     campaign: {
-      campaignId: lists[0].token,
+      campaignId: lists[0].token
     },
     phone: tel,
     company: empresa
@@ -50,12 +28,19 @@ exports.handler = async (event, context, callback) => {
   };
 
   try {
-    const response = await axios.post("https://api.getresponse.com/v3/contacts", data, options);
-    console.log("SUCCESS!!!!!")
-    return { statusCode: 200, body: JSON.stringify({response: response.statusText}) };
+    const response = await axios.post(
+      "https://api.getresponse.com/v3/contacts",
+      data,
+      options
+    );
+    console.log("SUCCESS!!!!!");
+    return {
+      statusCode: 200,
+      body: JSON.stringify({ response: response.statusText })
+    };
   } catch (error) {
     console.log("FAIL!!!!!");
     console.error(error);
-    return JSON.stringify({ error: error });
+    return { error: JSON.stringify(error) };
   }
 };
