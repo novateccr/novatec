@@ -17,7 +17,8 @@
     "import": "ruby import/genfiles.rb && ruby import/gennc.rb",
     "import-marcas": "ruby import/genmarcas.rb",
     "index": "hugo-lunr -i \"content/subdir/**\" -o public/my-index.json",
-    "test-getresponse": "netlify functions:invoke getresponse --no-identity --payload '{\"nombre\": \"Guayo Mena\",\"email\":\"guayo.pr@gmail.com\",\"tel\":\"+50678789999\",\"empresa\":\"Parsley Health\"}'"
+    "test-getresponse": "netlify functions:invoke getresponse --no-identity --payload '{\"nombre\": \"Guayo Mena\",\"email\":\"guayo.pr@gmail.com\",\"tel\":\"+50678789999\",\"empresa\":\"Parsley Health\"}'",
+    "postinstall": "netlify-lambda install"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
@@ -30,6 +31,7 @@
   },
   "dependencies": {
     "daemon": "github:zipang/daemon.node#48d0977c26fb3a6a44ae99aae3471b9d5a761085",
-    "imagemin": "^5.3.1"
+    "imagemin": "^5.3.1",
+    "netlify-lambda": "^1.6.3"
   }
 }
