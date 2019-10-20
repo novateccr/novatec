@@ -2,7 +2,7 @@
 // require('dotenv').config()
 
 // // details in https://css-tricks.com/using-netlify-forms-and-netlify-functions-to-build-an-email-sign-up-widget
-const fetch = require('node-fetch')
+const fetch = require("node-fetch").default;
 const { GET_RESPONSE_TOKEN } = process.env;
 const apiEndpoint = `https://api.getresponse.com/v3/contacts`;
 const lists = [
