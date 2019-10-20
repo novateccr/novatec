@@ -16,7 +16,8 @@
     "drafts": "npm run clean && npm run sass:build && npm run babel:build | npm run sass:watch | npm run babel:watch | hugo serve -D --bind 0.0.0.0",
     "import": "ruby import/genfiles.rb && ruby import/gennc.rb",
     "import-marcas": "ruby import/genmarcas.rb",
-    "index": "hugo-lunr -i \"content/subdir/**\" -o public/my-index.json"
+    "index": "hugo-lunr -i \"content/subdir/**\" -o public/my-index.json",
+    "postinstall": "cd functions/submission-created && npm install"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
