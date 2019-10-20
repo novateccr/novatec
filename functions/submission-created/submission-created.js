@@ -16,9 +16,27 @@ exports.handler = async (event, context, callback) => {
     campaign: {
       campaignId: lists[0].token
     },
-    phone: tel,
-    company: empresa
+    customFieldValues: [
+      {
+        customFieldId: "VP4wqx",
+        value: ["Website"]
+      }
+    ]
   };
+
+  if (tel) {
+    data.customFieldValues.push({
+      customFieldId: "Vjnecm",
+      value: [tel]
+    });
+  }
+
+  if (empresa) {
+    data.customFieldValues.push({
+      customFieldId: "VjnJhw",
+      value: [empresa]
+    });
+  }
 
   const options = {
     headers: {
@@ -39,8 +57,11 @@ exports.handler = async (event, context, callback) => {
       body: JSON.stringify({ response: response.statusText })
     };
   } catch (error) {
-    console.log("FAIL!!!!!");
-    console.error(error);
-    return { error: JSON.stringify(error) };
+    const errorData = error.response.data;
+    // console.log(errorData);
+    return ({
+      "statusCode": errorData.httpStatus,
+      body: errorData.message
+    });
   }
 };
