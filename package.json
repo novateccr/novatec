@@ -12,11 +12,12 @@
     "sass:build": "node-sass assets/scss/main.scss static/site.css --output-style compressed",
     "build:assets": "npm run clean && npm run sass:build && npm run babel:build && npm run babel:minify",
     "build": "npm run build:assets && hugo && node critical.js",
-    "start": "npm run clean && npm run sass:build && npm run babel:build | npm run sass:watch | npm run babel:watch | hugo serve",
+    "start": "npm run clean && npm run sass:build && npm run babel:build | npm run sass:watch | npm run babel:watch | hugo serve -D --bind 0.0.0.0",
     "drafts": "npm run clean && npm run sass:build && npm run babel:build | npm run sass:watch | npm run babel:watch | hugo serve -D --bind 0.0.0.0",
     "import": "ruby import/genfiles.rb && ruby import/gennc.rb",
     "import-marcas": "ruby import/genmarcas.rb",
-    "index": "hugo-lunr -i \"content/subdir/**\" -o public/my-index.json"
+    "index": "hugo-lunr -i \"content/subdir/**\" -o public/my-index.json",
+    "test-getresponse": "netlify functions:invoke getresponse --no-identity --payload '{\"nombre\": \"Guayo Mena\",\"email\":\"guayo.pr@gmail.com\",\"tel\":\"+50678789999\",\"empresa\":\"Parsley Health\"}'"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",

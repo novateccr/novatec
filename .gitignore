@@ -3,3 +3,7 @@ public
 static/*.css
 static/*.js
 static/*.js.map
+.env
+
+# Local Netlify folder
+.netlify
