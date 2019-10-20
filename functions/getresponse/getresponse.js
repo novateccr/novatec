@@ -27,11 +27,17 @@ const formatData = ({ name, email, campaignId, phone, company }) =>
       {
         customFieldId: "VjnJhw",
         value: [company]
+      },
+      {
+        customFieldId: "VP4wqx",
+        value: ["Website"]
       }
     ]
   });
 exports.handler = async event => {
-  const { nombre, email, tel, empresa } = JSON.parse(event.body).payload
+  console.log({event})
+  const data = JSON.parse(event.body)
+  const { nombre, email, tel, empresa } = data;
   console.log(`Recieved a submission: ${email}`)
   return fetch(apiEndpoint, {
     method: "POST",
@@ -39,11 +45,17 @@ exports.handler = async event => {
       "X-Auth-Token": `api-key ${GET_RESPONSE_TOKEN}`,
       "Content-Type": "application/json"
     },
-    body: formatData({ name: nombre, email, campaignId: lists[0].token, phone: tel, company: empresa })
+    body: formatData({
+      name: nombre,
+      email,
+      campaignId: lists[0].token,
+      phone: tel,
+      company: empresa
+    })
   })
     .then(response => response.json())
     .then(data => {
-      console.log(`Submitted to Get response:\n ${data}`);
+      console.log(`Submitted to getresponse:\n ${JSON.stringify(data,null,2)}`);
     })
     .catch(error => ({ statusCode: 422, body: String(error) }));
 }
