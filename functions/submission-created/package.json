@@ -14,8 +14,6 @@
   "author": "Netlify",
   "license": "MIT",
   "dependencies": {
-    "dotenv": "^8.2.0",
-    "encoding": "^0.1.12",
     "https": "^1.0.0"
   }
 }
