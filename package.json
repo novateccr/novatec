@@ -17,7 +17,6 @@
     "import": "ruby import/genfiles.rb && ruby import/gennc.rb",
     "import-marcas": "ruby import/genmarcas.rb",
     "index": "hugo-lunr -i \"content/subdir/**\" -o public/my-index.json",
-    "test-getresponse": "netlify functions:invoke getresponse --no-identity --payload '{\"nombre\": \"Guayo Mena\",\"email\":\"guayo.pr@gmail.com\",\"tel\":\"+50678789999\",\"empresa\":\"Parsley Health\"}'",
     "postinstall": "netlify-lambda install"
   },
   "devDependencies": {
