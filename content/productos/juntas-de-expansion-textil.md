@@ -13,4 +13,4 @@ title = "Juntas de Expansión Textil"
 weight = 58
 
 +++
-Juntas de Expansion Textil  
+Juntas de Expansión Textil  una o múltiples capas...
