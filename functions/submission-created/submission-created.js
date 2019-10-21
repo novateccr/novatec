@@ -7,6 +7,7 @@ const lists = {
 
 exports.handler = async (event, context, callback) => {
   const { nombre, email, tel, empresa, form } = JSON.parse(event.body).payload.data;
+  console.log({ data: JSON.parse(event.body).payload });
   console.log({ campaign: lists[form] });
   const data = {
     name: nombre,
