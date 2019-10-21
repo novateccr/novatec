@@ -1,20 +1,18 @@
 const axios = require("axios");
 const { GET_RESPONSE_TOKEN } = process.env;
-const lists = [
-  {
-    name: `novatec_industial_web_products_req`,
-    token: `KqbZ5`,
-    id: `166811701`
-  }
-];
+const lists = {
+  novatec_industial_web_products_req: "KqbZ5",
+  novatec_industrial_boletin: "KqbQF"
+};
 
 exports.handler = async (event, context, callback) => {
-  const { nombre, email, tel, empresa } = JSON.parse(event.body).payload.data;
+  const { nombre, email, tel, empresa, form } = JSON.parse(event.body).payload.data;
+  console.log({ campaign: lists[form] });
   const data = {
     name: nombre,
     email,
     campaign: {
-      campaignId: lists[0].token
+      campaignId: lists[form]
     },
     customFieldValues: [
       {
