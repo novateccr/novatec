@@ -6,7 +6,7 @@ const lists = {
 };
 
 exports.handler = async (event, context, callback) => {
-  const { nombre, email, tel, empresa, form } = JSON.parse(event.body).payload.data;
+  const { nombre, email, empresa, form } = JSON.parse(event.body).payload.data;
   console.log({ data: JSON.parse(event.body).payload });
   console.log({ campaign: lists[form] });
   const data = {
@@ -23,12 +23,13 @@ exports.handler = async (event, context, callback) => {
     ]
   };
 
-  if (tel) {
-    data.customFieldValues.push({
-      customFieldId: "Vjnecm",
-      value: [tel]
-    });
-  }
+  // TODO: Validate phone number field before using it here
+  // if (tel) {
+  //   data.customFieldValues.push({
+  //     customFieldId: "Vjnecm",
+  //     value: [tel]
+  //   });
+  // }
 
   if (empresa) {
     data.customFieldValues.push({
