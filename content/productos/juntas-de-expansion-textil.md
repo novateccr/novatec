@@ -1,14 +1,15 @@
 +++
-title = "Juntas de Expansión Textil"
-id = 58
-marcas = ["Eagleburgmann"]
-familias = ["Sellado"]
-industrias = ["Alimentos y Bebidas","Energía","Industria Pesada","Química","Ingenios"]
-imagen = "/v1530797588/productos/original-juntas-de-expansion-textil.jpg"
 catalogo = "/catalogos/original-juntas-de-expansion-textil.pdf"
+familias = ["Sellado"]
+galeria = ["/v1571676230/EBI_-_Expansion_Joint_t0x3du.jpg"]
+id = 58
+imagen = "/v1530797588/productos/original-juntas-de-expansion-textil.jpg"
+industrias = ["Alimentos y Bebidas", "Energía", "Industria Pesada", "Química", "Ingenios"]
+marcas = ["Eagleburgmann"]
 meta_description = ""
 meta_keywords = ""
-weight = 58
-draft = false
 taxonomyCover = false
+title = "Juntas de Expansión Textil"
+weight = 58
+
 +++
