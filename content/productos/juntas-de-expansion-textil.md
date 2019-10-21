@@ -13,4 +13,4 @@ title = "Juntas de Expansión Textil"
 weight = 58
 
 +++
-Juntas de expansion Textil  
+Juntas de Expansion Textil  
