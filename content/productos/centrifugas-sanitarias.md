@@ -9,7 +9,7 @@ marcas = ["Fristam"]
 meta_description = ""
 meta_keywords = ""
 taxonomyCover = false
-title = "Centrífugas Sanitarias"
+title = "Bombas Centrífugas Sanitarias"
 weight = 1
 
 +++
