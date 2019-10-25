@@ -10,7 +10,7 @@ marcas = ["KSB"]
 meta_description = "Todo en bombas centrífugas, especialistas en bombas, especialistas en sistemas de bombeo"
 meta_keywords = "bombas centrifugas, megachem, meganorm, megacpk, hydrobloc"
 taxonomyCover = false
-title = "Centrifugas"
+title = "Bombas Centrifugas"
 titulo = ""
 weight = 7
 

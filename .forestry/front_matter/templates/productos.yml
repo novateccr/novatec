@@ -73,7 +73,6 @@ pages:
 - content/productos/mezcaldor-de-polvos.md
 - content/productos/centrifugas-ansi.md
 - content/productos/centrifugas-api.md
-- content/productos/centrifugas.md
 - content/productos/epoxicos.md
 - content/productos/juntas-de-expansion-metalicas.md
 - content/productos/mangueras-sanitarias.md
@@ -136,6 +135,7 @@ pages:
 - content/productos/lineas-de-demarcacion.md
 - content/productos/valvulas.md
 - content/productos/belzona.md
+- content/productos/centrifugas.md
 - content/productos/juntas-de-control.md
 - content/productos/aceite.md
 - content/productos/doble-diafragma.md
