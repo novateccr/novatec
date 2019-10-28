@@ -64,7 +64,6 @@ fields:
   label: Galería
   description: Imágenes adicionales para cada producto. Ancho mínimo 760px
 pages:
-- content/productos/uretanos-cementicios.md
 - content/productos/elementos-cartuchos.md
 - content/productos/bombas-dosificadoras.md
 - content/productos/juntas-de-expansion-elastomericas.md
@@ -131,6 +130,7 @@ pages:
 - content/productos/laminados-libres-de-asbesto.md
 - content/productos/recubrimiento-de-tanques.md
 - content/productos/retendores.md
+- content/productos/uretanos-cementicios.md
 - content/productos/epoxicos.md
 - content/productos/lineas-de-demarcacion.md
 - content/productos/valvulas.md
