@@ -9,7 +9,7 @@ marcas = ["Fristam"]
 meta_description = "bomba positiva Fristam de doble tornillo tipo FDS"
 meta_keywords = "doble screw pump, doble tornillo"
 taxonomyCover = false
-title = "Bombas FDS Doble Tornillo"
+title = "Bombas Sanitarias de Doble Tornillo"
 weight = 140
 
 +++
