@@ -6,7 +6,7 @@ link: http://es.flowcreteamericas.com
 catalogo: ''
 meta_keywords: Todo en Pisos y recubrimientos, epoxicos no os, uretanos cementicios,
   terrazo epoxcio
-meta_description: ''
+meta_description: Flowcrete, flowfresh
 weight: "17"
 menu:
   principal:
