@@ -2,7 +2,7 @@
 title: 'Euclid Chemical '
 id: "1"
 logo: "/v1530089074/logos/16761c81091f92d0be90d3a431922cdd-EGCA.png"
-link: ''
+link: https://www.euclidchemical.com/
 catalogo: ''
 meta_keywords: 'Euclid '
 meta_description: Euclid Chemical puede proporcionar soluciones antes, durante y después
