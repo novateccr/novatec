@@ -13,11 +13,9 @@ title = "Juntas de control"
 weight = 108
 
 +++
-Descargar brouchure
+[Descargar brouchure](http://www.toxement.com.co/media/3779/brochure_sellos-compressed.pdf "brouchure juntas")
 
-[http://www.toxement.com.co/media/3779/brochure_sellos-compressed.pdf](http://www.toxement.com.co/media/3779/brochure_sellos-compressed.pdf "brochure sellos")
-
-[http://www.toxement.com.co/zona-t%C3%A9cnica/brochures/](http://www.toxement.com.co/zona-t%C3%A9cnica/brochures/ "http://www.toxement.com.co/zona-t%C3%A9cnica/brochures/")
+[Centro de descargas de brouchures](http://www.toxement.com.co/zona-t%C3%A9cnica/brochures/ "centro de descargas")
 
 **EUCO 700**
 
