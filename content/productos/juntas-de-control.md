@@ -13,6 +13,10 @@ title = "Juntas de control"
 weight = 108
 
 +++
+Descargar brouchure
+
+[http://www.toxement.com.co/media/3779/brochure_sellos-compressed.pdf](http://www.toxement.com.co/media/3779/brochure_sellos-compressed.pdf "brochure sellos")
+
 **EUCO 700**
 
 Es un sistema epóxico semi-rígido de dos componentes, base epóxico, para el relleno de juntas de control y de construcción de pisos industriales de concreto. EUCO 700 ha sido diseñado para ser usado bajo las recomendaciones del ACI-302.
