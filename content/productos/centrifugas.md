@@ -17,4 +17,6 @@ weight = 7
 +++
 Bombas KSB
 
-bombas centrifugas KSB, tipo: MegaCpk, hydrobloc, etc y opcional **con motores sincrónicos** de super alta eficiencia.
+bombas de agua centrifugas KSB, tipo: MegaCpk, hydrobloc, etc y opcional **con motores sincrónicos** de super alta eficiencia.
+
+Bombas para agua y otros fluidos, contactenos...

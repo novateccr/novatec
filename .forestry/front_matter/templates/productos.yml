@@ -64,6 +64,7 @@ fields:
   label: Galería
   description: Imágenes adicionales para cada producto. Ancho mínimo 760px
 pages:
+- content/productos/centrifugas.md
 - content/productos/juntas-de-control.md
 - content/productos/deckshield-sistema-de-cubiertas-parqueos.md
 - content/productos/bombas-fds-doble-tornillo.md
@@ -71,7 +72,6 @@ pages:
 - content/productos/uretanos-cementicios.md
 - content/productos/epoxicos.md
 - content/productos/estaciones-de-trabajo.md
-- content/productos/centrifugas.md
 - content/productos/centrifugas-sanitarias.md
 - content/productos/tuberia-en-aluminio-para-aire-comprimido-y-gases-inertes.md
 - content/productos/juntas-de-expansion-textil.md
