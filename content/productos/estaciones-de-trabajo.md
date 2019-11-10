@@ -9,7 +9,7 @@ marcas = ["Rexroth"]
 meta_description = "Estaciones de trabajo en perfil de aluminio personalizadas de la marca Bosch Rexroth todo en  perfiles de aluminio..."
 meta_keywords = "Rexroth, perfil de 40X40, perfil de la marca item, perfil Bosch "
 taxonomyCover = false
-title = "Estaciones de Trabajo"
+title = "Estaciones de Trabajo (perfil de aluminio)"
 weight = 113
 
 +++
