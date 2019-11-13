@@ -2,7 +2,7 @@
 catalogo = ""
 categoria = ""
 familias = ["Sellado"]
-galeria = []
+galeria = ["/v1573667908/ansiflex_eekxq2.jpg"]
 id = ""
 imagen = ""
 industrias = []
