@@ -10,7 +10,7 @@ marcas = []
 meta_description = "Empaque Ansi-Flex para bridas de PVC"
 meta_keywords = "ANSI flex, ANSI-FLEX"
 taxonomyCover = false
-title = "Empaque AnsiFlex"
+title = "Empaque Ansi-Flex"
 titulo = ""
 weight = ""
 
