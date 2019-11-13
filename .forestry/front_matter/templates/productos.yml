@@ -64,6 +64,7 @@ fields:
   label: Galería
   description: Imágenes adicionales para cada producto. Ancho mínimo 760px
 pages:
+- content/productos/empaque-ansiflex.md
 - content/productos/estaciones-de-trabajo.md
 - content/productos/centrifugas.md
 - content/productos/juntas-de-control.md
