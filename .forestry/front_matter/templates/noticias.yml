@@ -25,6 +25,7 @@ fields:
   label: Featured
   description: Debe aparecer en el home?
 pages:
+- content/noticias/mangueras-sanitarias-rubber-fab.md
 - content/noticias/bomba-de-deslizamiento-positivo-fristam-fkl.md
 - content/noticias/hyamat-v.md
 - content/noticias/fluidfuture®-ksb.md
@@ -55,6 +56,5 @@ pages:
 - content/noticias/esta-es-otra-prueba.md
 - content/noticias/bombas-graco-doble-diafragmas-electricas.md
 - content/noticias/novatec-horario-de-navidad-y-fin-de-ano.md
-- content/noticias/mangueras-sanitarias-rubber-fab.md
 - content/noticias/flowserve-api-durco.md
 - content/noticias/_index.md
