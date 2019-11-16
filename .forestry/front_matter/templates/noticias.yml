@@ -25,6 +25,7 @@ fields:
   label: Featured
   description: Debe aparecer en el home?
 pages:
+- content/noticias/hyamat-v.md
 - content/noticias/fluidfuture®-ksb.md
 - content/noticias/fristam-fds.md
 - content/noticias/amplia-gama.md
@@ -46,7 +47,6 @@ pages:
 - content/noticias/prensado-radial-de-360-°.md
 - content/noticias/bomba-de-deslizamiento-positivo-fristam-fkl.md
 - content/noticias/nueva-noticia-de-sillas.md
-- content/noticias/hyamat-v.md
 - content/noticias/novatec-euclid.md
 - content/noticias/la-nueva-bomba-fristam-fds.md
 - content/noticias/revista-construcción-mayo.md
