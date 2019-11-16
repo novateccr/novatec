@@ -25,6 +25,7 @@ fields:
   label: Featured
   description: Debe aparecer en el home?
 pages:
+- content/noticias/filtros-pall-para-alimentos-y-bebidas.md
 - content/noticias/horario-de-fin-de-ano.md
 - content/noticias/juntas-de-ptfe-para-servicio-extremo.md
 - content/noticias/mangueras-sanitarias-rubber-fab.md
@@ -41,7 +42,6 @@ pages:
 - content/noticias/movitec-de-ksb-.md
 - content/noticias/fkl-pasta.md
 - content/noticias/rendimiento-imbatible-en-cualquier-ubicación.md
-- content/noticias/filtros-pall-para-alimentos-y-bebidas.md
 - content/noticias/martes-23-estamos-sin-electricidad-7am-a-5-pm.md
 - content/noticias/tuberia-en-aluminio-para-aire-comprimido.md
 - content/noticias/nc.md

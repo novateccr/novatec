@@ -1,16 +1,16 @@
 +++
-title = "Filtros PALL para Alimentos y Bebidas"
-date = "2016-02-06 18:29:46"
-imagen_intro = "images/familias/6e235b25165a7b8eaa9cb9f9f3dea181-PALL-General.jpg"
-imagen_full = ""
-asset_id = 139
 alias = "filtros-pall-para-alimentos-y-bebidas"
-metakey = ""
-metadesc = ""
+asset_id = 139
+date = 2016-02-07T00:29:46Z
 featured = false
-draft = false
 id = 29
-tags= ["Productos"]
+imagen_full = ""
+imagen_intro = "/v1569025889/PALL_Elementos_c8imwm.jpg"
+metadesc = ""
+metakey = ""
+tags = ["Productos"]
+title = "Filtros PALL para Alimentos y Bebidas"
+
 +++
 <p><img src="images/noticias/FiltroPALL.jpg" alt="" /></p>
 <p>Aire esteril, vapor culinario...</p>
