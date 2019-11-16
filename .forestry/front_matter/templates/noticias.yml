@@ -25,6 +25,7 @@ fields:
   label: Featured
   description: Debe aparecer en el home?
 pages:
+- content/noticias/fluidfuture®-ksb.md
 - content/noticias/fristam-fds.md
 - content/noticias/amplia-gama.md
 - content/noticias/ksb-app.md
@@ -44,7 +45,6 @@ pages:
 - content/noticias/megacpk-ksb-bomba-química-normalizada.md
 - content/noticias/prensado-radial-de-360-°.md
 - content/noticias/bomba-de-deslizamiento-positivo-fristam-fkl.md
-- content/noticias/fluidfuture®-ksb.md
 - content/noticias/nueva-noticia-de-sillas.md
 - content/noticias/hyamat-v.md
 - content/noticias/novatec-euclid.md
