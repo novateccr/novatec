@@ -25,6 +25,7 @@ fields:
   label: Featured
   description: Debe aparecer en el home?
 pages:
+- content/noticias/horario-de-fin-de-ano.md
 - content/noticias/juntas-de-ptfe-para-servicio-extremo.md
 - content/noticias/mangueras-sanitarias-rubber-fab.md
 - content/noticias/bomba-de-deslizamiento-positivo-fristam-fkl.md
