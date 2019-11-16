@@ -1,5 +1,5 @@
 +++
-date = 2019-11-03T06:00:00Z
+date = 2019-11-16T06:00:00Z
 featured = true
 imagen_intro = "/v1530204881/NInews.jpg"
 tags = []
