@@ -1,9 +1,9 @@
 +++
 alias = "novatec-horario-de-navidad-y-fin-de-ano"
 asset_id = 138
-date = "2017-12-16T12:20:00-06:00"
+date = 2019-11-16T18:20:00Z
 draft = true
-featured = false
+featured = 0
 id = 28
 imagen_full = "/v1529792560/rexroth-slide.jpg"
 imagen_intro = "/uploads/2017/12/16/Screen Shot 2017-12-16 at 10.42.24 AM.png"
@@ -13,6 +13,6 @@ tags = ["Productos"]
 title = "Novatec - Horario de Navidad y fin de año..."
 
 +++
-Estaremos cerrados a partir del Lunes 25 de Diciembre y regresamos el Martes 2 de Enero 2018.
+Estaremos cerrados a partir del Lunes 23 de Diciembre y regresamos el Lunes 6 de Enero 2020
 
 Para emergencias nos puedes escribir a : asistencia@novatec.cr
