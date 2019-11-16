@@ -4,7 +4,7 @@ draft = true
 featured = true
 imagen_intro = "/v1530204881/NInews.jpg"
 tags = []
-title = "Horario de fin de ano"
+title = "Horario de fin de año"
 
 +++
 Estaremos cerrados a partir del Lunes 23 de Diciembre y regresamos el Lunes 6 de Enero 2020
