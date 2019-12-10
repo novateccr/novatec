@@ -1,7 +1,7 @@
 +++
 catalogo = "/catalogos/original-doble-diafragma.pdf"
 familias = ["Bombas"]
-galeria = ["/v1576009019/1050_Aluminum_OL_mjvzaz.jpg"]
+galeria = ["/v1576009224/1050_t6rafs.jpg", "/v1576009019/1050_Aluminum_OL_mjvzaz.jpg"]
 id = 4
 imagen = "/v1530797588/productos/original-doble-diafragma.jpg"
 industrias = ["Alimentos y Bebidas", "Energía", "Industria Pesada", "Biofarmacéuticos", "Química", "Agrícola", "Ingenios"]
