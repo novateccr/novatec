@@ -6,10 +6,10 @@ id = 4
 imagen = "/v1530797588/productos/original-doble-diafragma.jpg"
 industrias = ["Alimentos y Bebidas", "Energía", "Industria Pesada", "Biofarmacéuticos", "Química", "Agrícola", "Ingenios"]
 marcas = ["Graco"]
-meta_description = "Bombas de doble diafragma,e-husky"
+meta_description = "Bombas de doble diafragma GRACO tipo Husky de 1/2¨ a 3¨ NPT"
 meta_keywords = "bomba, neumáticas, doble, diafragma, doble diafragma eléctrica"
 taxonomyCover = false
-title = "Doble Diafragma"
+title = "Bombas Doble Diafragma"
 weight = 4
 
 +++
