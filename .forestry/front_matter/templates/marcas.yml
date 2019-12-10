@@ -66,5 +66,5 @@ fields:
   description: Archivo jpg o png del logo. El tamaño se ajusta automáticamente
 pages:
 - content/marcas/miltonroy.md
-- content/marcas/rexroth.md
 - content/marcas/euclid-chemical.md
+- content/marcas/rexroth.md
