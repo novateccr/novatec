@@ -2,7 +2,7 @@
 catalogo = "/catalogos/original-filtro-regulado-lubricador-frl.pdf"
 categoria = ""
 familias = ["Neumática", "Filtros"]
-galeria = ["/v1576260760/FRL_gvnj1t.jpg", "/v1576260759/Filter_ti0r4h.jpg"]
+galeria = ["/v1576261130/FRL_afue68.jpg"]
 id = 102
 imagen = "/v1531871338/P154428.jpg"
 industrias = ["Alimentos y Bebidas", "Energía", "Biofarmacéuticos"]
