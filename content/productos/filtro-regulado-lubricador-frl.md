@@ -1,7 +1,7 @@
 +++
 catalogo = "/catalogos/original-filtro-regulado-lubricador-frl.pdf"
 categoria = ""
-familias = ["Neumática", "neumatica"]
+familias = ["Neumática", "neumatica", "filtros"]
 galeria = ["/v1576261130/FRL_afue68.jpg"]
 id = 102
 imagen = "/v1531871338/P154428.jpg"
