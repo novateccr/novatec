@@ -63,6 +63,11 @@ fields:
   config: {}
   label: Galería
   description: Imágenes adicionales para cada producto. Ancho mínimo 760px
+- name: titulo_adicional
+  type: text
+  config:
+    required: false
+  label: Titulo adicional
 pages:
 - content/productos/_index.md
 - content/productos/aceite.md
