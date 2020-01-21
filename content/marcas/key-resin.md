@@ -1,6 +1,5 @@
 +++
 catalogo = ""
-draft = true
 id = ""
 link = "http://www.keyresin.com/"
 logo = "/v1579622223/key-resin-logo_zmwrdd.jpg"
