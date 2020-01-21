@@ -13,3 +13,4 @@ menu:
     weight: 3
 
 ---
+    Desde la decoración decorativa a la industrial, institucional a secundaria, Key Resin Company ofrece soluciones que ofrecen costos de ciclo de vida más bajos, durabilidad sobresaliente y rendimiento general. Nuestras soluciones para pisos incluyen:
