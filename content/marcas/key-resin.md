@@ -12,4 +12,4 @@ parent = "Marcas"
 weight = 1101
 
 +++
-Key Resin Company ofrece la experiencia en la industria y la calidad del producto para satisfacer las demandas de sus necesidades específicas de pisos y revestimientos de polímeros
+Key Resin Company ofrece la experiencia en la industria y la calidad del producto para satisfacer las demandas de sus necesidades específicas de pisos y revestimientos de polímeros. Consultenos !!
