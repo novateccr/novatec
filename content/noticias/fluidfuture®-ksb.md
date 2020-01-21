@@ -1,6 +1,6 @@
 +++
 date = 2019-11-05T06:00:00Z
-featured = true
+featured = false
 imagen_intro = "/v1560436251/eficienciaenergetica.png"
 tags = ["ksb", "eficiencia energética", " novatec"]
 title = "FluidFuture® KSB"
