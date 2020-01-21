@@ -13,4 +13,4 @@ menu:
     weight: 5
 
 ---
-Especialista en  sellos mecánicos y juntas de expansión, metalicas, elastomericas y textiles.
+Especialista en  sellos mecánicos y juntas de expansión, metalicas, elastomericas y textiles. Sello Tipo MG1, M7N, Cartex, y muchos mas tipo componente o cartucho.
