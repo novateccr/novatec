@@ -5,7 +5,9 @@ imagen: "/v1530801709/familias/94bbb9d9e1c5869e5b147b346163e579-Screen-Shot-2015
 link: http://www.flowcrete.es/
 catalogo: ''
 meta_keywords: Consultenos para todas sus nececidades de pisos...
-meta_description: ''
+meta_description: Sistemas de pisos decorativos, Pisos elastoméricos, Sistemas de
+  pisos industriales, Sistemas de revestimiento de pisos y paredes, Sistemas de metacrilato
+  de metilo (MMA), Sistemas de control de vapor de humedad
 weight: "3"
 menu:
   principal:
