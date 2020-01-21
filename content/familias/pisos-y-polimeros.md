@@ -13,4 +13,12 @@ menu:
     weight: 3
 
 ---
-    Desde la decoración decorativa a la industrial, institucional a secundaria, Key Resin Company ofrece soluciones que ofrecen costos de ciclo de vida más bajos, durabilidad sobresaliente y rendimiento general. Nuestras soluciones para pisos incluyen:
+Desde la decoración decorativa a la industrial, institucional a secundaria, Flowcrete y Key Resin Company ofrece soluciones que ofrecen costos de ciclo de vida más bajos, durabilidad sobresaliente y rendimiento general. Nuestras soluciones para pisos incluyen:
+
+* Sistemas de pisos decorativos 
+* Pisos elastoméricos 
+* Sistemas de pisos industriales 
+* Sistemas de revestimiento de pisos y paredes 
+* Sistemas de metacrilato de metilo (MMA) 
+* Sistemas de control de vapor de humedad
+* Entre otros...
