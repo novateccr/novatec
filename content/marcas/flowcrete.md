@@ -6,7 +6,7 @@ link: http://es.flowcreteamericas.com
 catalogo: ''
 meta_keywords: Flowcrete fabrica una gama de soluciones de pisos de alto rendimiento
   para su uso en entornos industriales y comerciales. Explore la gama completa aquí
-  ..., epoxicos no os, uretanos cementicios, terrazo epoxcio
+  ..., epoxicos, uretanos cementicios, terrazo epoxicos
 meta_description: 'Flowcrete, flowfresh, KEY RESIN, Epoxico, Uretanos, Cementicio,
   Cementicios, Terrazos  '
 weight: "17"
@@ -16,4 +16,4 @@ menu:
     weight: 17
 
 ---
-prueba
+Flowcrete fabrica una gama de soluciones de pisos de alto rendimiento para su uso en entornos industriales y comerciales. Explore la gama completa aquí ..., epoxicos, uretanos cementicios, terrazo epoxico
