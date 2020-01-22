@@ -12,6 +12,7 @@ menu:
   principal:
     parent: Marcas
     weight: 20
+draft: true
 
 ---
     "KSB es la marca con la mayor experiencia técnica en bombas y válvulas". Este enfoque significa que los empleados de KSB están cerca de los clientes en todos los continentes, proporcionándoles bombas y válvulas para casi todas las aplicaciones relacionadas con el transporte de fluidos.
