@@ -12,4 +12,4 @@ tags = ["Productos"]
 title = "Novatec - 20 años"
 
 +++
-<p>Celebrando 20 años...</p>
+<p>**Celebrando 20 años...**</p>
