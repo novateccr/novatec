@@ -1,24 +1,18 @@
 +++
-title = "Bombas GRACO - Doble diafragma eléctricas "
-date = "2015-09-24 00:45:37"
-imagen_intro = "images/noticias/BBAHE.png"
-imagen_full = ""
-asset_id = 128
 alias = "bombas-graco-doble-diafragmas-electricas"
-metakey = ""
-metadesc = ""
-featured = false
+asset_id = 128
+date = 2020-02-05T06:00:00Z
 draft = true
+featured = false
 id = 24
-tags= ["Productos"]
-+++
-<p>Bombas GRACO 1050 - Doble diafragma eléctricas </p>
+imagen_full = ""
+imagen_intro = "/v1530797590/productos/original-doble-diafragma.jpg"
+metadesc = ""
+metakey = ""
+tags = ["Productos"]
+title = "Bombas GRACO - Doble diafragma - Calculador de flujo"
 
-<!--more-->
-<p>Bombas de 1" hasta 50 GPM, con motor electrico, 120 V o 240 V....</p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
++++
+Consulte este link para ira el calculador de bombas GRACO.
+
+[https://www.graco.com/uy/es/products/ad/husky-pumps/husky-selector-tool.html](https://www.graco.com/uy/es/products/ad/husky-pumps/husky-selector-tool.html "ir a selector-tool")
