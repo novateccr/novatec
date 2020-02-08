@@ -8,10 +8,11 @@ imagen = "/v1568048268/amarex-n_a6fgdk.png"
 industrias = ["Energía"]
 marcas = ["KSB"]
 meta_description = "KSB ofrece soluciones integrales para aplicaciones de aguas servidas, tipo Amarex, KRT..."
-meta_keywords = "Flight, KRT, Amarex "
+meta_keywords = "Flight, KRT, Amarex N"
 taxonomyCover = false
 title = "Bombas para aguas servidas"
 titulo = ""
+titulo_adicional = ""
 weight = ""
 
 +++
@@ -25,3 +26,5 @@ Ya sea que se necesiten en edificios individuales, propiedades industriales, ase
 * Unidades elevadoras de aguas servidas
 * Agua de lluvia
 * Estaciones elevadoras de aguas de lluvia
+
+consulte por las AMAREX N, KRT  y otros modelos y soluciones...
