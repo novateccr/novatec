@@ -11,13 +11,3 @@ title = "Amplia gama de opciones en filtros, reguladores, lubricadores"
 **La familia AVENTICS**
 
 Series AS FRL abarca tamaños de puerto de 3/8 " a 1" e incluye filtros individuales, reguladores y lubricadores, además de muchos otros componentes de diseño modular, que permiten combinaciones estándar y personalizadas. Diseño de polímero ligero y moderno. Personaliza tu sistema con válvulas de bloqueo, bloques de distribución, combinaciones filtro-regulador, válvulas de arranque suave, etc.
-
-<div> 
-
-<iframe width="420" height="315" 
-
-src="[https://www.youtube.com/watch?v=7ZsHiDKeJsE](https://www.youtube.com/watch?v=7ZsHiDKeJsE "https://www.youtube.com/watch?v=7ZsHiDKeJsE")"></iframe>
-
-</div>
-
-    <iframe width="420" height="315"src="https://www.youtube.com/embed/tgbNymZ7vqY?autoplay=1"></iframe>
