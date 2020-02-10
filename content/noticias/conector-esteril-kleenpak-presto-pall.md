@@ -20,8 +20,11 @@ Esta nueva generación de conectores sin género permite la permanente conexión
 
 **Conectores Presto**
 
-  
- {{< youtube id="7ZsHiDKeJsE" autoplay="false" >}}
+{{< youtube id="7ZsHiDKeJsE" autoplay="false" >}}
+
+**Disconectores Kleepak**
+
+{{< youtube id="-twVWvt5d5k" autoplay="false" >}}
 
 Con su funcionamiento intuitivo, las conexiones estériles se pueden llevar a cabo en una operación simple de 3 pasos, incluso en un entorno no clasificado, sin comprometer la esterilidad de las rutas de fluido.
 
