@@ -20,6 +20,8 @@ Esta nueva generación de conectores sin género permite la permanente conexión
 
 **Conectores Presto**
 
+{{< youtube id="[7ZsHiDKeJsE](https://www.youtube.com/watch?v=7ZsHiDKeJsE "https://www.youtube.com/watch?v=7ZsHiDKeJsE")" >}}
+
 Con su funcionamiento intuitivo, las conexiones estériles se pueden llevar a cabo en una operación simple de 3 pasos, incluso en un entorno no clasificado, sin comprometer la esterilidad de las rutas de fluido.
 
 Las características clave de diseño, como las pestañas antiactivación y la tapa protectora de resistencia a la manipulación, brindan a los usuarios finales más confianza en la operación y seguridad del suministro.
