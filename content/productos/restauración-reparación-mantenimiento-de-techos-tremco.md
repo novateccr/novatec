@@ -1,9 +1,8 @@
 +++
 catalogo = ""
 categoria = ""
-draft = true
 familias = []
-galeria = []
+galeria = ["/v1582746807/tremco-alumanation-301-9_mjpfnf.png", "/v1582746791/alumanation_hnjdqi.png"]
 id = ""
 imagen = "/v1582746492/Reparacion_techo_-_Tremco_lbykhk.jpg"
 industrias = []
@@ -32,3 +31,14 @@ Tremco Roofing ofrece las soluciones de impermeabilización y techado más compl
 El sellador GEOGARD SEAM SEALER se utiliza como un parche de impermeabilización para uniones y sujetadores metálicos. Además, se puede usar para sellar juntas en mantos, tapajuntas, respiraderos y forros de parapetos.
 
 GEOGARD se puede aplicar en una variedad de superficies de techo. El sellador de juntas Geogard está disponible en cartuchos calafateados y en baldes para fácil manejo.
+
+**PERMAFAB** es una tela de refuerzo 100% de poliéster no tejida que ofrece una combinación excepcional de propiedades de alta resistencia con buena elongación para una excelente resistencia al esfuerzo térmico.
+
+PERMAFAB está diseñada para ser utilizada con recubrimientos y selladores de Tremco en restauración, mantenimiento, detallado y en impermeabilización de cubiertas en concreto. No se descompone a medida que envejece y es resistente a la humedad.
+
+**USOS**
+
+* Detallado de techos
+* Impermeabilizacion con sistema Alumanation
+* Impermeabilizacion con sistema Geogard
+* Impermeabilizacion con sistema AlphaGuard
