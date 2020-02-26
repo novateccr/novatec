@@ -1,6 +1,5 @@
 +++
 catalogo = ""
-draft = true
 id = ""
 link = "http://www.tremcoroofing.com/"
 logo = "/v1582745995/tremcoLogo_mlefdz.jpg"
