@@ -6,10 +6,11 @@ id = 107
 imagen = "/v1530797588/productos/original-uretanos-cementicios.jpg"
 industrias = ["Alimentos y Bebidas", "Energía", "Dispositivos Médicos", "Industria Pesada", "Biofarmacéuticos", "Química", "Agrícola", "Ingenios", "Comercial - Construcción", "Electrónica"]
 marcas = ["Flowcrete"]
-meta_description = "Novatec - Flowcrete/KeyResin pisos en uretano cementicios - certificados HACCP"
+meta_description = "Novatec - Flowcrete/KeyResin todo en pisos de uretano cementicios - certificados HACCP"
 meta_keywords = "pisos,Flowcrete, KeyResin"
 taxonomyCover = false
 title = "Pisos de Uretanos Cementicios - HACCP"
+titulo_adicional = ""
 weight = 107
 
 +++
