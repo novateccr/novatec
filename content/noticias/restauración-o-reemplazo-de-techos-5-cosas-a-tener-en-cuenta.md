@@ -1,6 +1,6 @@
 +++
 date = 2020-02-26T06:00:00Z
-featured = false
+featured = true
 imagen_intro = "/v1582746492/Reparacion_techo_-_Tremco_lbykhk.jpg"
 tags = []
 title = "¿Restauración o reemplazo de techos? 5 cosas a tener en cuenta"
