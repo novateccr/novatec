@@ -1,7 +1,7 @@
 +++
 catalogo = ""
 categoria = ""
-familias = []
+familias = ["Pisos y Polímeros"]
 galeria = ["/v1582746807/tremco-alumanation-301-9_mjpfnf.png", "/v1582746791/alumanation_hnjdqi.png"]
 id = ""
 imagen = "/v1582746492/Reparacion_techo_-_Tremco_lbykhk.jpg"
