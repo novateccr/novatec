@@ -52,4 +52,6 @@ Para más información, póngase en contacto con nosotros al.  O visítenos en w
 
 **Miguel Muñoz Rodriguez / Marketing Manager / Euclid Chemical**
 
+[https://www.linkedin.com/pulse/restauraci%C3%B3n-o-reemplazo-de-techos-5-cosas-tener-en-mu%C3%B1oz-rodriguez/](https://www.linkedin.com/pulse/restauraci%C3%B3n-o-reemplazo-de-techos-5-cosas-tener-en-mu%C3%B1oz-rodriguez/ "https://www.linkedin.com/pulse/restauraci%C3%B3n-o-reemplazo-de-techos-5-cosas-tener-en-mu%C3%B1oz-rodriguez/")
+
 Consultenos !! 506 2239-1111 
