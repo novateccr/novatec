@@ -1,7 +1,6 @@
 +++
 catalogo = ""
 categoria = ""
-draft = true
 familias = ["Bombas"]
 galeria = ["/v1582834646/Pumpdrive_irzc2s.jpg", "/v1582834635/Pumpdrive_r_smtadq.jpg"]
 id = ""
