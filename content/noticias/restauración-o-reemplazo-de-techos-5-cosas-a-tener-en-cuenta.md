@@ -1,5 +1,6 @@
 +++
 date = 2020-02-26T06:00:00Z
+draft = true
 featured = false
 imagen_intro = "/v1582746492/Reparacion_techo_-_Tremco_lbykhk.jpg"
 tags = []
