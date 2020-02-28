@@ -16,10 +16,10 @@ titulo_adicional = ""
 weight = ""
 
 +++
-Diseño
+**Diseño**
 
 PumpDrive R es un variador de frecuencia para montaje en pared o gabinete diseñado para control de velocidad variable y otras funciones de control para motores asíncronos, motores de reluctancia síncrona como KSB SuPremE o motores síncronos de imanes permanentes. PumpDrive R extiende el rango de potencia de KSB PumpDrive hasta una potencia nominal de 110 kW como estándar o hasta 1,4 MW (bajo pedido).
 
-Aplicaciones
+**Aplicaciones**
 
 Sistemas de aire acondicionado, generación de calor, distribución de calor, sistemas de suministro de agua, extracción de agua, tratamiento de agua, distribución de agua, transporte de agua, refrigeración, distribución de refrigeración, generación de calor, distribución de calor, transporte de fluidos, distribución de lubricantes refrigerantes, suministro de agua industrial, tanque drenaje, transporte de aguas residuales
