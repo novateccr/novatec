@@ -5,7 +5,7 @@ familias = ["Bombas"]
 galeria = ["/v1582864617/KSB_SuPremE_Energy_Diet_IE5_npfyo3.png", "/v1582862182/es000866-ksb-supreme_puyisv.png", "/v1566006001/megacpk-KSB_be4dfc.png", "/v1582862356/foto-data_cl48og.jpg"]
 id = ""
 imagen = "/v1582864617/KSB_SuPremE_Energy_Diet_IE5_npfyo3.png"
-industrias = ["Alimentos y Bebidas", "Pharmaceuticas", "Energia", "Industria"]
+industrias = ["Alimentos y Bebidas", "Pharmaceuticas", "Energia", "Industria", "Dispositivos Medicos"]
 marcas = ["KSB"]
 meta_description = "Motor de reluctancia síncrona sin imán, compatible con IEC, sin clase de eficiencia clase IE4 / IE5 (eficiencia super / ultra premium)"
 meta_keywords = "Supreme Motor, Motores, Sincrónicos, IE4, IE5, Ahorro energético, alta eficiencia, premium"
@@ -29,3 +29,5 @@ Para usar con bombas de velocidad variable instaladas en seco que pueden ser acc
 Identificación de los potenciales de ahorro mediante los análisis de la eficiencia energética de KSB
 
 Si sus bombas y otros equipos rotativos funcionan de manera eficiente desde el punto de vista energético, se beneficiará de una reducción de los costes operativos de sus sistemas y de una mayor disponibilidad y fiabilidad operativa. El primer paso hacia la consecución de este objetivo es el análisis del sistema, el cual sirve de punto de partida para los demás pasos tendentes a la optimización. Nuestros expertos calculan la potencia de su bomba para poder hacerse una idea clara de cuál es la situación de la planta y mostrarle dónde y cómo es posible ahorrar energía.
+
+[**Optimice la eficiencia energética de su sistema hidráulico**]()
