@@ -2,7 +2,7 @@
 catalogo = ""
 categoria = ""
 familias = ["Bombas"]
-galeria = ["/v1582864617/KSB_SuPremE_Energy_Diet_IE5_npfyo3.png", "/v1582862182/es000866-ksb-supreme_puyisv.png", "/v1566006001/megacpk-KSB_be4dfc.png", "/v1582862356/foto-data_cl48og.jpg"]
+galeria = ["/v1582864617/KSB_SuPremE_Energy_Diet_IE5_npfyo3.png", "/v1566006001/megacpk-KSB_be4dfc.png", "/v1582862356/foto-data_cl48og.jpg"]
 id = ""
 imagen = "/v1582864617/KSB_SuPremE_Energy_Diet_IE5_npfyo3.png"
 industrias = ["Alimentos y Bebidas", "Pharmaceuticas", "Energia", "Industria", "Dispositivos Medicos"]
