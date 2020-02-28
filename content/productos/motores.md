@@ -30,4 +30,4 @@ Identificación de los potenciales de ahorro mediante los análisis de la eficie
 
 Si sus bombas y otros equipos rotativos funcionan de manera eficiente desde el punto de vista energético, se beneficiará de una reducción de los costes operativos de sus sistemas y de una mayor disponibilidad y fiabilidad operativa. El primer paso hacia la consecución de este objetivo es el análisis del sistema, el cual sirve de punto de partida para los demás pasos tendentes a la optimización. Nuestros expertos calculan la potencia de su bomba para poder hacerse una idea clara de cuál es la situación de la planta y mostrarle dónde y cómo es posible ahorrar energía.
 
-[**Optimice la eficiencia energética de su sistema hidráulico**]()
+[**Optimice la eficiencia energética de su sistema hidráulico**](https://www.ksb.com/fluidfuture_es/ "Fluid Future Energy Savings")
