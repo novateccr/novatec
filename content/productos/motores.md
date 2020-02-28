@@ -1,14 +1,14 @@
 +++
 catalogo = ""
 categoria = ""
-familias = []
+familias = ["Bombas"]
 galeria = ["/v1582862182/es000866-ksb-supreme_puyisv.png"]
 id = ""
 imagen = "/v1582862356/foto-data_cl48og.jpg"
-industrias = []
-marcas = []
+industrias = ["Alimentos y Bebidas", "Pharmaceuticas", "Energia", "Industria"]
+marcas = ["KSB"]
 meta_description = "Motor de reluctancia síncrona sin imán, compatible con IEC, sin clase de eficiencia clase IE4 / IE5 (eficiencia super / ultra premium)"
-meta_keywords = "Supreme Motor, Motores, Sincronicos, IE4, IE5"
+meta_keywords = "Supreme Motor, Motores, Sincronicos, IE4, IE5, Ahorro energético"
 taxonomyCover = false
 title = "Motores SuPremE IE4 / IE5"
 titulo = ""
