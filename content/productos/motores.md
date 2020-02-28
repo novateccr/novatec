@@ -2,7 +2,7 @@
 catalogo = ""
 categoria = ""
 familias = ["Bombas"]
-galeria = ["/v1582862182/es000866-ksb-supreme_puyisv.png"]
+galeria = ["/v1582862356/foto-data_cl48og.jpg", "/v1582862182/es000866-ksb-supreme_puyisv.png"]
 id = ""
 imagen = "/v1582862356/foto-data_cl48og.jpg"
 industrias = ["Alimentos y Bebidas", "Pharmaceuticas", "Energia", "Industria"]
