@@ -2,7 +2,7 @@
 catalogo = "https://shop.ksb.com/ims_docs/00/00215A9B03CC1EE8B0B929CCCE3315D6.pdf"
 categoria = ""
 familias = ["Bombas"]
-galeria = ["/v1582834646/Pumpdrive_irzc2s.jpg", "/v1582834635/Pumpdrive_r_smtadq.jpg"]
+galeria = ["/v1582861533/es000898-pumpdrive-r-2_p456bg.png"]
 id = ""
 imagen = "/v1582834497/pumpdrive-r_potkue.png"
 industrias = []
