@@ -2,7 +2,7 @@
 catalogo = "/catalogos/original-centrifugas.pdf"
 categoria = ""
 familias = ["Bombas"]
-galeria = ["/v1582866757/es000807-pumpmeter_llzlou.png", "/v1566006531/megacpk-KSB1_eqdko2.png"]
+galeria = ["/v1566006531/megacpk-KSB1_eqdko2.png", "/v1582866757/es000807-pumpmeter_llzlou.png"]
 id = 7
 imagen = "/v1566006531/megacpk-KSB1_eqdko2.png"
 industrias = ["Alimentos y Bebidas", "Energía", "Biofarmacéuticos"]
