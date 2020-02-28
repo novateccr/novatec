@@ -2,7 +2,7 @@
 catalogo = "https://shop.ksb.com/ims_docs/00/00215A9B03CC1EE8B0B929CCCE3315D6.pdf"
 categoria = ""
 familias = ["Bombas"]
-galeria = ["/v1582868409/7053-12964794_s7x214.jpg", "/v1582861533/es000898-pumpdrive-r-2_p456bg.png"]
+galeria = ["/v1582868624/pic-gal-3-2und-anlagen_jpjy3s.jpg", "/v1582868608/pic-gal-3-1-pumpdrive-und-pumpdrive-eco_d0i19z.jpg", "/v1582868409/7053-12964794_s7x214.jpg", "/v1582861533/es000898-pumpdrive-r-2_p456bg.png"]
 id = ""
 imagen = "/v1582834497/pumpdrive-r_potkue.png"
 industrias = []
