@@ -32,6 +32,6 @@ Sistemas de aire acondicionado, generación de calor, distribución de calor, si
 
 Variador de frecuencia autorrefrigerado. Permite variar la velocidad del motor de manera continua a través de señales físicas y/o a través de bus de comunicación. Debido a su capacidad autorrefrigerante, puede ser montado directamente en el motor, en pared o dentro de un armario eléctrico. Puede controlar de 2 a 6 bombas en paralelo, sin necesidad de recurrir a un controlador externo.
 
-##### **Aplicaciones**
+#### **Aplicaciones**
 
 Instalaciones de climatización, producción de calor, distribución de calor, instalaciones de abastecimiento de agua, extracción de agua, obtención de agua, preparación de agua, tratamiento de agua, distribución de agua, transporte de agua, producción de frío, distribución de frío, producción de calor, distribución de calor, transporte de fluidos, distribución de fluido de corte, abastecimiento de agua industrial, vaciado de tanques, transporte de aguas residuales
