@@ -1,7 +1,6 @@
 +++
 catalogo = ""
 categoria = ""
-draft = true
 familias = []
 galeria = ["/v1582862182/es000866-ksb-supreme_puyisv.png"]
 id = ""
