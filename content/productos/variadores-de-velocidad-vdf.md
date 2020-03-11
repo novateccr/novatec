@@ -2,10 +2,10 @@
 catalogo = "https://shop.ksb.com/ims_docs/00/00215A9B03CC1EE8B0B929CCCE3315D6.pdf"
 categoria = ""
 familias = ["Bombas"]
-galeria = ["/v1582868624/pic-gal-3-2und-anlagen_jpjy3s.jpg", "/v1582868608/pic-gal-3-1-pumpdrive-und-pumpdrive-eco_d0i19z.jpg", "/v1582868409/7053-12964794_s7x214.jpg", "/v1582861533/es000898-pumpdrive-r-2_p456bg.png"]
+galeria = ["/v1582861533/es000898-pumpdrive-r-2_p456bg.png", "/v1582868624/pic-gal-3-2und-anlagen_jpjy3s.jpg", "/v1582868608/pic-gal-3-1-pumpdrive-und-pumpdrive-eco_d0i19z.jpg", "/v1582868409/7053-12964794_s7x214.jpg"]
 id = ""
 imagen = "/v1582834497/pumpdrive-r_potkue.png"
-industrias = []
+industrias = ["Alimentos y Bebidas", "Industria", "Dispositivos Medicos"]
 marcas = ["KSB"]
 meta_description = "PumpDrive R es un variador de frecuencia para montaje en pared o gabinete diseñado para control de velocidad variable y otras funciones de control para motores asíncronos, motores de reluctancia síncrona como KSB SuPremE "
 meta_keywords = "Variadores, VDF, PumpDrive R, PumpDrive 2, Pump Drive"
