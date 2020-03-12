@@ -7,32 +7,17 @@ tags = ["belzona", "reparación de bombas", "Cambio de sello mecánico", "Cambio
 title = "Tareas de mantenimiento asociadas a bombas:"
 
 +++
-Tareas de mantenimiento asociadas a bombas:
+# Tareas de mantenimiento asociadas a bombas:
 
-\- Reparación de impulsores, recuperación de geometría, recubrimiento y balance dinámico.
+![](https://res.cloudinary.com/novatec/v1584055763/reaparacion6_opjicw.jpg)
 
-\[foto\]
+* Reparación de impulsores, recuperación de geometría, recubrimiento y balance dinámico.
+* Recubrimiento de carcasas y partes húmedas con productos epoxicos Belzona.
 
-\- Recubrimiento de carcasas y partes húmedas con productos epoxicos Belzona.
-
-\[foto\]
-
-\- Cambio de sello mecánico ó  empaquetadura.
-
-\[foto\]
-
-ver lista completa en nuestra pagina web
-
-\- Cambio de Rodamientos.
-
-\[foto\]
-
-\- Reparaciones en ejes, pistas de sello y alojamientos porta - rodamiento. 
-
-\[foto\]
-
-\-Diagnóstico integral de reparaciones de equipo de bombeo.
-
-\[foto\]
+  ![](https://res.cloudinary.com/novatec/v1584055783/reparacion4_ukbsme.jpg)
+* Cambio de sello mecánico ó  empaquetadura.
+* Cambio de Rodamientos.
+* Reparaciones en ejes, pistas de sello y alojamientos porta - rodamiento.
+* Diagnóstico integral de reparaciones de equipo de bombeo.
 
 _Amplio stock de productos y taller de servicio._
