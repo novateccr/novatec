@@ -1,7 +1,6 @@
 +++
 date = 2020-02-26T06:00:00Z
-draft = true
-featured = false
+featured = true
 imagen_intro = "/v1582746492/Reparacion_techo_-_Tremco_lbykhk.jpg"
 tags = []
 title = "¿Restauración o reemplazo de techos? 5 cosas a tener en cuenta"
@@ -11,7 +10,7 @@ title = "¿Restauración o reemplazo de techos? 5 cosas a tener en cuenta"
 
 ### **1. La restauración cuesta menos**
 
-Un reemplazo completo del techo puede ser costoso en mano de obra y materiales, particularmente si primero se debe quitar el techo existente. Dependiendo del sistema de techo seleccionado, los costos promedian entre el doble o triple del coto de un tratamiento de restauración. La restauración, por otro lado, requiere menos mano de obra, equipamiento, tiempo de ejecución y materiales.
+Un reemplazo completo del techo puede ser costoso en mano de obra y materiales, particularmente si primero se debe quitar el techo existente. Dependiendo del sistema de techo seleccionado, los costos promedian entre el doble o triple del costo de un tratamiento de restauración. La restauración, por otro lado, requiere menos mano de obra, equipamiento, tiempo de ejecución y materiales.
 
 ### **2. La restauración extiende la vida del techo**
 
@@ -41,10 +40,10 @@ El mejor punto de partida para determinar si un techo puede restaurarse es una s
 
 Si alguno de los problemas anteriores está presente, es una buena idea contratar a un profesional que pueda realizar una inspección exhaustiva. Esta inspección debe incluir el uso de equipos para ubicar la humedad debajo de la superficie, un análisis central de los materiales subyacentes y un examen de la pendiente del techo. Debe seguirse con un informe sobre el estado del techo y las soluciones recomendadas, incluido un análisis de costo / beneficio de restauración versus el reemplazo. Si el daño es mínimo o se limita a un área pequeña, la restauración es probablemente la mejor opción. Por lo general, se requiere un reemplazo si el daño es extenso o si el techo está llegando al final de su vida útil.
 
-Para más información, póngase en contacto con nosotros al.  O visítenos en www.productoscave.com
+Para más información, póngase en contacto con nosotros o visítenos en www.productoscave.com
 
 **Miguel Muñoz Rodriguez / Marketing Manager / Euclid Chemical**
 
 [https://www.linkedin.com/pulse/restauraci%C3%B3n-o-reemplazo-de-techos-5-cosas-tener-en-mu%C3%B1oz-rodriguez/](https://www.linkedin.com/pulse/restauraci%C3%B3n-o-reemplazo-de-techos-5-cosas-tener-en-mu%C3%B1oz-rodriguez/ "https://www.linkedin.com/pulse/restauraci%C3%B3n-o-reemplazo-de-techos-5-cosas-tener-en-mu%C3%B1oz-rodriguez/")
 
-Consultenos !! 506 2239-1111 
+Consultenos !! 506 2239-1111
