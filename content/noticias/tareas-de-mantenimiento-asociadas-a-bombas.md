@@ -14,7 +14,9 @@ title = "Tareas de mantenimiento asociadas a bombas:"
 * Reparación de impulsores, recuperación de geometría, recubrimiento y balance dinámico.
 * Recubrimiento de carcasas y partes húmedas con productos epoxicos Belzona.
 
-  ![](https://res.cloudinary.com/novatec/v1584055783/reparacion4_ukbsme.jpg)
+  ![](https://res.cloudinary.com/novatec/v1584139608/reparacion8_mnx5r0.jpg)
+
+  ![](https://res.cloudinary.com/novatec/v1584139626/reparacion7_hdba6z.png)
 * Cambio de sello mecánico ó  empaquetadura.
 * Cambio de Rodamientos.
 * Reparaciones en ejes, pistas de sello y alojamientos porta - rodamiento.
