@@ -12,7 +12,7 @@ slides:
   description: estamos para servirle
   published: true
   link: "/contactenos"
-- title: Confíe en la excelencia
+- title: Confíe en la excelencia !!
   image: "/v1530797347/2.jpg"
   description: ''
   published: true
