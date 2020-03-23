@@ -43,8 +43,9 @@ slides:
   published: true
   link: "/marcas/fristam"
 barra_azul:
-  titular: Confíe en la excelencia
-  subtitular: Líderes en soluciones...
+  titular: Con la crisis actual de Covid-19 continuamos laborando con las medidas
+    de seguridad respectivas..
+  subtitular: para contactarnos por favor escriba a sac@novatec.cr
 barra_fondo_imagen:
   texto: '"Una empresa de éxito aprovecha sus puntos fuertes, debe actuar con rapidez
     y flexibilidad, y se concentra en lo esencial. Y para nosotros lo esencial es
