@@ -43,7 +43,7 @@ slides:
   published: true
   link: "/marcas/fristam"
 barra_azul:
-  titular: En Semana Santa vamos a permanecer cerrados para emergencias favor escribir
+  titular: En Semana Santa vamos a permanecer cerrados, para emergencias favor escribir
     a sac@novatec.cr
   subtitular: estamos para servirle !!
 barra_fondo_imagen:
