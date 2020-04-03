@@ -43,8 +43,8 @@ slides:
   published: true
   link: "/marcas/fristam"
 barra_azul:
-  titular: Con la crisis actual de Covid-19 continuamos laborando con las medidas
-    de seguridad respectivas... para contactarnos por favor escriba a sac@novatec.cr
+  titular: En Semana Santa vamos a permanecer cerrados para emergencias favor escribir
+    a sac@novatec.cr
   subtitular: estamos para servirle !!
 barra_fondo_imagen:
   texto: '"Una empresa de éxito aprovecha sus puntos fuertes, debe actuar con rapidez
@@ -57,3 +57,4 @@ menu:
     weight: "1"
 
 ---
+Con la crisis actual de Covid-19 continuamos laborando con las medidas de seguridad respectivas...
