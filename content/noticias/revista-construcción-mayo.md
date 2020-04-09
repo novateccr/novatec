@@ -1,11 +1,11 @@
 +++
-date = "2019-05-03T00:00:00-06:00"
+date = 2019-05-03T06:00:00Z
 featured = true
 imagen_intro = "/v1556941933/novatec.jpg"
 tags = ["revista construcción"]
 title = "Revista Construcción Mayo"
 
 +++
-Lea sobre el acontecer constructivo en Costa Rica con la revista construcción. En esta edición agradecemos a Ingelectra SA por la confianza depositada en nuestros productos y servicios. 
+Favor llene nuestra encuesta de servicio:
 
-[Lea la revista aquí](https://www.construccion.co.cr/Multimedia/Archivo/6955 "Revista Construcción")
+[Lea la revista aquí](https://forms.gle/tFseZyo8fjM9tbkA8 "Encuesta de servicio")
