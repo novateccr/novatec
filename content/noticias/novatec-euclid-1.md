@@ -8,7 +8,7 @@ imagen_full = "/v1529902538/16761c81091f92d0be90d3a431922cdd-EGCA.png"
 imagen_intro = "/v1580762862/logo-2020_evhmuc.jpg"
 metadesc = ""
 metakey = ""
-tags = ["Productos"]
+tags = []
 title = "Novatec - 20 años"
 
 +++
