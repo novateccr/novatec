@@ -2,7 +2,7 @@
 alias = "filtros-pall-para-alimentos-y-bebidas"
 asset_id = 139
 date = 2016-02-07T00:29:46Z
-featured = false
+featured = true
 id = 29
 imagen_full = ""
 imagen_intro = "/v1569025889/PALL_Elementos_c8imwm.jpg"
