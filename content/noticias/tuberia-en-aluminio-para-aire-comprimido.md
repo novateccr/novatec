@@ -1,16 +1,16 @@
 +++
-title = "Tubería en Aluminio para aire comprimido"
-date = "2015-10-17 02:12:57"
-imagen_intro = "images/familias/3d73730cdd61787a39f72a58c9f4a34a-aire-comprimido.jpg"
-imagen_full = ""
-asset_id = 132
 alias = "tuberia-en-aluminio-para-aire-comprimido"
-metakey = ""
-metadesc = ""
+asset_id = 132
+date = 2020-04-09T06:00:00Z
 featured = false
-draft = false
 id = 25
-tags= ["Productos"]
+imagen_full = ""
+imagen_intro = "/v1530797594/productos/original-tuberia-en-aluminio-para-aire-comprimido-y-gases-inertes.png"
+metadesc = ""
+metakey = ""
+tags = ["Productos"]
+title = "Tubería en Aluminio para aire comprimido"
+
 +++
 <p>Tubería Transair en 1/2" 1"  1-1/2"  2"  2-1/2"  3"  4"  y  6" </p>
 <hr class="system-pagebreak" />
