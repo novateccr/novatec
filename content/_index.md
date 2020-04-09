@@ -47,9 +47,10 @@ barra_azul:
     favor escribir a sac@novatec.cr
   subtitular: estamos para servirle !!
 barra_fondo_imagen:
-  texto: '"Una empresa de éxito aprovecha sus puntos fuertes, debe actuar con rapidez
-    y flexibilidad, y se concentra en lo esencial. Y para nosotros lo esencial es
-    la satisfacción del cliente."'
+  texto: |-
+    "Una empresa de éxito aprovecha sus puntos fuertes, debe actuar con rapidez y flexibilidad, y se concentra en lo esencial. Y para nosotros lo esencial es la satisfacción del cliente."
+
+    Con la crisis actual de Covid-19 continuamos laborando con las medidas de seguridad respectivas...
   imagen: https://res.cloudinary.com/novatec/image/upload/f_auto,q_80/v1530333582/slide3-dark.jpg
 menu:
   principal:
@@ -57,4 +58,3 @@ menu:
     weight: "1"
 
 ---
-Con la crisis actual de Covid-19 continuamos laborando con las medidas de seguridad respectivas...
