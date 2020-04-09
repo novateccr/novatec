@@ -1,5 +1,6 @@
 +++
 date = 2020-04-09T06:00:00Z
+draft = true
 featured = true
 imagen_intro = "/v1556941933/novatec.jpg"
 tags = ["revista construcción"]
