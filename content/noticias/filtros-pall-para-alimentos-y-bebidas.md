@@ -1,7 +1,7 @@
 +++
 alias = "filtros-pall-para-alimentos-y-bebidas"
 asset_id = 139
-date = 2016-02-07T00:29:46Z
+date = 2020-04-09T06:00:00Z
 featured = true
 id = 29
 imagen_full = ""
