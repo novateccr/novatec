@@ -43,8 +43,8 @@ slides:
   published: true
   link: "/marcas/fristam"
 barra_azul:
-  titular: En Semana Santa debido a la COBID19 vamos a permanecer cerrados, para emergencias
-    favor escribir a sac@novatec.cr
+  titular: Debido a la situación del COBID19, favor escribir a sac@novatec.cr para
+    atender sus solicitudes.
   subtitular: estamos para servirle !!
 barra_fondo_imagen:
   texto: Con la crisis actual de Covid-19 continuamos laborando con las medidas de
