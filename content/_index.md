@@ -44,7 +44,8 @@ slides:
   link: "/marcas/fristam"
 barra_azul:
   titular: Debido a la situación del COBID19, favor escribir a sac@novatec.cr para
-    atender sus solicitudes.
+    atender sus solicitudes - Nuestras oficinas están abiertas de L-V de  8am a 5:30
+    pm
   subtitular: estamos para servirle !!
 barra_fondo_imagen:
   texto: Con la crisis actual de Covid-19 continuamos laborando con las medidas de
