@@ -43,7 +43,7 @@ slides:
   published: true
   link: "/marcas/fristam"
 barra_azul:
-  titular: Debido a la situación del COVID19, favor escribir a sac@novatec.cr para
+  titular: Debido a la situación del COVID19, favor escribir a ventas@novatec.cr para
     atender sus solicitudes - Nuestras oficinas están abiertas de L-V de  8am a 5:30
     pm
   subtitular: estamos para servirle !!
