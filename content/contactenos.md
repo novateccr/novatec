@@ -28,8 +28,8 @@ menu:
 
 <div class="contact-info"> <h2>Información</h2> <ul> <li> <svg viewBox="0 0 8 8" class="icon"> <use xlink:href="/open-iconic.svg#map-marker"></use> </svg> De Panasonic, 1km al Sur y 1km al Oeste, Ofibodegas Milano, Bodega #31. Radial Santa Ana-Belén </li> <li> <svg viewBox="0 0 8 8" class="icon"> <use xlink:href="/open-iconic.svg#location"></use> </svg> Heredia </li> <li> <svg viewBox="0 0 8 8" class="icon"> <use xlink:href="/open-iconic.svg#inbox"></use> </svg> 650-4005 </li> <li> <svg viewBox="0 0 8 8" class="icon"> <use xlink:href="/open-iconic.svg#globe"></use> </svg> Costa Rica </li> <li> <svg viewBox="0 0 8 8" class="icon"> <use xlink:href="/open-iconic.svg#envelope-closed"></use> </svg> 
 
-</li>info@novatec.cr</li>
+<li>info@novatec.cr</li>
 
-</li> Para cotizaciones: ventas@novatec.cr <li> 
+<li>Para cotizaciones: ventas@novatec.cr</li>
 
 </li> <li> <svg viewBox="0 0 8 8" class="icon"> <use xlink:href="/open-iconic.svg#phone"></use> </svg> +506 2239-1111 </li> <li> <svg viewBox="0 0 8 8" class="icon"> <use xlink:href="/open-iconic.svg#phone"></use> </svg> +506 2239-1212 </li> </ul> </div></div>
