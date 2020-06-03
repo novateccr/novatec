@@ -26,39 +26,9 @@ menu:
 </form>
 </div>
 
-<div class="contact-info">
-<h2>Información</h2>
-<ul>
-<li>
-<svg viewBox="0 0 8 8" class="icon">
-<use xlink:href="/open-iconic.svg#map-marker"></use>
-</svg>
-De Panasonic, 1km al Sur y 1km al Oeste, Ofibodegas Milano, Bodega #31.
-Radial Santa Ana-Belén
-</li>
-<li>
-<svg viewBox="0 0 8 8" class="icon">
-<use xlink:href="/open-iconic.svg#location"></use>
-</svg>
-Heredia
-</li>
-<li>
-<svg viewBox="0 0 8 8" class="icon">
-<use xlink:href="/open-iconic.svg#inbox"></use>
-</svg>
-650-4005
-</li>
-<li>
-<svg viewBox="0 0 8 8" class="icon">
-<use xlink:href="/open-iconic.svg#globe"></use>
-</svg>
-Costa Rica
-</li>
-<li>
-<svg viewBox="0 0 8 8" class="icon">
-<use xlink:href="/open-iconic.svg#envelope-closed"></use>
-</svg>
-info@novatec.cr
+<div class="contact-info"> <h2>Información</h2> <ul> <li> <svg viewBox="0 0 8 8" class="icon"> <use xlink:href="/open-iconic.svg#map-marker"></use> </svg> De Panasonic, 1km al Sur y 1km al Oeste, Ofibodegas Milano, Bodega #31. Radial Santa Ana-Belén </li> <li> <svg viewBox="0 0 8 8" class="icon"> <use xlink:href="/open-iconic.svg#location"></use> </svg> Heredia </li> <li> <svg viewBox="0 0 8 8" class="icon"> <use xlink:href="/open-iconic.svg#inbox"></use> </svg> 650-4005 </li> <li> <svg viewBox="0 0 8 8" class="icon"> <use xlink:href="/open-iconic.svg#globe"></use> </svg> Costa Rica </li> <li> <svg viewBox="0 0 8 8" class="icon"> <use xlink:href="/open-iconic.svg#envelope-closed"></use> </svg> 
+
+INFO@novatec.cr
 
 para cotizaciones: ventas@novatec.cr
 
