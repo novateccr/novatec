@@ -72,6 +72,19 @@
           </a>
         {{ end }}
       </li>
+      <li>
+        {{ if eq .Section "novatec-construccion" }}
+
+        {{ else }}
+          {{ $email := "ventas@novatec.cr" }}
+          <a href="mailto:{{ $email }}" target="_top">
+            <svg viewBox="0 0 8 8" class="icon">
+              <use xlink:href="/open-iconic.svg#envelope-closed"></use>
+            </svg> 
+            {{ $email }}
+          </a>
+        {{ end }}
+      </li>
     </ul>
   </section>
   <section class="footer-section">
