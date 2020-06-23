@@ -1,8 +1,7 @@
 +++
 catalogo = ""
-draft = true
 id = ""
-link = ""
+link = "https://www.stegoindustries.com"
 logo = "/v1592948876/Stego_gw4aqh.jpg"
 meta_description = ""
 meta_keywords = "Setgo, barreras de vapor"
@@ -14,3 +13,5 @@ weight = 1104
 
 +++
 Barreras de vapor y sus accesorios
+
+Conocidos por nuestra línea insignia Stego Wrap de barreras y retardadores de vapor debajo de la losa, nos hemos ganado el respeto, la confianza y la recomendación de las comunidades de arquitectura, ingeniería y construcción
