@@ -2,7 +2,7 @@
 catalogo = ""
 id = ""
 link = "https://www.stegoindustries.com"
-logo = "/v1592948876/Stego_gw4aqh.jpg"
+logo = "/v1592949309/Stego_logo_ceaabb.png"
 meta_description = ""
 meta_keywords = "Setgo, barreras de vapor"
 title = "Stego"
