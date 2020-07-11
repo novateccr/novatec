@@ -46,7 +46,7 @@ barra_azul:
   titular: Debido a la situación del COVID19, favor escribir a ventas@novatec.cr para
     atender sus solicitudes - Nuestras oficinas están  abiertas de L-V de  8am a 5:30
     pm
-  subtitular: estamos para servirle !!
+  subtitular: 'Whatsapp +506 6383-6383 '
 barra_fondo_imagen:
   texto: Con la crisis actual de Covid-19 continuamos laborando con las medidas de
     seguridad respectivas...
@@ -57,4 +57,4 @@ menu:
     weight: "1"
 
 ---
-Whatsapp +506 6383-6383
+estamos para servirle !!
