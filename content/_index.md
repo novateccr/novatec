@@ -48,8 +48,12 @@ barra_azul:
     pm
   subtitular: 'Whatsapp +506 6383-6383 '
 barra_fondo_imagen:
-  texto: Con la crisis actual de Covid-19 continuamos laborando con las medidas de
-    seguridad respectivas...
+  texto: Juntos, enfrentamos una situación verdaderamente sin precedentes. La pandemia
+    global de COVID-19 afecta a nuestras familias, nuestros negocios, nuestras comunidades
+    y nuestra forma de vida. El Grupo Novatec está comprometido con la seguridad de
+    nuestros empleados, familias y comunidades mientras continúa sirviendo a nuestros
+    clientes que cuentan nosotros para mantener en funcionamiento la producción y
+    los procesos críticos.
   imagen: https://res.cloudinary.com/novatec/image/upload/f_auto,q_80/v1530333582/slide3-dark.jpg
 menu:
   principal:
