@@ -1,6 +1,5 @@
 +++
 date = 2020-07-16T06:00:00Z
-draft = true
 featured = true
 imagen_intro = "/v1594932797/Fristam_FPR_nzwynz.png"
 tags = ["FRISTAM"]
@@ -13,7 +12,6 @@ Las bombas centrífugas de la serie FPR reducen el tiempo y esfuerzo de mantenim
 
 **La ventaja de valor para toda la vida de la bomba FPR.**
 
-  
 El sólido diseño, el maquinado de precisión y la robusta construcción de las bombas Fristam aseguran eficiencia y confiabilidad operativa.
 
 Las bombas Fristam simplemente funcionan mejor y duran más tiempo.  
