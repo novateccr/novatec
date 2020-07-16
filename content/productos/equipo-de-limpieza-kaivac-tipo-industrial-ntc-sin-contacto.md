@@ -2,7 +2,7 @@
 catalogo = ""
 categoria = ""
 familias = ["Equipos y sistemas de limpieza", "Neumática"]
-galeria = []
+galeria = ["/v1594934845/Kaivac_NTC_1750_y5qiwu.jpg"]
 id = ""
 imagen = "/v1594934300/Kaivac_NTC_1250_qcy6pv.jpg"
 industrias = []
