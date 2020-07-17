@@ -1,19 +1,20 @@
 +++
 catalogo = "/catalogos/original-mezcaldor-de-polvos.pdf"
 familias = ["Bombas"]
-galeria = []
+galeria = ["/v1595025647/c6671e37-aed4-442a-bcdd-4d7908584dd1_tj1bgi.png"]
 id = 72
-imagen = "/v1530797588/productos/original-mezcaldor-de-polvos.png"
+imagen = "/v1595025692/PM_5981a_3w_1_gdqpd4.jpg"
 industrias = ["Alimentos y Bebidas", "Biofarmacéuticos"]
 marcas = ["Fristam"]
 meta_description = "Mezcladores Fristam, la mejor mezcla en el menor tiempo"
-meta_keywords = ""
+meta_keywords = "mezclador de polvos, fristam, mezclador de polvo"
 taxonomyCover = false
-title = "Mezcaldor de Polvos "
+title = "Mezclador de Polvos "
+titulo_adicional = ""
 weight = 72
 
 +++
-# Una mejor mezcla en menos tiempo
+### Una mejor mezcla en menos tiempo.
 
 Deje de perder su valioso tiempo y dinero en sistemas de mezclado obsoletos, demasiado grandes o que no le brindan el rendimiento necesario.
 
