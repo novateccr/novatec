@@ -1,24 +1,27 @@
 +++
 catalogo = "/catalogos/original-doble-diafragma.pdf"
 familias = ["Bombas"]
-galeria = ["/v1576009224/1050_t6rafs.jpg", "/v1576009019/1050_Aluminum_OL_mjvzaz.jpg"]
+galeria = ["/v1595001368/doble_diafragma_xkf0cf.jpg", "/v1595001257/Bomba_de_doble_diafragma_z7uz7q.jpg"]
 id = 4
-imagen = "/v1530797588/productos/original-doble-diafragma.jpg"
+imagen = "/v1595001257/Bomba_de_doble_diafragma_z7uz7q.jpg"
 industrias = ["Alimentos y Bebidas", "Energía", "Industria Pesada", "Biofarmacéuticos", "Química", "Agrícola", "Ingenios"]
 marcas = ["Graco"]
 meta_description = "Bombas de doble diafragma GRACO tipo Husky de 1/2¨ a 3¨ NPT"
 meta_keywords = "bomba, neumáticas, doble, diafragma, doble diafragma eléctrica"
 taxonomyCover = false
 title = "Bombas Doble Diafragma"
+titulo_adicional = ""
 weight = 4
 
 +++
-<h1 class="producttitle" style="font-size: 22px; color: #000000; width: 620px; margin: 0px 0px 10px; padding-bottom: 5px; background-image: url('http://www.graco.com/etc/designs/graco/default/images/producttitleborder.jpg'); padding-top: 0px; font-family: Arial, Helvetica, sans-serif; line-height: normal; background-position: 0% 1.3em; background-repeat: no-repeat no-repeat;"><span class="productsubtitle" style="display: block; width: 440px; margin: 8px 15px 5px 0px; font-style: italic; font-size: 80% !important;">Bombas de doble diafragma neumáticas</span></h1>
-<h2 class="producttag" style="color: #313131; width: 440px; margin: 0px 0px 10px; padding-top: 0px; line-height: normal; font-size: 100% !important;">Bombas de doble diafragma, disponibles en tamaños que van desde 1/4 de pulgada (6,3 mm) a 3 pulgadas (76,2 mm)</h2>
-<h2 class="producttag" style="color: #313131; width: 440px; margin: 0px 0px 10px; padding-top: 0px; line-height: normal; font-size: 100% !important;">Serie e-Husky - Eléctricas !!</h2>
-<p> </p>
-<p> </p>
-<p> Video...</p>
-<p> </p>
+Las **bombas neumáticas** de Husky tienen multitud de características para que siempre haga bien su trabajo y están diseñadas para ahorrar dinero.
+
+#### Ventajas de las bombas neumáticas de doble diafragma de Husky
+
+* **Estructura robusta:** resistente a la corrosión, rendimiento fiable y larga vida útil.
+* **Diseñadas para durar:** diseño resistente para una larga vida útil, una mayor productividad y un menor coste de propiedad.
+* **Caudales y medidas:** hasta 300 gpm (1135 lpm) / tamaño de los puertos desde ¼” a 3” en roscas NPT, BSP y opciones de brida.
+* **Fácil mantenimiento:** Las bombas Husky tienen menos componentes que otras bombas del mercado y la válvula neumática es completamente accesible desde fuera, así que se puede reparar y mantener de manera rápida y sencilla sin tener que desmontar la bomba.
+* **Válvula neumática modular:** las válvulas neumáticas de baja pulsación y sin pérdidas ofrecen conmutaciones rápidas y fluidas, aumentando la eficacia y disminuyendo el tiempo de parada.
 
 {{< youtube 7mkKrZvFxP8 >}}
