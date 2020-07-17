@@ -2,7 +2,7 @@
 catalogo = "/catalogos/original-centrifugas.pdf"
 categoria = ""
 familias = ["Bombas"]
-galeria = ["/v1566006531/megacpk-KSB1_eqdko2.png", "/v1582866757/es000807-pumpmeter_llzlou.png", "/v1582866978/pic-pumpmeter-auswertung-des-lastprofil_v8z1pj.jpg"]
+galeria = ["/v1566006531/megacpk-KSB1_eqdko2.png", "/v1595012749/pic-pumpmeter-auswertung-des-lastprofil_v8z1pj-gigapixel-scale-2_00x_itcwmk.jpg", "/v1582866757/es000807-pumpmeter_llzlou.png"]
 id = 7
 imagen = "/v1566006531/megacpk-KSB1_eqdko2.png"
 industrias = ["Alimentos y Bebidas", "Energía", "Biofarmacéuticos"]
@@ -20,7 +20,7 @@ weight = 7
 
 Bombas de agua centrifugas KSB, tipo: MegaCpk, hydrobloc, etc y opcional **con** [**motores sincrónicos**](https://www.novatec.cr/productos/motores/ "KSB SuPremE") de super alta eficiencia.
 
-Bombas para agua y otros fluidos, contactenos...
+Bombas para agua y otros fluidos, contáctenos.
 
 **PumpMeter**
 
