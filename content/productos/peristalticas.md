@@ -2,7 +2,7 @@
 catalogo = "/catalogos/original-peristalticas.pdf"
 categoria = ""
 familias = ["Bombas"]
-galeria = ["/v1595005360/Bombas_peristalticas_k7adjv.jpg"]
+galeria = ["/v1595005333/bomba_peristaltica_fdt8xg.jpg"]
 id = 5
 imagen = "/v1595005360/Bombas_peristalticas_k7adjv.jpg"
 industrias = ["Alimentos y Bebidas", "Energía", "Biofarmacéuticos"]
@@ -33,8 +33,6 @@ Tecnología de la bomba para manguera peristáltica.
 
 • Vida extendida de la manguera: solo una compresión de la manguera por revolución.
 
-![](https://res.cloudinary.com/novatec/v1595005333/bomba_peristaltica_fdt8xg.jpg)
-
-#### **Ventajas exclusivas.**
+**Ventajas exclusivas.**
 
 Las bombas de desplazamiento positivo con manguera de Graco rotan 360 grados completos. Como usan un único rodillo para comprimir la manguera una vez por revolución, sus mangueras duran más para que tenga menos mantenimiento y tiempo de inactividad.
