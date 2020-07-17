@@ -2,7 +2,7 @@
 catalogo = "/catalogos/original-doble-diafragma-sanitarias.pdf"
 categoria = ""
 familias = ["Bombas"]
-galeria = []
+galeria = ["/v1595029890/saniforce_2150_tpldxi.jpg"]
 id = 128
 imagen = "/v1530797588/productos/original-doble-diafragma-sanitarias.jpg"
 industrias = ["Alimentos y Bebidas", "Dispositivos Médicos", "Biofarmacéuticos"]
@@ -22,7 +22,15 @@ weight = 128
 
 Las bombas neumáticas de doble diafragma sanitarias SaniForce 2150 de Graco tienen una de las mejores y más durables válvulas sin lubricante de la industria. Ideales para aplicaciones que requieren altos caudales y portabilidad, las bombas de diafragma Graco son confiables y ofrecen una amplia variedad de elastómeros de calidad alimentaria, incluyendo Santoprene, PTFE y EPDM/PTFE sobremoldeados.
 
-![](https://res.cloudinary.com/novatec/v1595029890/saniforce_2150_tpldxi.jpg)Tenemos variedad de modelos para las bombas Saniforce, consúltenos !
+![](https://res.cloudinary.com/novatec/v1595029890/saniforce_2150_tpldxi.jpg)
+
+#### **Bomba de doble diafragma SaniForce 1040**
+
+Las bombas neumáticas de doble diafragma sanitarias SaniForce 1040 de Graco tienen una de las mejores y más durables válvulas de aire sin lubricante de la industria. Ideales para aplicaciones que requieren altos caudales y portabilidad, las bombas de diafragma Graco son confiables y ofrecen una amplia variedad de elastómeros de calidad alimentaria, incluyendo Santoprene, PTFE y EPDM/PTFE sobremoldeados.
+
+![](https://res.cloudinary.com/novatec/v1595030294/_jcr_content_3_vjoe2s.jpg)
+
+Tenemos variedad de modelos para las bombas Saniforce, consúltenos !
 
 #### Video del Desarme de la bomba
 
