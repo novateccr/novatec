@@ -2,7 +2,7 @@
 catalogo = "/catalogos/original-peristalticas.pdf"
 categoria = ""
 familias = ["Bombas"]
-galeria = ["/v1595005988/graco-peristalticas1_kxa3rp.png"]
+galeria = []
 id = 5
 imagen = "/v1595005360/Bombas_peristalticas_k7adjv.jpg"
 industrias = ["Alimentos y Bebidas", "Energía", "Biofarmacéuticos"]
@@ -32,6 +32,8 @@ Tecnología de la bomba para manguera peristáltica.
 • El accionamiento integral y el motor pueden funcionar a una velocidad tan baja como 1 rpm 
 
 • Vida extendida de la manguera: solo una compresión de la manguera por revolución.
+
+![](https://res.cloudinary.com/novatec/v1595005685/graco-peristalticas_exqyyu.png)
 
 **Ventajas exclusivas.**
 
