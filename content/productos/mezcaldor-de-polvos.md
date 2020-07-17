@@ -27,6 +27,4 @@ La mezcladora de polvos Fristam permite mezclar rápidamente y con alto rendimie
 * Elimina el uso de Escaleras
 * Adaptable a Diferentes Tamaños, Configuraciones Y Opciones.
 
-Consúltenos!...
-
-{{<[http://www.fristam.com/portals/0/Videos/FristamPowderMixerSD.mp4](http://www.fristam.com/portals/0/Videos/FristamPowderMixerSD.mp4 "http://www.fristam.com/portals/0/Videos/FristamPowderMixerSD.mp4")>}}
+Consúltenos!
