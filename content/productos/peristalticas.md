@@ -27,7 +27,9 @@ Tecnología de la bomba para manguera peristáltica.
 
 • Más flujo por revolución que los diseños convencionales 
 
-• Mantenimiento económico: ninguna válvula, junta o casquillo • Las bombas son reversibles y pueden ser utilizadas para vaciar líneas o despejar obstrucciones 
+• Mantenimiento económico: ninguna válvula, junta o casquillo 
+
+• Las bombas son reversibles y pueden ser utilizadas para vaciar líneas o despejar obstrucciones 
 
 • El accionamiento integral y el motor pueden funcionar a una velocidad tan baja como 1 rpm 
 
