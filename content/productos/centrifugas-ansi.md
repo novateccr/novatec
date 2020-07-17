@@ -1,26 +1,31 @@
 +++
 catalogo = "/catalogos/original-centrifugas-ansi.pdf"
 familias = ["Bombas"]
-galeria = ["/v1566006001/megacpk-KSB_be4dfc.png"]
+galeria = ["/v1595024651/Ancichem_vh9sxd.png"]
 id = 8
-imagen = "/v1530797588/productos/original-centrifugas-ansi.jpg"
+imagen = "/v1595024651/Ancichem_vh9sxd.png"
 industrias = ["Alimentos y Bebidas", "Energía", "Biofarmacéuticos"]
 marcas = ["Flowserve", "KSB"]
 meta_description = "bombas KSB tipo ANSI, ISO para uso robusto"
 meta_keywords = "ANSI, ISO"
 taxonomyCover = false
 title = "Centrifugas ANSI"
+titulo_adicional = ""
 weight = 8
 
 +++
-Q max:1.160,0 m³/hH max:162,0 m
+**KSB Ansichem**
 
-***
+BOMBA DE PROCESO QUÍMICO.
 
-Bomba horizontal monoetapa de voluta partida radialmente, diseño “back pull-out”, aspiración simple, impulsor radial, según ISO 2858 / ISO 5 ...
+Les ofrecemos un equipo proyectado y fabricado siguiendo la más avanzada tecnología, que por su construcción sencilla y robusta necesitará de poca manutención para proporcionarles satisfacción y tranquilidad a nuestros clientes.
 
-ANSITEX, MEGAFLOW, MEGACPK
+**La bomba ANSICHEM es horizontal, con impulsor en balance, etapa sencilla con impulsor totalmente abierto que atiende a los requisitos de la norma ANSI B73.1.** 
 
-[**MÁS DETALLES **](https://products.ksb.com/es-cl/productos/sistemas-de-bombeo-y-bombas/bombas-centr%C3%ADfugas-con-sellado-del-eje/bombas-de-carcasa-de-voluta/megacpk-31366)[**CONFIGURAR**](https://www.ksb.com/ksb-cl-es/KSB-EasySelect/)
+Cuerpo de la bomba:
 
-[**Documentación**](https://products.ksb.com/es-cl/productos/sistemas-de-bombeo-y-bombas/bombas-centr%C3%ADfugas-con-sellado-del-eje/bombas-de-carcasa-de-voluta/megacpk-31366#productDocument)
+Cuerpo de voluta única, fundido en una pieza con pies bajo el cuerpo, lo que proporciona máxima resistencia a la pérdida de alineamiento y distorsión de las cargas de la tubería. 
+
+Corrosión permitida de 1/8” (aprox. 3,2 mm). Presión vertical en la línea de centro. El encaje cuerpotapa está confinado para prevenir derrames. Las toberas de succión y presión tienen bridas de 150 lb. y 300 lb. de acuerdo con las normas ANSI B16.42 / B16.5. 
+
+Está proyectada para NPSH bajo y alta eficiencia. El empuje axial se minimiza con paletas traseras
