@@ -2,7 +2,7 @@
 catalogo = "/catalogos/original-calderas.pdf"
 categoria = ""
 familias = ["Bombas"]
-galeria = []
+galeria = ["/v1595029331/7053-12964578_dwtfw2.jpg"]
 id = 11
 imagen = "/v1595029299/pic-multitec-teaser_llxlrq.png"
 industrias = ["Alimentos y Bebidas", "Energía", "Biofarmacéuticos"]
@@ -16,9 +16,7 @@ titulo_adicional = ""
 weight = 11
 
 +++
-![](https://res.cloudinary.com/novatec/v1595029331/7053-12964578_dwtfw2.jpg)
-
-##### **Bomba Multitec, marca KSB.**
+#### **Bomba Multitec, marca KSB.**
 
 Bomba centrífuga horizontal o vertical de cuerpo segmentado, multietapa, versión en bancada o monobloc, de aspiración axial o radial, con impulsores radiales fundidos y sistema de regulación de velocidad montado sobre motor. Disponible en versión ATEX.
 
@@ -62,10 +60,10 @@ calderas.
 
 ■ Sistemas de recuperación de calor.
 
-**Bombas Movitec marca KSB.**
+#### **Bombas Movitec marca KSB.**
 
-###### Energéticamente eficiente y fiable: las bombas Movitec de alta presión
+#### Energéticamente eficiente y fiable: las bombas Movitec de alta presión
 
-###### Con un amplio rango de variantes de diseño, las bombas Movitec son capaces de trabajar en infinidad de aplicaciones. La bomba Movitec es la solución perfecta para nuestros clientes, garantizando un alto rendimiento en diversas áreas de funcionamiento. Gracias al desarrollo sistemático de los materiales, así como las variantes de conexión y sellados, Movitec se ajusta a un mayor número de tareas.
+#### Con un amplio rango de variantes de diseño, las bombas Movitec son capaces de trabajar en infinidad de aplicaciones. La bomba Movitec es la solución perfecta para nuestros clientes, garantizando un alto rendimiento en diversas áreas de funcionamiento. Gracias al desarrollo sistemático de los materiales, así como las variantes de conexión y sellados, Movitec se ajusta a un mayor número de tareas.
 
 ![](https://res.cloudinary.com/novatec/v1595029462/movitec-img-data_zfw8y0.jpg)
