@@ -1,7 +1,7 @@
 +++
 catalogo = "/catalogos/original-aceite.pdf"
 familias = ["Bombas"]
-galeria = ["/v1595020843/7053-3799421_qjk19j.jpg", "/v1595020794/E12B-Etaline-SYT_cwajfc.jpg", "/v1595020201/ethanorm_hfon1d.jpg"]
+galeria = ["/v1595020794/E12B-Etaline-SYT_cwajfc.jpg", "/v1595020201/ethanorm_hfon1d.jpg"]
 id = 10
 imagen = "/v1595020309/etanorm_ho7xcr.png"
 industrias = ["Alimentos y Bebidas", "Energía", "Biofarmacéuticos"]
