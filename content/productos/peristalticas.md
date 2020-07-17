@@ -2,7 +2,7 @@
 catalogo = "/catalogos/original-peristalticas.pdf"
 categoria = ""
 familias = ["Bombas"]
-galeria = ["/v1595005333/bomba_peristaltica_fdt8xg.jpg"]
+galeria = ["/v1595005685/graco-peristalticas_exqyyu.png"]
 id = 5
 imagen = "/v1595005360/Bombas_peristalticas_k7adjv.jpg"
 industrias = ["Alimentos y Bebidas", "Energía", "Biofarmacéuticos"]
