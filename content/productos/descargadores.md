@@ -34,6 +34,18 @@ De presentación estándar con un sello con placa dentada inflable, el Descargad
 
 ![](https://res.cloudinary.com/novatec/v1595008826/1250_zm1gy0.jpg)
 
-Entre otros más, consulte con nuestros asesores por toda nuestra línea.
+**SaniForce BES.**
+
+Ahorre tiempo y dinero en su establecimiento descargando materiales de forma eficiente desde contenedores de "bolsa en contenedor" de 300 galones (1.135,6 l) utilizando el Sistema de evacuación de contenedor (BES, por sus siglas en inglés) SaniForce, eliminando la recolección manual o el vertido en el contenedor.  
+  
+La descarga completa del contenedor ahorra costos de evaporación de agua y proporciona un mejor control del proceso, al tiempo que elimina la necesidad de costosas bombas impulsoras.
+
+![](https://res.cloudinary.com/novatec/v1595024098/_jcr_content_weqnbq.jpg)
+
+**SaniForce 3150 BES.**
+
+El sistema de evacuación de contenedor (BES) SaniForce 3150 evacúa productos viscosos de sus contenedores originales de 300 galones sin diluir el material. De presentación estándar con un sello con placa dentada inflable, el BES permite un rápido reemplazo del contenedor vacío. Una versión completamente neumática se encuentra disponible para aplicaciones que no requieren medición o control de lote y una versión electrónica está disponible para las aplicaciones que sí lo requieren.
+
+![](https://res.cloudinary.com/novatec/v1595024153/_jcr_content_1_wzdozc.jpg)Entre otros más, consulte con nuestros asesores por toda nuestra línea.
 
 {{< youtube McXQZ6xanO8 >}}
