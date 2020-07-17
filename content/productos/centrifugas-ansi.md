@@ -1,7 +1,7 @@
 +++
 catalogo = "/catalogos/original-centrifugas-ansi.pdf"
 familias = ["Bombas"]
-galeria = ["/v1595024651/Ancichem_vh9sxd.png"]
+galeria = ["/v1595025047/Ancichem-gigapixel-scale-2_00x_ydbmzk.png"]
 id = 8
 imagen = "/v1595024651/Ancichem_vh9sxd.png"
 industrias = ["Alimentos y Bebidas", "Energía", "Biofarmacéuticos"]
