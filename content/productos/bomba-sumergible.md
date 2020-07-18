@@ -2,7 +2,7 @@
 catalogo = ""
 categoria = ""
 familias = ["Bombas"]
-galeria = ["/v1595034855/upa-teaser-pic-data_n8kdis.jpg", "/v1595034804/submersible-pumps-ksb_ojlb37.jpg"]
+galeria = ["/v1595035114/submersible-pumps-ksb-gigapixel-scale-2_00x_yueyh0.jpg", "/v1595034855/upa-teaser-pic-data_n8kdis.jpg"]
 id = ""
 imagen = "/v1595034804/submersible-pumps-ksb_ojlb37.jpg"
 industrias = ["Alimentos y Bebidas"]
