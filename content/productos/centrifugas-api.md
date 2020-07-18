@@ -4,7 +4,7 @@ categoria = ""
 familias = ["Bombas"]
 galeria = ["/v1566004987/rph-KSB_udpu2k.png"]
 id = 111
-imagen = "/v1530797588/productos/original-centrifugas-api.jpg"
+imagen = "/v1595031835/rph-KSB_udpu2k_osnbih.png"
 industrias = ["Energía", "Industria Pesada"]
 marcas = ["Flowserve", "KSB"]
 meta_description = "Bombas de proceso robusta KSB tipo RPH API -610 y ISO 13709 "
@@ -12,6 +12,7 @@ meta_keywords = "Bomba API, RPH"
 taxonomyCover = false
 title = "Centrifugas API"
 titulo = ""
+titulo_adicional = ""
 weight = 111
 
 +++
