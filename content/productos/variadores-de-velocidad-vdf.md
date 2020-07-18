@@ -2,7 +2,7 @@
 catalogo = "https://shop.ksb.com/ims_docs/00/00215A9B03CC1EE8B0B929CCCE3315D6.pdf"
 categoria = ""
 familias = ["Bombas"]
-galeria = ["/v1595035938/7053-12964794_s7x214-gigapixel-scale-4_00x_fn5sw2.jpg", "/v1595035709/pic-gal-3-2und-anlagen_jpjy3s-gigapixel-scale-4_00x_rmdqzv.jpg"]
+galeria = ["/v1595036200/es000898-pumpdrive-r-2_p456bg-gigapixel-scale-4_00x_vsydnt.png", "/v1595036026/pic-gal-3-1-pumpdrive-und-pumpdrive-eco_d0i19z-gigapixel-scale-4_00x_m0n1fe.jpg", "/v1595035938/7053-12964794_s7x214-gigapixel-scale-4_00x_fn5sw2.jpg", "/v1595035709/pic-gal-3-2und-anlagen_jpjy3s-gigapixel-scale-4_00x_rmdqzv.jpg"]
 id = ""
 imagen = "/v1582834497/pumpdrive-r_potkue.png"
 industrias = ["Alimentos y Bebidas", "Industria", "Dispositivos Medicos"]
