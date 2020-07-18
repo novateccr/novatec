@@ -2,7 +2,7 @@
 catalogo = "KSB"
 categoria = ""
 familias = ["Bombas"]
-galeria = ["/v1595031727/HYAMATT_kdacae.png", "/v1595031659/SPC_ltmnb3.png"]
+galeria = ["/v1595032259/HYAMATT-gigapixel-scale-2_00x_r77q86.png", "/v1595032058/SPC-gigapixel-scale-2_00x_hejocu.png"]
 id = ""
 imagen = "/v1566671346/KSB-hyamat-svp_hjgsou.png"
 industrias = ["Alimentos y Bebidas", "energía", "Dispositivos Médicos", "Biofarmaceuticos", "Comercial Construccion", "Electrónica"]
