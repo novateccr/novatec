@@ -2,7 +2,7 @@
 catalogo = "/catalogos/original-calderas.pdf"
 categoria = ""
 familias = ["Bombas"]
-galeria = ["/v1595029331/7053-12964578_dwtfw2.jpg"]
+galeria = ["/v1595030598/7053-12964578-gigapixel-scale-2_00x_iy7dbg.jpg"]
 id = 11
 imagen = "/v1595029299/pic-multitec-teaser_llxlrq.png"
 industrias = ["Alimentos y Bebidas", "Energía", "Biofarmacéuticos"]
