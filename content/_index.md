@@ -43,9 +43,9 @@ slides:
   published: true
   link: "/marcas/fristam"
 barra_azul:
-  titular: 'Debido a la situación del COVID19, para una mejor atención favor escribir
-    a sac@novatec.cr o a el WhatsApp +506 6383-6383 '
-  subtitular: El ingreso a nuestras oficinas está más restringido !!
+  titular: Debido a la situación del COVID19, para una mejor atención favor escribir
+    a sac@novatec.cr - El ingreso a nuestras oficinas estará más restringido !!
+  subtitular: 'WhatsApp +506 6383-6383 '
 barra_fondo_imagen:
   texto: Juntos, enfrentamos una situación verdaderamente sin precedentes. La pandemia
     global de COVID-19 afecta a nuestras familias, nuestros negocios, nuestras comunidades
