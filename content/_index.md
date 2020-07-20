@@ -43,10 +43,9 @@ slides:
   published: true
   link: "/marcas/fristam"
 barra_azul:
-  titular: Debido a la situación del COVID19, favor escribir a ventas@novatec.cr para
-    atender sus solicitudes - Nuestras oficinas están  abiertas de L-V de  8am a 5:30
-    pm
-  subtitular: 'WhatsApp +506 6383-6383 '
+  titular: 'Debido a la situación del COVID19, para una mejor atención favor escribir
+    a sac@novatec.cr o a el WhatsApp +506 6383-6383 '
+  subtitular: El ingreso a nuestras oficinas está más restringido !!
 barra_fondo_imagen:
   texto: Juntos, enfrentamos una situación verdaderamente sin precedentes. La pandemia
     global de COVID-19 afecta a nuestras familias, nuestros negocios, nuestras comunidades
