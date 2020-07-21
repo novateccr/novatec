@@ -1,11 +1,11 @@
 +++
 catalogo = "KSB"
 categoria = ""
-familias = ["Bombas"]
+familias = ["Bombas  "]
 galeria = ["/v1595032259/HYAMATT-gigapixel-scale-2_00x_r77q86.png", "/v1595032058/SPC-gigapixel-scale-2_00x_hejocu.png"]
 id = ""
 imagen = "/v1566671346/KSB-hyamat-svp_hjgsou.png"
-industrias = ["Alimentos y Bebidas", "energía", "Dispositivos Médicos", "Biofarmaceuticos", "Comercial Construccion", "Electrónica"]
+industrias = ["Alimentos y Bebidas", "energía", "Dispositivos Médicos", "Comercial Construccion", "Electrónica"]
 marcas = ["KSB"]
 meta_description = "Sistema de presión constante, Ksb, bombas, variador"
 meta_keywords = "Ksb, Presión constante, hyamat"
