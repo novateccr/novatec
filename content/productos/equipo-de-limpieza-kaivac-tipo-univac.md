@@ -1,7 +1,7 @@
 +++
 catalogo = ""
 categoria = ""
-familias = ["Equipos de limpieza", "neumatica"]
+familias = ["Equipos y sistemas de limpieza", "Neumática"]
 galeria = ["/v1595457332/Univac-Specs_blwcup.jpg"]
 id = ""
 imagen = "/v1595457332/Univac-Specs_blwcup.jpg"
