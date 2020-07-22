@@ -2,7 +2,7 @@
 catalogo = ""
 categoria = ""
 familias = ["Equipos y sistemas de limpieza", "Neumática"]
-galeria = ["/v1595453286/autovac1_lwlex0.png", "/v1595453013/autovac_pqy91x.png"]
+galeria = ["/v1595454860/autovac2_aucpso.png", "/v1595453013/autovac_pqy91x.png"]
 id = ""
 imagen = "/v1594251355/Kaivac_AutoVac_dhe2h7.jpg"
 industrias = []
