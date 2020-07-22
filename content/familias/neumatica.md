@@ -1,7 +1,7 @@
 ---
 title: Equipos y sistemas de limpieza
 id: "8"
-imagen: ''
+imagen: "/v1530801710/familias/8e5e1bf0bd47cb0c7230dc4313cb6445-neumatica2.jpg"
 link: ''
 catalogo: ''
 meta_keywords: ''
@@ -13,4 +13,3 @@ menu:
     weight: 8
 
 ---
-![](https://res.cloudinary.com/novatec/v1595456243/Kaivac-no-touch-cleaning-2150_1_p0yjiw.jpg)
