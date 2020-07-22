@@ -2,7 +2,7 @@
 catalogo = ""
 categoria = ""
 familias = ["Equipos y sistemas de limpieza", "Neumática"]
-galeria = ["/v1595456280/cleaning-compressor_xs6rbb.png", "/v1595456243/Kaivac-no-touch-cleaning-2150_1_p0yjiw.jpg"]
+galeria = ["/v1595456551/kv2150_rdhabs.jpg", "/v1595456280/cleaning-compressor_xs6rbb.png"]
 id = ""
 imagen = "/v1595456243/Kaivac-no-touch-cleaning-2150_1_p0yjiw.jpg"
 industrias = []
