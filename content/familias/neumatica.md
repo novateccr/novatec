@@ -1,7 +1,7 @@
 ---
 title: Equipos y sistemas de limpieza
 id: "8"
-imagen: "//kvfiles.com/p/AutoVac-Stretch-Angled-Right-Rear.jpg"
+imagen: "/v1530801710/familias/kvfiles.com/p/AutoVac-Stretch-Angled-Right-Rear.jpg"
 link: ''
 catalogo: ''
 meta_keywords: ''
