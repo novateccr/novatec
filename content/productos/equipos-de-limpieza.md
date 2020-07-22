@@ -2,7 +2,7 @@
 catalogo = ""
 categoria = ""
 familias = ["Equipos y sistemas de limpieza", "Neumática"]
-galeria = ["/v1594252212/Kaivac_AutoVac_-_Lim_edlo1a.jpg"]
+galeria = ["/v1595453286/autovac1_lwlex0.png", "/v1595453013/autovac_pqy91x.png"]
 id = ""
 imagen = "/v1594251355/Kaivac_AutoVac_dhe2h7.jpg"
 industrias = []
@@ -18,7 +18,36 @@ weight = ""
 +++
 Conozca Kaivac AutoVac - Stretch. La tecnología de limpieza de suciedad extrema de Kaivac, en combinación con la fuente de energía de iones de litio de cambio rápido, y la opción de reciclaje de un solo llenado permite un rango de limpieza nunca antes visto en una máquina empujable – sin pérdida de efectividad de limpieza. Ofrece el desempeño de un fregador automático a una fracción del costo y complejidad.
 
+**Puntos destacados:**
+
+\* Limpia más de 25,000 pies cuad. por hora.
+
+\* Rinde 25,000 pies cuad. o más.
+
+\* Agregue una segunda fuente de  
+energía para un mayor rango de  
+limpieza.
+
+\* Elimina el  99% de suciedad.
+
+\* Reduce el consumo de agua un 75%  
+o más.
+
+\* Reduce el consumo de químicos de  
+limpieza un 66% o más.
+
+\* Fácil de aprender y usar con el  
+sistema de capacitación en video  
+KaiTutor™.
+
+\* Fácil de mantener y reparar.
+
+\* Costo de propiedad sumamente bajo.
+
+\* Cumple con los requisitos de LEED  
+en cuanto a equipo de limpieza  
+sustentable.
+
 **PERFECTO PARA:**
 
-Pasillos, Recepciones, Cafeterías, Gimnasios, Almacenes, Talleres  
-Cuidado de la salud, Educación, Almacenes, entre otros...
+Pasillos, Recepciones, Cafeterías, Gimnasios, Almacenes, Talleres, Cuidado de la salud, Educación, Almacenes, entre otros.
