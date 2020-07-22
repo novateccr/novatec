@@ -46,7 +46,7 @@ Está diseñado para eliminar el 100% de gases y agua libres (en estado estacion
 
 También esta diseñado para eliminar contaminantes sólidos, con eficiencia de 99.9% (hasta 3 micras).
 
-### ![](https://res.cloudinary.com/novatec/v1595458251/831859ce-52fe-4ac2-b4e7-18cdcbbfd363_yk8jcn.png)**Ventajas clave:**
+### **Ventajas clave:**
 
 **Rendimiento mejorado del sistema:**
 
