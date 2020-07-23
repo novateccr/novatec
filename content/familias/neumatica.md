@@ -1,7 +1,7 @@
 ---
 title: Equipos y sistemas de limpieza
 id: "8"
-imagen: https://res.cloudinary.com/novatec/image/upload/v1595456785/AutoVac-Stretch-Specs_1_ghiw0i.jpg
+imagen: "/v1595456785/AutoVac-Stretch-Specs_1_ghiw0i.jpg"
 link: ''
 catalogo: ''
 meta_keywords: ''
