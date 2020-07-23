@@ -1,6 +1,7 @@
 +++
 catalogo = ""
 categoria = ""
+draft = true
 familias = ["Equipos y sistemas de limpieza", "Neumática"]
 galeria = ["/v1595544238/KAIKAIBLOOEY-gigapixel-scale-4_00x_h2lmex.jpg"]
 id = ""
