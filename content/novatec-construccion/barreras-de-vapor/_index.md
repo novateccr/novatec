@@ -1,5 +1,5 @@
 ---
-title: Barreras De Vapor
+title: Barreras de Vapor
 id: "7"
 imagen: "/v1595522704/barrera_de_vapor_cyzkyo.png"
 meta_keywords: ''
