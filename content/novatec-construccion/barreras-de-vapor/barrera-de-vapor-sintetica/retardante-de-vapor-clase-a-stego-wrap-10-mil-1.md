@@ -6,11 +6,7 @@ ncmarcas = ["WR Meadows"]
 title = "Retardante de Vapor clase A STEGO™ WRAP 10-MIL"
 
 +++
-## CINTA STEGO®
-
-Baja adherencia, gran adherencia a largo plazo.
-
-Stego Tape es una cinta de baja permeabilidad diseñada para aplicaciones protectoras de sellado, colgado, costura, empalme y parchado donde se requiere un material altamente conformable. Esta cinta sensible a la presión está diseñada para adherirse específicamente a Stego Wrap (Barrera de Vapor), por lo que es ideal para sellar costuras y penetraciones de Stego Wrap. Stego Tape está hecho de una película de polietileno y un acrílico y puede sellar, unir y unir a plásticos, madera, acero y otros sustratos.
+## Ce baja permeabilidad diseñada para aplicaciones protectoras de sellado, colgado, costura, empalme y parchado donde se requiere un material altamente conformable. Esta cinta sensible a la presión está diseñada para adherirse específicamente a Stego Wrap (Barrera de Vapor), por lo que es ideal para sellar costuras y penetraciones de Stego Wrap. Stego Tape está hecho de una película de polietileno y un acrílico y puede sellar, unir y unir a plásticos, madera, acero y otros sustratos.
 
 ![](https://res.cloudinary.com/novatec/v1595528486/tape_uyfaw4.png)
 
