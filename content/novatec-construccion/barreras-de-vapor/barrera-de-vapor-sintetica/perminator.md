@@ -1,9 +1,9 @@
 +++
-title = "Perminator"
+draft = true
 id = 34
-ncmarcas = ["WR Meadows"]
-draft = false
 imagen = "/v1532656894/construccion/35.jpg"
-+++
+ncmarcas = ["WR Meadows"]
+title = "Perminator"
 
++++
 <!--more-->
