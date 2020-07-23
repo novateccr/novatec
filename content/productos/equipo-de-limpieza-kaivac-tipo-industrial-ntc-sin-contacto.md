@@ -54,7 +54,7 @@ Cuando se trata de baños y otras áreas muy sucias, nada supera a la limpieza p
 
 Lograr resultados excelentes y consistentes es fácil con estos sistemas patentados. Simplemente aplique una solución de limpieza diluida automáticamente a los accesorios y pisos con un rociador de ventilador de baja presión, y luego enjuague las superficies y pisos con agua limpia y siempre fresca. La potencia incorporada de la lavadora a presión interior elimina la suciedad de las líneas de lechada y los lugares estrechos que los trapeadores no pueden alcanzar. Finalmente, simplemente aspire el piso en seco, eliminando completamente la suciedad, la humedad y los contaminantes de todas las superficies, líneas de lechada y grietas, dejando el piso prácticamente seco y sin suciedad.
 
-![](https://res.cloudinary.com/novatec/v1595536390/KV1250-Specs_1_eb5rzd.jpg)
+![](https://res.cloudinary.com/novatec/v1595537222/KV1250-Specs_1_mod8zo.png)
 
 ## KaiVac 1750:
 
