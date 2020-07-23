@@ -63,4 +63,6 @@ Uso en aplicaciones donde se requiere un material altamente conformable
 
 Disponible a nivel nacional, consúltenos!
 
-### [Descargue aquí la ficha técnica.]() 
+### Descargue aquí la ficha técnica. 
+
+### [https://synology01.novatec.cr:5001/d/f/542805218717377603](https://synology01.novatec.cr:5001/d/f/542805218717377603 "https://synology01.novatec.cr:5001/d/f/542805218717377603")
