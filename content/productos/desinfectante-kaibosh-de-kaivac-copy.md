@@ -1,28 +1,25 @@
 +++
 catalogo = ""
 categoria = ""
-draft = true
 familias = ["Equipos y sistemas de limpieza", "Neumática"]
-galeria = ["/v1595545335/kaibosh-gigapixel-scale-4_00x_iq74v5.png"]
+galeria = ["/v1595545980/KAIKNPK-gigapixel-scale-4_00x_gbhagu.jpg"]
 id = ""
-imagen = "/v1595545081/kaibosh_oe3lpy.png"
+imagen = "/v1595545980/KAIKNPK-gigapixel-scale-4_00x_gbhagu.jpg"
 industrias = []
 marcas = ["Kaivac"]
-meta_description = "Desinfectante KaiBosh de Kaivac"
-meta_keywords = "Desinfectante, Kaibosh, Kaivac, COVID-19"
+meta_description = "Limpiador Neutral Floor de Kaivac"
+meta_keywords = "Limpiador Neutral Floor, Kaivac"
 taxonomyCover = false
-title = "Desinfectante KaiBosh de Kaivac-(copy)"
+title = "Limpiador Neutral Floor de Kaivac"
 titulo = ""
 titulo_adicional = ""
 weight = ""
 
 +++
-# **KaiBosh**:
+# Limpiador Neutral Floor:
 
-**KaiBosh es un limpiador desinfectante concentrado de uso hospitalario sin enjuague para COVID-19 (coronavirus), norovirus, gripe aviar y porcina y más, que desinfecta y limpia en un solo paso para ahorrar trabajo.** 
+Un limpiador diario con pH neutro que es duro en los suelos pero suave en los pisos y acabados. Funciona muy bien en prácticamente cualquier piso de superficie dura, como vinilo, piedra, concreto pulido, mármol, caucho, epoxi, granito, cerámica y más. Es ideal para usar con OmniFlex AutoVac, pero también se puede aplicar usando un depurador automático o un sistema de limpieza.
 
-Como todos los productos químicos de Kaivac, KaiBosh es perfecto para usar con nuestros sistemas de vacío húmedo. 
+Como todos los productos químicos de Kaivac, este limpiador neutro está diseñado específicamente para su uso con nuestros sistemas de vacío húmedo. De hecho, tenemos tanta confianza en el rendimiento y la idoneidad de nuestros productos químicos que ofrecemos una garantía de por vida en nuestro motor de vacío OmniFlex a los clientes que los usan exclusivamente.
 
-Con demasiada frecuencia, los usuarios simplemente aplican detergentes de limpieza comunes o jabones de trapeador cuando limpian y luego los aspiran sin cuidado. Esto es como verter jabón estándar en un lavavajillas automático. El resultado es predecible: espuma extrema, llenando el tanque de vacío con espuma inútil y provocando un cierre prematuro. Peor aún, el exceso de espuma tiene el potencial de dañar el motor de vacío. 
-
-Tenemos tanta confianza en el rendimiento y la idoneidad de nuestros productos químicos que ampliamos la garantía de nuestros equipos a los clientes que los usan exclusivamente. Ahora también disponible en 8 oz. paquetes proporcionados previamente.
+También disponible en jarras de 1 galón.
