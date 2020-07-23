@@ -69,7 +69,6 @@ fields:
     required: false
   label: Titulo adicional
 pages:
-- content/novatec-construccion/barreras-de-vapor/tape-stego.md
 - content/productos/_index.md
 - content/productos/aceite.md
 - content/productos/actuadores-sistemas-de-automatizacion-de-valvulas-automax.md
