@@ -1,6 +1,7 @@
 +++
 catalogo = ""
 categoria = ""
+draft = true
 familias = ["Equipos y sistemas de limpieza", "Neumática"]
 galeria = ["/v1595538306/ODV-Angled-Combo-Spec-new_kq1wpa.jpg"]
 id = ""
