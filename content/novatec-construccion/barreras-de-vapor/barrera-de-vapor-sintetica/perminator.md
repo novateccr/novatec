@@ -1,4 +1,5 @@
 +++
+draft = true
 id = 34
 imagen = "/v1595527957/stego_tape_ri4ris.png"
 ncmarcas = ["WR Meadows"]
