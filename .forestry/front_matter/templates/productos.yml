@@ -69,7 +69,6 @@ fields:
     required: false
   label: Titulo adicional
 pages:
-- content/novatec-construccion/barreras-de-vapor/barrera-de-vapor-sintetica/retardante-de-vapor-clase-a-stego-wrap-10-mil.md
 - content/productos/_index.md
 - content/productos/aceite.md
 - content/productos/actuadores-sistemas-de-automatizacion-de-valvulas-automax.md
