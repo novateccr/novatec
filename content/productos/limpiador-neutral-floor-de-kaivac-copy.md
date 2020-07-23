@@ -1,26 +1,25 @@
 +++
 catalogo = ""
 categoria = ""
-draft = true
 familias = ["Equipos y sistemas de limpieza", "Neumática"]
-galeria = ["/v1595545980/KAIKNPK-gigapixel-scale-4_00x_gbhagu.jpg"]
+galeria = ["/v1595546189/121187_uduoe1.jpg"]
 id = ""
-imagen = "/v1595545980/KAIKNPK-gigapixel-scale-4_00x_gbhagu.jpg"
+imagen = "/v1595546189/121187_uduoe1.jpg"
 industrias = []
 marcas = ["Kaivac"]
-meta_description = "Limpiador Neutral Floor de Kaivac"
-meta_keywords = "Limpiador Neutral Floor, Kaivac"
+meta_description = "Desengrasante KaiPow de Kaivac"
+meta_keywords = "Desengrasante, KaiPow, Kaivac"
 taxonomyCover = false
-title = "Limpiador Neutral Floor de Kaivac-(copy)"
+title = "Desengrasante KaiPow de Kaivac"
 titulo = ""
 titulo_adicional = ""
 weight = ""
 
 +++
-# Limpiador Neutral Floor:
+# Paquete de desengrasante KaiPow ™ 
 
-Un limpiador diario con pH neutro que es duro en los suelos pero suave en los pisos y acabados. Funciona muy bien en prácticamente cualquier piso de superficie dura, como vinilo, piedra, concreto pulido, mármol, caucho, epoxi, granito, cerámica y más. Es ideal para usar con OmniFlex AutoVac, pero también se puede aplicar usando un depurador automático o un sistema de limpieza.
+Un desengrasante de uso general que penetra rápidamente aceites, grasas, grasas y suelos.
 
-Como todos los productos químicos de Kaivac, este limpiador neutro está diseñado específicamente para su uso con nuestros sistemas de vacío húmedo. De hecho, tenemos tanta confianza en el rendimiento y la idoneidad de nuestros productos químicos que ofrecemos una garantía de por vida en nuestro motor de vacío OmniFlex a los clientes que los usan exclusivamente.
+El desengrasante KaiPow es perfecto para el servicio de alimentos, el procesamiento de alimentos y las aplicaciones industriales donde prevalecen los suelos grasientos y rebeldes. 
 
-También disponible en jarras de 1 galón.
+Como todos los productos químicos de Kaivac, KaiPow está diseñado específicamente para su uso con nuestros sistemas de vacío húmedo. De hecho, tenemos tanta confianza en el rendimiento y la idoneidad de nuestros productos químicos que ofrecemos una garantía de por vida en nuestro motor de vacío OmniFlex a los clientes que los usan exclusivamente.
