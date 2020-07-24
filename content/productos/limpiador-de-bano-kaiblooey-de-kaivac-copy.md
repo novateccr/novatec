@@ -18,10 +18,10 @@ weight = ""
 +++
 # **KaiBosh**:
 
-**KaiBosh es un limpiador desinfectante concentrado de uso hospitalario sin enjuague para COVID-19 (coronavirus), norovirus, gripe aviar y porcina y más, que desinfecta y limpia en un solo paso para ahorrar trabajo.** 
+**KaiBosh es un limpiador desinfectante concentrado de uso hospitalario sin enjuague para COVID-19 (coronavirus), norovirus, gripe aviar y porcina y más, que desinfecta y limpia en un solo paso para ahorrar trabajo.**
 
-Como todos los productos químicos de Kaivac, KaiBosh es perfecto para usar con nuestros sistemas de vacío húmedo. 
+Como todos los productos químicos de Kaivac, KaiBosh es perfecto para usar con nuestros sistemas de vacío húmedo.
 
-Con demasiada frecuencia, los usuarios simplemente aplican detergentes de limpieza comunes o jabones de trapeador cuando limpian y luego los aspiran sin cuidado. Esto es como verter jabón estándar en un lavavajillas automático. El resultado es predecible: espuma extrema, llenando el tanque de vacío con espuma inútil y provocando un cierre prematuro. Peor aún, el exceso de espuma tiene el potencial de dañar el motor de vacío. 
+Con demasiada frecuencia, los usuarios simplemente aplican detergentes de limpieza comunes o jabones de trapeador cuando limpian y luego los aspiran sin cuidado. Esto es como verter jabón estándar en un lavavajillas automático. El resultado es predecible: espuma extrema, llenando el tanque de vacío con espuma inútil y provocando un cierre prematuro. Peor aún, el exceso de espuma tiene el potencial de dañar el motor de vacío.
 
 Tenemos tanta confianza en el rendimiento y la idoneidad de nuestros productos químicos que ampliamos la garantía de nuestros equipos a los clientes que los usan exclusivamente. Ahora también disponible en 8 oz. paquetes proporcionados previamente.
