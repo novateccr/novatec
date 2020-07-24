@@ -1,6 +1,7 @@
 +++
 catalogo = ""
 categoria = ""
+draft = true
 familias = ["Equipos y sistemas de limpieza", "Neumática"]
 galeria = ["/v1595545335/kaibosh-gigapixel-scale-4_00x_iq74v5.png"]
 id = ""
