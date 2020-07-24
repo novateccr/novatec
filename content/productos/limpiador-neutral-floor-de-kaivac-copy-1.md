@@ -1,26 +1,36 @@
 +++
 catalogo = ""
 categoria = ""
-draft = true
 familias = ["Equipos y sistemas de limpieza", "Neumática"]
-galeria = ["/v1595545980/KAIKNPK-gigapixel-scale-4_00x_gbhagu.jpg"]
+galeria = []
 id = ""
-imagen = "/v1595545980/KAIKNPK-gigapixel-scale-4_00x_gbhagu.jpg"
+imagen = "/v1595627313/kaivac1231_ayb9zw.png"
 industrias = []
 marcas = ["Kaivac"]
 meta_description = "Limpiador Neutral Floor de Kaivac"
 meta_keywords = "Limpiador Neutral Floor, Kaivac"
 taxonomyCover = false
-title = "Limpiador Neutral Floor de Kaivac-(copy)"
+title = "Partes clave para Equipo de Limpieza Kaivac"
 titulo = ""
 titulo_adicional = ""
 weight = ""
 
 +++
-# Limpiador Neutral Floor:
+## **Válvula de retención de tapón químico:**
 
-Un limpiador diario con pH neutro que es duro en los suelos pero suave en los pisos y acabados. Funciona muy bien en prácticamente cualquier piso de superficie dura, como vinilo, piedra, concreto pulido, mármol, caucho, epoxi, granito, cerámica y más. Es ideal para usar con OmniFlex AutoVac, pero también se puede aplicar usando un depurador automático o un sistema de limpieza.
+Se ajusta dentro de la jarra de galones para extraer químicos.
 
-Como todos los productos químicos de Kaivac, este limpiador neutro está diseñado específicamente para su uso con nuestros sistemas de vacío húmedo. De hecho, tenemos tanta confianza en el rendimiento y la idoneidad de nuestros productos químicos que ofrecemos una garantía de por vida en nuestro motor de vacío OmniFlex a los clientes que los usan exclusivamente.
+![](https://res.cloudinary.com/novatec/v1595626399/KAICHPLUG-gigapixel-scale-4_00x_fiastj.jpg)
 
-También disponible en jarras de 1 galón.
+## **Tapa Química:**
+
+Tapón químico con válvula de retención de seguridad y pantalla.
+
+![](https://res.cloudinary.com/novatec/v1595627351/tapa_quimica_iy5sat.png)
+
+## **Paquete de puntas de medición:**
+
+  
+Incluye 1 tapa química y 2 de cada punta de medición de color.
+
+![](https://res.cloudinary.com/novatec/v1595627313/kaivac1231_ayb9zw.png)
