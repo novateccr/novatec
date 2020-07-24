@@ -1,7 +1,6 @@
 +++
 catalogo = ""
 categoria = ""
-draft = true
 familias = ["Equipos y sistemas de limpieza", "Neumática"]
 galeria = ["/v1595546189/121187_uduoe1.jpg"]
 id = ""
