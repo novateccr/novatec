@@ -26,4 +26,6 @@ Con demasiada frecuencia, los usuarios simplemente aplican detergentes de limpie
 
 Tenemos tanta confianza en el rendimiento y la idoneidad de nuestros productos químicos que ampliamos la garantía de nuestros equipos a los clientes que los usan exclusivamente. Ahora también disponible en 8 oz. paquetes proporcionados previamente.
 
-Consúltenos! 
+Consúltenos!
+
+## [Descargue aquí más información.](https://synology01.novatec.cr:5001/d/f/560549783454922731)

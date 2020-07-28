@@ -23,3 +23,5 @@ Un limpiador diario con pH neutro que es duro en los suelos pero suave en los pi
 Como todos los productos químicos de Kaivac, este limpiador neutro está diseñado específicamente para su uso con nuestros sistemas de vacío húmedo. De hecho, tenemos tanta confianza en el rendimiento y la idoneidad de nuestros productos químicos que ofrecemos una garantía de por vida en nuestro motor de vacío OmniFlex a los clientes que los usan exclusivamente.
 
 También disponible en jarras de 1 galón.
+
+## [Descargue aquí más información.](https://synology01.novatec.cr:5001/d/f/560549783454922731)
