@@ -1,7 +1,6 @@
 +++
 catalogo = ""
 categoria = ""
-draft = true
 familias = ["Equipos y sistemas de limpieza", "Neumática"]
 galeria = ["/v1595546189/121187_uduoe1.jpg"]
 id = ""
@@ -19,7 +18,7 @@ weight = ""
 +++
 # Paquete de desengrasante KaiPow ™
 
-Un desengrasante de uso general que penetra rápidamente aceites, grasas, grasas y suelos.
+Un desengrasante de uso general que penetra rápidamente aceites, grasas, grasas y suelos...
 
 El desengrasante KaiPow es perfecto para el servicio de alimentos, el procesamiento de alimentos y las aplicaciones industriales donde prevalecen los suelos grasientos y rebeldes.
 
