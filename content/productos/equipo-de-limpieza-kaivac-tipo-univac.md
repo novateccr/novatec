@@ -36,7 +36,8 @@ El sistema UniVac™ es una adaptación compacta del sistema de múltiples galar
 
 Es difícil y costoso mantener los pisos. Si no se les da la atención adecuada, no solo tienen un aspecto desagradable, sino que pueden alejar a los clientes, provocar accidentes de resbalones y caídas, e incluso ser un riesgo para la salud.
 
-  
 Desafortunadamente, el trapeado tradicional puede empeorar las cosas, especialmente en pisos con boquilla. De hecho, con el trapeado, las divisiones de boquilla funcionan como escurridor de suciedad, grasa y espuma de jabón.
 
 Las divisiones de boquilla se manchan, oscurecen, y son insalubres. El sistema UniVac ofrece una solución práctica de bajo costo y sin trapeador para este costoso problema. Conserva agua, químicos y mano de obra. La capacidad única de un solo llenado del UniVac permite que se filtre y reutilice la solución de limpieza sin pérdida de efectividad de limpieza. Muchos usuarios eligen esta opción para conservar agua, reducir el consumo de químicos y mejorar la productividad.
+
+## [Descargue aquí más información.](https://synology01.novatec.cr:5001/d/f/560549775764666298)
