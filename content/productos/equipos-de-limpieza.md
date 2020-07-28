@@ -51,3 +51,5 @@ sustentable.
 **PERFECTO PARA:**
 
 Pasillos, Recepciones, Cafeterías, Gimnasios, Almacenes, Talleres, Cuidado de la salud, Educación, Almacenes, entre otros.
+
+## [Descargue aquí más información.](https://synology01.novatec.cr:5001/d/f/560549769431267218)
