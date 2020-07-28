@@ -23,3 +23,5 @@ Un desengrasante de uso general que penetra rápidamente aceites, grasas, grasas
 El desengrasante KaiPow es perfecto para el servicio de alimentos, el procesamiento de alimentos y las aplicaciones industriales donde prevalecen los suelos grasientos y rebeldes.
 
 Como todos los productos químicos de Kaivac, KaiPow está diseñado específicamente para su uso con nuestros sistemas de vacío húmedo. De hecho, tenemos tanta confianza en el rendimiento y la idoneidad de nuestros productos químicos que ofrecemos una garantía de por vida en nuestro motor de vacío OmniFlex a los clientes que los usan exclusivamente.
+
+## [Descargue aquí más información.](https://synology01.novatec.cr:5001/d/f/560549783454922731)
