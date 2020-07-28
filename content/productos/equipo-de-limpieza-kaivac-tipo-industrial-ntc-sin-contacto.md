@@ -60,4 +60,6 @@ Lograr resultados excelentes y consistentes es fácil con estos sistemas patenta
 
 El Kaivac 1750 es perfecto para áreas grandes y pequeñas. Cuenta con un agua dulce de 17 galones y un tanque de recuperación de 17 galones. El sistema funciona con 500 p.s.i. bomba y un potente aspirador húmedo / seco de 3 etapas.
 
-![](https://res.cloudinary.com/novatec/v1595536685/17501-Specs_1_ldcyqp.jpg)
+![](https://res.cloudinary.com/novatec/v1595965537/17501-Specs_2_ajwvxw.jpg)
+
+## [Descargue aquí más información.](https://synology01.novatec.cr:5001/d/f/560549765457164144)
