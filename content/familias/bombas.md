@@ -11,7 +11,7 @@ weight: "1"
 menu:
   principal:
     parent: Productos
-    weight: 1
+    weight: 12
 
 ---
 <p>Todo en bombas consultenos...</p>

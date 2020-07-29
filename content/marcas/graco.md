@@ -11,7 +11,7 @@ weight: "1"
 menu:
   principal:
     parent: Marcas
-    weight: 1
+    weight: 25
 
 ---
 Nuestra línea de equipos de proceso incluye **bombas neumáticas de doble diafragma**, bombas de manguera peristálticas, bombas de pistón y equipos de limpieza de alta presión para fluidos de viscosidad baja a alta, para una variedad de aplicaciones exigentes.

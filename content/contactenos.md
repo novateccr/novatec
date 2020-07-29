@@ -3,7 +3,7 @@ title: Contáctenos
 meta_description: Contáctenos aquí
 menu:
   principal:
-    weight: 1100
+    weight: 8
 
 ---
 <div class="container-container">

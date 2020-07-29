@@ -1,11 +1,8 @@
+DefaultContentLanguage = "es"
 baseURL = "https://www.novatec.cr/"
 languageCode = "es-cr"
 title = "Novatec Industrial"
-DefaultContentLanguage = "es"
-
-#CUSTOM PARAMS
-[params]
-  cloudinary_url = "https://res.cloudinary.com/novatec/image/upload/"
-
 [context.deploy-preview.environment]
-  HUGO_VERSION = "0.42.2"
+HUGO_VERSION = "0.42.2"
+[params]
+cloudinary_url = "https://res.cloudinary.com/novatec/image/upload/"

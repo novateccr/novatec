@@ -13,7 +13,7 @@ weight: "13"
 menu:
   principal:
     parent: Productos
-    weight: 13
+    weight: 2
 
 ---
 Ofrecemos una amplia gama de productos para amplios campos de aplicaciones. Estas son válvulas de mariposa, de compuerta, de globo, de verificación, de control, de diafragma, de bola y filtros, así como actuadores y sistemas de automatización que se fabrican en 14 sitios de producción en todo el mundo... Consultenos !! 

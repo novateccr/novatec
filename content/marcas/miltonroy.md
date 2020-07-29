@@ -9,7 +9,7 @@ title = "LMI - MiltonRoy"
 weight = ""
 [menu.principal]
 parent = "Marcas"
-weight = 1101
+weight = 9
 
 +++
 **Bombas Dosificadoras**

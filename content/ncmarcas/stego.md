@@ -9,7 +9,7 @@ title = "Stego"
 weight = ""
 [menu.principal]
 parent = "Marcas"
-weight = 1104
+weight = 26
 
 +++
 Barreras de vapor y sus accesorios

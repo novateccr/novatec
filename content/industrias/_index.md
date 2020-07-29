@@ -1,9 +1,10 @@
 ---
 title: Industrias
-menu: 
+weight: "900"
+menu:
   principal:
-    weight: 300
+    weight: 3
     parent: ''
-weight: 900
+
 ---
 Todas las industrias

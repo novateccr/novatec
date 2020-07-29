@@ -10,7 +10,7 @@ weight: "16"
 menu:
   principal:
     parent: Marcas
-    weight: 16
+    weight: 14
 draft: true
 
 ---

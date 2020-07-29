@@ -11,7 +11,7 @@ weight: "5"
 menu:
   principal:
     parent: Marcas
-    weight: 5
+    weight: 1
 
 ---
 Especialista en  sellos mecánicos.  Sello Tipo MG1, M7N, Cartex, sellos tipo componente o cartucho, planes de lubricación y mucho mas...
