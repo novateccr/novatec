@@ -5,6 +5,7 @@
   "description": "Sitio para Novatec Industrial",
   "scripts": {
     "clean": "rm -f static/*.js static/*.css",
+    "windowsclean": "del /S static\\*.js static\\*.css",
     "babel:build": "babel assets/js --out-file static/js/site.js --source-maps",
     "babel:minify": "minify static/js/site.js --out-file static/js/site.js --mangle.keepClassName",
     "babel:watch": "babel assets/js --watch --out-file static/js/site.js --source-maps",
@@ -13,24 +14,36 @@
     "build:assets": "npm run clean && npm run sass:build && npm run babel:build && npm run babel:minify",
     "build": "npm run build:assets && hugo && node critical.js",
     "start": "npm run clean && npm run sass:build && npm run babel:build | npm run sass:watch | npm run babel:watch | hugo serve -D --bind 0.0.0.0",
+    "windowsstart": "npm run windowsclean && npm run sass:build && npm run babel:build | npm run sass:watch | npm run babel:watch | hugo serve -D --bind 0.0.0.0",
     "drafts": "npm run clean && npm run sass:build && npm run babel:build | npm run sass:watch | npm run babel:watch | hugo serve -D --bind 0.0.0.0",
     "import": "ruby import/genfiles.rb && ruby import/gennc.rb",
     "import-marcas": "ruby import/genmarcas.rb",
     "index": "hugo-lunr -i \"content/subdir/**\" -o public/my-index.json",
     "zip": "cd functions/submission-created && npm install && zip -r submission-created.zip *",
-   "prebuild": "npm run clean && npm run zip"
+    "prebuild": "npm run clean && npm run zip"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-minify": "^0.4.3",
     "babel-preset-babili": "0.0.9",
-    "critical": "^1.3.3",
-    "node-sass": "^4.1.1",
+    "critical": "^1.3.9",
+    "node-sass": "^4.13.1",
     "onchange": "^3.2.1",
     "parallelshell": "^2.0.0"
   },
   "dependencies": {
     "daemon": "github:zipang/daemon.node#48d0977c26fb3a6a44ae99aae3471b9d5a761085",
     "imagemin": "^5.3.1"
-  }
+  },
+  "main": "change-names.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/novateccr/novatec.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/novateccr/novatec/issues"
+  },
+  "homepage": "https://github.com/novateccr/novatec#readme"
 }
