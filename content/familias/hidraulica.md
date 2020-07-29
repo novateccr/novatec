@@ -10,7 +10,7 @@ weight: "14"
 menu:
   principal:
     parent: Productos
-    weight: 14
+    weight: 3
 draft: true
 
 ---

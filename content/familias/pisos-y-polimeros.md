@@ -12,7 +12,7 @@ weight: "3"
 menu:
   principal:
     parent: Productos
-    weight: 3
+    weight: 10
 
 ---
 Desde la decoración decorativa a la industrial, institucional a secundaria, Flowcrete y Key Resin Company ofrece soluciones que ofrecen costos de ciclo de vida más bajos, durabilidad sobresaliente y rendimiento general. Nuestras soluciones para pisos incluyen:

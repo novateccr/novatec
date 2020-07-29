@@ -10,7 +10,7 @@ weight: "7"
 menu:
   principal:
     parent: Marcas
-    weight: 7
+    weight: 20
 
 ---
-KSB Fabricante de Bombas, Valvulas 
+KSB Fabricante de Bombas, Valvulas

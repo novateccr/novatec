@@ -2,5 +2,6 @@
 title: Novatec Construcción
 menu:
   principal:
-    weight: 1100
+    weight: 7
+
 ---

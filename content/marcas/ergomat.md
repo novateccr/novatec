@@ -10,6 +10,6 @@ weight: "12"
 menu:
   principal:
     parent: Marcas
-    weight: 12
+    weight: 6
 
 ---

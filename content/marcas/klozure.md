@@ -1,14 +1,16 @@
 ---
-title: "Klozure"
-id: 14
-logo: ""
-link: "http://www.garlock.com/"
-catalogo: ""
-meta_keywords: ""
-meta_description: ""
-draft: true
-weight: 14
+title: Klozure
+id: "14"
+logo: ''
+link: http://www.garlock.com/
+catalogo: ''
+meta_keywords: ''
+meta_description: ''
+weight: "14"
 menu:
   principal:
-    parent: "Marcas"
+    parent: Marcas
+    weight: 16
+draft: true
+
 ---

@@ -1,8 +1,9 @@
 ---
-title: "Marcas"
+title: Marcas
+weight: "900"
 menu:
   principal:
-    weight: 400
-weight: 900
+    weight: 4
+
 ---
 Todas las Marcas
