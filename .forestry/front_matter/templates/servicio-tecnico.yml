@@ -2,6 +2,11 @@
 label: Servicio Técnico
 hide_body: false
 fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
 - name: hero
   type: file
   config:
