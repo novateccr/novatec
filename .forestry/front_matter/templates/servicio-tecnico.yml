@@ -22,3 +22,5 @@ fields:
     schema:
       format: markdown
   label: info
+pages:
+- content/servicio-tecnico/prueba.md
