@@ -27,6 +27,10 @@ areas:
 menu:
   principal:
     weight: 6
+cascade:
+  menu:
+    principal:
+      parent: Servicio Técnico
 
 ---
 Contamos con experiencia, personal especializado en el servicio de reparaciones, reconstrucciones, contratos de mantenimiento e instalaciones.
