@@ -2,8 +2,10 @@
 draft = true
 hero = ""
 info = ""
-menu = []
 title = "Test"
+[[menu]]
+[[menu.principal]]
+parent = "Servicio Técnico"
 
 +++
 hi!
