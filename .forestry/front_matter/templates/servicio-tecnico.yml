@@ -23,3 +23,25 @@ fields:
   label: info
 pages:
 - content/servicio-tecnico/servicio-tecnico.md
+- name: menu
+  label: Menu
+  type: field_group
+  fields:
+  - name: principal
+    label: Principal
+    type: field_group
+    fields:
+    - name: parent
+      label: Parent
+      type: text
+      hidden: true
+      default: Servicio Técnico
+    - name: weight
+      label: Weight
+      type: text
+      hidden: false
+      default: ''
+    hidden: false
+    default: ''
+  hidden: true
+  default: ''
