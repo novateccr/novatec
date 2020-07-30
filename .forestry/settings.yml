@@ -41,7 +41,7 @@ sections:
   match: "**/*"
 - type: directory
   path: content/servicio-tecnico
-  label: Servicio tecnico
+  label: Servicio Técnico
   create: all
   match: "**/*"
 - type: directory
