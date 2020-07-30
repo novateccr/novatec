@@ -1,0 +1,13 @@
+---
+label: Servicio Técnico
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: file
+  name: hero
+  label: hero
+- type: text
+  name: info
+  label: info
