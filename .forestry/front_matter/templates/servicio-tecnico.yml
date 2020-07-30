@@ -11,3 +11,25 @@ fields:
 - type: text
   name: info
   label: info
+- name: menu
+  type: field_group_list
+  fields:
+  - name: principal
+    type: field_group_list
+    fields:
+    - name: parent
+      type: text
+      config:
+        required: false
+      label: Parent
+      default: Servicio Técnico
+    config:
+      min: 
+      max: 
+      labelField: 
+    label: Principal
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Menu
