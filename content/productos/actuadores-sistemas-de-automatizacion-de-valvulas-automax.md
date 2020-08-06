@@ -105,7 +105,7 @@ Accionador hidráulico de regulación de efecto doble o simple (cartucho para ga
 
 ![](https://res.cloudinary.com/novatec/v1596749783/es000463-amtrobox_h839go.png)
 
-Robusta y multifuncional. Para la detección de posición todo o nada mediante interruptores de fin de carrera mecánicos o sensores de proximidad. Montaje de AMTROBOX R (R1187) sobre los engranajes reductores de la serie MR, los actuadores neumáticos de la serie ACTAIR NG, los actuadores hidráulicos de la serie HQ y cualquier actuador con interfaz según VDI/VDE.
+Robusta y multifuncional. Para la detección de posición todo o nada mediante interruptores de fin de carrera mecánicos o sensores de proximidad. Montaje de AMTROBOX R (R1187) sobre los engranajes reductores de la serie MR, los actuadores neumáticos de la serie ACTAIR NG, los actuadores hidráulicos de la serie HQ y cualquier actuador con interfaz según VDI/VDE..
 
 ### **Aplicaciones principales:**
 
