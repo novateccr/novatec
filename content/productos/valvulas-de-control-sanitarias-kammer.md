@@ -1,23 +1,32 @@
 +++
 catalogo = ""
 familias = ["Válvulas"]
-galeria = ["/v1563462611/es000841-sisto-drainna.png"]
+galeria = ["/v1596742080/es000841-sisto-drainna_fay5xo.png", "/v1596742043/membranventil-sisto-c-data_j9ysoe.jpg"]
 id = 131
-imagen = "/v1563462450/es000320-sisto-c.png"
+imagen = "/v1596741879/es000320-sisto-c_xidqhv.png"
 industrias = ["Alimentos y Bebidas"]
-marcas = []
-meta_description = "Válvulas sanitarias KSB tipos SISTO C"
-meta_keywords = "Válvulas sanitarias"
+marcas = ["KSB"]
+meta_description = "Válvulas sanitarias SISTO C KSB"
+meta_keywords = "Válvulas sanitarias, Válvulas, sanitarias, Sisto C, KSB"
 taxonomyCover = false
-title = "Válvulas sanitarias KSB tipo SISTO C"
+title = "Válvulas sanitarias SISTO C KSB"
+titulo_adicional = ""
 weight = 131
 
 +++
-  
-**Diseño** 
+# **Válvulas sanitarias SISTO-C**
 
-Válvula de diafragma con extremos o abrazaderas de soldadura a tope; De forma recta, patrón Y o T, o como una válvula multipuerto; Cierre y sellado a la atmósfera mediante diafragma completamente cerrado. Sin volúmenes muertos, adecuado para esterilización, diseño compatible con SIP / CIP, indicador de posición. Todas las partes móviles están separadas del fluido por el diafragma. Libre de mantenimiento. 
+Válvula de diafragma con extremos para soldar o abrazaderas, de paso directo, forma en Y, en T o multipuerto, cierre en paso directo y hacia el exterior a través de un diafragma de cierre encapsulado, sin espacios muertos, esterilizable, diseño apto para limpieza CIP/SIP, indicador de posición. Todos los componentes funcionales están fuera del fluido bombeado; sin mantenimiento.
 
-**Aplicaciones**
+### **Aplicaciones principales:**
 
-industria farmacéutica, procesos estériles, industria de alimentos y bebidas.
+* Agua
+* Alimentación y Bebidas
+* Azúcar
+* Bebidas
+* Farmacéutica / Biotecnología
+* Ingeniería de procesos e industrial
+* Biotecnología
+* Industria farmacéutica
+* Ingeniería de procesos estériles
+* Industria de alimentos y bebidas.
