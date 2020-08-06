@@ -1,7 +1,7 @@
 +++
 catalogo = ""
 familias = ["Válvulas"]
-galeria = ["/v1596742080/es000841-sisto-drainna_fay5xo.png", "/v1596742043/membranventil-sisto-c-data_j9ysoe.jpg"]
+galeria = ["/v1596741879/es000320-sisto-c_xidqhv.png", "/v1596742080/es000841-sisto-drainna_fay5xo.png", "/v1596742043/membranventil-sisto-c-data_j9ysoe.jpg"]
 id = 131
 imagen = "/v1596741879/es000320-sisto-c_xidqhv.png"
 industrias = ["Alimentos y Bebidas"]
