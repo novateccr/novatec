@@ -16,7 +16,7 @@ weight = 133
 +++
 # **Válvulas de mariposa tipo Boax-B**
 
-**Nuestras válvulas tienen gran cantidad de aplicaciones, entre ellas:**
+### **Nuestras válvulas tienen gran cantidad de aplicaciones, entre ellas:**
 
 \*Ingeniería de plantas.
 
@@ -24,7 +24,7 @@ weight = 133
 
 \*Sistemas de cierre y regulación en sectores de abastecimiento y tratamiento de aguas, drenaje y riego.
 
-**Datos de la válvula:**
+### **Datos de la válvula:**
 
 \-Válvula de mariposa de eje centrado.
 
