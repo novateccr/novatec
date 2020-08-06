@@ -52,4 +52,4 @@ Tuberías de aire y agua
 * Vástago a prueba de explosión 
 * Traba de palanca 
 * Diseño antiestático 
-*  Teflón reforzado RPTFE
+* Teflón reforzado RPTFE
