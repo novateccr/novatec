@@ -66,7 +66,7 @@ Ligero ajuste en el retículo de 5°.
 ## **Patas y ruedas:  
 ![](https://res.cloudinary.com/novatec/v1596754688/5b4d946f-919c-4244-9251-6a17328e4c48_mu3uuz.jpg)**
 
-\*Patas articuladas modulares.
+\*Patas articuladas modulares..
 
 \*Patas articuladas.
 
