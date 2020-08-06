@@ -16,7 +16,7 @@ weight = 132
 +++
 # **Todo para su proyecto:**
 
-## A continuación le presentamos los principales Actuadores y Accionadores de la marca KSB.
+### A continuación le presentamos los principales Actuadores y Accionadores de la marca KSB.
 
 # [**ACTAIR**](https://products.ksb.com/es-es/productos/accionadores-de-valvula-automatismos/actair-20462)
 
