@@ -23,15 +23,14 @@ Con su amplia selección de tubos cuadrados y redondos, tecnología de conexión
 Perfiles soporte con ranura para construcciones ligeras como trípodes y estructuras de laboratorio.  
 Los perfiles de Rexroth son especialmente adecuados para refuerzos.
 
-  
 **Perfiles en medidas:**
 
 \*20 x 20  
- *30 x 30  
- *40 x 40  
- *45 x 45  
- *45 x 90  
- *40 x 80
+\*30 x 30  
+\*40 x 40  
+\*45 x 45  
+\*45 x 90  
+\*40 x 80
 
 ## **Elementos de unión:**
 
@@ -63,8 +62,9 @@ Unión continua mediante dentado Hirth.
 Radio de giro 180°.  
 Ligero ajuste en el retículo de 5°.
 
-## **Patas y ruedas:  
-![](https://res.cloudinary.com/novatec/v1596754688/5b4d946f-919c-4244-9251-6a17328e4c48_mu3uuz.jpg)**
+## **Patas y ruedas:**
+
+![](https://res.cloudinary.com/novatec/v1596754688/5b4d946f-919c-4244-9251-6a17328e4c48_mu3uuz.jpg)
 
 \*Patas articuladas modulares..
 
