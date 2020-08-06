@@ -41,4 +41,4 @@ Válvula de mariposa de doble excentricidad, con asiento de plastómero (tambié
 * Fluidos muy agresivos
 * Salmuera, industria de la celulosa y el papel, abonos.
 
-  #### **Toda aplicación que requiera el uso de una válvula de mariposa excéntrica.**
+#### **Toda aplicación que requiera el uso de una válvula de mariposa excéntrica.**
