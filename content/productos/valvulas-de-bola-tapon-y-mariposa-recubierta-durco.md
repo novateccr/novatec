@@ -1,7 +1,7 @@
 +++
 catalogo = ""
 familias = ["Válvulas"]
-galeria = ["/v1596740618/ecoline_dnnd65.png", "/v1596740402/es000775-ecoline-glc-150-600_w3i7bn.png"]
+galeria = ["/v1596741645/ecoline-gigapixel-scale-4_00x_wcg29w.png", "/v1596741491/es000775-ecoline-glc-150-600-gigapixel-scale-4_00x_mtscsw.png"]
 id = 30
 imagen = "/v1596740402/es000775-ecoline-glc-150-600_w3i7bn.png"
 industrias = ["Alimentos y Bebidas", "Energía", "Biofarmacéuticos", "Química", "Ingenios"]
