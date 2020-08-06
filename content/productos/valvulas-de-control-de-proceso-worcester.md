@@ -1,23 +1,30 @@
 +++
 catalogo = ""
 familias = ["Válvulas"]
-galeria = ["/v1563463028/es000639-ecoline-xlc.png"]
+galeria = ["/v1596746741/es000639-ecoline-xlc-gigapixel-scale-4_00x_catabg.png"]
 id = 31
 imagen = "/v1563463028/es000639-ecoline-xlc.png"
 industrias = ["Alimentos y Bebidas", "Energía", "Industria Pesada", "Biofarmacéuticos", "Química"]
 marcas = ["KSB"]
-meta_description = "Valvulas de control KSB..."
-meta_keywords = "Valvulas de control "
+meta_description = "Válvulas de Control de Proceso Ecoline XLC KSB"
+meta_keywords = "Valvulas de control, válvulas proceso, ecoline, xlc, KSB"
 taxonomyCover = false
-title = "Válvulas de Control de Proceso KSB tipo Ecoline XLS"
+title = "Válvulas de Control de Proceso Ecoline XLC KSB"
+titulo_adicional = ""
 weight = 31
 
 +++
-  
-**Diseño** 
+# **ECOLINE XLC**
 
-Válvula reductora de presión automática, cuerpo de fundición nodular, extremos revestidos de epoxi, con bridas. 
+## **Diseño:**
 
-**Aplicaciones** 
+Válvula reductora de presión automática, cuerpo de fundición nodular, extremos bridados recubiertos de epoxi.
 
-Industria general, agua limpia.
+### **Aplicaciones:**
+
+* Industria en general
+* Agua limpia
+* Desalinización 
+* Irrigación Lago
+* Extracción de Damwater 
+* Extracción de agua 
