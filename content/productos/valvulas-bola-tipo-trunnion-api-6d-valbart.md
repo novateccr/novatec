@@ -1,18 +1,45 @@
 +++
 catalogo = ""
 familias = ["Válvulas"]
-galeria = ["/v1563304866/KSB-BOAX.jpg"]
+galeria = ["/v1596748318/KSB-BOAX-gigapixel-scale-4_00x_btxw8z.jpg", "/v1596748076/es000573-boax-b_gmrt2b.png"]
 id = 133
 imagen = "/v1563304810/KSB-boax-b.png"
 industrias = ["Energía", "Química", "Ingenios"]
 marcas = ["KSB"]
 meta_description = "Válvula de mariposa de disco centrado tipo KSB"
-meta_keywords = "Válvula de mariposa"
+meta_keywords = "Válvula de mariposa, KSB, Boax b"
 taxonomyCover = false
-title = "Válvulas de mariposa KSB Tipo Boax-B"
+title = "Válvulas de mariposa tipo Boax-B KSB"
+titulo_adicional = ""
 weight = 133
 
 +++
-Consultenos !!
+# **Válvulas de mariposa tipo Boax-B**
 
-[Válvula de mariposa de disco centrado](https://products.ksb.com/global/products/valves/boax-b-12858 "ir a pagina WEB"), sellada con forro de elastómero (EPDM XC o nitrilo K), con palanca, caja de cambios manual, actuador neumático o eléctrico; Cuerpo tipo oblea (T1), cuerpo semi-lug (T2), cuerpo completo (T4) o cuerpo en U con caras planas (T5). Los tipos de cuerpo T2, T4 y T5 son adecuados para el desmantelamiento descendente y el servicio de punto muerto. Disco de válvula fabricado en fundición nodular o acero inoxidable. Conexiones a EN, ASME o JIS.
+**Nuestras válvulas tienen gran cantidad de aplicaciones, entre ellas:**
+
+\*Ingeniería de plantas.
+
+\*Circuitos de agua en general, circuitos de calentamiento por aceite, circuitos de aceite.
+
+\*Sistemas de cierre y regulación en sectores de abastecimiento y tratamiento de aguas, drenaje y riego.
+
+**Datos de la válvula:**
+
+\-Válvula de mariposa de eje centrado.
+
+\-Estanqueidad con anillo de elastómero (EPDM XC o nitrilo K).
+
+\-Con palanca.
+
+\-Engranaje reductor manual.
+
+\-Actuador eléctrico o neumático.
+
+\-Cuerpo anular (T1).
+
+\-Cuerpo wafer con orejetas de desmontaje (T2).
+
+\-Cuerpo tipo lug (T4) o cuerpo en forma de perfil en U con cara plana (T5).
+
+**Los tipos de cuerpo T2, T4 y T5 son aptos para el desmontaje aguas abajo y la función en cabeza de línea. Mariposa de fundición nodular o acero inoxidable. Conexiones según EN, ASME o JIS.**
