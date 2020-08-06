@@ -23,8 +23,8 @@ QC Conveyors ofrece soluciones de transporte para cada paso del proceso, con tra
 
 ### **QC Conveyors ofrece soluciones de transporte para:**
 
-**  
-**· Moldeo por inyección de plástico  
+  
+. Moldeo por inyección de plástico  
 · Montaje de precisión  
 · Manejo de piezas pequeñas  
 · Inspección y rechazo.  
@@ -41,12 +41,11 @@ partes entre transportadores u otras máquinas integradas. El delgado exterior e
 ### **Cuartos limpios:**
 
 Cuando se usa con una cinta de borde sellado, los transportadores AS40 y HC200 son capaces de  
-operación en ambientes de sala limpia Clase 100.   
+operación en ambientes de sala limpia Clase 100.  
 Las unidades y la relación estrecha entre la correa y el bastidor garantizan que requieren la mínima cantidad de espacio.
 
 ### **Iluminación disponible:**
 
-  
 Para ayudar en las aplicaciones de inspección parcial, los transportadores AS40 están disponibles con  
 retroiluminación para proporcionar contraste a los sistemas de visión para inspeccionar piezas, ofrece retroiluminación del líder de la industria Spectrum Illumination. Otras luces de fondo se puede instalar según las especificaciones del cliente si es necesario.
 
