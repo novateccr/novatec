@@ -1,17 +1,50 @@
 +++
 catalogo = ""
 familias = ["Válvulas"]
-galeria = ["/v1563387423/KSB-ecoline-blc-1000.png"]
+galeria = ["/v1596747425/PROFIN-gigapixel-scale-4_00x_m7jkja.png"]
 id = 129
 imagen = "/v1563387423/KSB-ecoline-blc-1000.png"
 industrias = ["Energía"]
 marcas = ["KSB"]
-meta_description = "Válvula de bola KSB de 2 y 3 cuerpos"
-meta_keywords = "KSB"
+meta_description = "Válvulas de bola PROFIN VT2 KSB"
+meta_keywords = "KSB, Válvula de bola, Profin VT2, válvula de dos cuerpos"
 taxonomyCover = false
-title = "Válvulas de bola KSB tipo SI3IT"
+title = "Válvulas de bola PROFIN VT2 KSB"
+titulo_adicional = ""
 weight = 129
 
 +++
-  
-**Diseño Válvula de bola para ANSI / ASME** con extremos roscados (NPT), extremos de soldadura a tope o soldadura de casquillo, cuerpo de tres piezas, orificio completo, bola flotante. Sellado de plastómeros (también en diseño a prueba de incendios). Solicitud Industria general, centrales eléctricas, industria química, industria petroquímica y todas las ramas relacionadas de la industria, industria del papel, industria alimentaria e industria farmacéutica.
+# **KSB PROFIN VT2**
+
+## Válvula de Bola de 2 Cuerpos Conexión NPT
+
+### Aplicación:
+
+Las válvulas de bola de dos cuerpos KSB PROFIN VT2 son indicadas para el trabajo con líquidos en aplicaciones preferenciales en: 
+
+* Suministro de agua 
+* Irrigación 
+* Circulación de condensados 
+* Aire acondicionado 
+* Servicios de refrigeración 
+* Industrias en general 
+* Tuberías de aire y agua 
+
+  ### Material del cuerpo: 
+* Acero inoxidable (AISI 316) 
+* Acero (WCB) 
+
+  ### Material de la bola:
+* Acero inoxidable (AISI 316) 
+
+  ### Material del asiento:
+*  RPTFE hasta 400 ºF (204 ºC) 
+
+  ### Diseño:
+* Válvula bola de dos cuerpos
+*  Paso total 
+* Conexión NPT 
+* Vástago a prueba de explosión 
+* Traba de palanca 
+* Diseño antiestático 
+*  Teflón reforzado RPTFE
