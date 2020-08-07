@@ -14,19 +14,19 @@ titulo_adicional = ""
 weight = 113
 
 +++
-![](https://res.cloudinary.com/novatec/v1596755390/9d35595a-6d41-423b-acc2-0d08a4c7e322_dnyo8y.jpg)
+![](https://res.cloudinary.com/novatec/v1596836409/MT_13682_20160704_133333.big_urd18k.jpg)
 
 ## [**Estaciones de trabajo personalizadas**](https://www.boschrexroth.com/es/mx/productos/grupo-de-productos/tecnologia-de-ensamble/sistemas-de-produccion-manual/puestos-de-trabajo)
 
-Las estaciones de trabajo personalizadas ofrecen dimensiones variables y componentes versátiles para la configuración individual y flexible de sus estaciones de trabajo.  
-  
+Las estaciones de trabajo personalizadas ofrecen dimensiones variables y componentes versátiles para la configuración individual y flexible de sus estaciones de trabajo.
+
 Por ejemplo, puede equipar su estación de trabajo con una mesa, suministro de material e iluminación. Esto permite un diseño de sistema kanban, es decir, una división de ensamblaje y logística.
 
 ### **Ergonomía.**
 
-![](https://res.cloudinary.com/novatec/v1596755466/a2370cf8-dec9-4da0-a707-418694ca1785_t3qhcw.jpg)
+![](https://res.cloudinary.com/novatec/v1596836709/lean-manufacturing-and-ergonomic-workcell-design-43-728_k7hk26.jpg)
 
-A la hora de configurar los puestos de trabajo, se debe prestar atención en general a favorecer actividades cambiantes y dinámicas. 
+A la hora de configurar los puestos de trabajo, se debe prestar atención en general a favorecer actividades cambiantes y dinámicas.
 
 Las actividades estáticas obstaculizan la circulación sanguínea y la aportación de oxígeno a los músculos. Los cambios de carga reducen la carga física del trabajador y aumentan su capacidad de rendimiento.
 
