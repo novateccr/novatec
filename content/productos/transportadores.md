@@ -38,12 +38,10 @@ Por lo que muchos fabricantes serán obligados a repensar sus operaciones de muc
 
 ### **Transportadores de estación de trabajo a estación de trabajo:**
 
-  
 La forma más simple de distanciar socialmente a los empleados es agregar transportadores entre estaciones de trabajo. Aplicaciones que involucran a un trabajador que entrega un contenedor de piezas u otros a otro trabajador. Presentan una aplicación ideal para transportadores para mover esas partes entre estaciones de trabajo. Tienen el beneficio adicional de reducir las lesiones por levantamiento.
 
 ### **Transportadores Robot / Cobot-Ready:**
 
-  
 Algunas aplicaciones simplemente no se pueden completar sin trabajadores cercanos.  
 En esos casos, algunos o todos los trabajadores pueden ser reemplazados por robots o cobots para asegurar el distanciamiento social adecuado. Los motores de CC sin escobillas de los transportadores de control de calidad son fáciles de integrarse con robots y PLC. Está disponible un URCap gratuito que permite transportadores para ser controlado directamente por un robot UR, incluyendo inicio / parada, avance / retroceso y operación de velocidad múltiple.
 
@@ -51,8 +49,7 @@ En esos casos, algunos o todos los trabajadores pueden ser reemplazados por robo
 
 ### **Limpieza de una persona:**
 
-**  
-**Los transportadores de la serie HydroClean están diseñados para una limpieza sin herramientas que los hace fácil de desmontar y limpiar en minutos.
+Los transportadores de la serie HydroClean están diseñados para una limpieza sin herramientas que los hace fácil de desmontar y limpiar en minutos.
 
 El lanzamiento de la tensión, la cola de los transportadores de la serie de automatización separa la tensión y el seguimiento, permitiendo un operador para limpiar debajo de la correa sin asistencia de mantenimiento.
 
