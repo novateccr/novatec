@@ -18,7 +18,7 @@ weight = ""
 +++
 # **La siguiente dimensión en sistemas de armazón tubular.**
 
-Versátil, simple, eficiente....
+**Versátil, simple, eficiente....**
 
 Con EcoShape, puede construir estructuras personalizadas que requieren muy pocos componentes. La planificación también es fácil gracias al nuevo software de diseño MTpro y a la necesidad de solo algunas piezas estándar.
 
