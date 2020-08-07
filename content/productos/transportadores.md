@@ -14,6 +14,51 @@ titulo_adicional = ""
 weight = 115
 
 +++
+## **Transportadores para Distanciamiento Social**
+
+![](https://res.cloudinary.com/novatec/v1596828434/47f933a7-4ec0-46b2-ac3a-4331b0202171_jw0okb.png)
+
+Novatec Industrial y QC Conveyors sabe que a medida que las empresas empiecen a reabrir en medio de la presente pandemia, pedir a los trabajadores que usen mascarillas no será suficiente.
+
+Por lo que muchos fabricantes serán obligados a repensar sus operaciones de muchas maneras, incluyendo distanciamiento social o automatización de los trabajos de los empleados quienes trabajan en las proximidades.
+
+### **QC Conveyors ofrece soluciones de transporte para:**
+
+· Manejo de piezas pequeñas
+
+· Manejo de ensambles completos o parciales
+
+· Manipulación de alimentos
+
+· Acumulación
+
+· Embalaje primario y secundario
+
+· Indización de precisión
+
+### **Transportadores de estación de trabajo a estación de trabajo:**
+
+  
+La forma más simple de distanciar socialmente a los empleados es agregar transportadores entre estaciones de trabajo. Aplicaciones que involucran a un trabajador que entrega un contenedor de piezas u otros a otro trabajador. Presentan una aplicación ideal para transportadores para mover esas partes entre estaciones de trabajo. Tienen el beneficio adicional de reducir las lesiones por levantamiento.
+
+### **Transportadores Robot / Cobot-Ready:**
+
+  
+Algunas aplicaciones simplemente no se pueden completar sin trabajadores cercanos.  
+En esos casos, algunos o todos los trabajadores pueden ser reemplazados por robots o cobots para asegurar el distanciamiento social adecuado. Los motores de CC sin escobillas de los transportadores de control de calidad son fáciles de integrarse con robots y PLC. Está disponible un URCap gratuito que permite transportadores para ser controlado directamente por un robot UR, incluyendo inicio / parada, avance / retroceso y operación de velocidad múltiple.
+
+![](https://res.cloudinary.com/novatec/v1596828569/1d8197d6-a1a9-4864-acff-6bb0fe1df88d_pwafgh.jpg)
+
+### **Limpieza de una persona:**
+
+**  
+**Los transportadores de la serie HydroClean están diseñados para una limpieza sin herramientas que los hace fácil de desmontar y limpiar en minutos.
+
+El lanzamiento de la tensión, la cola de los transportadores de la serie de automatización separa la tensión y el seguimiento, permitiendo un operador para limpiar debajo de la correa sin asistencia de mantenimiento.
+
+**Para que las empresas vuelvan a funcionar rápidamente mientras se garantiza a los empleados seguridad, los fabricantes deberán implementar estas soluciones en un tiempo récord.  
+QC Conveyors ofrece una amplia variedad de transportadores estándar que están en stock y listo para envío rápido.**
+
 ![](https://res.cloudinary.com/novatec/v1596755680/b3b71091-cd17-4835-a458-35efcd54735a_a4ane4.jpg)
 
 ## **Transportadores médicos**
@@ -23,7 +68,6 @@ QC Conveyors ofrece soluciones de transporte para cada paso del proceso, con tra
 
 ### **QC Conveyors ofrece soluciones de transporte para:**
 
-  
 . Moldeo por inyección de plástico  
 · Montaje de precisión  
 · Manejo de piezas pequeñas  
