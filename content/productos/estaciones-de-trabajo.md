@@ -24,7 +24,7 @@ Por ejemplo, puede equipar su estación de trabajo con una mesa, suministro de m
 
 ### **Ergonomía.**
 
-![](https://res.cloudinary.com/novatec/v1596836709/lean-manufacturing-and-ergonomic-workcell-design-43-728_k7hk26.jpg)
+![](https://res.cloudinary.com/novatec/v1596837166/lean-manufacturing-and-ergonomic-workcell-design-43-728_khu79y.jpg)
 
 A la hora de configurar los puestos de trabajo, se debe prestar atención en general a favorecer actividades cambiantes y dinámicas.
 
