@@ -27,4 +27,4 @@ Como productos diseñados específicamente que se insertan en un sistema de tube
 * Todas nuestras juntas de expansión tienen clasificaciones de seguridad que superan las especificaciones del producto en áreas como presión y movimiento.
 * Las juntas de expansión no metálicas y los acoplamientos flexibles son ideales para una amplia variedad de industrias.
 
-  #### **Ir a la página de:** [**Garlock**](https://www.garlock.com/en/products/rubber-expansion-joints "juntas de expansion")
+#### **Ir a la página de:** [**Garlock**](https://www.garlock.com/en/products/rubber-expansion-joints "juntas de expansion")
