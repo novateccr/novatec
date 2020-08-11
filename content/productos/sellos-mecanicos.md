@@ -212,6 +212,8 @@ Ofrecemos gran variedad de Sellos de componente, sellos mecánicos entre ellos:
 
 ## **MG9:**
 
+![](https://res.cloudinary.com/novatec/v1597182865/MG9-gigapixel-scale-4_00x_dzopmx.png)
+
 ### **Características:**
 
 • Para ejes lisos
@@ -231,6 +233,54 @@ Ofrecemos gran variedad de Sellos de componente, sellos mecánicos entre ellos:
 • Tamaños métricos y en pulgadas disponibles
 
 • Dimensiones especiales del asiento disponibles
+
+### **Ventajas:**
+
+• Se adapta a cualquier espacio de instalación debido al exterior más pequeño diámetro del sello
+
+• Aprobaciones de materiales importantes disponibles
+
+• Se puede lograr una longitud de instalación individual
+
+• Alta flexibilidad debido a la amplia selección de materiales
+
+• Aplicación universal (estandarización)
+
+## **M7N:**
+
+![](https://res.cloudinary.com/novatec/v1597183029/m7n-gigapixel-scale-4_00x_mw03t6.png)
+
+### **Características:**
+
+• Para ejes lisos
+
+• Sello simple
+
+• Desequilibrado
+
+• Super-Sinus-spring o múltiples resortes giratorios
+
+• Independiente del sentido de giro
+
+• Tornillo de bombeo para fluidos con mayor viscosidad (M7..F)
+
+• Variante con juntas secundarias de PTFE para alto contenido químico resistencia (M78N)
+
+### **Ventajas:**
+
+• Oportunidades de aplicación universal
+
+• Mantenimiento eficiente de existencias debido a caras fácilmente intercambiables
+
+• Amplia selección de materiales
+
+• Insensible a bajos contenidos de sólidos
+
+• Flexibilidad en las transmisiones de par
+
+• Efecto autolimpiante
+
+• Es posible una longitud de instalación corta (G16)
 
 {{< youtube Nmot_N6w5rA >}}
 
