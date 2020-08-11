@@ -1,7 +1,7 @@
 +++
 catalogo = "/catalogos/original-juntas-de-expansion-elastomericas.pdf"
 familias = ["Sellado"]
-galeria = ["/v1597180315/pipingExpansionJoints_akazxf.png", "/v1597180282/EJ_EZ-FLO_206_ncsqjv.jpg", "/v1570652706/EJ_Family_PTFE_Metal_AB_edit_1200X900_br2rud.png"]
+galeria = ["/v1597180315/pipingExpansionJoints_akazxf.png", "/v1570652706/EJ_Family_PTFE_Metal_AB_edit_1200X900_br2rud.png"]
 id = 55
 imagen = "/v1597180282/EJ_EZ-FLO_206_ncsqjv.jpg"
 industrias = ["Alimentos y Bebidas", "Energía", "Dispositivos Médicos", "Industria Pesada", "Biofarmacéuticos", "Química", "Agrícola", "Ingenios", "Comercial - Construcción", "Electrónica"]
