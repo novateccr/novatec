@@ -14,9 +14,9 @@ titulo_adicional = ""
 weight = 119
 
 +++
-## **_Gran variedad de empaquetaduras de compresión, entre ellas:_**
+# **_Gran variedad de empaquetaduras de compresión, entre ellas:_**
 
-### _1306 Fibra de Grafito flexible con refuerzo en la esquinas de fibra de carbón._
+## _1306 Fibra de Grafito flexible con refuerzo en la esquinas de fibra de carbón._
 
 ![](https://res.cloudinary.com/novatec/v1597273023/style_1306_flexible_graphite_fm3bk6.jpg)
 
@@ -45,7 +45,7 @@ weight = 119
 * Bombas Centrífugas
 * Turbinas Hidroeléctricas
 
-### _Empaque de compresión PACKMASTER:_
+## _Empaque de compresión PACKMASTER:_
 
 ![](https://res.cloudinary.com/novatec/v1597273126/PackMaster-6_1200x900_lwtv5h.jpg)
 
@@ -62,7 +62,7 @@ weight = 119
 * Presión máxima de la válvula: 300 psi/20 bar rotativa/centrífuga
 * Velocidad máxima de la bomba rotativa: 3000 pies por minuto/15.24 metros por segundo
 
-### _Empaque de servicio general Estilo 1925:_
+## _Empaque de servicio general Estilo 1925:_
 
 ![](https://res.cloudinary.com/novatec/v1597273309/Style_1925_1200x900_fmcyeb.jpg)
 
@@ -81,4 +81,4 @@ El rendimiento de primer nivel proviene de la innovadora mezcla de dos hilos. Lo
 * Presión máxima de bomba giratoria: 300 psi/20,7 bares
 * Velocidad máxima de bomba giratoria: 2500 fpm/12,7 m/s
 
-#### **_Y muchas más, consúltenos!_**
+### **_Y muchas más, consúltenos!_**
