@@ -53,7 +53,7 @@ Junta Sellante de PTFE con adhesivo, reduce efecto de plastodeformación ó fluj
 
 **APLICACIONES:**
 
-Material Inocuo, recomendado para Ácidos fuertes (excepto hidrofluorhídrico), solventes, hidrocarburos, cloruros, criogénicos, agua y vapor Alimenticio saturado*, Las resinas de PTFE utilizadas en el estilo 3535 junta sellante cumple con Código de regulación FDA 21CFR177.1550. El adhesivo utilizado para mantenerlo en la superficie a sellar durante la instalación cumple con código de regulación FDA 21CFR175.105.
+Material Inocuo, recomendado para Ácidos fuertes (excepto hidrofluorhídrico), solventes, hidrocarburos, cloruros, criogénicos, agua y vapor Alimenticio saturado*, Las resinas de PTFE utilizadas en el estilo 3535 junta sellante cumple con Código de regulación FDA 21CFR177.1550. El adhesivo utilizado para mantenerlo en la superficie a sellar durante la instalación cumple con código de regulación FDA 21CFR175.105..
 
 **PROPIEDADES FISICAS:**
 
