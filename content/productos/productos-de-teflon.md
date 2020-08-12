@@ -66,3 +66,5 @@ Temperatura Min. -450 °F (-268 °C)
 Temperatura Cont.. +500 °F ( +260 °C)
 
 Presión 800 (55) psig (bar)
+
+**_Consúltenos!_** 
