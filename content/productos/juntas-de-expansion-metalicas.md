@@ -1,6 +1,5 @@
 +++
 catalogo = "/catalogos/original-juntas-de-expansion-metalicas.pdf"
-draft = true
 familias = ["Sellado"]
 galeria = ["/v1570728971/Macoga-MWD_jq3rij.png"]
 id = 56
@@ -31,8 +30,14 @@ Este tipo de Junta de Expansión se compone de un solo fuelle provisto de soldad
 
 ## **MFA:**
 
-![](https://res.cloudinary.com/novatec/v1597265686/MFA_tf5mc5.png)
+![](https://res.cloudinary.com/novatec/v1597267297/MFA-gigapixel-scale-4_00x_mfiuj9.png)
 
 Este tipo de Junta de Expansión se compone de un solo fuelle equipado con fijo bridas.
+
+## **MFG:**
+
+![](https://res.cloudinary.com/novatec/v1597267447/MFG_xpaisg.png)
+
+Este tipo de Junta de Expansión se compone de un solo fuelle equipado con flotación bridas.
 
 **_Consúltenos!_**
