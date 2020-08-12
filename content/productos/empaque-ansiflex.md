@@ -2,21 +2,36 @@
 catalogo = ""
 categoria = ""
 familias = ["Sellado"]
-galeria = ["/v1573667908/ansiflex_eekxq2.jpg"]
+galeria = ["/v1597274516/Ansi_flex_q2pyld.png"]
 id = ""
 imagen = "/v1573667908/ansiflex_eekxq2.jpg"
 industrias = []
-marcas = []
-meta_description = "Empaque Ansi-Flex para bridas de PVC"
-meta_keywords = "ANSI flex, ANSI-FLEX"
+marcas = ["Rubber Fab"]
+meta_description = "Empaque Ansi-Flex"
+meta_keywords = "ANSI flex, ANSI-FLEX, PVC, Rubber Fab"
 taxonomyCover = false
 title = "Empaque Ansi-Flex"
 titulo = ""
+titulo_adicional = ""
 weight = ""
 
 +++
-**ANSI-FLEX**
+## **ANSI-FLEX:**
 
-La superficie de contacto de la junta de brida Ansi-Flex 150 # Ansi está unida con PTFE a un núcleo interno de caucho EPDM. Esta construcción totalmente unida proporciona una junta de PTFE con las características mecánicas, incluida la memoria, de una junta de elastómero con resistencia al vapor. La junta de brida Ansi-Flex 150 # tiene una vida útil superior y prolongada sobre las juntas de brida estándar
+La superficie de contacto de la junta de brida Ansi-Flex 150 # Ansi está unida con PTFE a un núcleo interno de caucho EPDM. Esta construcción totalmente unida proporciona una junta de PTFE con las características mecánicas, incluida la memoria, de una junta de elastómero con resistencia al vapor. La junta de brida Ansi-Flex 150 # tiene una vida útil superior y prolongada sobre las juntas de brida estándar.
 
-[ver mas informacion](https://rubberfab.com/products/sanitary-gaskets/specialty-gaskets/ansi-flex/ "pagina web")
+### **Aplicaciones:**
+
+* Tubería de PVC
+* Tubería de revestimiento de vidrio
+
+### **Ansi-Flex cumple con estrictos estándares:**
+
+* Certificación de clase VI de la farmacopea de EE. UU.
+* Criterios de citotoxicidad
+* Estándares sanitarios USDA y 3-A
+* Buenas prácticas de fabricación actuales (CGMP)
+* Estándares ASME-BPE
+* Sin ingredientes de origen animal (sin ADI)
+
+### [Ver más información>>>](https://rubberfab.com/products/sanitary-gaskets/specialty-gaskets/ansi-flex/#rf-resources)
