@@ -31,8 +31,6 @@ Cinta de PTFE marca Garlock PLASTI-THREAD®; para sellado de alto desempeño en 
 * Auto extinguible
 * Para tubos de Metal galvanizado,Plástico, Acero Inoxidable, Bronce, Cobre, Alumninio. Alta sellabilidad Protección al Medio Ambiente.
 
- {{< [https://youtu.be/Vw4fQDZrMs0](https://youtu.be/Vw4fQDZrMs0 "https://youtu.be/Vw4fQDZrMs0") >}}
-
 ### _Láminas de teflon:_
 
 ![](https://res.cloudinary.com/novatec/v1597259440/L%C3%A1mina_de_teflon_jnjtxt.png)
@@ -67,4 +65,4 @@ Temperatura Cont.. +500 °F ( +260 °C)
 
 Presión 800 (55) psig (bar)
 
-**_Consúltenos!_** 
+**_Consúltenos!_**
