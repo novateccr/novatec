@@ -28,11 +28,7 @@ weight = 22
 
 Los sellos de aceite Klozure® de Garlock® Klozure® están disponibles en una amplia variedad de configuraciones para satisfacer los requisitos de las industrias principales. Los materiales MILL-RIGHT® se usan sobre todos los sellos elastoméricos para una protección superior de rodamiento. Los sellos de aceite Klozure® están disponibles en más de 50 estilos diferentes en tamaños que van de ¼" a más de 90", sólidos o divididos, revestidos en metal o completamente en caucho. Los sellos de aceite KLOZURE® han tenido una fuerte presencia de marca en los Estados Unidos desde la década de 1920. Hoy en día, también se fabrican y se comercializan en la China y Alemania. La tecnología ha avanzado con el paso de los años y los sellos de aceite ahora están disponibles en elastómeros Mill-Right® que proporcionan una vida útil más prolongada que sus predecesores.
 
-  
- 
-
-##   
-**Familia de aisladores de rodamientos:**
+## **Familia de aisladores de rodamientos:**
 
 ![](https://res.cloudinary.com/novatec/v1597269006/heavydutyseals_1200x900_u79aam.png)
 
@@ -40,7 +36,7 @@ Los sellos de aceite Klozure® de Garlock® Klozure® están disponibles en una 
 
 _DESAFÍOS COMUNES DE LA INDUSTRIA_
 
-»Daño prematuro del rodamiento: el daño del rodamiento acorta el tiempo medio entre fallas (MTBF). 
+»Daño prematuro del rodamiento: el daño del rodamiento acorta el tiempo medio entre fallas (MTBF).
 
 Los sellos de labios no pueden ofrecer el rendimiento y la vida útil necesarios para proteger los cojinetes.
 
