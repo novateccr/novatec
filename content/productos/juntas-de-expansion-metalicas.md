@@ -30,7 +30,7 @@ Este tipo de Junta de Expansión se compone de un solo fuelle provisto de soldad
 
 ## **MFA:**
 
-![](https://res.cloudinary.com/novatec/v1597267297/MFA-gigapixel-scale-4_00x_mfiuj9.png)
+![](https://res.cloudinary.com/novatec/v1597265686/MFA_tf5mc5.png)
 
 Este tipo de Junta de Expansión se compone de un solo fuelle equipado con fijo bridas.
 
