@@ -2,7 +2,7 @@
 catalogo = ""
 categoria = ""
 familias = ["Sellado"]
-galeria = ["/v1597274516/Ansi_flex_q2pyld.png"]
+galeria = ["/v1573667908/ansiflex_eekxq2.jpg"]
 id = ""
 imagen = "/v1573667908/ansiflex_eekxq2.jpg"
 industrias = []
