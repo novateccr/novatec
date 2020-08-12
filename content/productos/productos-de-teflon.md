@@ -31,13 +31,13 @@ Cinta de PTFE marca Garlock PLASTI-THREAD®; para sellado de alto desempeño en 
 * Auto extinguible
 * Para tubos de Metal galvanizado,Plástico, Acero Inoxidable, Bronce, Cobre, Alumninio. Alta sellabilidad Protección al Medio Ambiente.
 
-**{**[https://youtu.be/Vw4fQDZrMs0](https://youtu.be/Vw4fQDZrMs0 "https://youtu.be/Vw4fQDZrMs0")**}**
+ {{< [https://youtu.be/Vw4fQDZrMs0](https://youtu.be/Vw4fQDZrMs0 "https://youtu.be/Vw4fQDZrMs0") >}}
 
 ### _Láminas de teflon:_
 
 ![](https://res.cloudinary.com/novatec/v1597259440/L%C3%A1mina_de_teflon_jnjtxt.png)
 
-En nuestras relaciones con nuestros clientes, nuestras principales prioridades son comprender sus requisitos y utilizar nuestra experiencia en PTFE para aportar ideas creativas y soluciones eficaces. 
+En nuestras relaciones con nuestros clientes, nuestras principales prioridades son comprender sus requisitos y utilizar nuestra experiencia en PTFE para aportar ideas creativas y soluciones eficaces.
 
 Los productos PTFE se encuentran en la mayoría de las industrias, incluidos los semiconductores, procesamiento químico, alimentario, médico, energético y aeroespacial.
 
@@ -49,7 +49,7 @@ Los beneficios del PTFE incluyen resistencia química, térmicaVestabilidad, pro
 
 ![](https://res.cloudinary.com/novatec/v1597260662/Style_3535_Joint_Sealant_ergtaq.jpg)
 
-Junta Sellante de PTFE con adhesivo, reduce efecto de plastodeformación ó flujo en frío. Permitiendo un sellado de productos químicos y alimenticios debido a su capacidad de recuperación. 
+Junta Sellante de PTFE con adhesivo, reduce efecto de plastodeformación ó flujo en frío. Permitiendo un sellado de productos químicos y alimenticios debido a su capacidad de recuperación.
 
 **APLICACIONES:**
 
@@ -57,11 +57,11 @@ Material Inocuo, recomendado para Ácidos fuertes (excepto hidrofluorhídrico), 
 
 **PROPIEDADES FISICAS:**
 
-Color - Blanco 
+Color - Blanco
 
-Composición PTFE Expa 
+Composición PTFE Expa
 
-Temperatura Min. -450 °F (-268 °C) 
+Temperatura Min. -450 °F (-268 °C)
 
 Temperatura Cont.. +500 °F ( +260 °C)
 
