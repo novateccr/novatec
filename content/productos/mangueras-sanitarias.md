@@ -86,3 +86,5 @@ Las mangueras de goma Rubber Fab aprobadas por la FDA están diseñadas para tra
 * TUBO: Mezcla suave de nitrilo blanco / PVC 
 * CUBIERTA: Caucho EPDM gris 
 * REFUERZO: Sintético alto tejido extensible con conductor estático hélice de filamento y monofilamento.
+
+### **_Entre muchas más, no dude en consultarnos!_**
