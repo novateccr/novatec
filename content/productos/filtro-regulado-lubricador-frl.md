@@ -2,7 +2,7 @@
 catalogo = "/catalogos/original-filtro-regulado-lubricador-frl.pdf"
 categoria = ""
 familias = ["Filtros", "Redes y tratamiento de Aire Comprimido"]
-galeria = ["/v1576261130/FRL_afue68.jpg"]
+galeria = ["/v1597433867/a69124de-d1d5-4b24-9bdf-b54df598c05a_a67fhz.png", "/v1597433844/92d7b2b2-4423-495a-9d00-28b4e40e36ea_do4c38.png"]
 id = 102
 imagen = "/v1531871338/P154428.jpg"
 industrias = ["Alimentos y Bebidas", "Energía", "Biofarmacéuticos"]
@@ -26,12 +26,10 @@ El filtro de partículas de 2 o 3 piezas montado en forma modular, un regulador 
 * 1 micras
 * 0.01 micras
 
-  
 **Tamaños de puerto:**
 
 * 1/4" hasta 1-1/2"
 
-  
 **Material del cuerpo en aluminio.**
 
-**Consultenos !!**
+**Consúltenos!**
