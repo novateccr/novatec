@@ -2,7 +2,7 @@
 catalogo = "/catalogos/original-tuberia-en-aluminio-para-aire-comprimido-y-gases-inertes.pdf"
 categoria = ""
 familias = ["Redes y tratamiento de Aire Comprimido"]
-galeria = ["/v1597433106/unnamed_10_pn9xdv.png"]
+galeria = ["/v1570655013/fitting_and_pipe_image_amx1ac.jpg"]
 id = 28
 imagen = "/v1530797588/productos/original-tuberia-en-aluminio-para-aire-comprimido-y-gases-inertes.png"
 industrias = ["Alimentos y Bebidas", "Energía", "Dispositivos Médicos", "Industria Pesada", "Biofarmacéuticos", "Química", "Agrícola", "Ingenios", "Comercial - Construcción", "Electrónica"]
