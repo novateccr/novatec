@@ -46,8 +46,6 @@ Sellante de poliuretano, mono-componente, de alto desempeño y alto movimiento p
 
 • Se puede usar en juntas de construcción y dilatación, así como en fisuras en tanques y reservorios de agua no clorada o tratada.
 
-![](https://res.cloudinary.com/novatec/v1597770793/superstop_b8fgdg.png)
-
 ### **SUPERSTOP:**
 
 Un sello impermeable que combina la resistencia de un sello convencional con la capacidad de bloqueo del paso del agua de la bentonita.
