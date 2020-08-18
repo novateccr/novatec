@@ -10,51 +10,54 @@ meta_description = "Ofrecemos un amplio portafolio de sellantes que incluyen: Se
 meta_keywords = "juntas, Euclid, Euco 700, EUCO QWIKJOINT 200, DYMONIC 100, SUPERSTOP, VULKEM 45 SSL, VULKEM 45 SSL"
 taxonomyCover = false
 title = "Juntas de control"
+titulo_adicional = ""
 weight = 108
 
 +++
-[Descargar brouchure](http://www.toxement.com.co/media/3779/brochure_sellos-compressed.pdf "brouchure juntas")
+## **Podemos a su disposición lo siguiente:**
 
-[Centro de descargas de brouchures](http://www.toxement.com.co/zona-t%C3%A9cnica/brochures/ "centro de descargas")
-
-**EUCO 700**
+### **EUCO 700:**
 
 Es un sistema epóxico semi-rígido de dos componentes, base epóxico, para el relleno de juntas de control y de construcción de pisos industriales de concreto. EUCO 700 ha sido diseñado para ser usado bajo las recomendaciones del ACI-302.
 
-Usos:
+#### **Usos:**
 
 Relleno para juntas interiores en pisos industriales y comerciales, donde brinda apoyo a los bordes de las juntas para prevenir su desportillamiento por el tráfico de las llantas.
 
-**EUCO QWIKJOINT 200**
+![](https://res.cloudinary.com/novatec/v1597770337/105-product-5d5ec93228d8b-euclid-euco700-2_t377lu.jpg)
+
+### **EUCO QWIKJOINT 200:**
 
 Es un relleno de poliurea semi-rígida de fraguado extra rápido que se utiliza para el relleno de juntas de control y de construcción en pisos industriales de concreto. Cumple con las recomendaciones de desempeño del ACI 302.
 
-Usos:
+#### **Usos:**
 
 Relleno para juntas interiores en pisos industriales y comerciales, donde brinda apoyo a los bordes de las juntas para prevenir su desportillamiento por el tráfico de las llantas. Donde se requiera un fraguado súper rápido y tiempo extendido para el rasurado del sello.
 
-**DYMONIC 100**
+![](https://res.cloudinary.com/novatec/v1597770510/qwikjoint-euclid_zfqets.png)
+
+### **DYMONIC 100:**
 
 Sellante de poliuretano, mono-componente, de alto desempeño y alto movimiento para uso sobre concreto nuevo o con humedad. Para superficies horizontales y verticales. El producto es estable a los rayos UV. Tiene una capacidad de movimiento: ±50% y resistente al contacto esporádico con carburantes (Jet fuel).
 
-Usos:
+#### **Usos:**
 
 • La aplicación típica del Dymonic 100 incluye juntas de expansión y control, juntas de paneles de concreto prefabricado, calafateo perimetral (ventanas, puertas, paneles), aluminio, mampostería y fachadas de vinilo.
 
 • Se puede usar en juntas de construcción y dilatación, así como en fisuras en tanques y reservorios de agua no clorada o tratada.
 
-  
-**SUPERSTOP**
+![](https://res.cloudinary.com/novatec/v1597770793/superstop_b8fgdg.png)
+
+### **SUPERSTOP:**
 
 Un sello impermeable que combina la resistencia de un sello convencional con la capacidad de bloqueo del paso del agua de la bentonita.
 
 Cuando el agua entra en contacto con el SUPERSTOP, ésta entra en contacto con la bentonita, causando una expansión de la misma, formando una masa impermeable que sella cualquier filtración de líquido. Tiene una fácil aplicación y el producto está listo para su uso.
 
-Usos:
+#### **Usos:**
 
 SUPERSTOP se utiliza para sellar juntas frías en el concreto, en paredes subterráneas, en juntas de construcción de losas, tanques, reservorios, túneles y cimentaciones.
 
-  
 **VULKEM 45 SSL**
 
 Sellante mono-componente de poliuretano semi autonivelante de bajo módulo para uso sobre concreto seco, verde o incluso con humedad.
@@ -69,9 +72,9 @@ Usos:
 
 • Aprobado para condiciones de inmersión continúa en
 
- agua sin adiciones químicas.
+agua sin adiciones químicas.
 
-**  
+\**  
 VULKEM 45 SSL**
 
 Sellante mono-componente de poliuretano semi autonivelante de bajo módulo para uso sobre concreto seco, verde o incluso con humedad. Proporciona una resistencia excepcional al desgaste y la ruptura en áreas de alto tráfico. Resistente al contacto esporádico con carburantes (Jet fuel). Capacidad de movimiento: +100/-50%, bajo ASTM C719 modificada.
@@ -85,3 +88,7 @@ Usos:
 • Aprobado para condiciones de inmersión continúa en
 
 agua sin adiciones químicas.
+
+[Descargar brouchure](http://www.toxement.com.co/media/3779/brochure_sellos-compressed.pdf "brouchure juntas")
+
+[Centro de descargas de brouchures](http://www.toxement.com.co/zona-t%C3%A9cnica/brochures/ "centro de descargas")
