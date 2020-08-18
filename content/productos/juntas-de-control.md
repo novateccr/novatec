@@ -76,8 +76,6 @@ Proporciona una resistencia excepcional al desgaste y la ruptura en áreas de al
 
 ![](https://res.cloudinary.com/novatec/v1597771295/vulkem_45-gigapixel-scale-4_00x_tvkirf.png)
 
-Links: [Descargar brouchure](http://www.toxement.com.co/media/3779/brochure_sellos-compressed.pdf "brouchure juntas")
-
-          [Centro de descargas de brouchures](http://www.toxement.com.co/zona-t%C3%A9cnica/brochures/ "centro de descargas")
+Links: [Descargar brouchure](http://www.toxement.com.co/media/3779/brochure_sellos-compressed.pdf "brouchure juntas"), [Centro de descargas de brouchures](http://www.toxement.com.co/zona-t%C3%A9cnica/brochures/ "centro de descargas")
 
 ### **_Consúltenos!_**
