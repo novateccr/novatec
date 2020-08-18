@@ -32,50 +32,50 @@ La **ausencia de óxido y contaminantes** proporciona una protección duradera d
 
 ![](https://res.cloudinary.com/novatec/v1597433225/parker-transair-air-piping_oi6mef.jpg)
 
-#### **_Características:_** 
+#### **_Características:_**
 
 Rápido:
 
-• No requiere soldadura, cola o prensado. 
+• No requiere soldadura, cola o prensado.
 
-• Ligero y fácil de manipular. 
+• Ligero y fácil de manipular.
 
 • Listo para usar
 
 Rentable:
 
-• Costes de instalación, mano de obra y funcionamiento optimizados. 
+• Costes de instalación, mano de obra y funcionamiento optimizados.
 
 • Sostenibilidad de los equipos y dispositivos de filtración.
 
 Duración:
 
-• Resistente a la corrosión. 
+• Resistente a la corrosión.
 
-• Calidad de la superficie interna. 
+• Calidad de la superficie interna.
 
 • 10 años de garantía
 
-Alto rendimiento: 
+Alto rendimiento:
 
-• Bajo coeficiente de rugosidad del tubo de acero inoxidable y aluminio y diseño de paso máximo. 
+• Bajo coeficiente de rugosidad del tubo de acero inoxidable y aluminio y diseño de paso máximo.
 
 • Optimización de las pérdidas de caudal y presión con tecnología innovadora.
 
 Adaptable:
 
-• Variedad de soluciones de bajantes gracias a las abrazaderas con cuello de cisne o directas, con tecnología de conexión rápida o roscada. 
+• Variedad de soluciones de bajantes gracias a las abrazaderas con cuello de cisne o directas, con tecnología de conexión rápida o roscada.
 
 • Tecnologías que ofrecen el mejor compromiso entre seguridad, eficiencia y adaptabilidad.
 
 **Links de interés:**
 
-**Ir a:** [**Literatura**](https://promo.parker.com/promotionsite/transair/us/en/engineering-tools "Parker")  
-\- Case Studies  
-\- Calculadora (Versión Computadora)
+**Ir a:** [**Literatura**](https://promo.parker.com/promotionsite/transair/us/en/engineering-tools "Parker")
+
+[>> Bajar catalogo Transair <<](https://synology01.novatec.cr:5001/d/f/517303708866847536)
 
 **Ir a página web:** [**Videos e instrucciones Parker Transair**](http://promo.parker.com/promotionsite/transair/us/en/video-library "Parker")
 
 **Ir a librería de:** [**Dibujos en CAD 2D y 3D**](http://promo.parker.com/promotionsite/transair/us/en/engineering-tools "Parker")
 
-### **_Consúltenos!_** 
+### **_Consúltenos!_**
