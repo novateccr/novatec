@@ -189,3 +189,39 @@ Belzona 1812 (Ceramic Carbide FP) se ha desarrollado para situaciones de erosió
 * Revestimiento para conductos, palas mezcladoras, ciclones y otros equipos desgastados sujetos a la abrasión
 
 ![](https://res.cloudinary.com/novatec/v1597783398/1812_5_vusmir.jpg)
+
+## **Serie 2000:**
+
+### [**Belzona 2111:**](https://www.belzona.com/es/products/2000/2111.aspx)
+
+Una resina de poliuretano duo componente diseñada para reparar, reconstruir y recubrir componentes de metal y caucho. Este material de reparación de caucho flexible es apropiado para aplicaciones donde se requiera alto espesor, durabilidad, elasticidad y resistencia alta a la abrasión y los desgarros. Este material es fácil de mezclar y aplicar sin necesidad de herramientas especiales, y fragua a temperatura ambiente, lo que elimina la necesidad de trabajo en caliente.
+
+![](https://res.cloudinary.com/novatec/v1597787951/2111_1_pbmtua.jpg)
+
+#### Las aplicaciones de Belzona 2111 (D&A Hi-Build Elastomer) incluyen las siguientes:
+
+* Creación y reparación de revestimientos de caucho para proporcionar resistencia a la abrasión a largo plazo
+* Reparación y encapsulamiento en el lugar de las juntas de gancho en las cintas transportadoras
+* Reforma y unión de husillos y bitas en las cintas transportadoras
+* Alternativa de fraguado a bajas temperaturas para la reparación de zonas de caucho desgastadas, agrietadas o desgarradas (frente a las reparaciones con caucho vulcanizado)
+* Protección duradera contra el desgaste y el impacto en volutas e impulsores de bomba
+
+![](https://res.cloudinary.com/novatec/v1597787967/2111_3_jblfwy.jpg)
+
+### [**Belzona 2131:**](https://www.belzona.com/es/products/2000/2131.aspx)
+
+Una resina de poliuretano duo componente diseñada para el revestimiento de componentes metálicos y de caucho, así como para el moldeado de nuevos componentes de caucho. Este material de caucho flexible es apropiado para aplicaciones donde se requiera durabilidad, elasticidad y resistencia alta a la abrasión y los desgarros. Es fácil de mezclar y aplicar sin necesidad de herramientas especiales, y fragua a temperatura ambiente, lo que elimina la necesidad de trabajo en caliente y vulcanización.
+
+![](https://res.cloudinary.com/novatec/v1597788193/2131_1_rpxlhk.jpg)
+
+#### Las aplicaciones de Belzona 2131 (D&A Fluid Elastomer) incluyen las siguientes:
+
+* Revestimientos de caucho de fraguado a bajas temperaturas para impulsores y carcasas de bomba, a fin de proporcionar protección duradera contra el impacto y el desgaste
+* Creación de guías para acoplamientos para proporcionar una respuesta rápida y protección contra el desgaste
+* Moldeado de nuevos componentes, tales como amortiguadores, módulos flexibles y rodamientos guía
+* Revestimiento de componentes de caucho y metal para proporcionar resistencia a la abrasión duradera
+* Reparación de bombas de lóbulo al moldear nuevos lóbulos con las dimensiones originales, lo que evita tiempos de espera largos y altos costos
+
+![](https://res.cloudinary.com/novatec/v1597788207/2131_2_zopejq.jpg)
+
+### **Y muchos más compuestos, de la serie 3000, 4000, 5000 y 9000, consúltenos!**
