@@ -1,7 +1,7 @@
 +++
 catalogo = ""
 categoria = ""
-familias = ["Polímeros para reparación de bombas", "Pisos y polímeros"]
+familias = ["Polímeros para reparación de bombas", "Pisos y Polímeros"]
 galeria = []
 id = ""
 imagen = ""
