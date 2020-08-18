@@ -165,3 +165,89 @@ Un recubrimiento epoxi relleno de cerámica de 2 partes, diseñado para proporci
 * Creación de calces de rodamiento de carga irregulares.
 
 ![](https://res.cloudinary.com/novatec/v1597778953/1321_5_gqsuyq.jpg)
+
+### **Belzona 1341:**
+
+Un recubrimiento epoxi de 2 partes diseñado para mejorar la eficiencia de las bombas, tuberías, válvulas y otros equipos de manejo de fluidos, mientras los protege contra la corrosión y la erosión. Está comprobado que este producto de alto rendimiento reduce el consumo de energía, proporciona excelente resistencia química y minimiza los costos de mantenimiento.
+
+Belzona 1341 (Supermetalglide) mejora la eficiencia de la bomba mediante el uso de tecnología hidrofóbica para repeler los fluidos de proceso y reducir el flujo turbulento. Se han registrado aumentos de eficiencia de hasta 7 % en equipos nuevos y de hasta 20 % en equipos reparados.
+
+![](https://res.cloudinary.com/novatec/v1597782483/1341_1_w7xinq.jpg)
+
+#### Beneficios clave:
+
+* Mayor eficiencia de las bombas, tuberías, válvulas y otros equipos
+* Protección contra la erosión y la corrosión a largo plazo
+* Excelente resistencia frente a una amplia gama de productos químicos
+* Adecuado para el contacto con agua potable
+* Reducción de los riesgos de salud y seguridad, ya que está libre de solventes
+* Aplicación y fraguado a temperatura ambiente, sin involucrar trabajo en caliente
+* Larga vida útil
+* Excelente adherencia a los metales, incluidos acero inoxidable, aceros dúplex, acero al carbono, aluminio, hierro fundido y bronce, así como a aleaciones especializadas y a otros materiales
+
+#### Las aplicaciones de Belzona 1341 (Supermetalglide) incluyen las siguientes:
+
+* Mejora del rendimiento de las bombas centrífugas y bombas de desplazamiento positivo
+* Protección de volutas e impulsores de bomba contra la erosión y la corrosión
+* Revestimiento de tuberías internas para aumentar el flujo de fluidos
+* Protección contra la corrosión a largo plazo de cajas y tanques de agua e intercambiadores de calor de placas de tubos
+* Reducción del material excedente de conductos y ciclones
+
+Belzona 1341 (Supermetalglide) es adecuado para el contacto con agua potable, ya que está certificado por el Estándar 61 ANSI/NSF y satisface los requerimientos de la Agencia de Inspección del Agua Potable (Drinking Water Inspectorate) del Reino Unido.
+
+![](https://res.cloudinary.com/novatec/v1597782508/1341_7_tgn4n1.jpg)
+
+### **Belzona 1391:**
+
+Un recubrimiento epoxi de 2 partes relleno de cerámica que brinda resistencia a la erosión y corrosión en los equipos de alta temperatura que operan bajo inmersión de hasta 120 °C (248 °F). Este recubrimiento libre de solventes brinda una excelente resistencia a una amplia gama de soluciones acuosas, hidrocarburos y productos químicos de proceso. Es fácil de mezclar y se puede aplicar con un aplicador o una brocha de cerda dura.
+
+Belzona 1391 (Ceramic HT) también se puede usar como un adhesivo estructural de alta resistencia para unir metal y para crear calces de rodamiento de carga irregulares, en donde se requiera un material de alta temperatura.
+
+![](https://res.cloudinary.com/novatec/v1597782688/1391_1_dqgytj.jpg)
+
+#### Beneficios clave:
+
+* Apto para condiciones de inmersión a altas temperaturas
+* Excelente resistencia a la corrosión y la erosión
+* Reducción de los riesgos de salud y seguridad, ya que está libre de solventes
+* Alta resistencia a la compresión
+* Aplicación y fraguado a temperatura ambiente, sin involucrar trabajo en caliente
+* Excelente resistencia frente a una amplia gama de productos químicos
+* Sin contracciones, expansiones o distorsiones
+* Excelente adherencia a muchas superficies de metal, que incluyen acero, acero inoxidable, aceros especializados
+
+#### Las aplicaciones de Belzona 1391 (Ceramic HT) incluyen las siguientes:
+
+* Recubrimiento de alta temperatura para recipientes de proceso, columnas de destilación, intercambiadores de calor, clarificadores y unidades de depuración que operan bajo inmersión
+* Protección de bombas, válvulas, tanques de agua caliente y separadores contra los efectos de la erosión y la corrosión
+* Protección de tuberías contra la humedad y el ataque químico
+* Adhesión estructural de alta resistencia para la unión de metal
+* Creación de calces de rodamiento de carga irregulares.
+
+![](https://res.cloudinary.com/novatec/v1597782705/1391_7_qsguu8.jpg)
+
+### **Belzona 1511:**
+
+Un compuesto de reparación de 2 partes a base de resina epoxi libre de solventes reforzado con aleación de acero al silicio. Este sistema de reparación de alta temperatura está diseñado para la reparación de metal y la reconstrucción de equipos, y proporciona una excelente protección contra la corrosión. Bajo condiciones de inmersión, Belzona 1511 (Super HT-Metal) es térmicamente estable hasta 150 °C (302 °F). Una vez fraguado, el material es durable y totalmente mecanizable y es ideal para la utilización en conjunto con los [recubrimientos de alta temperatura de Belzona](https://www.belzona.com/en/products/purpose/high-temperature.aspx), a fin de asegurar un rendimiento de larga duración.
+
+![](https://res.cloudinary.com/novatec/v1597782800/1511_1_tmswji.jpg)
+
+#### Beneficios clave:
+
+* Apto para altas temperaturas
+* Excelente resistencia a la corrosión y la erosión
+* Aplicación y fraguado a temperatura ambiente, sin involucrar trabajo en caliente
+* Excelente resistencia frente a una amplia gama de productos químicos
+* Reducción de los riesgos de salud y seguridad, ya que está libre de solventes
+* Sin contracciones, expansiones o distorsiones
+* Excelente adherencia a muchas superficies de metal, que incluyen acero, acero inoxidable, aceros especializados
+* Totalmente mecanizable con herramientas convencionales
+* Alta resistencia a la compresión
+
+#### Las aplicaciones de Belzona 1511 (Super HT-Metal) incluyen las siguientes:
+
+* Reparaciones epoxi de alta temperatura para recipientes de proceso, columnas de destilación, intercambiadores de calor, clarificadores y unidades de depuración
+* Reparación de grietas y agujeros en las carcasas del motor y de la bomba, tuberías, tanques y otros equipos
+* Recubrimiento de superficies metálicas picadas
+
+![](https://res.cloudinary.com/novatec/v1597782787/1511_7_xzrzjt.jpg)
