@@ -251,3 +251,63 @@ Un compuesto de reparación de 2 partes a base de resina epoxi libre de solvente
 * Recubrimiento de superficies metálicas picadas
 
 ![](https://res.cloudinary.com/novatec/v1597782787/1511_7_xzrzjt.jpg)
+
+### **Belzona 1811:**
+
+Un material compuesto duo componente a base de epoxi que incorpora agregados de cerámica resistentes a la abrasión para la reparación y protección de superficies metálicas que sufren de abrasión por deslizamiento. Belzona 1811 (Ceramic Carbide) resiste daños por deformación y desgaste al brindar resistencia a la abrasión a largo plazo.
+
+Este material compuesto altamente durable puede aplicarse sin necesidad de herramientas especiales, en capas de espesor ilimitado sobre superficies verticales y horizontales, hasta una temperatura en seco de 150°C (300°F). Belzona 1811 (Ceramic Carbide) no se corroe y es resistente a una amplia gama de productos químicos. Se adhiere a una variedad de sustratos y proporciona un revestimiento transparente junto con una excelente resistencia a la abrasión y al desgaste por partículas gruesas.
+
+Alternativamente, para los problemas de abrasión debidos a partículas muy finas, hemos desarrollado [Belzona 1812 (Ceramic Carbide FP)](http://www.belzona.com/es/products/1000/1812.aspx).
+
+![](https://res.cloudinary.com/novatec/v1597782947/954a0d_af0e1fad61ed4adbbbafc8080ab07eef_o6asir.jpg)
+
+#### Beneficios clave:
+
+* Alta resistencia al desgaste y a la abrasión
+* Anticorrosión
+* Libre de solventes, lo que permite que se aplique de forma segura en lugares cerrados
+* Excelente adherencia a muchas superficies de metal, que incluyen acero y hierro fundido
+* Aplicación y fraguado a temperatura ambiente, sin involucrar trabajo en caliente
+* Larga vida útil
+* Alta velocidad de fraguado, que asegura un rápido retorno al servicio
+* Alta resistencia mecánica
+
+#### Las aplicaciones de Belzona 1811 (Ceramic Carbide) incluyen las siguientes:
+
+* Protección de tuberías, tubos acodados, codos y válvulas contra la abrasión
+* Adhesión y lechada para azulejos y placas de desgaste que requieren una alta resistencia a la abrasión
+* Reparación de transportadores de tornillo, centrífugas e impulsores de la bomba dañados por la erosión y la corrosión
+* Revestimiento para conductos, palas mezcladoras, ciclones y otros equipos desgastados sujetos a la abrasión
+
+![](https://res.cloudinary.com/novatec/v1597782963/1811_3_vmjnlp.jpg)
+
+### **Belzona 1812:**
+
+Un material compuesto duo componente a base de epoxi, que combina agregados de cerámica resistentes a la abrasión extremadamente duros y estrechamente compactos en un aglutinador polimérico para la reparación y protección de equipos dañados por la abrasión de partículas finas.
+
+Belzona 1812 (Ceramic Carbide FP) se ha desarrollado para situaciones de erosión por partículas finas, tales como la fabricación de cemento. Esta tecnología de nueva generación crea un compuesto más suave pero muy resistente, que puede aplicarse en capas delgadas, lo que brindar mayores oportunidades para modificar perfiles y mejorar el flujo.
+
+Alternativamente, para los problemas de abrasión debidos a partículas gruesas, hemos desarrollado [Belzona 1811 (Ceramic Carbide)](https://www.belzona.com/es/products/1000/1811.aspx).
+
+![](https://res.cloudinary.com/novatec/v1597783370/1812_1_w7clgx.jpg)
+
+#### Beneficios clave:
+
+* Alta resistencia al desgaste y a la abrasión
+* Anticorrosión
+* Libre de solventes, lo que permite que se aplique de forma segura en lugares cerrados
+* Excelente adherencia a muchas superficies de metal, que incluyen acero y hierro fundido
+* Aplicación y fraguado a temperatura ambiente, sin involucrar trabajo en caliente
+* Larga vida útil
+* Alta velocidad de fraguado, que asegura un rápido retorno al servicio
+* Alta resistencia mecánica
+
+#### Las aplicaciones de Belzona 1812 (Ceramic Carbide FP) incluyen las siguientes:
+
+* Protección de tuberías, tubos acodados, codos y válvulas contra daños causados por abrasión
+* Adhesión y lechada para azulejos y placas de desgaste que requieren una alta resistencia a la abrasión
+* Reparación de transportadores de tornillo, centrífugas e impulsores de la bomba dañados por la erosión y la corrosión
+* Revestimiento para conductos, palas mezcladoras, ciclones y otros equipos desgastados sujetos a la abrasión
+
+![](https://res.cloudinary.com/novatec/v1597783398/1812_5_vusmir.jpg)
