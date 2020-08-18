@@ -1,12 +1,12 @@
 +++
 catalogo = ""
 categoria = ""
-familias = ["Polímeros para reparación de bombas"]
+familias = ["Polímeros para reparación de bombas", "Pisos y polímeros"]
 galeria = []
 id = ""
 imagen = ""
 industrias = []
-marcas = []
+marcas = ["Belzona"]
 meta_description = ""
 meta_keywords = ""
 taxonomyCover = false
