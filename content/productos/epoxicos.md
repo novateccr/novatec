@@ -2,7 +2,7 @@
 catalogo = "/catalogos/original-epoxicos.pdf"
 categoria = ""
 familias = ["Pisos y Polímeros"]
-galeria = ["/v1597765045/commercial-flooring-header-03_eirm8m.jpg", "/v1597765009/commercial-flooring-header-05_m3zlls.jpg"]
+galeria = ["/v1597769602/commercial-Epoxico-FC_vko50g-gigapixel-scale-4_00x_qfudhp.jpg", "/v1597765045/commercial-flooring-header-03_eirm8m.jpg", "/v1597765009/commercial-flooring-header-05_m3zlls.jpg"]
 id = 17
 imagen = "/v1597764993/commercial-flooring-header-05_cbdtf2.jpg"
 industrias = ["Alimentos y Bebidas", "Energía", "Industria Pesada", "Biofarmacéuticos"]
