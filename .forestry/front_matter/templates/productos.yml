@@ -69,6 +69,7 @@ fields:
     required: false
   label: Titulo adicional
 pages:
+- content/productos/10.covid-19.md
 - content/productos/_index.md
 - content/productos/aceite.md
 - content/productos/actuadores-sistemas-de-automatizacion-de-valvulas-automax.md
