@@ -1,7 +1,7 @@
 +++
 catalogo = ""
 categoria = ""
-familias = ["Equipos y sistemas de limpieza", "Neumática", "10. COVID-19"]
+familias = ["10. COVID-19"]
 galeria = []
 id = ""
 imagen = ""
