@@ -1,7 +1,6 @@
 +++
 catalogo = ""
 categoria = ""
-draft = true
 familias = ["Equipos y sistemas de limpieza", "Neumática"]
 galeria = []
 id = ""
