@@ -111,3 +111,72 @@ Se adapta a las siguientes carcasas: Eaton, Modelo FSI FS-35, Pentair, Modelo de
 Diámetro: 4.12"
 
 Longitud: 14.0"
+
+### **Tamaño 12:**
+
+![](https://res.cloudinary.com/novatec/v1598305880/tama%C3%B1o_12_z5bxup.png)
+
+Se adapta al modelo Rosedale LLC-8-30.
+
+Área: 5.6 Sq. Ft.
+
+Diámetro: 8-3/8"
+
+Longitud: 32"
+
+### **Tamaño 7:**
+
+![](https://res.cloudinary.com/novatec/v1598306220/tama%C3%B1o_7_bgsufn.png)  
+Compatible con Pentair, Rosedale modelo 612.
+
+Área: 1.3 Sq. Ft.
+
+Diámetro: 5.6"
+
+Longitud: 15"
+
+### **Tamaño 8:**
+
+![](https://res.cloudinary.com/novatec/v1598306317/tama%C3%B1o_8_ktkhn7.png)
+
+Compatible con Pentair, Rosedale modelo 618.
+
+Área: 2.0 Sq. Ft.
+
+Diámetro: 5.6"
+
+Longitud: 32"
+
+### **Tamaño 9:**
+
+![](https://res.cloudinary.com/novatec/v1598306473/tama%C3%B1o_9_l5lpyo.png)
+
+Compatible con Pentair, Rosedale modelo 630.
+
+Área: 3.3 Sq. Ft.
+
+Diámetro: 5.6"
+
+Longitud: 32"
+
+### **Tamaño RP1:**
+
+![](https://res.cloudinary.com/novatec/v1598306613/RP12_asdnad.png)
+
+Se adapta a Ronning Petter tamaño 1.
+
+Área: 3.5 Sq. Ft.
+
+Diámetro: 8"
+
+Longitud: 30"
+
+### **RP2:**
+
+Diámetro: 8"
+
+Longitud: 40"
+
+### **_Consúltenos!_**
+
+ 
