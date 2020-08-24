@@ -63,3 +63,51 @@ Se adapta a todas las carcasas de doble longitud fabricadas por: Eaton, FSI, GAF
 Diámetro: 7.31"
 
 Longitud: 32.0"
+
+### **Tamaño 3:**
+
+![](https://res.cloudinary.com/novatec/v1598304436/TAMA%C3%91O_3_rbz1zv.png)
+
+Se adapta a las siguientes carcasas: Eaton, FSI, Pentair, Modelo de Rosedale 4-6.
+
+Área: 0.8 Sq. Ft.
+
+Diámetro: 4.12"
+
+Longitud: 9.0"
+
+### **Tamaño PC1:**
+
+![](https://res.cloudinary.com/novatec/v1598304545/PC1_ljd68q.png)
+
+Se adapta a Cuno, Housing modelo PC1.
+
+Área: 2.5 Sq. Ft.
+
+Diámetro: 9.0"
+
+Longitud: 20.0"
+
+### **Tamaño C1:**
+
+![](https://res.cloudinary.com/novatec/v1598305550/c1_cdgwdf.png)
+
+Se adapta a todas las carcasas de longitud estándar de los filtros CommercialParker.
+
+Área: 2.0 Sq. Ft.
+
+Diámetro: 7.31"
+
+Longitud: 16.5"
+
+### **Tamaño 4:**
+
+![](https://res.cloudinary.com/novatec/v1598305660/tama%C3%B1o_4_fnzgqd.png)
+
+Se adapta a las siguientes carcasas: Eaton, Modelo FSI FS-35, Pentair, Modelo de Rosedale 4-12
+
+Área: 1.3 Sq. Ft.
+
+Diámetro: 4.12"
+
+Longitud: 14.0"
