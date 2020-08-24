@@ -20,7 +20,7 @@ weight = 16
 
 ![](https://res.cloudinary.com/novatec/v1598303822/tama%C3%B1o_1_qkd6ps.png)
 
-Se adapta a todas las carcasas de longitud estándar fabricadas por: Eaton, FSI, GAF, Pentair, Rosedale, Strainrite.
+Se adapta a diferentes tipos de carcasa. 
 
 Área: 2.5 Sq. Ft.
 
@@ -32,7 +32,7 @@ Longitud: 16.5"
 
 ![](https://res.cloudinary.com/novatec/v1598303988/PC2_hxuvrx.png)
 
-Se adapta a Cuno, Housing modelo PC2.
+Se adapta a diferentes tipos de carcasa. 
 
 Área: 5.0 Sq. Ft.
 
@@ -44,9 +44,7 @@ Longitud: 30.0"
 
 ![](https://res.cloudinary.com/novatec/v1598304122/C2_ofus9s.png)
 
-Se adapta a todas las carcasas de longitud estándar de los filtros CommercialParker.
-
-Área: 4.4 Sq. Ft.
+Se adapta a diferentes tipos de carcasa. 
 
 Diámetro: 7.31"
 
@@ -56,7 +54,7 @@ Longitud: 32.0"
 
 ![](https://res.cloudinary.com/novatec/v1598304244/TAMA%C3%91O_2_o822ef.png)
 
-Se adapta a todas las carcasas de doble longitud fabricadas por: Eaton, FSI, GAF, Pentair, Rosedale, Strainrite.
+Se adapta a diferentes tipos de carcasa. 
 
 Área: 4.4 Sq. Ft.
 
@@ -68,7 +66,7 @@ Longitud: 32.0"
 
 ![](https://res.cloudinary.com/novatec/v1598304436/TAMA%C3%91O_3_rbz1zv.png)
 
-Se adapta a las siguientes carcasas: Eaton, FSI, Pentair, Modelo de Rosedale 4-6.
+Se adapta a diferentes tipos de carcasa. 
 
 Área: 0.8 Sq. Ft.
 
@@ -80,7 +78,7 @@ Longitud: 9.0"
 
 ![](https://res.cloudinary.com/novatec/v1598304545/PC1_ljd68q.png)
 
-Se adapta a Cuno, Housing modelo PC1.
+Se adapta a diferentes tipos de carcasa. 
 
 Área: 2.5 Sq. Ft.
 
@@ -92,7 +90,7 @@ Longitud: 20.0"
 
 ![](https://res.cloudinary.com/novatec/v1598305550/c1_cdgwdf.png)
 
-Se adapta a todas las carcasas de longitud estándar de los filtros CommercialParker.
+Se adapta a diferentes tipos de carcasa. 
 
 Área: 2.0 Sq. Ft.
 
@@ -104,7 +102,7 @@ Longitud: 16.5"
 
 ![](https://res.cloudinary.com/novatec/v1598305660/tama%C3%B1o_4_fnzgqd.png)
 
-Se adapta a las siguientes carcasas: Eaton, Modelo FSI FS-35, Pentair, Modelo de Rosedale 4-12
+Se adapta a diferentes tipos de carcasa. 
 
 Área: 1.3 Sq. Ft.
 
@@ -116,7 +114,7 @@ Longitud: 14.0"
 
 ![](https://res.cloudinary.com/novatec/v1598305880/tama%C3%B1o_12_z5bxup.png)
 
-Se adapta al modelo Rosedale LLC-8-30.
+Se adapta a diferentes tipos de carcasa. 
 
 Área: 5.6 Sq. Ft.
 
@@ -127,7 +125,7 @@ Longitud: 32"
 ### **Tamaño 7:**
 
 ![](https://res.cloudinary.com/novatec/v1598306220/tama%C3%B1o_7_bgsufn.png)  
-Compatible con Pentair, Rosedale modelo 612.
+Se adapta a diferentes tipos de carcasa. 
 
 Área: 1.3 Sq. Ft.
 
@@ -139,7 +137,7 @@ Longitud: 15"
 
 ![](https://res.cloudinary.com/novatec/v1598306317/tama%C3%B1o_8_ktkhn7.png)
 
-Compatible con Pentair, Rosedale modelo 618.
+Se adapta a diferentes tipos de carcasa. 
 
 Área: 2.0 Sq. Ft.
 
@@ -151,7 +149,7 @@ Longitud: 32"
 
 ![](https://res.cloudinary.com/novatec/v1598306473/tama%C3%B1o_9_l5lpyo.png)
 
-Compatible con Pentair, Rosedale modelo 630.
+Se adapta a diferentes tipos de carcasa. 
 
 Área: 3.3 Sq. Ft.
 
@@ -163,7 +161,7 @@ Longitud: 32"
 
 ![](https://res.cloudinary.com/novatec/v1598306613/RP12_asdnad.png)
 
-Se adapta a Ronning Petter tamaño 1.
+Se adapta a diferentes tipos de carcasa. 
 
 Área: 3.5 Sq. Ft.
 
