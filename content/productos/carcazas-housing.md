@@ -103,4 +103,54 @@ Se pueden suministrar con variedad de configuraciones de conexión diferentes y 
 
 • Soportes de montaje opcionales disponibles
 
+### **Housing OIL:**
+
+#### **Características:** 
+
+• La carcasa de un solo cartucho acepta el estilo AB, apertura simple elementos de filtro final
+
+• Todas las partes húmedas están hechas de acero inoxidable.
+
+• Acepta 1 pulg. (2,54 cm), 5 pulg. (12,7 cm), 10 pulg. (25,4 cm), 20 pulg. (50,8 cm) o 30 pulg. (76,2 cm) Código 3, Código 7, Cartuchos de filtro Código 8 o Código 18
+
+• Conexiones de entrada y salida en línea para una fácil instalación
+
+• Abrazadera de banda en V con mango en T de apertura rápida que facilita el filtrado cambiante
+
+• Amplia variedad de tamaños de entrada / salida y opciones de sello de junta tórica
+
+• Pasivado por pureza
+
 ![](https://res.cloudinary.com/novatec/v1598456153/IDL_housing_500x500_f30lfd.jpg)
+
+### **Housing LMO:**
+
+#### **Características:** 
+
+* Acepta 10,2 cm (4 pulgadas), 25,4 cm (10 pulgadas), 50,8 cm (20 pulgadas) o 76,2 cm (30 pulgadas) 
+* Doble Cartuchos de filtro de extremo abierto1 
+* Presión de funcionamiento hasta 12,1 bar (175 psig) a 93 ° C (200 ° F) permite su uso en una amplia gama de aplicaciones 
+* Hierro fundido y acero inoxidable 316 o todo acero inoxidable 316 materiales de acero de construcción 
+* Conexiones de entrada y salida en línea para una fácil instalación 
+* El mango en T opcional permite el reemplazo del filtro cartucho sin herramientas
+
+![](https://res.cloudinary.com/novatec/v1598459496/housinglmo-gigapixel-scale-4_00x_ultdc2.png)
+
+### **Housing MDS:**
+
+  
+Se recomiendan carcasas de filtro Pall MDS para aplicaciones de flujo pequeño que implican filtración de líquidos o gases. Serie MDS las carcasas admiten MC * o MD * Cartuchos estilo 4463 y 2230 con líquido caudales de hasta 7.5 L / min (2 gal / min) y el gas fluye hasta 100 Nm3 / hora (60 scfm). 
+
+#### **Características y Beneficios:**
+
+ • Clasificación de alta temperatura 
+
+• Clasificación de alta presión 
+
+• Fácil montaje y cambio 
+
+• Acero inoxidable electropulido para facilitar de limpieza 
+
+• Sistema de calidad de fabricación certificado según las normas ISO 9000
+
+![](https://res.cloudinary.com/novatec/v1598459947/mdsJuniorParts-gigapixel-scale-4_00x_hpfmqo.jpg)
