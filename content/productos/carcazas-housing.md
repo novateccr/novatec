@@ -99,9 +99,9 @@ Se pueden suministrar con variedad de configuraciones de conexión diferentes y 
 
 • Soportes de montaje opcionales disponibles
 
-## **5- Housing OIL:**
+## **5- Housing IOL:**
 
-### **Características:** 
+### **Características:**
 
 • La carcasa de un solo cartucho acepta el estilo AB, apertura simple elementos de filtro final
 
@@ -121,31 +121,30 @@ Se pueden suministrar con variedad de configuraciones de conexión diferentes y 
 
 ## **6- Housing LMO:**
 
-### **Características:** 
+### **Características:**
 
-* Acepta 10,2 cm (4 pulgadas), 25,4 cm (10 pulgadas), 50,8 cm (20 pulgadas) o 76,2 cm (30 pulgadas) 
-* Doble Cartuchos de filtro de extremo abierto1 
-* Presión de funcionamiento hasta 12,1 bar (175 psig) a 93 ° C (200 ° F) permite su uso en una amplia gama de aplicaciones 
-* Hierro fundido y acero inoxidable 316 o todo acero inoxidable 316 materiales de acero de construcción 
-* Conexiones de entrada y salida en línea para una fácil instalación 
+* Acepta 10,2 cm (4 pulgadas), 25,4 cm (10 pulgadas), 50,8 cm (20 pulgadas) o 76,2 cm (30 pulgadas)
+* Doble Cartuchos de filtro de extremo abierto1
+* Presión de funcionamiento hasta 12,1 bar (175 psig) a 93 ° C (200 ° F) permite su uso en una amplia gama de aplicaciones
+* Hierro fundido y acero inoxidable 316 o todo acero inoxidable 316 materiales de acero de construcción
+* Conexiones de entrada y salida en línea para una fácil instalación
 * El mango en T opcional permite el reemplazo del filtro cartucho sin herramientas
 
 ![](https://res.cloudinary.com/novatec/v1598459496/housinglmo-gigapixel-scale-4_00x_ultdc2.png)
 
 ## **7- Housing MDS:**
 
-  
-Se recomiendan carcasas de filtro Pall MDS para aplicaciones de flujo pequeño que implican filtración de líquidos o gases. Serie MDS las carcasas admiten MC * o MD * Cartuchos estilo 4463 y 2230 con líquido caudales de hasta 7.5 L / min (2 gal / min) y el gas fluye hasta 100 Nm3 / hora (60 scfm). 
+Se recomiendan carcasas de filtro Pall MDS para aplicaciones de flujo pequeño que implican filtración de líquidos o gases. Serie MDS las carcasas admiten MC * o MD * Cartuchos estilo 4463 y 2230 con líquido caudales de hasta 7.5 L / min (2 gal / min) y el gas fluye hasta 100 Nm3 / hora (60 scfm).
 
 ### **Características y Beneficios:**
 
- • Clasificación de alta temperatura 
+• Clasificación de alta temperatura
 
-• Clasificación de alta presión 
+• Clasificación de alta presión
 
-• Fácil montaje y cambio 
+• Fácil montaje y cambio
 
-• Acero inoxidable electropulido para facilitar de limpieza 
+• Acero inoxidable electropulido para facilitar de limpieza
 
 • Sistema de calidad de fabricación certificado según las normas ISO 9000
 
@@ -173,26 +172,25 @@ Las características de esta gama de carcasas incluyen alta superficies internas
 
 ## **9- Housing para módulos de filtros de profundidad:**
 
-  
-Pall Corporation ha utilizado el diseño, costo y expectativa de la industria como el base creativa de nuestro filtro de profundidad tecnología. 
+Pall Corporation ha utilizado el diseño, costo y expectativa de la industria como el base creativa de nuestro filtro de profundidad tecnología.
 
-En combinación con nuestro estrictos estándares de fabricación, hemos desarrollado un completo línea de módulos de filtro de profundidad, carcasas, y cápsulas para todos los niveles de procesamiento biofarmacéutico. 
+En combinación con nuestro estrictos estándares de fabricación, hemos desarrollado un completo línea de módulos de filtro de profundidad, carcasas, y cápsulas para todos los niveles de procesamiento biofarmacéutico.
 
-### **Nuestra tecnología de filtro de profundidad es ideal para las siguientes aplicaciones:** 
+### **Nuestra tecnología de filtro de profundidad es ideal para las siguientes aplicaciones:**
 
-• Filtración de caldo fermentador 
+• Filtración de caldo fermentador
 
-• Eliminación de carbón activado 
+• Eliminación de carbón activado
 
-• Filtración de suero 
+• Filtración de suero
 
-• Filtración de productos tóxicos 
+• Filtración de productos tóxicos
 
-• Fraccionamiento de plasma sanguíneo 
+• Fraccionamiento de plasma sanguíneo
 
-• Eliminación de ayuda de filtro y precipita 
+• Eliminación de ayuda de filtro y precipita
 
-• Separación de células de mamíferos 
+• Separación de células de mamíferos
 
 • Eliminación de catalizadores
 
