@@ -16,7 +16,7 @@ weight = 14
 +++
 ## Manejamos gran variedad de Carcasas (Housing) de la marca Pall, a continuación les mostramos algunas de ellas:
 
-### **Housing Advanta para líquidos:**
+### **1- Housing Advanta para líquidos:**
 
 Las carcasas de los filtros de flujo T líquido de la serie Pall AdvantaTM ALT están optimizadas para farmacéutica, de bioprocesos, alimentaria y aplicaciones de procesos de bebidas líquidas. Estas carcasas contienen un código de estilo sanitario AB de un solo extremo abierto (SOE) cartucho de filtro.
 
@@ -44,7 +44,7 @@ Las carcasas de los filtros de flujo T líquido de la serie Pall AdvantaTM ALT e
 
 ![](https://res.cloudinary.com/novatec/v1598454612/descarga_1_-gigapixel-scale-4_00x_c82mbh.jpg)
 
-### **Housing Advanta para gas:**
+### **2- Housing Advanta para gas:**
 
 Carcasas modulares que cumplen con ASME BPE para aplicaciones sanitarias, esta gama de carcasas de filtros de alta calidad para aplicaciones críticas de filtración de líquidos y gases ha sido diseñado y construido de acuerdo con ASME Bioprocessing Equipment (BPE) normas para altos niveles de requisitos sanitarios.
 
@@ -62,7 +62,7 @@ Esto se refleja en la elección de materiales, los diseños y el proceso de fabr
 
 ![](https://res.cloudinary.com/novatec/v1598455139/housing_gas_u7ukl3.png)
 
-### **Housing PLT:**
+### **3- Housing PLT:**
 
 Las carcasas de filtro PLT se han diseñado de acuerdo con la demanda de alta calidad de la industria de las ciencias biológicas, productos rentables. La gama PLT está disponible en una o varias rondas, el estilo y el diseño de la vivienda tiene en cuenta los aspectos sanitarios y requisitos de diseño GMP necesarios para acero inoxidable productos dentro de la industria.
 
@@ -89,7 +89,7 @@ Se pueden suministrar con variedad de configuraciones de conexión diferentes y 
 
 ![](https://res.cloudinary.com/novatec/v1598455802/Gas_Filter_Housings_Liquid_Filter_Housings_fhlpwe.jpg)
 
-### **Housing IDL:**
+### **4- Housing IDL:**
 
 #### **Características:** 
 
