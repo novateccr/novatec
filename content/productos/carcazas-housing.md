@@ -154,3 +154,23 @@ Se recomiendan carcasas de filtro Pall MDS para aplicaciones de flujo pequeño q
 • Sistema de calidad de fabricación certificado según las normas ISO 9000
 
 ![](https://res.cloudinary.com/novatec/v1598459947/mdsJuniorParts-gigapixel-scale-4_00x_hpfmqo.jpg)
+
+### **Housing Sealkleen:**
+
+Las carcasas de filtro Sealkleen están hechas de acero inoxidable al carbono grado AISI 316L. Tecnologías de fabricación avanzadas incluyendo mecanizado CNC y soldadura orbital asegura un diseño robusto y altamente sanitario.
+
+Las características de esta gama de carcasas incluyen alta superficies internas electropulidas de calidad, una diseño optimizado para requisitos CIP / SIP, variantes de diseño para una fácil automatización, así como prueba conveniente de integridad del filtro.
+
+#### **Características y Beneficios:**
+
+• Diseño aséptico - con electropulido superficies que dan valores Ra internos típicos de <0,4 µm / <15 µ pulgadas sin hendiduras o piernas muertas.
+
+• Alto rendimiento de producto por baja retención volúmenes.
+
+• Nuevo diseño de válvula para una fácil operación, pruebas de mantenimiento y de integridad del filtro.
+
+• Variantes para integración en automatizado sistemas.
+
+• Amplia gama de opciones de conexión.
+
+![](https://res.cloudinary.com/novatec/v1598460459/HOUSING-gigapixel-scale-4_00x_lym3yp.png)
