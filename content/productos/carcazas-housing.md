@@ -20,24 +20,25 @@ weight = 14
 
 Las carcasas de los filtros de flujo T líquido de la serie Pall AdvantaTM ALT están optimizadas para farmacéutica, de bioprocesos, alimentaria y aplicaciones de procesos de bebidas líquidas. Estas carcasas contienen un código de estilo sanitario AB de un solo extremo abierto (SOE) cartucho de filtro.
 
-####   
-**Los beneficios de este housing son:** 
+#### 
 
-• Volumen de retención bajo: maximiza recuperación de producto. 
+**Los beneficios de este housing son:**
 
-• Funciones de drenaje fácil, que incluyen contorno interno inclinado hacia abajo y drenaje de punto bajo: permite una fácil extracción Solución o producto CIP. 
+• Volumen de retención bajo: maximiza recuperación de producto.
 
-• Menos soldaduras: resulta en una diseño sanitario. 
+• Funciones de drenaje fácil, que incluyen contorno interno inclinado hacia abajo y drenaje de punto bajo: permite una fácil extracción Solución o producto CIP.
 
-• Soldadura orbital automatizada: produce soldaduras consistentes de alta calidad. 
+• Menos soldaduras: resulta en una diseño sanitario.
 
-• Ventilación y drenaje no giratorios: evite mangueras retorcidas y permiten tuberías duras. 
+• Soldadura orbital automatizada: produce soldaduras consistentes de alta calidad.
 
-• Ventilación de conexión / desconexión rápida acoplamiento: permite una fácil conexión a un Sistema de prueba de integridad del filtro Palltronic®. 
+• Ventilación y drenaje no giratorios: evite mangueras retorcidas y permiten tuberías duras.
 
-• Fabricación y diseño ISO 9001 certificación - asegura documentada procedimientos para un producto confiable. 
+• Ventilación de conexión / desconexión rápida acoplamiento: permite una fácil conexión a un Sistema de prueba de integridad del filtro Palltronic®.
 
-• Fabricado para su uso bajo GMP. 
+• Fabricación y diseño ISO 9001 certificación - asegura documentada procedimientos para un producto confiable.
+
+• Fabricado para su uso bajo GMP.
 
 • Aprobación 3A-evidencia diseño sanitario.
 
@@ -45,13 +46,14 @@ Las carcasas de los filtros de flujo T líquido de la serie Pall AdvantaTM ALT e
 
 ### **Housing Advanta para gas:**
 
-Carcasas modulares que cumplen con ASME BPE para aplicaciones sanitarias, esta gama de carcasas de filtros de alta calidad para aplicaciones críticas de filtración de líquidos y gases ha sido diseñado y construido de acuerdo con ASME Bioprocessing Equipment (BPE) normas para altos niveles de requisitos sanitarios. 
+Carcasas modulares que cumplen con ASME BPE para aplicaciones sanitarias, esta gama de carcasas de filtros de alta calidad para aplicaciones críticas de filtración de líquidos y gases ha sido diseñado y construido de acuerdo con ASME Bioprocessing Equipment (BPE) normas para altos niveles de requisitos sanitarios.
 
 Esto se refleja en la elección de materiales, los diseños y el proceso de fabricación, incluidos los procedimientos de soldadura y los acabados superficiales. Todas las conexiones cumplen exactamente con ASME BPE y son totalmente compatibles con Tuberías ASME BPE. Al adoptar este estándar de la industria, los usuarios de viviendas Pall Advanta II puede aumentar aún más la calidad y tener la confianza de que se ajustan a las estándares de seguridad.
 
 ![](https://res.cloudinary.com/novatec/v1598454995/housing_todos_rsao2m.png)
 
-####   
+#### 
+
 **Características y Beneficios:**
 
 * Diseño aséptico con superficies electropulidas sin fisuras (valor interno de Ra <0,375 μm / 14,8 μin), completamente autodrenante y sin piernas muertas, lo que permite un drenaje de punto bajo y un soporte bajo volúmenes de retención para una máxima recuperación del producto.
@@ -62,7 +64,7 @@ Esto se refleja en la elección de materiales, los diseños y el proceso de fabr
 
 ### **Housing PLT:**
 
-Las carcasas de filtro PLT se han diseñado de acuerdo con la demanda de alta calidad de la industria de las ciencias biológicas, productos rentables. La gama PLT está disponible en una o varias rondas, el estilo y el diseño de la vivienda tiene en cuenta los aspectos sanitarios y requisitos de diseño GMP necesarios para acero inoxidable productos dentro de la industria. 
+Las carcasas de filtro PLT se han diseñado de acuerdo con la demanda de alta calidad de la industria de las ciencias biológicas, productos rentables. La gama PLT está disponible en una o varias rondas, el estilo y el diseño de la vivienda tiene en cuenta los aspectos sanitarios y requisitos de diseño GMP necesarios para acero inoxidable productos dentro de la industria.
 
 Se pueden suministrar con variedad de configuraciones de conexión diferentes y con dos diferentes opciones de acabado superficial. Estas características se combinan para garantizar que la gama PLT de carcasas es adecuado para la gama más amplia posible de aplicaciones.
 
@@ -89,4 +91,18 @@ Se pueden suministrar con variedad de configuraciones de conexión diferentes y 
 
 ### **Housing IDL:**
 
-Introducción: • Las carcasas de un solo cartucho aceptan doble extremo abierto, RF y filtros de estilo 1001 cuando se selecciona el modelo apropiado • Todas las partes húmedas están hechas de acero inoxidable. • Acepta 1 pulg. (2,54 cm), 4 pulg. (10,2 cm), 10 pulg. (25,4 cm), 20 pulgadas (50,8 cm) y 30 pulgadas (76,2 cm) de longitud • La abrazadera V-Band cuenta con un mango en T de apertura rápida • Variedad de tamaños de entrada / salida y opciones de sello de junta tórica • Soportes de montaje opcionales disponibles
+#### **Características:** 
+
+• Las carcasas de un solo cartucho aceptan doble extremo abierto, RF y filtros de estilo 1001 cuando se selecciona el modelo apropiado 
+
+• Todas las partes húmedas están hechas de acero inoxidable. 
+
+• Acepta 1 pulg. (2,54 cm), 4 pulg. (10,2 cm), 10 pulg. (25,4 cm), 20 pulgadas (50,8 cm) y 30 pulgadas (76,2 cm) de longitud 
+
+• La abrazadera V-Band cuenta con un mango en T de apertura rápida 
+
+• Variedad de tamaños de entrada / salida y opciones de sello de junta tórica 
+
+• Soportes de montaje opcionales disponibles
+
+![](https://res.cloudinary.com/novatec/v1598456153/IDL_housing_500x500_f30lfd.jpg)
