@@ -1,7 +1,7 @@
 +++
 catalogo = "/catalogos/original-carcazas-housing.pdf"
 familias = ["Filtros"]
-galeria = ["/v1598461901/carcasa_hwsanw.png"]
+galeria = ["/v1598455802/Gas_Filter_Housings_Liquid_Filter_Housings_fhlpwe.jpg"]
 id = 14
 imagen = "/v1598455369/images-gigapixel-scale-4_00x_1_kyrt6u.jpg"
 industrias = ["Alimentos y Bebidas", "Energía", "Biofarmacéuticos"]
