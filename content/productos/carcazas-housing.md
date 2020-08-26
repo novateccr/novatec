@@ -86,3 +86,7 @@ Se pueden suministrar con variedad de configuraciones de conexión diferentes y 
 * Seguro para su uso en entornos peligrosos de acuerdo con ATEX 94/9 / EC Grupo II Categoría 2 (Zonas 1/21 y 2/22)
 
 ![](https://res.cloudinary.com/novatec/v1598455802/Gas_Filter_Housings_Liquid_Filter_Housings_fhlpwe.jpg)
+
+### **Housing IDL:**
+
+Introducción: • Las carcasas de un solo cartucho aceptan doble extremo abierto, RF y filtros de estilo 1001 cuando se selecciona el modelo apropiado • Todas las partes húmedas están hechas de acero inoxidable. • Acepta 1 pulg. (2,54 cm), 4 pulg. (10,2 cm), 10 pulg. (25,4 cm), 20 pulgadas (50,8 cm) y 30 pulgadas (76,2 cm) de longitud • La abrazadera V-Band cuenta con un mango en T de apertura rápida • Variedad de tamaños de entrada / salida y opciones de sello de junta tórica • Soportes de montaje opcionales disponibles
