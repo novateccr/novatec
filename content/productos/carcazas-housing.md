@@ -82,9 +82,7 @@ Se pueden suministrar con variedad de configuraciones de conexión diferentes y 
 * Incluye diferentes opciones con ajuste rápido tipo "Stäubli" conexión de ventilación para una fácil prueba de integridad del filtro.
 * Abrazadera en V fácil de usar (una sola ronda) y banda en V cierre para carcasas multi-redondas
 * Paquete de documentación mejorado suministrado en CD (Opcional)
-* Adecuado para su uso con líquidos y gases peligrosos
-
-  de acuerdo con PED 97/23 / EC
+* Adecuado para su uso con líquidos y gases peligrosos de acuerdo con PED 97/23 / EC
 * Seguro para su uso en entornos peligrosos de acuerdo con ATEX 94/9 / EC Grupo II Categoría 2 (Zonas 1/21 y 2/22)
 
 ![](https://res.cloudinary.com/novatec/v1598455802/Gas_Filter_Housings_Liquid_Filter_Housings_fhlpwe.jpg)
