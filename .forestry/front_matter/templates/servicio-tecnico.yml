@@ -11,6 +11,3 @@ fields:
 - type: text
   name: info
   label: info
-pages:
-- content/servicio-tecnico/reparacion-de-pisos.md
-- content/servicio-tecnico/test.md
