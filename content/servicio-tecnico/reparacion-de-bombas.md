@@ -1,5 +1,4 @@
 +++
-draft = true
 hero = ""
 info = ""
 title = "Reparación de bombas"
