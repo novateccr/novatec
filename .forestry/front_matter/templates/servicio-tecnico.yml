@@ -1,19 +1,15 @@
 ---
-  label: Servicio Técnico
-  hide_body: false
-  fields:
-  - name: hero
-    type: file
-    config:
-      maxSize: 64
-    label: hero
-  - name: info
-    type: textarea
-    default: ''
-    config:
-      required: false
-      wysiwyg: false
-      schema:
-        format: markdown
-    label: info
-  
+label: Servicio Técnico
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: file
+  name: hero
+  label: hero
+- type: text
+  name: info
+  label: info
+pages:
+- content/servicio-tecnico/reparacion-de-bombas.md
