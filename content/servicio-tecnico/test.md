@@ -1,11 +1,10 @@
 +++
-draft = true
 hero = ""
 info = ""
-title = "Test"
+title = "Reparación de bombas"
 [[menu]]
 [[menu.principal]]
 parent = "Servicio Técnico"
 
 +++
-hi!
+¡Próximamente más infomación!
