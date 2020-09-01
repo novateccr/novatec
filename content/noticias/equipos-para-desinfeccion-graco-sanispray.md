@@ -1,5 +1,5 @@
 +++
-date = 2020-09-01T06:00:00Z
+date = 2020-08-31T06:00:00Z
 featured = true
 imagen_intro = "/v1598994672/Dise%C3%B1o_sin_t%C3%ADtulo_4_bzkuny.png"
 tags = ["equipodesinfeccion"]
