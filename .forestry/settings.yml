@@ -52,7 +52,6 @@ sections:
 - type: document
   path: content/about
   label: Acerca de nosotros
-  match: "**/*"
 - type: document
   path: data/social.yml
   label: Social Networks
