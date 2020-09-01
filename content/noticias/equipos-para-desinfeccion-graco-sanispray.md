@@ -55,7 +55,7 @@ Pulverizador de carro de 2 pistolas…
 
 {{< youtube VloMfIzYVfw >}}
 
-### **SaniSpray HP750:**
+## **SaniSpray HP750:**
 
 Pulverizador de carro de 4 o 8 pistolas…  
 Máxima productividad!
