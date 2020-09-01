@@ -27,21 +27,20 @@ Rocía hasta 20oz por minuto.
 
 [**Saber más de este producto**](https://www.novatec.cr/productos/10.covid-19/)
 
-{{< youtu.be Oh73ol20oMA >}}
+{{< youtube Oh73ol20oMA >}}
 
 ## **SaniSpray HP65:**
 
 Un pulverizador para cada trabajo de alta producción…  
-La línea completa de pulverizadores SaniSpray HP está diseñada para ofrecer el más alto nivel de productividad en cada trabajo, ya sea que necesite para tratar una habitación pequeña o un complejo completo, hay un SaniSpray HP modelo con el rendimiento para asumir la tarea.  
-  
+La línea completa de pulverizadores SaniSpray HP está diseñada para ofrecer el más alto nivel de productividad en cada trabajo, ya sea que necesite para tratar una habitación pequeña o un complejo completo, hay un SaniSpray HP modelo con el rendimiento para asumir la tarea.
+
 El SaniSpray HP65 es un pulverizador de tolva portátil, 3 veces más rápido que SANISPRAY HP 20.
 
-  
 [**Saber más de este producto**](https://www.novatec.cr/productos/06.sanispray-hp65-covid19/)
 
 ![](https://res.cloudinary.com/novatec/v1597943101/cq5dam.web.1280.1280_1_mglal6.jpg)
 
-## **SaniSpray HP130:** 
+## **SaniSpray HP130:**
 
 Pulverizador de carro de 2 pistolas…  
 2 veces más rápido que SANISPRAY HP 65.
@@ -54,19 +53,19 @@ Pulverizador de carro de 2 pistolas…
 
 [**Saber más de este producto**](https://www.novatec.cr/productos/07.sanispray-hp130-covid19/)
 
-{{< youtu.be VloMfIzYVfw >}}
+{{< youtube VloMfIzYVfw >}}
 
-### **SaniSpray HP750:** 
+### **SaniSpray HP750:**
 
 Pulverizador de carro de 4 o 8 pistolas…  
 Máxima productividad!
 
 ### Características:
 
-PRODUCTIVIDAD ENTREGADA:  
-  
-• Pulverizador desinfectante sin aire de mayor producción disponible  
-  
+PRODUCTIVIDAD ENTREGADA:
+
+• Pulverizador desinfectante sin aire de mayor producción disponible
+
 • Desinfecte y desinfecte hasta 400,000 pies cuadrados de una ubicación central para la máxima producción.
 
 [**Saber más de este producto**](https://www.novatec.cr/productos/08.sanispray-hp750-covid19/)
@@ -75,4 +74,4 @@ PRODUCTIVIDAD ENTREGADA:
 
 ## **Testimonio:**
 
-{{< youtu.be OYFQnZk2OLw >}}
+{{< youtube OYFQnZk2OLw >}}
