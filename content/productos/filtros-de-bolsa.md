@@ -3,7 +3,7 @@ catalogo = "/catalogos/original-filtros-de-bolsa.pdf"
 familias = ["Filtros"]
 galeria = []
 id = 16
-imagen = "/v1598303414/filtros_lesac_xxihl0.png"
+imagen = "/v1599255420/51tTCpRralL._AC_UL600_SR600_600__rathv9.jpg"
 industrias = ["Alimentos y Bebidas", "Energía", "Biofarmacéuticos"]
 marcas = ["Pall", "Lesac"]
 meta_description = "Filtros de Bolsa "
@@ -176,5 +176,3 @@ Diámetro: 8"
 Longitud: 40"
 
 ### **_Consúltenos!_**
-
- 
