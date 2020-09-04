@@ -1,7 +1,7 @@
 +++
 catalogo = ""
 familias = ["Filtros"]
-galeria = ["/v1568740739/PALL_acrod_yspiuu.jpg", "/v1568655774/PALL_LAB_ti8zqv.jpg", "/v1568655681/Manifiold_PALL_bvuiid.jpg"]
+galeria = []
 id = 12
 imagen = "/v1599255333/Dise%C3%B1o_sin_t%C3%ADtulo_24_ecvoeo.png"
 industrias = ["Alimentos y Bebidas", "Energía", "Dispositivos Médicos", "Biofarmacéuticos", "Química", "Agrícola", "Ingenios", "Electrónica"]
