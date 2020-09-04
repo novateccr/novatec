@@ -28,7 +28,8 @@ Ofrecemos productos varios para esta aplicación.
 
 # **Control de calidad Analítico:**
 
-###   
+### 
+
 _Resultados confiables y rendimiento comprobado..._
 
 Los laboratorios de control de calidad juegan un papel crucial en la identificación de problemas de contaminación y productos antes del lanzamiento final. Los datos generados por estos laboratorios de control de calidad ayudan a orientar las decisiones críticas. La fiabilidad de estos resultados queda demostrada por el rendimiento comprobado de Pall al analizar muestras de 150 ml a menos de 25 µL.
@@ -107,7 +108,7 @@ Ofrecemos productos varios para esta aplicación.
 
 ### _Separación y purificación, acelerando y simplificando el bioprocesamiento..._
 
-La ultrafiltración conserva la actividad biológica y ahorra tiempo: la tecnología de purificación de proteínas ha progresado desde métodos tan diversos como la precipitación química para la concentración de muestras o la diálisis para el intercambio de tampones hacia sistemas de flujo cruzado de purificación impulsados ​​por presión que utilizan membranas de ultrafiltración. Las técnicas de ultrafiltración (UF) se basan en el uso de membranas poliméricas con tamaños de poros muy definidos para separar moléculas según el tamaño. 
+La ultrafiltración conserva la actividad biológica y ahorra tiempo: la tecnología de purificación de proteínas ha progresado desde métodos tan diversos como la precipitación química para la concentración de muestras o la diálisis para el intercambio de tampones hacia sistemas de flujo cruzado de purificación impulsados ​​por presión que utilizan membranas de ultrafiltración. Las técnicas de ultrafiltración (UF) se basan en el uso de membranas poliméricas con tamaños de poros muy definidos para separar moléculas según el tamaño.
 
 Ofrecemos productos varios para esta aplicación.
 
@@ -115,7 +116,7 @@ Ofrecemos productos varios para esta aplicación.
 
 ![](https://res.cloudinary.com/novatec/v1599254977/1592290921168_i99lr9.jpg)
 
-# **Filtración de gases y ventilación:**
+# **Filtración de gases y venteo:**
 
 ### _Proteja su inversión, mantenga la esterilidad del ambiente interior y proteja la atmósfera de los contaminantes dentro del recipiente..._
 
