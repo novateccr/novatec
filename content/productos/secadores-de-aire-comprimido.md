@@ -14,8 +14,7 @@ titulo_adicional = ""
 weight = 120
 
 +++
-#   
-**Secadores refrigerados:**
+# **Secadores refrigerados:**
 
 ![](https://res.cloudinary.com/novatec/v1602690485/cq5dam.web.800.800_dsxs72.jpg)¿Qué es un secador de aire refrigerado? Los secadores de aire refrigerados utilizan el mismo principio de enfriamiento que las unidades de aire acondicionado típicas en los hogares de todo el mundo. Usando el sistema de refrigeración y pasando aire comprimido a través de un intercambiador de calor, el aire se enfría a aproximadamente 3 ° C / 40 ° F. A medida que el aire se enfría, las gotas de agua comienzan a formarse en el aire debido a la condensación, al igual que las gotas de agua que se forman en el exterior de una bebida fría. El aire cargado de humedad se somete a un proceso de separación mecánica en el que el líquido o "condensado" se separa de la corriente de aire. Luego, el aire se recalienta utilizando el aire entrante que reduce la humedad relativa del aire y atrapa la humedad restante en forma de vapor.
 
