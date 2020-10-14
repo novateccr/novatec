@@ -14,9 +14,9 @@ titulo_adicional = ""
 weight = 120
 
 +++
-## **En Novatec contamos con varios productos de la marca Pneumatech entre ellos:**
+# En Novatec contamos con varios productos de la marca Pneumatech entre ellos:
 
-## **Secadores refrigerados:**
+## **1- Secadores refrigerados:**
 
 ![](https://res.cloudinary.com/novatec/v1602696134/cq5dam.web.800.800_exsalv.jpg)
 
@@ -26,7 +26,7 @@ Los secadores de aire refrigerados utilizan el mismo principio de enfriamiento q
 
 #### _Consúltenos para más información!_
 
-## **Secadores desecantes:**
+## **2- Secadores desecantes:**
 
 ![](https://res.cloudinary.com/novatec/v1602696220/cq5dam.web.800.800_1_vxo8vz.jpg)
 
@@ -34,9 +34,7 @@ Los secadores de aire refrigerados utilizan el mismo principio de enfriamiento q
 
 Nuestros innovadores secadores desecantes brindan a los clientes una protección eficiente contra la presencia de humedad en el aire, que a menudo es la fuente de: Corrosión, contaminación y fugas de tuberías. Disminución de la eficiencia de equipos / herramientas. Congelación de agua en tuberías. Un secador de adsorción o desecante utiliza material desecante para adsorber y eliminar la humedad del aire comprimido. Con este método, se puede alcanzar un punto de rocío a presión tan bajo como -70 ° C / -100 ° F. Se debe usar un secador desecante cuando la temperatura ambiente desciende por debajo del punto de congelación, para evitar la formación de hielo en tuberías y aplicaciones. ¿Lo sabes? Si se suministra aire comprimido con un punto de rocío a presión de -70 ° C / -94 ° F a una sala de estar normal de 20 m³ de volumen, contendrá medio gramo de agua por peso en su interior.
 
-#### _Consúltenos para más información!_
-
-## **Generadores de gas:**
+## **3- Generadores de gas:**
 
 ![](https://res.cloudinary.com/novatec/v1602696682/cq5dam.web.800.800_2_hsuogt.jpg)
 
@@ -51,7 +49,7 @@ Pneumatech diseña y fabrica productos los cuáles se conocen como generadores d
 * La pureza adecuada para la aplicación adecuada.
 * Rendimientos de la inversión a menudo inferiores a dos años.
 
-## **Gestión de condensados:**
+## **4- Gestión de condensados:**
 
 ![](https://res.cloudinary.com/novatec/v1602696951/cq5dam.web.800.800_3_guqaxb.jpg)
 
@@ -64,7 +62,7 @@ Ofrecemos tres tipos de drenaje de condensado según sus necesidades:
 
 También para el tratamiento de condensados, le ofrecemos la opción: entre la solución ECOBOX competitiva en costos y nuestra tecnología OWS patentada de primera calidad.
 
-## **Receptores de aire:** 
+## **5- Receptores de aire:** 
 
 ![](https://res.cloudinary.com/novatec/v1602697352/cq5dam.web.800.800_4_f1ob9j.jpg)
 
