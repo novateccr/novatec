@@ -9,25 +9,25 @@ marcas = ["Pneumatech"]
 meta_description = "secador, refigertaivo, desecante"
 meta_keywords = ""
 taxonomyCover = false
-title = "Secadores de aire comprimido"
+title = "Secadores Pneumatech"
 titulo_adicional = ""
 weight = 120
 
 +++
-Parker ofrece una amplia gama de reguladores de flujo de líquidos para aplicaciones de instrumentación, filtración, refrigeración y neumáticas, y se utilizan en industrias de procesamiento, energéticas, petrolíferas, de gas y de semiconductores para controlar de manera precisa y rápida el flujo de los líquidos. Nuestros reguladores de precisión se encuentran disponibles en una amplia gama de materiales para flujos de presión fija y diferencial.
+#   
+**Secadores refrigerados:**
 
-Entre ellos:
+![](https://res.cloudinary.com/novatec/v1602690485/cq5dam.web.800.800_dsxs72.jpg)¿Qué es un secador de aire refrigerado? Los secadores de aire refrigerados utilizan el mismo principio de enfriamiento que las unidades de aire acondicionado típicas en los hogares de todo el mundo. Usando el sistema de refrigeración y pasando aire comprimido a través de un intercambiador de calor, el aire se enfría a aproximadamente 3 ° C / 40 ° F. A medida que el aire se enfría, las gotas de agua comienzan a formarse en el aire debido a la condensación, al igual que las gotas de agua que se forman en el exterior de una bebida fría. El aire cargado de humedad se somete a un proceso de separación mecánica en el que el líquido o "condensado" se separa de la corriente de aire. Luego, el aire se recalienta utilizando el aire entrante que reduce la humedad relativa del aire y atrapa la humedad restante en forma de vapor.
 
-# Secadores refrigerados:
+### _Consúltenos para más información!_
 
-Diseñados para ofrecer un tratamiento de calidad de aire comprimido y eliminar costosos problemas de contaminación, Parker ofrece secadores de aire refrigerado que combinan un rendimiento excelente e importantes ahorros de energía. Estos innovadores secadores garantizan una gran fiabilidad, eficacia, ahorro energético, dimensiones compactas y poco peso, lo que los convierte en una solución ideal para los usuarios de todos los sectores.
+# **Secadores desecantes:**
 
-![](https://res.cloudinary.com/novatec/v1597434385/6181-14739715-gigapixel-scale-4_00x_okpeiq.jpg)
+![](https://res.cloudinary.com/novatec/v1602690780/cq5dam.web.800.800_1_dvndla.jpg)
 
-# Serie WVM de secadores de aire comprimido regenerado por vacío de baja energía y alto caudal:
+##   
+¿Qué es un secador desecante? 
 
-Para aplicaciones de aire comprimido industrial de alto caudal que ofrecen flujos de volumen de hasta 14 500m ³/h y puntos de rocío de presión de hasta -70 °C, con ahorros de energía de hasta el 25 %
+Nuestros innovadores secadores desecantes brindan a los clientes una protección eficiente contra la presencia de humedad en el aire, que a menudo es la fuente de: Corrosión, contaminación y fugas de tuberías. Disminución de la eficiencia de equipos / herramientas. Congelación de agua en tuberías. Un secador de adsorción o desecante utiliza material desecante para adsorber y eliminar la humedad del aire comprimido. Con este método, se puede alcanzar un punto de rocío a presión tan bajo como -70 ° C / -100 ° F. Se debe usar un secador desecante cuando la temperatura ambiente desciende por debajo del punto de congelación, para evitar la formación de hielo en tuberías y aplicaciones. ¿Lo sabes? Si se suministra aire comprimido con un punto de rocío a presión de -70 ° C / -94 ° F a una sala de estar normal de 20 m³ de volumen, contendrá medio gramo de agua por peso en su interior.
 
-![](https://res.cloudinary.com/novatec/v1597434712/secador-gigapixel-scale-4_00x_zyb263.png)
-
-### **_Consúltenos!_** 
+### _Consúltenos para más información!_
