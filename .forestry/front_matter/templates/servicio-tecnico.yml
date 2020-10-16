@@ -12,4 +12,5 @@ fields:
   name: info
   label: info
 pages:
+- content/servicio-tecnico/intalacion-de-tuberia-de-aire-comprimido.md
 - content/servicio-tecnico/reparacion-de-bombas.md
