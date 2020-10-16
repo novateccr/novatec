@@ -30,4 +30,4 @@ weight = 13
 </div>
 </div>
 
-![](https://res.cloudinary.com/novatec/v1602863158/LogoNovadepartedeCindy_zoiktm.png)
+![](https://res.cloudinary.com/novatec/v1602865633/Copia_de_1_Bombas_Industriales_Sanitarias_1_vg6pkk.png)
