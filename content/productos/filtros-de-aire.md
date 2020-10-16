@@ -10,6 +10,7 @@ meta_description = "Filtros de Aire comprimido, drenes y secadores, Novatec cons
 meta_keywords = "Secadores de aire comprimido "
 taxonomyCover = false
 title = "Filtros de Aire"
+titulo_adicional = ""
 weight = 13
 
 +++
@@ -28,3 +29,5 @@ weight = 13
 </div>
 </div>
 </div>
+
+![](https://res.cloudinary.com/novatec/v1602863158/LogoNovadepartedeCindy_zoiktm.png)
