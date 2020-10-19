@@ -40,6 +40,8 @@ Relleno para juntas interiores en pisos industriales y comerciales, donde brinda
 
 Sellante de poliuretano, mono-componente, de alto desempeño y alto movimiento para uso sobre concreto nuevo o con humedad. Para superficies horizontales y verticales. El producto es estable a los rayos UV. Tiene una capacidad de movimiento: ±50% y resistente al contacto esporádico con carburantes (Jet fuel).
 
+![](https://res.cloudinary.com/novatec/v1603140179/Dymonic_100_Cartucho_cnojpc.png)
+
 #### **Usos:**
 
 • La aplicación típica del Dymonic 100 incluye juntas de expansión y control, juntas de paneles de concreto prefabricado, calafateo perimetral (ventanas, puertas, paneles), aluminio, mampostería y fachadas de vinilo.
