@@ -8,17 +8,18 @@ title = "Nuestros productos de BRL"
 +++
 Con su amplia selección de tubos cuadrados y redondos, tecnología de conexión fácil de instalar y una gran cantidad de accesorios, los perfiles Rexroth abren todos los espacios libres imaginables al diseñar entornos de trabajo ergonómicos, eficientes y seguros.
 
-**Perfiles de soporte.  
-**Perfiles soporte con ranura para construcciones ligeras como trípodes y estructuras de laboratorio.  
+**Perfiles de soporte:**
+
+Perfiles soporte con ranura para construcciones ligeras como trípodes y estructuras de laboratorio.  
 Los perfiles de Rexroth son especialmente adecuados para refuerzos.  
 **Perfiles en medidas:**
 
 \*20 x 20  
- *30 x 30  
- *40 x 40  
- *45 x 45  
- *45 x 90  
- *40 x 80
+\*30 x 30  
+\*40 x 40  
+\*45 x 45  
+\*45 x 90  
+\*40 x 80
 
 ![](https://res.cloudinary.com/novatec/v1603305165/2890e1c1-78ed-4c6b-ae61-5e3704240a21_a9xawk.jpg)
 
