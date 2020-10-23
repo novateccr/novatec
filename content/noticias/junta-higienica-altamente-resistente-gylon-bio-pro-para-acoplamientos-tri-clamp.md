@@ -1,6 +1,5 @@
 +++
 date = 2020-10-23T06:00:00Z
-draft = true
 featured = true
 imagen_intro = "/v1569268306/Bio-Pro_1_oqwpak.jpg"
 tags = []
