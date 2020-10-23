@@ -48,4 +48,4 @@ Los sellos GYLON BIO-PRO® ofrecen una solución segura y duradera para proteger
 
 \* Dimensiones del sello de acuerdo con DIN 32676, DIN 11850, ISO 1127, ASME BPE-2009, ISO 2852 y SMS 3019
 
-### [**Ver producto**]()
+### [**Ver producto**](https://www.novatec.cr/productos/empaque-triclamp/)
