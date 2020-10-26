@@ -1,6 +1,5 @@
 +++
 date = 2020-10-26T06:00:00Z
-draft = true
 featured = true
 imagen_intro = "/v1603381005/cf3600c9-9e99-417c-ad5b-c302d8b5b629_1_elf77m.jpg"
 tags = []
