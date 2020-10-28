@@ -29,3 +29,5 @@ Resistente a una gran variedad de químicos y aceites, al igual que a detergente
 **Durable:**
 
 Pisos de alta resistencia, diseñados para soportar constante tráfico peatonal y vehicular.
+
+### [Ver productos](https://www.novatec.cr/productos/uretanos-cementicios/)
