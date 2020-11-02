@@ -1,5 +1,5 @@
 ---
-title: Acerca de Nosotros
+title: Acerca de nosotros
 meta_description: Contáctenos aquí
 menu:
   principal:
