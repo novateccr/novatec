@@ -1,18 +1,14 @@
 ---
 label: Acerca de nosotros
-hide_body: true
+hide_body: false
 fields:
 - name: title
   type: text
   config:
     required: false
   label: Title
-- name: info
-  type: textarea
-  default: ''
+- name: imagen
+  type: file
   config:
-    required: false
-    wysiwyg: false
-    schema:
-      format: markdown
-  label: Info
+    maxSize: 64
+  label: Imagen
