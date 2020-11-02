@@ -7,7 +7,7 @@ fields:
   label: title
 - type: file
   name: hero
-  label: hero
+  label: Imagen
 - type: text
   name: info
   label: info
