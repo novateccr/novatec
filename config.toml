@@ -4,5 +4,8 @@ languageCode = "es-cr"
 title = "Novatec Industrial"
 [context.deploy-preview.environment]
 HUGO_VERSION = "0.42.2"
+[[menu.principal]]
+name = "Acerca de nosotros"
+weight = 8
 [params]
 cloudinary_url = "https://res.cloudinary.com/novatec/image/upload/"

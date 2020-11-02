@@ -24,13 +24,13 @@ areas:
   items:
   - "/images/servicios/IMG_7690.jpg"
   - "/images/servicios/IMG_9528-copy.jpg"
-menu:
-  principal:
-    weight: 6
 cascade:
   menu:
     principal:
       parent: Servicio Técnico
+menu:
+  principal:
+    weight: 6
 
 ---
 Contamos con experiencia, personal especializado en el servicio de reparaciones, reconstrucciones, contratos de mantenimiento e instalaciones.
