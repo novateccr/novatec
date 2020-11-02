@@ -4,3 +4,4 @@ info = "Consultenos para más información. "
 title = "Prueba"
 
 +++
+Consultenos para más información.
