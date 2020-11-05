@@ -1,7 +1,7 @@
 +++
 catalogo = "KSB"
 categoria = ""
-familias = ["Bombas  "]
+familias = ["Bombas"]
 galeria = ["/v1595032259/HYAMATT-gigapixel-scale-2_00x_r77q86.png", "/v1595032058/SPC-gigapixel-scale-2_00x_hejocu.png"]
 id = "1"
 imagen = "/v1566671346/KSB-hyamat-svp_hjgsou.png"
