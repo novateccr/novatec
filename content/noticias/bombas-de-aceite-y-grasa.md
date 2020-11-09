@@ -6,7 +6,7 @@ tags = []
 title = "Bombas de aceite y grasa"
 
 +++
-## **Bombas de aceite y grasa**
+## 
 
 _Desempeño y confiabilidad sobresalientes..._
 
@@ -39,7 +39,6 @@ Diseñada para las aplicaciones más exigentes, la bomba
 Fire-Ball supera varias veces los rendimientos de bombas similares y  
 dura más que la competencia.
 
-  
 **Desempeño que se transmite de generación  
 en generación:**  
 La familia de bombas de la serie LD ofrece una solución de  
@@ -75,7 +74,7 @@ equipo de la expansión térmica.
 
 ![](https://res.cloudinary.com/novatec/v1604948631/5ffccad6-603b-48e4-a907-8ebbb0122a5e_rn5any.png)
 
-## **Mini Fire-Ball® 225:** 
+## **Mini Fire-Ball® 225:**
 
 **Perfecta para aplicaciones de presión  
 media y bajo volumen.**  
@@ -90,7 +89,6 @@ Usted no se puede permitir perder tiempo, especialmente cuando su negocio es peq
 dispensación de grasa a alta presión y  
 transferencia de aceite.**
 
-  
 Instale la Fire-Ball 300 en aplicaciones de dispensación a alta presión y volumen medio de aceite y grasa, como pueden ser concesionarios de automóviles, centros de lubricación rápida y talleres de servicio. Un motor neumático diferencial de tres pulgadas garantiza el bombeo suave y el diseño de bomba de doble acción suave proporciona un flujo de líquido confiable y dispensación precisa.
 
 • Disponible en 5:1 para aceite y 15:1 o 50:1 para grasa
@@ -102,14 +100,12 @@ Instale la Fire-Ball 300 en aplicaciones de dispensación a alta presión y volu
 **¡La bomba preferida para sus aplicaciones  
 de grandes volúmenes más exigentes!**
 
-  
 La Fire-Ball 425 cuenta con un gran motor neumático de 4,25 pulgadas para suministrar la potencia que necesita para tendidos largos de tubería y un mayor volumen de dispensación. Una opción ideal para aplicaciones tales como las instalaciones para el mantenimiento y reparación de flotas de camiones y aplicaciones en plantas en las cuales tienen lugar varias dispensaciones al mismo tiempo.
 
 ¡La Fire-Ball 425 ofrece durabilidad comprobada  
 en el campo para diversos tipos de líquidos y ahorro de costos  
 excepcionales que son difíciles de superar!
 
-  
 • Disponible en 3:1, 6:1, 10:1 para aceite y 10:1, 50:1 o 75:1  
 para grasa
 
