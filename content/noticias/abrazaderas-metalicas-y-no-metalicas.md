@@ -1,7 +1,7 @@
 +++
 date = 2020-11-11T06:00:00Z
 featured = true
-imagen_intro = "/v1605134071/f94e6dd6-656f-4233-bd35-8763112fd32f_1_etvnjd.jpg"
+imagen_intro = "/v1605134291/SinglePinClamp_voa2jd.webp"
 tags = []
 title = "Abrazaderas metálicas y no metálicas"
 
