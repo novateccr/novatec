@@ -11,3 +11,5 @@ title = "Mantenimiento y Reparación de bombas"
 * Cambio de Rodamientos.
 * Reparaciones en ejes, pistas de sello y alojamientos porta - rodamiento.
 * Diagnóstico integral de reparaciones de equipo de bombeo.
+
+![](https://res.cloudinary.com/novatec/v1606329359/3b4a846e-b3ff-47df-96d1-39f54fb74557_jzzhj7.jpg)
