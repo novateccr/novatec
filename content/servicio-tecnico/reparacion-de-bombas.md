@@ -5,6 +5,8 @@ info = ""
 title = "Mantenimiento y Reparación de bombas"
 
 +++
+En Novatec contamos con el servicio de Mantenimiento y Reparación de bombas.
+
 * Reparación de impulsores, recuperación de geometría, recubrimiento y balance dinámico.
 * Recubrimiento de carcasas y partes húmedas con productos epóxicos Belzona.
 * Cambio de sello mecánico ó empaquetadura.
@@ -13,3 +15,5 @@ title = "Mantenimiento y Reparación de bombas"
 * Diagnóstico integral de reparaciones de equipo de bombeo.
 
 ![](https://res.cloudinary.com/novatec/v1606329359/3b4a846e-b3ff-47df-96d1-39f54fb74557_jzzhj7.jpg)
+
+### **Consúltenos!** 
