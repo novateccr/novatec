@@ -43,9 +43,10 @@ slides:
   published: true
   link: "/marcas/fristam"
 barra_azul:
-  titular: Estaremos cerrados a partir del miércoles 23 de diciembre y regresaremos
-    a labores el lunes 4 de enero!
-  subtitular: 'Para emergencias: asistencia@novatec.cr'
+  titular: 'Debido a la emergencia nacional por el COVID-19, estaremos con acceso
+    controlado a nuestras oficinas, para mayor facilidad nos puede contactar por correo,
+    Whatsapp o teléfono! '
+  subtitular: 'Correo: sac@novatec.cr - Whatsapp: 6383-6383 - Teléfono: 2239-1111'
 barra_fondo_imagen:
   texto: Juntos, enfrentamos una situación verdaderamente sin precedentes. La pandemia
     global de COVID-19 afecta a nuestras familias, nuestros negocios, nuestras comunidades
