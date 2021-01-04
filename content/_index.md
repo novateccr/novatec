@@ -46,7 +46,7 @@ barra_azul:
   titular: 'Debido a la emergencia nacional por el COVID-19, estaremos con acceso
     controlado a nuestras oficinas, para mayor facilidad nos puede contactar por correo,
     Whatsapp o teléfono! '
-  subtitular: 'Correo: sac@novatec.cr - Whatsapp: 6383-6383 - Teléfono: 2239-1111'
+  subtitular: 'Correo: sac@novatec.cr - whatsapp: 6383-6383 - Teléfono: 2239-1111'
 barra_fondo_imagen:
   texto: Juntos, enfrentamos una situación verdaderamente sin precedentes. La pandemia
     global de COVID-19 afecta a nuestras familias, nuestros negocios, nuestras comunidades
