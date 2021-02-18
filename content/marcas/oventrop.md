@@ -1,6 +1,5 @@
 +++
 catalogo = ""
-draft = true
 id = ""
 link = "https://www.oventrop.com/"
 logo = "/v1607102885/Captura_de_Pantalla_2020-11-26_a_la_s_11.38.15_konu88.png"
