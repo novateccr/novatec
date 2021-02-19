@@ -2,7 +2,7 @@
 catalogo = ""
 id = ""
 link = "https://www.oventrop.com/"
-logo = "/v1607102885/Captura_de_Pantalla_2020-11-26_a_la_s_11.38.15_konu88.png"
+logo = "/v1613755026/oventrop-logo_uvvmln.gif"
 meta_description = "Válvulas de control"
 meta_keywords = "valvulas, valvulas de control"
 title = "Oventrop"
