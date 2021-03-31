@@ -7,7 +7,7 @@
     <ul class="product-grid">
       {{ $title := lower (replace (replace .Title "á" "a") "í" "i") }}
       {{ range .Data.Pages }}
-        {{ partial "product-block.html" . }}
+        {{ partial "product-block.html" . }} 
       {{ end }}
     </ul>
   </div>
