@@ -4,7 +4,7 @@ categoria = ""
 familias = ["Tecnología de Ensamble"]
 galeria = ["/v1564179173/Ergomat01.jpg"]
 id = 116
-imagen = "/v1530797588/productos/original-alfombras.jpg"
+imagen = "/v1617737463/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_49_ngbhre.png"
 industrias = ["Alimentos y Bebidas", "Dispositivos Médicos", "Biofarmacéuticos", "Agrícola"]
 marcas = ["Ergomat"]
 meta_description = "alfombras"
@@ -48,4 +48,4 @@ Higiene Food and Medical Mat tiene un perfil amplio de resistencia química y al
 
 ![](https://res.cloudinary.com/novatec/v1596832583/Matting_Nitril_Hygiene_zljyyb.jpg)
 
-## **Entre muchas más, consúltenos!** 
+## **Entre muchas más, consúltenos!**
