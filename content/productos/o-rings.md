@@ -31,3 +31,7 @@ Tres palabras sencillas, pero que tienen un gran impacto en el rendimiento de su
 Y si necesita algo personalizado, nuestro equipo de ingeniería y diseño puede ayudarlo con sus requisitos únicos de juntas tóricas. Nuestra operación de distribución y cumplimiento está disponible para ayudarlo y mejorar su capacidad de entrega de pedidos, proporcionar las herramientas para ayudarlo a vender más productos a sus clientes y aumentar sus resultados al garantizar que tenga el producto correcto en stock.
 
 ![](https://res.cloudinary.com/novatec/v1617726993/Picture1_osgmyi.png)
+
+#### [**Ver cuadro de nomenclatura.**](https://synology01.novatec.cr:5001/d/f/613104711926592076)
+
+#### Consúltenos! 
