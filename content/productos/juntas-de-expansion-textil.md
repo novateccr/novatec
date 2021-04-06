@@ -3,7 +3,7 @@ catalogo = ""
 familias = ["Sellado"]
 galeria = ["/v1571676363/EBI_-_Junta_Exp_lc7g6y.jpg", "/v1571676230/EBI_-_Expansion_Joint_t0x3du.jpg"]
 id = 58
-imagen = "/v1597179782/junta_jfebb7.png"
+imagen = "/v1617729619/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_9_joyovz.png"
 industrias = ["Alimentos y Bebidas", "Energía", "Industria Pesada", "Química", "Ingenios"]
 marcas = ["Eagleburgmann"]
 meta_description = "juntas de expansion textiles, o de tela"
@@ -58,4 +58,4 @@ Las Juntas de expansión de tejido KE se instalan en centrales eléctricas de ca
 
 Líneas de polvo de carbón y juntas de expansión instaladas aquí requieren un diseño especial para evitar al polvo de carbón asentarse y posiblemente encenderse dentro de las líneas.
 
-### **Consúltenos!** 
+### **Consúltenos!**
