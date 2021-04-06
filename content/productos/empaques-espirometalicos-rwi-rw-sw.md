@@ -3,13 +3,13 @@ catalogo = "/catalogos/original-empaques-espirometalicos-rwi-rw-sw.pdf"
 familias = ["Sellado"]
 galeria = ["/v1597273717/Flexsealcategoryimage_1200x900_1_mnrels.png"]
 id = 134
-imagen = "/v1597273717/Flexsealcategoryimage_1200x900_1_mnrels.png"
+imagen = "/v1617729915/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_12_rsotdh.png"
 industrias = ["Alimentos y Bebidas", "Energía", "Industria Pesada", "Química", "Ingenios"]
 marcas = ["Garlock"]
 meta_description = "Empaques Espirometálicos RWI - RW -SW"
 meta_keywords = "juntas espirometálicas, empaques espirometálicas, rwi, rw, sw"
 taxonomyCover = false
-title = "Empaques Espirometálicos RWI - RW -SW"
+title = "Empaques Espirometálicos "
 titulo_adicional = ""
 weight = 134
 
