@@ -3,13 +3,13 @@ catalogo = "/catalogos/original-uretanos-cementicios.pdf"
 familias = ["Pisos y Polímeros"]
 galeria = ["/v1597766175/cementitious-urethane-header-03_hvuca9.jpg", "/v1566075498/flowfresh-2_tgzovo.jpg", "/v1566075485/flowfresh-3_uo5mer.jpg"]
 id = 107
-imagen = "/v1597766224/florida-beer-company-image-05_f2gbtr.jpg"
+imagen = "/v1617742183/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_58_pjegu6.png"
 industrias = ["Alimentos y Bebidas", "Energía", "Dispositivos Médicos", "Industria Pesada", "Biofarmacéuticos", "Química", "Agrícola", "Ingenios", "Comercial - Construcción", "Electrónica"]
 marcas = ["Flowcrete"]
 meta_description = "Pisos de Uretanos Cementicios - HACCP"
 meta_keywords = "pisos,Flowcrete, KeyResin, HACCP, Pisos uretanos, pisos cementicios"
 taxonomyCover = false
-title = "Pisos de Uretanos Cementicios - HACCP"
+title = "Pisos Uretanos Cementicios-HACCP"
 titulo_adicional = ""
 weight = 107
 
