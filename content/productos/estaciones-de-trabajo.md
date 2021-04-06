@@ -3,13 +3,13 @@ catalogo = "/catalogos/original-estaciones-de-trabajo.pdf"
 familias = ["Tecnología de Ensamble"]
 galeria = []
 id = 113
-imagen = "/v1596755245/tc056181_eb1nqp.jpg"
+imagen = "/v1617736996/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_47_cbdrdc.png"
 industrias = ["Alimentos y Bebidas", "Dispositivos Médicos", "Biofarmacéuticos"]
 marcas = ["Rexroth"]
 meta_description = "Estaciones de trabajo en perfil de aluminio personalizadas de la marca Bosch Rexroth todo en  perfiles de aluminio..."
 meta_keywords = "Rexroth, perfil de 40X40, perfil de la marca item, perfil Bosch "
 taxonomyCover = false
-title = "Estaciones de Trabajo (perfil de aluminio)"
+title = "Estaciones Trabajo (perfil aluminio)"
 titulo_adicional = ""
 weight = 113
 
