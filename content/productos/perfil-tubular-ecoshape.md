@@ -4,7 +4,7 @@ categoria = ""
 familias = ["Tecnología de Ensamble"]
 galeria = []
 id = ""
-imagen = "/v1596840689/ecoshape_bsgdv1.png"
+imagen = "/v1617737870/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_52_crua7a.png"
 industrias = ["Alimentos y Bebidas", "Dispositivos Médicos", "Biofarmacéuticos", "Química"]
 marcas = ["Rexroth"]
 meta_description = "Perfil tubular EcoShape "
@@ -48,4 +48,4 @@ Resultados de la combinación de producción ajustada y ergonomía en una estrat
 
 Los accesorios que se encuentran en el programa MPS también se pueden utilizar con todas las estaciones de trabajo EcoShape y sistemas de rack de flujo.
 
-#### **Consúltenos!** 
+#### **Consúltenos!**
