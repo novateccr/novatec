@@ -3,7 +3,7 @@ catalogo = ""
 familias = ["Sellado"]
 galeria = []
 id = 22
-imagen = "/v1597268345/oil_seal_collage_1200x900_ged8cf.png"
+imagen = "/v1617728290/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_3_il7khp.png"
 industrias = ["Alimentos y Bebidas", "Energía", "Biofarmacéuticos"]
 marcas = ["Garlock"]
 meta_description = "Retenedores"
@@ -74,4 +74,4 @@ Los sellos de labios no pueden ofrecer el rendimiento y la vida útil necesarios
 
 »» Turbinas (vapor)
 
-**_Consúltenos!_** 
+**_Consúltenos!_**
