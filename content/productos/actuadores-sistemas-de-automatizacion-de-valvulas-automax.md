@@ -3,13 +3,13 @@ catalogo = ""
 familias = ["Válvulas"]
 galeria = []
 id = 132
-imagen = "/v1563463942/es000407-actelec-leb10.png"
+imagen = "/v1617735430/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_37_pit5dn.png"
 industrias = ["Alimentos y Bebidas", "Industria Pesada", "Biofarmacéuticos", "Química"]
 marcas = ["KSB"]
 meta_description = "Actuadores - Sistemas de automatización de Válvulas KSB"
 meta_keywords = "Actuadores, válvulas, KSB, sistemas de automatización"
 taxonomyCover = false
-title = "Actuadores - Sistemas de automatización de Válvulas KSB"
+title = "Actuadores - Sistemas de automatización "
 titulo_adicional = ""
 weight = 132
 
@@ -116,4 +116,4 @@ Robusta y multifuncional. Para la detección de posición todo o nada mediante i
 * Agua de refrigeración y condensados
 * Agua pura
 
-### **Consúltenos!** 
+### **Consúltenos!**
