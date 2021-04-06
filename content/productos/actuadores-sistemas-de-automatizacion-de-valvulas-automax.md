@@ -9,7 +9,7 @@ marcas = ["KSB"]
 meta_description = "Actuadores - Sistemas de automatización de Válvulas KSB"
 meta_keywords = "Actuadores, válvulas, KSB, sistemas de automatización"
 taxonomyCover = false
-title = "Actuadores - Sistemas de automatización "
+title = "Actuadores y Accionadores KSB"
 titulo_adicional = ""
 weight = 132
 
