@@ -9,7 +9,7 @@ marcas = ["Pall"]
 meta_description = "Soluciones de Filtración para Laboratorio"
 meta_keywords = "PALL lab, PALL Laboratory, filtración laboratorio"
 taxonomyCover = false
-title = "Soluciones de Filtración para Laboratorio"
+title = "Soluciones de Filtración para Lab"
 titulo_adicional = ""
 weight = 12
 
