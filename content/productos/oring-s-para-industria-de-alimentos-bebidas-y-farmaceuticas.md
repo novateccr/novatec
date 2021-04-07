@@ -18,13 +18,15 @@ weight = ""
 +++
 ## [**Los Oring-s funcionan en diferentes aplicaciones...**](https://rubberfab.com/es/products/o-rings/)
 
-El diseño del sello es un factor importante en el procesamiento de alimentos, productos lácteos, bebidas y productos farmacéuticos. Una junta tórica (ORING-S) es una parte muy importante de ese diseño. Las juntas tóricas generalmente se instalan en un sello para evitar fugas o pérdida de líquido. 
+![](https://res.cloudinary.com/novatec/v1617721413/FDAOrings_bak2vv.jpg)
+
+El diseño del sello es un factor importante en el procesamiento de alimentos, productos lácteos, bebidas y productos farmacéuticos. Una junta tórica (ORING-S) es una parte muy importante de ese diseño. Las juntas tóricas generalmente se instalan en un sello para evitar fugas o pérdida de líquido.
 
 Rubber Fab ofrece juntas tóricas estándar AS568, métricas, DIN y medidas personalizadas en una amplia variedad de materiales.
 
 Hay muchos factores a considerar al elegir un elastómero para su aplicación. Las juntas tóricas y las empaquetaduras cumplen con los requisitos de la FDA para su uso en aplicaciones alimentarias y han sido probadas en la Clase VI para aplicaciones farmacéuticas. Los productos Rubber Fab Detectomer® cumplen y exceden las normas establecidas por la Ley de Modernización de la Seguridad Alimentaria.
 
-### **Nuestros productos:** 
+### **Nuestros productos:**
 
 #### [**1- FDA Y ORING-S DE CLASE VI:**](https://rubberfab.com/es/products/o-rings/fda-and-class-vi-o-rings/)
 
@@ -56,7 +58,7 @@ El ataque químico es una de las principales causas de la falla del o-ring. Las 
 
 _Disponible en 1″ de diámetro, el cordón es la elección perfecta para las juntas tóricas personalizadas..._
 
-El cordón de Rubber Fab es la solución perfecta para los tamaños de oring-s personalizados, así como, en la fabricación de campo. Los materiales de la FDA y de la Clase VI se ofrecen en tamaños estándar y métricos. 
+El cordón de Rubber Fab es la solución perfecta para los tamaños de oring-s personalizados, así como, en la fabricación de campo. Los materiales de la FDA y de la Clase VI se ofrecen en tamaños estándar y métricos.
 
 Tenemos en stock el Detectomer® FDA Blue Silicone cord, así como en diámetros nominales y métricos y en bobinas de 50 y 100 pies. Los diámetros van desde .093" - 1" o 1.6 mm - 7 mm de diámetro. Consulte a la fábrica para otros tamaños. También hay disponibles perfiles personalizados.
 
@@ -72,4 +74,4 @@ _Perfecto para medir los Oring-s, el cono de tamaño de los anillos O es una nec
 
 #### [**Guía de Oring-s para descargar favor hacer clic aquí...**](https://synology01.novatec.cr:5001/d/f/613099658511693370)
 
-#### Consúltenos! 
+#### Consúltenos!
