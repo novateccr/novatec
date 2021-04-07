@@ -1,14 +1,16 @@
 +++
-title = "Filtros Hidraulicos"
-id = 121
-marcas = ["Pall","Rexroth"]
-familias = ["Filtros"]
-industrias = ["Energía","Industria Pesada","Agrícola","Ingenios","Comercial - Construcción"]
-imagen = "/v1530797588/productos/original-filtros-hidraulicos.jpg"
 catalogo = "/catalogos/original-filtros-hidraulicos.pdf"
+familias = ["Filtros"]
+galeria = []
+id = 121
+imagen = "/v1617831041/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_87_typ149.png"
+industrias = ["Energía", "Industria Pesada", "Agrícola", "Ingenios", "Comercial - Construcción"]
+marcas = ["Pall", "Rexroth"]
 meta_description = ""
 meta_keywords = ""
-weight = 121
-draft = false
 taxonomyCover = false
+title = "Filtros Hidraulicos"
+titulo_adicional = ""
+weight = 121
+
 +++
