@@ -5,13 +5,9 @@
     </svg>
   </a>
   <div class="header-logo-container">
-    {{ if eq .Section "novatec-construccion" }}
-      <a href="/novatec-construccion/"><img src="/images/logos/NC.png" alt="Logo Description" class="header-logo"></a>
-    {{ else }}
       <a class="header-logo-link" href="/">
         <img width="178" height="49" src="/logo.svg" alt="Novatec" class="header-logo">
       </a>
-    {{ end }}
   </div>
   <nav id="main-nav" role="navigation">
     <div class="cerrar-main-nav">
@@ -44,6 +40,11 @@
         {{ end }}
         </li>
       {{ end }}
+      <li class="first-level-item go-to-construccion-li">
+        <a class="first-level-link" href="https://www.nvtconstruccion.com/" style="color: white">
+          Ir a Novatec Construcción
+        </a>
+      </li>
     </ul>
   </nav>
   <section role="search" class="header-search">
