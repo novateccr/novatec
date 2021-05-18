@@ -9,7 +9,7 @@ slides:
   link: https://www.nvtconstruccion.com/productos/
 - title: Consulte a uno de nuestros asesores...
   image: "/v1550352882/ASESOR.jpg"
-  description: estamos para servirle
+  description: Estamos para servirle...
   published: true
   link: "/contactenos"
 - title: Confíe en la excelencia !!
