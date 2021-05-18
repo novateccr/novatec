@@ -6,7 +6,7 @@ slides:
   description: Consúltenos!
   image: "/v1565455877/Euclid-soluciones_myhy5w.jpg"
   published: false
-  link: https://www.nvtconstruccion.com/
+  link: https://www.nvtconstruccion.com/productos/
 - title: Consulte a uno de nuestros asesores...
   image: "/v1550352882/ASESOR.jpg"
   description: estamos para servirle
