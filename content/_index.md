@@ -27,7 +27,7 @@ slides:
   description: ''
   published: true
   link: ''
-- title: Dispositivos Médicos -Estaciones de trabajo...
+- title: Dispositivos Médicos - Estaciones de trabajo...
   image: "/v1530542510/rexroth.jpg"
   description: ''
   published: false
