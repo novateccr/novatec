@@ -6,7 +6,7 @@ slides:
   description: Consultenos !!
   image: "/v1565455877/Euclid-soluciones_myhy5w.jpg"
   published: false
-  link: "/novatec-construccion/"
+  link: https://www.nvtconstruccion.com/
 - title: Consulte a uno de nuestros asesores...
   image: "/v1550352882/ASESOR.jpg"
   description: estamos para servirle
