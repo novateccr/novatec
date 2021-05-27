@@ -1,5 +1,7 @@
 ---
 profiles:
+- title: youtube
+  link: https://www.youtube.com/channel/UCrOeWSs155IkUaFXFmdJ0yw
 - title: Linkedin
   link: https://www.linkedin.com/company/novatec-industrial/
 - title: Facebook
