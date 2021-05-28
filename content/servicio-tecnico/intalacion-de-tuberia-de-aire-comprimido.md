@@ -9,7 +9,7 @@ title = "Intalación de tuberia de aire comprimido"
 
 A nuestros especialistas los respaldan años de experiencia en la instalación de tubería para aire comprimido Transair, en medidas desde los 16.5mm (1/2") hasta 8".
 
-![](https://res.cloudinary.com/novatec/v1622217279/FSC_Transair_Aluminum_Stainless_Install_1140px_prypzy.webp)
+![](https://res.cloudinary.com/novatec/v1622218160/WhatsApp_Image_2020-12-08_at_3.17.53_PM_ntxkca.jpg)
 
 Tenemos clientes en todas partes del país que son testigos de la calidad de nuestro trabajo.
 
