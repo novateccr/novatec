@@ -9,6 +9,8 @@ title = "Soluciones integrales de servicio "
 
 **Servicio profesional e individual para bombas KSB y repuestos originales de KSB: KSB ofrece conceptos de repuestos y servicio a medida para bombas, válvulas y otros equipos rotativos, sea cual sea el fabricante: la solución perfecta para todo el ciclo de vida.**
 
+Brindamos el servicio de puesta en marcha de los equipos KSB.
+
 Gracias a la formación continua, nuestros especialistas están excelentemente cualificados para realizar trabajos de servicio en bombas. Además, nuestros especialistas. también dan servicio a los productos de otros fabricantes.
 
 ![](https://res.cloudinary.com/novatec/v1622216177/pic-art-motor-repair_bjdlin.jpg)
