@@ -1,5 +1,5 @@
 +++
-Imagen = "/v1622216948/trasair_yvfrhd.png"
+Imagen = "/v1622217576/Copia_de_Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_1_spgto4.png"
 hero = "/v1530797586/productos/3f2ab090b41cda2b37c5ea94238cf2d3-Tuberia.jpg"
 info = ""
 title = "Intalación de tuberia de aire comprimido"
