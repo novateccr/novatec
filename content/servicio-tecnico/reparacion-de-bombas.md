@@ -1,5 +1,5 @@
 +++
-Imagen = "/v1606329359/3b4a846e-b3ff-47df-96d1-39f54fb74557_jzzhj7.jpg"
+Imagen = "/v1622216345/pic-servicemitarbeiter-kevinbrandt-en-data_ec6wlz.jpg"
 hero = "/v1597782508/1341_7_tgn4n1.jpg"
 info = ""
 title = "Soluciones integrales de servicio "
