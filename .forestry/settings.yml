@@ -19,6 +19,8 @@ sections:
   label: Industrias
   create: all
   match: "**/*"
+  templates:
+  - quimica
 - type: directory
   path: content/marcas
   label: Marcas
