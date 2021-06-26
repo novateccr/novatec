@@ -1,5 +1,6 @@
 +++
 catalogo = ""
+draft = true
 id = ""
 link = "https://kaivac.com/"
 logo = "/v1592947576/Kaivac_xuebrk.jpg"
