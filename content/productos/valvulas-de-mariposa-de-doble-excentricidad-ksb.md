@@ -18,7 +18,7 @@ weight = ""
 +++
 ![](https://res.cloudinary.com/novatec/v1596753800/es000427-danais-150_nmafk0.png)
 
-#          [**DANAIS 150**](https://products.ksb.com/es-es/productos/valvulas/danais-150-31496)
+# [**DANAIS 150**](https://products.ksb.com/es-es/productos/valvulas/danais-150-31496)
 
 Válvula de mariposa de doble excentricidad, con asiento de plastómero (también en ejecución a prueba de fuego), metálico o de elastómero (FKM \[VITON R\] o NBR \[nitrilo\]). Palanca o engranaje reductor, actuador neumático, eléctrico o hidráulico. Cuerpo de fundición nodular, fundición de acero, acero inoxidable, bronce de aluminio o acero inoxidable dúplex (254 SMO). Cuerpo anular (T1) o tipo lug (T4). El cuerpo tipo T4 permite el desmontaje aguas abajo y la función cabeza de línea con contrabrida. Conexiones según EN, ASME o JIS. Ensayo y certificación de seguridad contra incendios conforme a API 607(fire-safe). Nivel de emisiones probado y certificado conforme a EN ISO 15848-1. Modelo ATEX conforme a la directiva 2014/34/UE.
 
