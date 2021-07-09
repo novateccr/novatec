@@ -16,7 +16,7 @@ title = "Servicio de reparación de bombas "
 
 ![](https://res.cloudinary.com/novatec/v1623431998/3b4a846e-b3ff-47df-96d1-39f54fb74557_tdreov.jpg)
 
-## **Algunos de nuestros productos estrella:** 
+## **Algunos de nuestros productos estrella:**
 
 ### -Belzona 1111, Súper metal:
 
@@ -77,4 +77,4 @@ Un revestimiento de 2 partes libre de solventes a base de resina epoxi reforzado
     * Adhesión estructural de alta resistencia para la unión de metal
     * Creación de calces de rodamiento de carga irregulares.
 
-### **Consúltenos!** 
+### 
