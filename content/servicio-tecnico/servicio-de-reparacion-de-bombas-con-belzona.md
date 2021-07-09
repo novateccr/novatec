@@ -46,35 +46,3 @@ Un revestimiento de 2 partes libre de solventes a base de resina epoxi reforzado
 * Reparación de bridas
 * Adhesión estructural de alta resistencia para la unión de metales
 * Creación de calces de rodamiento de carga irregulares y reforma de alojamientos de rodamientos
-
-  ### [**Belzona 1212:**](https://www.belzona.com/es/products/1000/1212.aspx)
-
-  ![](https://res.cloudinary.com/novatec/v1623432409/Dise%C3%B1o_sin_t%C3%ADtulo_35_icyndy.png)
-
-  Un compuesto epoxi duo componente tolerante a superficies diseñado específicamente para la aplicación in situ sobre superficies mojadas, contaminadas con aceite o sumergidas. Este material multiuso libre de solventes es de fraguado rápido y ofrece una excelente adherencia a sustratos preparados manualmente, donde no se puede realizar un granallado abrasivo.
-
-  Belzona 1212 es fácil de mezclar y aplicar sin necesidad de herramientas especiales y es ideal para kits de reparación y situaciones de emergencia, ya que garantiza rapidez para que los equipos vuelvan al servicio.
-
-  #### Las aplicaciones de Belzona 1212 incluyen las siguientes:
-  * Unión de placas, relleno de picaduras de corrosión y reparación localizada de tuberías mojadas, transpiradas o contaminadas con aceite, donde no se puede realizar un granallado abrasivo
-  * Sellado en el lugar de fugas de aceite y fluidos en tanques de almacenamiento, motores, cajas de cambios, transformadores y cárteres
-  * Reparación a largo plazo de estructuras y equipo marítimos, incluidos cascos de embarcaciones, timones, hélices y tanques de lastre, sin sacar el barco de servicio
-  * Reparaciones sumergibles, ideales para el uso en zonas de salpicaduras y estructuras costeras.
-
-    ### [**Belzona 1311:**](https://www.belzona.com/es/products/1000/1311.aspx)
-
-    Un compuesto de reparación de base epoxi de 2 partes diseñado para la reparación y protección de metal contra los efectos de la erosión y la corrosión. Este compuesto de reparación libre de solventes tiene excelente resistencia química y se adhiere a todos los metales y a la mayoría de otras superficies rígidas. Es fácil de mezclar y aplicar sin necesidad de herramientas especiales, y fragua a temperatura ambiente, lo que elimina la necesidad de trabajo en caliente. Es ideal para el recubrimiento con [Belzona 1321 (Ceramic S-Metal)](https://www.belzona.com/es/products/1000/1321.aspx) a fin de asegurar un rendimiento de larga duración.
-
-    Belzona 1311 (Ceramic R-Metal) también se puede usar como un adhesivo estructural de alta resistencia para unir metal y para crear calces de rodamiento de carga irregulares.
-
-    ![](https://res.cloudinary.com/novatec/v1623432566/Dise%C3%B1o_sin_t%C3%ADtulo_36_jl89we.png)
-
-    #### Las aplicaciones de Belzona 1311 (Ceramic R-Metal) incluyen las siguientes:
-    * Reconstrucción y restauración de forma de las bombas de desplazamiento positivo y centrífugas dañadas por la erosión y la corrosión
-    * Relleno de picaduras y revestimiento de intercambiadores de calor, cajas de agua y placas de tubos
-    * Reparación de válvulas mariposa y de compuerta, ventiladores y toberas para hélices deterioradas como consecuencia de la erosión, corrosión y cavitación
-    * Reparación de codos de tubería dañados por choque
-    * Adhesión estructural de alta resistencia para la unión de metal
-    * Creación de calces de rodamiento de carga irregulares.
-
-### 
