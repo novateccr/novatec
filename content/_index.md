@@ -1,6 +1,6 @@
 ---
 title: Inicio
-description: Especialistas en soluciones para el manejo y sellado de fluidos
+description: Especialistas en soluciones para el manejo y sellado de fluidos.
 slides:
 - title: Novatec - Euclid
   description: Consúltenos!
