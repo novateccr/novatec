@@ -7,9 +7,9 @@ slides:
   image: "/v1565455877/Euclid-soluciones_myhy5w.jpg"
   published: false
   link: https://www.nvtconstruccion.com/productos/
-- title: Consulte a uno de nuestros asesores...
+- title: Consulte a uno de nuestros asesores.
   image: "/v1550352882/ASESOR.jpg"
-  description: Estamos para servirle...
+  description: Estamos para servirle!
   published: true
   link: "/contactenos"
 - title: Confíe en la excelencia!
@@ -22,12 +22,12 @@ slides:
   description: "<p>Bombas · Filtros · Sellos · Pisos · Neumática · Hidráulica</p>"
   published: true
   link: ''
-- title: Todo en Pisos
+- title: 'Todo en Pisos y Recubrimientos '
   image: "/v1530542510/marcas.jpg"
-  description: ''
+  description: Para todas las Industrias.
   published: true
   link: ''
-- title: Dispositivos Médicos - Estaciones de trabajo...
+- title: Dispositivos Médicos - Estaciones de trabajo
   image: "/v1530542510/rexroth.jpg"
   description: ''
   published: false
