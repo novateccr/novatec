@@ -4,7 +4,7 @@ description: Especialistas en soluciones para el manejo y sellado de fluidos.
 slides:
 - title: Novatec Industrial.
   description: "¡Consúltenos!"
-  image: "/v1626994940/AdobeStock_301503760_ucdmih.jpg"
+  image: "/v1626995190/AdobeStock_384281332_ib65ll.jpg"
   published: false
   link: https://www.nvtconstruccion.com/productos/
 - title: Consulte a uno de nuestros asesores.
