@@ -2,22 +2,22 @@
 title: Inicio
 description: Especialistas en soluciones para el manejo y sellado de fluidos.
 slides:
-- title: Novatec - Euclid
-  description: Consúltenos!
+- title: Novatec Industrial.
+  description: "¡Consúltenos!"
   image: "/v1565455877/Euclid-soluciones_myhy5w.jpg"
   published: false
   link: https://www.nvtconstruccion.com/productos/
 - title: Consulte a uno de nuestros asesores.
   image: "/v1550352882/ASESOR.jpg"
-  description: Estamos para servirle!
+  description: "¡Estamos para servirle!"
   published: true
   link: "/contactenos"
-- title: Confíe en la excelencia!
+- title: "¡Confíe en la excelencia!"
   image: "/v1530797347/2.jpg"
   description: ''
   published: true
   link: ''
-- title: Sirviendo a la industria
+- title: Sirviendo a la Industria
   image: "/v1550353163/ASESOR1.jpg"
   description: "<p>Bombas · Filtros · Sellos · Pisos · Neumática · Hidráulica</p>"
   published: true
