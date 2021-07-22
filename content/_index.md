@@ -18,7 +18,7 @@ slides:
   published: true
   link: ''
 - title: Sirviendo a la Industria
-  image: "/v1550353163/ASESOR1.jpg"
+  image: "/v1626994833/AdobeStock_250184268_rkz2m3.jpg"
   description: "<p>Bombas · Filtros · Sellos · Pisos · Neumática · Hidráulica</p>"
   published: true
   link: ''
