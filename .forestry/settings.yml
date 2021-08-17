@@ -25,6 +25,11 @@ sections:
   create: all
   match: "**/*"
 - type: directory
+  path: content/novatec-construccion
+  label: Novatec construccion
+  create: all
+  match: "**/*"
+- type: directory
   path: content/noticias
   label: Noticias
   create: all

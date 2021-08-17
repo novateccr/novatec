@@ -3,7 +3,7 @@ title: Industrias
 weight: "900"
 menu:
   principal:
-    weight: 3
+    weight: 4
     parent: ''
 
 ---
