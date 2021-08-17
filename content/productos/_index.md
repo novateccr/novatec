@@ -3,7 +3,7 @@ title: Productos
 weight: "900"
 menu:
   principal:
-    weight: 2
+    weight: 3
 
 ---
 Listado de productos.

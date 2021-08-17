@@ -30,7 +30,7 @@ cascade:
       parent: Servicio Técnico
 menu:
   principal:
-    weight: 6
+    weight: 7
 
 ---
 Contamos con experiencia, personal especializado en el servicio de reparaciones, reconstrucciones, contratos de mantenimiento e instalaciones.

@@ -58,6 +58,6 @@ barra_fondo_imagen:
 menu:
   principal:
     parent: ''
-    weight: "1"
+    weight: "2"
 
 ---
