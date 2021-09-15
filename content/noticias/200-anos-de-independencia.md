@@ -1,5 +1,4 @@
 +++
-draft = true
 title = "200 Años de Independencia"
 
 +++
