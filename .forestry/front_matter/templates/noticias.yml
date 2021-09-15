@@ -25,6 +25,7 @@ fields:
   label: Featured
   description: Debe aparecer en el home?
 pages:
+- content/noticias/200-anos-de-independencia-1.md
 - content/noticias/_index.md
 - content/noticias/abrazaderas-metalicas-y-no-metalicas.md
 - content/noticias/amplia-gama.md
