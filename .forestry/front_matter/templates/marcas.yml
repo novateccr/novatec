@@ -65,6 +65,7 @@ fields:
   name: logo
   description: Archivo jpg o png del logo. El tamaño se ajusta automáticamente
 pages:
+- content/marcas/aaf-filtracion-de-aire.md
 - content/marcas/aaf-flanders.md
 - content/marcas/euclid-chemical.md
 - content/marcas/kaivac.md
