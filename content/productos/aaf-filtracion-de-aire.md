@@ -1,7 +1,6 @@
 +++
 catalogo = ""
 categoria = ""
-draft = true
 familias = ["Filtros"]
 galeria = []
 id = "13"
