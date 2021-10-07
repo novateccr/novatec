@@ -1,5 +1,6 @@
 +++
 catalogo = ""
+draft = true
 id = ""
 link = "https://www.aafintl.com/en/commercial"
 logo = "/v1633616127/AAF-Flanders_Logo_yhyynb.png"
