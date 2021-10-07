@@ -1,5 +1,5 @@
 ---
-title: Equipos y sistemas de limpieza
+title: Equipos y Sistemas de Limpieza
 id: "8"
 imagen: "/v1595456785/AutoVac-Stretch-Specs_1_ghiw0i.jpg"
 link: ''
