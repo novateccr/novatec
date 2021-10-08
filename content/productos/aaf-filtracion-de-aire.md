@@ -16,7 +16,7 @@ titulo_adicional = ""
 weight = ""
 
 +++
-Proveemos soluciones de aire limpio !!
+**Proveemos soluciones de aire limpio !!**
 
 Estamos diseñando soluciones para industrias en las que el mayor rendimiento de filtración es crucial tanto para proteger a las personas que trabajan en entornos de riesgo como para crear entornos de alta pureza en los que se producen productos sensibles.
 
