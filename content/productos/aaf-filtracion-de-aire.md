@@ -24,6 +24,10 @@ weight = ""
 
 ##### **Creando sistemas de filtración de aire con valor.**
 
+![](https://res.cloudinary.com/novatec/v1636133143/AstroHood-removebg-preview_mwiab7.png)
+
 ###### El aire está en todas partes. En nuestros hogares. Nuestros lugares de trabajo. Hospitales. Escuelas. Es lo que hace posible nuestras vidas. Pero miles de millones de partículas invisibles flotan a nuestro alrededor en cualquier momento dado, lo que afecta nuestra salud, a lo bien que respiramos, a los instrumentos que operan en nuestras instalaciones y a los productos que producimos.
+
+![](https://res.cloudinary.com/novatec/v1636133175/DriPak_GX-removebg-preview_mtoxcp.png)
 
 #### Consúltenos !!
