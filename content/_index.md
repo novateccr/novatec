@@ -43,9 +43,9 @@ slides:
   published: true
   link: "/marcas/fristam"
 barra_azul:
-  titular: Agradecemos su preferencia este 2021.   Se les informa nuestras oficinas
-    cerrarán a partir del 23 de Diciembre y se retomarán labores el 3 de Enero 2022.
-  subtitular: 'Para emergencias contactarse a: asistencia@novatec.cr'
+  titular: Novatec Industrial. Líderes en soluciones para la Industria.
+  subtitular: 'Para consultas y cotizaciones contactarse al correo: sac@novatec.cr
+    o al WhatsApp: 6383-6383'
 barra_fondo_imagen:
   texto: Juntos, enfrentamos una situación verdaderamente sin precedentes. La pandemia
     global de COVID-19 afecta a nuestras familias, nuestros negocios, nuestras comunidades
