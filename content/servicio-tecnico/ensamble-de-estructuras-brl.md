@@ -1,5 +1,5 @@
 +++
-Imagen = "/v1643829960/MT_13682_20160704_133333.big_urd18k_ls65il.jpg"
+Imagen = "/v1643830853/MT_39551_20210915_140610.web_lrgnbn.jpg"
 info = ""
 title = "Ensamble de Estructuras BRL"
 
