@@ -12,6 +12,7 @@ fields:
   name: info
   label: info
 pages:
+- content/servicio-tecnico/aplicacion-de-polimeros.md
 - content/servicio-tecnico/intalacion-de-tuberia-de-aire-comprimido.md
 - content/servicio-tecnico/reparacion-de-bombas.md
 - content/servicio-tecnico/servicio-de-reparacion-de-bombas-con-belzona.md
