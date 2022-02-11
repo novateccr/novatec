@@ -5,14 +5,24 @@ info = ""
 title = "Instalación de Tubería Transair"
 
 +++
-### **En Novactec Industrial S.A nos especializamos en la instalación tubería de aire comprimido Transair.**
+### En Novactec Industrial S.A nos especializamos en la instalación tubería de aire comprimido Transair.
 
-A nuestros especialistas los respaldan años de experiencia en la instalación de tubería para aire comprimido Transair, en medidas desde los 16.5mm (1/2") hasta 8".
+![](https://res.cloudinary.com/novatec/v1644594590/Transair-400x400_s1atlg.png)
 
-![](https://res.cloudinary.com/novatec/v1622218160/WhatsApp_Image_2020-12-08_at_3.17.53_PM_ntxkca.jpg)
+En Novatec le ofrecemos el servicio de instalación de tubería para aire comprimido Transair, en medidas desde los 16.5mm (1/2") hasta 8".
 
-Tenemos clientes en todas partes del país que son testigos de la calidad de nuestro trabajo.
+A nuestros especialistas los respaldan años de experiencia, capacitación y la mejor calidad de equipo y recurso humano para ofrecerles el mejor servicio.
 
-#### **![](https://res.cloudinary.com/novatec/v1622217451/parker-transair-sistemas-tubos-avanzados-fluidos-industriales-normas-calidad-aire-470673_1mg_bem7ad.jpg)**
+Tenemos clientes en todas partes del país y de todos los sectores de la Industria, que son testigos de la calidad de nuestro trabajo.
+
+* Sector Medical Devices.
+* Sector Alimentos y Bebidas.
+* Sector Farmacéutico y Laboratorio.
+* Sector Industria Pesada.
+* Sector Automotriz, etc...
+
+#### 
+
+![](https://res.cloudinary.com/novatec/v1644594605/WhatsApp_Image_2022-02-08_at_10.04.58_AM_hww57l.jpg)
 
 #### **Consúltenos para más información!**
