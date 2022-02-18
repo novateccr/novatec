@@ -13,6 +13,7 @@ title = "Aplicación de Polímeros"
 * Parqueos.
 * Juntas de Control.
 * Juntas de Expansión.
+* Barreras de Vapor
 
 ![](https://res.cloudinary.com/novatec/v1643830039/MicrosoftTeams-image_44_1_eeadab.jpg)
 
