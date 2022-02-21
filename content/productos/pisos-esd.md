@@ -1,11 +1,10 @@
 +++
 catalogo = ""
 categoria = ""
-draft = true
 familias = []
 galeria = []
 id = ""
-imagen = ""
+imagen = "/v1645476235/MicrosoftTeams-image_47_xgxgnl.jpg"
 industrias = []
 marcas = []
 meta_description = ""
