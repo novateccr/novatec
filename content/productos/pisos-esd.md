@@ -1,7 +1,7 @@
 +++
 catalogo = ""
 categoria = ""
-familias = []
+familias = ["Pisos y Polímeros"]
 galeria = []
 id = ""
 imagen = "/v1645476235/MicrosoftTeams-image_47_xgxgnl.jpg"
