@@ -4,6 +4,8 @@ info = ""
 title = "Aplicación de Polímeros"
 
 +++
+![](https://res.cloudinary.com/novatec/v1643830039/MicrosoftTeams-image_44_1_eeadab.jpg)
+
 #### En Novatec ofrecemos los siguientes servicios de aplicación de polímeros:
 
 * Impermeabilizaciones.
@@ -15,6 +17,4 @@ title = "Aplicación de Polímeros"
 * Juntas de Expansión.
 * Barreras de Vapor
 
-![](https://res.cloudinary.com/novatec/v1643830039/MicrosoftTeams-image_44_1_eeadab.jpg)
-
-![](https://res.cloudinary.com/novatec/v1645226005/MicrosoftTeams-image_46_inh1lm.jpg)
+![](https://res.cloudinary.com/novatec/v1645454616/IMG_1501_Original_hkdlgu.jpg)
