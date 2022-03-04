@@ -21,3 +21,7 @@ weight = ""
 Diseñados para evitar que las descargas estáticas afecten a los equipos y procesos productivos más preciados de sus instalaciones.
 
 Recubrimientos epóxicos 100 % sólidos, que utiliza tecnología de nanotubos de carbono de próxima generación para disipar la carga electrostática.
+
+.
+
+![](https://res.cloudinary.com/novatec/v1646414272/key-esd-conductive_kq1lnv.jpg)
