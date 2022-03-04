@@ -16,3 +16,8 @@ titulo_adicional = ""
 weight = ""
 
 +++
+### Pisos ESD
+
+Diseñados para evitar que las descargas estáticas afecten a los equipos y procesos productivos más preciados de sus instalaciones.
+
+Recubrimientos epóxicos 100 % sólidos, que utiliza tecnología de nanotubos de carbono de próxima generación para disipar la carga electrostática.
