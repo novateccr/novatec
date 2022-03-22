@@ -15,6 +15,9 @@ title = "Aplicación de Polímeros"
 * Parqueos.
 * Juntas de Control.
 * Juntas de Expansión.
-* Barreras de Vapor
+* Barreras de Vapor.
+* MMA (curado rápido).
 
-![](https://res.cloudinary.com/novatec/v1645454616/IMG_1501_Original_hkdlgu.jpg)
+.
+
+![](https://res.cloudinary.com/novatec/v1647974408/IMG_1501_Original_n4rrht.jpg)
