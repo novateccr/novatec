@@ -44,8 +44,8 @@ slides:
   link: "/marcas/fristam"
 barra_azul:
   titular: Novatec Industrial. Líderes en soluciones para la Industria.
-  subtitular: 'Para consultas y cotizaciones contactarse al correo: sac@novatec.cr
-    o al WhatsApp: 6383-6383'
+  subtitular: 'Horario Especial Semana Santa.  Nuestras oficinas permanecerán cerradas
+    los días 11-14-15 de abril.  Para emergencias: sac@novatec.cr o al WhatsApp: 6383-6383'
 barra_fondo_imagen:
   texto: El Grupo Novatec está comprometido con la seguridad y búsqueda de soluciones
     para los procesos de  nuestros clientes...
