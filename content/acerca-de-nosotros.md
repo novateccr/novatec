@@ -1,4 +1,5 @@
 +++
+draft = true
 imagen = ""
 title = "Acerca de nosotros"
 [menu.principal]
