@@ -42,47 +42,23 @@ Los perfiles de Rexroth son especialmente adecuados para refuerzos.
 
 \*Tornillo con collar
 
-\*Bloques ranurados
+\*Cubos Esquineros en 2 y 3 ejes.
 
-\*Resorte
+\* Escuadras de Fijación Interna y Externa.
 
-\*Tuerca extensible
+\*Empalmadores a 45°.
 
 **Entre otros...**
 
 ## 
 
-## **Articulaciones:**
+## **Patas:**
 
-![](https://res.cloudinary.com/novatec/v1596754688/5b4d946f-919c-4244-9251-6a17328e4c48_mu3uuz.jpg)
+\*Patas articuladas ajustables.
 
-Para uniones de perfil ajustables o fijas.  
-Para cargas elevadas hasta 100 Nm en la dirección de giro.  
-Unión continua mediante dentado Hirth.  
-Radio de giro 180°.  
-Ligero ajuste en el retículo de 5°.
+\*Patas de goma (tapones)
 
-## **Patas y ruedas:**
-
-![](https://res.cloudinary.com/novatec/v1603305246/7f021ab9-4804-4a68-b46a-e2467be9d082_v2oser.jpg)
-
-\*Patas articuladas modulares..
-
-\*Patas articuladas.
-
-\*Placas base de acero.
-
-\*Placa base.
-
-\*Patas.
-
-\*Rueda doble.
-
-\*Rueda resistente al aceite.
-
-\*Rueda para sala blanca.
-
-\*Rueda de goma maciza.
+![](https://res.cloudinary.com/novatec/v1651760426/Pata_articulada_grq9el.jpg)
 
 **Entre otros....**
 
