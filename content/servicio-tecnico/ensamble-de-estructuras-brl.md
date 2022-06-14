@@ -16,8 +16,8 @@ title = "Diseño y Ensamble de Estructuras BRL"
 * Corte de láminas HPL.
 * Ensamblado de cualquier estación, estructura, mueble, línea de trabajo, línea de producción, carrito, etc. 100% personalizadas adecuadas a cada necesidad específica.
 
-.
+.![](https://res.cloudinary.com/novatec/v1655222864/3982_apnegk.png)
 
-![](https://res.cloudinary.com/novatec/v1655222643/WhatsApp_Image_2022-06-14_at_10.03.06_AM_fpmfdc.jpg)
+![](https://res.cloudinary.com/novatec/v1655222825/19096_qpquhb.png)
 
 ![](https://res.cloudinary.com/novatec/v1647974594/MicrosoftTeams-image_66_pe8swq.jpg)
