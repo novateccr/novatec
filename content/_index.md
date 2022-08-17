@@ -23,12 +23,12 @@ slides:
   published: true
   link: ''
 - title: 'Todo en Pisos y Recubrimientos '
-  image: "/v1660750566/-DIG5QFA_zfopti.jpg"
+  image: "/v1660750081/Ak7cPkg8_xbebqj.jpg"
   description: Para todas las Industrias.
   published: true
   link: ''
 - title: Dispositivos Médicos - Estaciones de trabajo
-  image: "/v1660749983/03a7e17ae44413cda02b76d247d20312_XL_puduxo.jpg"
+  image: "/v1660749754/19096_1_iqugtk.png"
   description: ''
   published: true
   link: "/industrias/dispositivos-medicos/"
