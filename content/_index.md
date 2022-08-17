@@ -23,7 +23,7 @@ slides:
   published: true
   link: ''
 - title: 'Todo en Pisos y Recubrimientos '
-  image: "/v1660749344/lXUALevk_s5d9do.jpg"
+  image: "/v1660750107/flowcrete-high-vis-vest-overviewing-project_1_qnfe6g.jpg"
   description: Para todas las Industrias.
   published: true
   link: ''
