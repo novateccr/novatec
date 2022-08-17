@@ -13,7 +13,7 @@ slides:
   published: true
   link: "/contactenos"
 - title: "¡Confíe en la excelencia!"
-  image: "/v1530797347/2.jpg"
+  image: "/v1660749754/19096_1_iqugtk.png"
   description: ''
   published: true
   link: ''
@@ -54,5 +54,6 @@ menu:
   principal:
     parent: ''
     weight: "2"
+draft: true
 
 ---
