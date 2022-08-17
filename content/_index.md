@@ -23,7 +23,7 @@ slides:
   published: true
   link: ''
 - title: 'Todo en Pisos y Recubrimientos '
-  image: "/v1530542510/marcas.jpg"
+  image: "/v1660749344/lXUALevk_s5d9do.jpg"
   description: Para todas las Industrias.
   published: true
   link: ''
