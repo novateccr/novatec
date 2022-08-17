@@ -5,7 +5,7 @@ slides:
 - title: Novatec Industrial.
   description: "¡Consúltenos!"
   image: "/v1626995521/AdobeStock_68822437_aldhhx.jpg"
-  published: false
+  published: true
   link: https://www.nvtconstruccion.com/productos/
 - title: Consulte a uno de nuestros asesores.
   image: "/v1660749431/AdobeStock_291229954_n3ckuh.jpg"
