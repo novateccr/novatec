@@ -13,7 +13,7 @@ slides:
   published: true
   link: "/contactenos"
 - title: "¡Confíe en la excelencia!"
-  image: "/v1660749754/19096_1_iqugtk.png"
+  image: "/v1597788942/original-recubrimiento-de-tanques_oxupm9.jpg"
   description: ''
   published: true
   link: ''
