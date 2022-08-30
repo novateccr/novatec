@@ -13,7 +13,7 @@ slides:
   published: true
   link: "/contactenos"
 - title: "¡Confíe en la excelencia!"
-  image: "/v1660749431/AdobeStock_291229954_n3ckuh.jpg"
+  image: "/v1626994940/AdobeStock_301503760_ucdmih.jpg"
   description: ''
   published: true
   link: ''
