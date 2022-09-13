@@ -47,8 +47,10 @@ barra_azul:
   subtitular: 'Para consultas y cotizaciones contactarse al correo: sac@novatec.cr
     o al WhatsApp: 6383-6383'
 barra_fondo_imagen:
-  texto: El Grupo Novatec está comprometido con la seguridad y búsqueda de soluciones
-    para los procesos de  nuestros clientes...
+  texto: 'El Grupo Novatec está comprometido con la seguridad y búsqueda de soluciones
+    para los procesos de  nuestros clientes.
+
+    '
   imagen: https://res.cloudinary.com/novatec/image/upload/f_auto,q_80/v1530333582/slide3-dark.jpg
 menu:
   principal:
