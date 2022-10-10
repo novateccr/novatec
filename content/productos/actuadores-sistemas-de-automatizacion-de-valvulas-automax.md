@@ -22,7 +22,7 @@ weight = 132
 
 ![](https://res.cloudinary.com/novatec/v1596748869/es000411-actair_uxebxr.png)
 
-Accionador neumático de regulación de doble efecto para montaje en válvulas 1/4 de vuelta (mariposas o válvulas de bola). Brida deacoplamiento conforme a ISO 5211. Presión de mando hasta 8 bar. Montaje posible sobre las diferentes salidas del eje de la válvula (cuadrado o biplano). La cinemática de doble horquilla permite desarrollar pares de hasta 8000 Nm, idóneos para la maniobra de válvulas 1/4 de vuelta. Equipado de serie con indicador visual de la posición y topes finales ajustables según el tamaño del accionador para posición cerrada o posición cerrada/abierta. 
+Accionador neumático de regulación de doble efecto para montaje en válvulas 1/4 de vuelta (mariposas o válvulas de bola). Brida deacoplamiento conforme a ISO 5211. Presión de mando hasta 8 bar. Montaje posible sobre las diferentes salidas del eje de la válvula (cuadrado o biplano). La cinemática de doble horquilla permite desarrollar pares de hasta 8000 Nm, idóneos para la maniobra de válvulas 1/4 de vuelta. Equipado de serie con indicador visual de la posición y topes finales ajustables según el tamaño del accionador para posición cerrada o posición cerrada/abierta.
 
 ### **Aplicaciones principales:**
 
@@ -37,11 +37,11 @@ Accionador neumático de regulación de doble efecto para montaje en válvulas 1
 
 ![](https://res.cloudinary.com/novatec/v1596749147/es000504-mr_jpl9qp.png)
 
-Actuadores manuales para el funcionamiento de válvulas de cuarto de vuelta. 
+Actuadores manuales para el funcionamiento de válvulas de cuarto de vuelta.
 
-Rango MR caja de cambios manual, engranaje helicoidal irreversible o cinemática. 
+Rango MR caja de cambios manual, engranaje helicoidal irreversible o cinemática.
 
-Operación estándar por volante. Los modelos MR 400 a 1600 pueden ser modernizado con actuadores eléctricos. 
+Operación estándar por volante. Los modelos MR 400 a 1600 pueden ser modernizado con actuadores eléctricos.
 
 ### **Aplicaciones principales:**
 
@@ -54,9 +54,7 @@ Operación estándar por volante. Los modelos MR 400 a 1600 pueden ser moderniza
 
 # [**ACTELEC**](https://products.ksb.com/es-es/productos/accionadores-de-valvula-automatismos/actelec-20436)
 
-![](https://res.cloudinary.com/novatec/v1596749284/es000407-actelec-leb10_m3wtki.png)
-
-Accionador eléctrico de regulación BERNARD CONTROLS para el montaje directo sobre válvulas 1/4 de vuelta (brida de acoplamiento conforme a ISO 5211) en combinación con un engranaje reductor de la serie MR (brida de acoplamiento conforme a ISO 5210). 
+Accionador eléctrico de regulación BERNARD CONTROLS para el montaje directo sobre válvulas 1/4 de vuelta (brida de acoplamiento conforme a ISO 5211) en combinación con un engranaje reductor de la serie MR (brida de acoplamiento conforme a ISO 5210).
 
 Alimentación mediante corriente alterna monofásica o trifásica o corriente continua. Equipado de serie con limitador de par, limitador de elevación y caja de control. Detención apertura/cierre o regulación. Control local integrado o mando a distancia.
 
@@ -70,8 +68,6 @@ Alimentación mediante corriente alterna monofásica o trifásica o corriente co
 * Agua pura
 
 # [**SISTO-LAE**](https://products.ksb.com/es-es/productos/accionadores-de-valvula-automatismos/sisto-lae-20438)
-
-![](https://res.cloudinary.com/novatec/v1596749510/es000405-sistomat-e_qfqvnu.png)
 
 Actuador rotativo para válvulas con vástago ascendente, máxima fuerza de posicionamiento de 60 000 N, configurable como función de la curva característica de caudal y el desplazamiento de la válvula, señalización de fin de carrera; montaje del actuador en fábrica.
 
@@ -88,7 +84,7 @@ Actuador rotativo para válvulas con vástago ascendente, máxima fuerza de posi
 
 ![](https://res.cloudinary.com/novatec/v1596749645/es000924-hq_vabujz.png)
 
-Accionador hidráulico de regulación de efecto doble o simple (cartucho para gas o resorte) para el montaje sobre válvulas 1/4 de vuelta (válvulas de mariposa o de bola). Brida de acoplamiento conforme a ISO 5211. Presión de mando hasta 160 bar. Montaje posible sobre las diferentes salidas del eje de la válvula (cuadrado o biplano). La cinemática de piñón-cremallera o de doble horquilla permite desarrollar pares de hasta 55 000 Nm, especialmente adaptados a las válvulas 1/4 de vuelta. Equipado de serie con indicador de posición visual y topes de fin de carrera regulables para apertura o cierre. 
+Accionador hidráulico de regulación de efecto doble o simple (cartucho para gas o resorte) para el montaje sobre válvulas 1/4 de vuelta (válvulas de mariposa o de bola). Brida de acoplamiento conforme a ISO 5211. Presión de mando hasta 160 bar. Montaje posible sobre las diferentes salidas del eje de la válvula (cuadrado o biplano). La cinemática de piñón-cremallera o de doble horquilla permite desarrollar pares de hasta 55 000 Nm, especialmente adaptados a las válvulas 1/4 de vuelta. Equipado de serie con indicador de posición visual y topes de fin de carrera regulables para apertura o cierre.
 
 ### **Aplicaciones principales:**
 
