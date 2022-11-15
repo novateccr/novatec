@@ -1,7 +1,7 @@
 ---
-title: 'Trespa '
+title: SASE
 id: "19"
-logo: "/v1530089073/logos/3da4a8d36d309c7c3abcdc34e5120838-TrespaLogo.jpg"
+logo: ''
 link: http://www.trespa.com/us/toplab
 catalogo: ''
 meta_keywords: ''
