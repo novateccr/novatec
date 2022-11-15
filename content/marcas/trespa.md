@@ -14,3 +14,6 @@ menu:
 draft: true
 
 ---
+SASE es el líder de la industria en equipos de preparación y pulido de concreto y herramientas diamantadas.
+
+Ofreciendo las últimas tecnologías y la mejor calidad, para un servicio de excelencia.
