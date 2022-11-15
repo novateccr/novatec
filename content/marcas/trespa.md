@@ -4,7 +4,8 @@ id: "19"
 logo: https://res.cloudinary.com/novatec/image/upload/v1668523229/descarga_7_tmdb6t.png
 link: https://sasecompany.com/
 catalogo: ''
-meta_keywords: ''
+meta_keywords: pulido pisos, sase, pulidoras, diamantados, concreto, preparación de
+  superficie
 meta_description: ''
 weight: "19"
 menu:
