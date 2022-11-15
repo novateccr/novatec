@@ -11,7 +11,6 @@ menu:
   principal:
     parent: Marcas
     weight: 11
-draft: true
 
 ---
 SASE es el líder de la industria en equipos de preparación y pulido de concreto y herramientas diamantadas.
