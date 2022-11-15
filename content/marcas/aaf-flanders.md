@@ -3,9 +3,9 @@ catalogo = ""
 draft = true
 id = ""
 link = "https://sasecompany.com/"
-logo = "/v1633616127/AAF-Flanders_Logo_yhyynb.png"
-meta_description = "¡Dando vida al aire limpio!"
-meta_keywords = "Aire, filtros, aire acondicionado, filtro de aire"
+logo = "/v1668523229/descarga_7_tmdb6t.png"
+meta_description = ""
+meta_keywords = "pulido pisos, sase, pulidoras, diamantados, concreto, preparación de superficie"
 title = "SASE"
 weight = ""
 [menu.principal]
