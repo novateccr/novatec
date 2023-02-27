@@ -31,9 +31,9 @@ Cinta de PTFE marca Garlock PLASTI-THREAD®; para sellado de alto desempeño en 
 * Auto extinguible
 * Para tubos de Metal galvanizado,Plástico, Acero Inoxidable, Bronce, Cobre, Alumninio. Alta sellabilidad Protección al Medio Ambiente.
 
-### _Láminas de teflon:_
+### _Láminas de teflón:_
 
-![](https://res.cloudinary.com/novatec/v1597259440/L%C3%A1mina_de_teflon_jnjtxt.png)
+![](https://res.cloudinary.com/novatec/v1677526008/01-1_vauwej.jpg)
 
 En nuestras relaciones con nuestros clientes, nuestras principales prioridades son comprender sus requisitos y utilizar nuestra experiencia en PTFE para aportar ideas creativas y soluciones eficaces.
 
