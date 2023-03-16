@@ -1,14 +1,13 @@
 +++
 catalogo = ""
-draft = true
 familias = ["Válvulas"]
 galeria = []
 id = 141
 imagen = "/v1678995681/unnamed_6_bznahy_lxjyfr.png"
 industrias = ["Alimentos y Bebidas", "Energía", "Industria Pesada", "Química", "Ingenios"]
 marcas = ["Oventrop"]
-meta_description = "Válvulas"
-meta_keywords = "Válvulas"
+meta_description = "Válvulas de control, actuadores"
+meta_keywords = "Válvulas de control, actuadores, válvulas 3 vías, racores."
 taxonomyCover = false
 title = "Oventrop - Válvulas de Control"
 titulo_adicional = ""
