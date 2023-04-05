@@ -1,12 +1,11 @@
 ---
-title: Reutilizar
+title: StaticWorx
 id: "19"
-logo: https://res.cloudinary.com/novatec/image/upload/v1668523229/descarga_7_tmdb6t.png
-link: https://sasecompany.com/
+logo: ''
+link: https://staticworx.com/
 catalogo: ''
-meta_keywords: pulido pisos, sase, pulidoras, diamantados, concreto, preparación de
-  superficie
-meta_description: ''
+meta_keywords: pisos, vinil, pisos vinilicos, ESD, staticworx
+meta_description: Pisos Vinílicos Antiestáticos
 weight: "19"
 menu:
   principal:
@@ -15,6 +14,6 @@ menu:
 draft: true
 
 ---
-SASE es el líder de la industria en equipos de preparación y pulido de concreto y herramientas diamantadas.
+![](https://res.cloudinary.com/novatec/v1680726406/staticWorx-2020-LC-TM_ktvqiu.png)
 
-Ofreciendo las últimas tecnologías y la mejor calidad, para un servicio de excelencia.
+Los pisos de control de estática de alto rendimiento StaticWorx protegen los componentes electrónicos, los explosivos y las computadoras de alta velocidad del daño causado por la electricidad estática. El suelo ESD es parte de un sistema. Cuando se asocia con nosotros, analizamos todos los componentes y todos los demás elementos que pueden necesitar integrarse con el piso y, centrándonos en sus metas y objetivos, lo ayudamos a encontrar el piso adecuado para su aplicación.
