@@ -1,5 +1,6 @@
 +++
 catalogo = ""
+draft = true
 id = ""
 link = "https://www.oventrop.com/"
 logo = "/v1680735878/Oventrop_2_qgkxxh.png"
