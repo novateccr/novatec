@@ -1,6 +1,5 @@
 +++
 catalogo = ""
-draft = true
 id = ""
 link = "https://www.awh.eu/"
 logo = "/v1680736615/AWH_LOGO_beqazj.jpg"
