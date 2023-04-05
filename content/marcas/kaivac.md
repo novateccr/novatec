@@ -2,23 +2,19 @@
 catalogo = ""
 draft = true
 id = ""
-link = "https://www.oventrop.com/"
-logo = "/v1680735878/Oventrop_2_qgkxxh.png"
+link = "https://www.awh.eu/"
+logo = "/v1680736615/AWH_LOGO_beqazj.jpg"
 meta_description = "Válvulas para sistemas HVAC"
-meta_keywords = "HVAC, valvulas, industrial, valvuleria, sistemas de bombeo"
-title = "Oventrop"
+meta_keywords = "valvulas, valvulas sanitarias, valvuleria"
+title = "AWH"
 weight = ""
 [menu.principal]
 parent = "Marcas"
 weight = 2
 
 +++
-## Oventrop
+## AWH
 
-### Válvulas para Sistemas HVAC
+### Válvulas Sanitarias.
 
-Oventrop es una de las empresas más avanzadas y prestigiosas en Europa en la fabricación de válvulas, reguladores y actuadores. Es un colaborador competente de la industria, del almacenista, del instalador y del planificador.
-
-Su objetivo es una colaboración a largo plazo con ellos.
-
-Con Oventrop podrá encontrar todo lo referente a válvulas y actuadores para sus sistemas de HVAC y más.
+###### AWH produce componentes de acero inoxidable fiables y de alta calidad para las industrias alimentaria, química y farmacéutica. Tecnologías de fabricación de última generación, competencias básicas en las áreas de tecnología de limpieza, tecnología de válvulas, tecnología de pigging, tecnología de mezcladores y un sistema de gestión de calidad consistente de acuerdo con DIN EN ISO 9001: 2015 le garantizan productos confiables y de alta calidad y servicio.
