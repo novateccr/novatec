@@ -1,13 +1,12 @@
 +++
 catalogo = ""
 categoria = ""
-draft = true
-familias = []
+familias = ["Pisos y Polímeros"]
 galeria = []
 id = ""
 imagen = "/v1680725973/Staticworx_acuurq.png"
 industrias = ["Dispositivos Médicos ", "Alimentos y Bebidas"]
-marcas = []
+marcas = ["StaticWorx"]
 meta_description = "Pisos vinílicos "
 meta_keywords = "Pisos, pisos vinílicos, vinil, ESD, antiestático, VPI, Armstrong, Forbo, Staticworx"
 taxonomyCover = false
