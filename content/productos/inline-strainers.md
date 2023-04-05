@@ -2,17 +2,27 @@
 catalogo = ""
 categoria = ""
 draft = true
-familias = ["Filtros"]
+familias = []
 galeria = []
 id = ""
-imagen = "/v1569269151/Inline_Strainer_Cutaway_1_yani1x.jpg"
-industrias = []
-marcas = ["Rubber Fab"]
-meta_description = "Strainers en linea... "
-meta_keywords = "inline strainers"
+imagen = "/v1680725973/Staticworx_acuurq.png"
+industrias = ["Dispositivos Médicos ", "Alimentos y Bebidas"]
+marcas = []
+meta_description = "Pisos vinílicos "
+meta_keywords = "Pisos, pisos vinílicos, vinil, ESD, antiestático, VPI, Armstrong, Forbo, Staticworx"
 taxonomyCover = false
-title = "Inline Strainers"
+title = "Pisos Vinílicos ESD"
 titulo = ""
+titulo_adicional = ""
 weight = ""
 
 +++
+![](https://res.cloudinary.com/novatec/v1680725961/AmeriWorx-ESD-Vinyl-Tile-Classics-Collection_utmkvu.jpg)
+
+### Pisos Vinílicos Antiestáticos
+
+Los mosaicos de vinilo sólido ESD son pisos fresados con precisión en línea, cada mosaico es perfectamente cuadrado y dimensionalmente estable, para una fácil instalación sin espacios feos entre las costuras. Instaladas con el adhesivo sensible a la presión StatBond, las losetas AmeriWorx manejan el tráfico de inmediato, sin tiempo de inactividad para el fraguado o el secado.
+
+Además de tener un precio competitivo en el mercado y calidad excepcional.
+
+Las losetas ESD de StaticWorx cumplen con todos los parámetros de ANSI/ESD S20.20 para el control de la estática, y tanto la ESD, como el rendimiento del material están garantizados durante la vida útil de su piso
