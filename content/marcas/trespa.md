@@ -1,7 +1,7 @@
 ---
 title: StaticWorx
 id: "19"
-logo: ''
+logo: staticWorx-2020-LC-TM
 link: https://staticworx.com/
 catalogo: ''
 meta_keywords: pisos, vinil, pisos vinilicos, ESD, staticworx
@@ -11,7 +11,6 @@ menu:
   principal:
     parent: Marcas
     weight: 11
-draft: true
 
 ---
 ![](https://res.cloudinary.com/novatec/v1680726406/staticWorx-2020-LC-TM_ktvqiu.png)
