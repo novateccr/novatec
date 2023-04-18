@@ -16,4 +16,4 @@ weight = 2
 
 ### Válvulas Sanitarias.
 
-###### AWH produce componentes de acero inoxidable fiables y de alta calidad para las industrias alimentaria, química y farmacéutica. Tecnologías de fabricación de última generación, competencias básicas en las áreas de tecnología de limpieza, tecnología de válvulas, tecnología de pigging, tecnología de mezcladores y un sistema de gestión de calidad consistente de acuerdo con DIN EN ISO 9001: 2015 le garantizan productos confiables y de alta calidad y servicio.
+AWH produce componentes de acero inoxidable fiables y de alta calidad para las industrias alimentaria, química y farmacéutica. Tecnologías de fabricación de última generación, competencias básicas en las áreas de tecnología de limpieza, tecnología de válvulas, tecnología de pigging, tecnología de mezcladores y un sistema de gestión de calidad consistente de acuerdo con DIN EN ISO 9001: 2015 le garantizan productos confiables y de alta calidad y servicio.
