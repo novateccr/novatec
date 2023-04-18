@@ -4,7 +4,7 @@ id = ""
 link = "https://www.awh.eu/"
 logo = "/v1680736615/AWH_LOGO_beqazj.jpg"
 meta_description = "Válvulas para sistemas HVAC"
-meta_keywords = "valvulas, valvulas sanitarias, valvuleria"
+meta_keywords = "valvulas, valvulas sanitarias, valvuleria, HVAC, NIBCO"
 title = "AWH"
 weight = ""
 [menu.principal]
