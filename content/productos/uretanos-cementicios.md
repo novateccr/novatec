@@ -1,3 +1,11 @@
+---
+_template: productos
+---
+
+
+
+
+
 +++
 catalogo = "/catalogos/original-uretanos-cementicios.pdf"
 familias = ["Pisos y Polímeros"]

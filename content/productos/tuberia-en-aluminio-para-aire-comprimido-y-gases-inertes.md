@@ -1,3 +1,11 @@
+---
+_template: productos
+---
+
+
+
+
+
 +++
 catalogo = "/catalogos/original-tuberia-en-aluminio-para-aire-comprimido-y-gases-inertes.pdf"
 categoria = ""
