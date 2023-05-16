@@ -1,3 +1,11 @@
+---
+_template: productos
+---
+
+
+
+
+
 +++
 catalogo = "/catalogos/original-belzona-1111-super-metal.pdf"
 familias = ["Pisos y Polímeros"]
