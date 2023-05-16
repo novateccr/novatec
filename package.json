@@ -13,7 +13,7 @@
     "sass:watch": "onchange 'assets/scss/**/*.scss' -- npm run sass:build",
     "sass:build": "node-sass assets/scss/main.scss static/site.css --output-style compressed",
     "build:assets": "npm run clean && npm run sass:build && npm run babel:build && npm run babel:minify",
-    "build": "tinacms build && hugo",
+    "build": "npx tinacms dev",
     "start": "npm run clean && npm run sass:build && npm run babel:build | npm run sass:watch | npm run babel:watch | hugo serve -D --bind 0.0.0.0",
     "windowsstart": "npm run windowsclean && npm run sass:build && npm run babel:build | npm run sass:watch | npm run babel:watch | hugo serve -D --bind 0.0.0.0",
     "drafts": "npm run clean && npm run sass:build && npm run babel:build | npm run sass:watch | npm run babel:watch | hugo serve -D --bind 0.0.0.0",
