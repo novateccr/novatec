@@ -1,3 +1,11 @@
+---
+_template: noticias
+---
+
+
+
+
+
 +++
 alias = "emergencia-nacional-huracan-otto"
 asset_id = 142

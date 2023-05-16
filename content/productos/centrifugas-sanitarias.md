@@ -1,3 +1,11 @@
+---
+_template: productos
+---
+
+
+
+
+
 +++
 catalogo = "/catalogos/original-centrifugas-sanitarias.pdf"
 familias = ["Bombas"]

@@ -1,3 +1,11 @@
+---
+_template: productos
+---
+
+
+
+
+
 +++
 catalogo = "/catalogos/original-empaques-espirometalicos-rwi-rw-sw.pdf"
 familias = ["Sellado"]

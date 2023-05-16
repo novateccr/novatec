@@ -1,3 +1,11 @@
+---
+_template: productos
+---
+
+
+
+
+
 +++
 catalogo = "/catalogos/original-productos-de-teflon.pdf"
 familias = ["Sellado"]

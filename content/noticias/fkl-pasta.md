@@ -1,3 +1,11 @@
+---
+_template: noticias
+---
+
+
+
+
+
 +++
 alias = "fkl-pasta"
 asset_id = 135

@@ -1,3 +1,11 @@
+---
+_template: productos
+---
+
+
+
+
+
 +++
 catalogo = "/catalogos/original-doble-diafragma.pdf"
 familias = ["Bombas"]

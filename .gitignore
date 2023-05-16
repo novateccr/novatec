@@ -7,3 +7,4 @@ static/*.js.map
 
 # Local Netlify folder
 .netlify
+node_modules

@@ -1,3 +1,11 @@
+---
+_template: productos
+---
+
+
+
+
+
 +++
 catalogo = "/catalogos/original-purificadores-de-aceite.pdf"
 familias = ["Filtros"]

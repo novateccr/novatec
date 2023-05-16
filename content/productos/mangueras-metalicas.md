@@ -1,3 +1,11 @@
+---
+_template: productos
+---
+
+
+
+
+
 +++
 catalogo = "/catalogos/original-mangueras-metalicas.pdf"
 familias = ["Sellado"]
