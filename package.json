@@ -32,11 +32,11 @@
     "parallelshell": "^2.0.0"
   },
   "dependencies": {
-    "@tinacms/cli": "^1.5.11",
+    "@tinacms/cli": "^1.5.14",
     "daemon": "github:zipang/daemon.node#48d0977c26fb3a6a44ae99aae3471b9d5a761085",
     "imagemin": "^5.3.1",
     "sass": "^1.62.1",
-    "tinacms": "^1.5.4"
+    "tinacms": "^1.5.6"
   },
   "main": "change-names.js",
   "repository": {
