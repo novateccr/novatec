@@ -5,7 +5,6 @@
   "description": "Sitio para Novatec Industrial",
   "scripts": {
     "dev": "tinacms dev -c \"hugo server - D\"",
-    "clean": "npm run clean && npm run sass:build && npm run babel:build",
     "build": "tinacms build && hugo",
     "windowsclean": "del /S static\\*.js static\\*.css",
     "babel:build": "babel assets/js --out-file static/js/site.js --source-maps",
