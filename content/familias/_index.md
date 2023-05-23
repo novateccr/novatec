@@ -1,4 +1,4 @@
 ---
 title: "Familias"
 ---
-Todas las familias
+Todas las familias.
