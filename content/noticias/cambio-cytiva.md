@@ -1,7 +1,7 @@
 +++
 date = 2023-05-25T06:00:00Z
 featured = true
-imagen_intro = "/v1666387236/Delta_-_KSB_lnpfgx.jpg"
+imagen_intro = "/v1685123457/Cambio_CYTIVA_hn2pe4.png"
 tags = []
 title = "Inclusión Cytiva"
 
