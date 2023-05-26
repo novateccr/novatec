@@ -6,4 +6,4 @@ tags = []
 title = "Inclusión Cytiva"
 
 +++
-![](https://res.cloudinary.com/novatec/v1685123456/cytiva-logo-vector_nadisr.png)
+![](https://res.cloudinary.com/drnun7bay/image/upload/v1685123457/Cambio_CYTIVA_hn2pe4.png)
