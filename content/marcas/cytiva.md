@@ -1,6 +1,6 @@
 ---
 title: Cytiva
-id: 20"
+id: "20"
 logo: "/v1685123456/cytiva-logo-vector_nadisr.png"
 link: https://www.cytivalifesciences.com/en/cr/
 catalogo: ''
