@@ -1,7 +1,7 @@
 +++
 date = 2023-05-25T06:00:00Z
 featured = true
-imagen_intro = resources/_gen/images/Cambio-CYTIVA.png
+imagen_intro = "resources/_gen/images/Cambio-CYTIVA.png"
 tags = []
 title = "Inclusión Cytiva"
 
