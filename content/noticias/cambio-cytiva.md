@@ -6,4 +6,3 @@ tags = []
 title = "Inclusión Cytiva"
 
 +++
-![](https://res.cloudinary.com/drnun7bay/image/upload/v1685131303/Cambio_CYTIVA_hsswge.png)
