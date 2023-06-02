@@ -23,7 +23,7 @@
         </div>
       {{end}}
       <h2>{{ .Title }}</h2>
-      <p class="article-date"><small>{{ replace (dateFormat "2 #mes#, 2006" .Params.date) "#mes#" (index  (dateFormat "Jan" .Params.date)) }}</small></p>
+      <!-- <p class="article-date"><small>{{ replace (dateFormat "2 #mes#, 2006" .Params.date) "#mes#" (index  (dateFormat "Jan" .Params.date)) }}</small></p> -->
       {{ .Content }}
     </article>
     <aside class="article-aside">

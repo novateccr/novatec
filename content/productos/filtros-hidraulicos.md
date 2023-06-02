@@ -1,3 +1,12 @@
+---
+_template: productos
+---
+
+
+
+
+
+
 +++
 catalogo = "/catalogos/original-filtros-hidraulicos.pdf"
 familias = ["Filtros"]

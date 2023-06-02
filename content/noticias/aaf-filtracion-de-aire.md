@@ -1,3 +1,12 @@
+---
+_template: noticias
+---
+
+
+
+
+
+
 +++
 date = 2022-06-14T06:00:00Z
 featured = true

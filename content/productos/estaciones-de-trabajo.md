@@ -1,3 +1,12 @@
+---
+_template: productos
+---
+
+
+
+
+
+
 +++
 catalogo = "/catalogos/original-estaciones-de-trabajo.pdf"
 familias = ["Tecnología de Ensamble"]

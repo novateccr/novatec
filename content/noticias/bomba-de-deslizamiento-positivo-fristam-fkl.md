@@ -1,3 +1,12 @@
+---
+_template: noticias
+---
+
+
+
+
+
+
 +++
 date = 2019-05-31T06:00:00Z
 featured = false
@@ -8,7 +17,7 @@ title = "Bomba de Deslizamiento Positivo Fristam FKL"
 +++
 **Fristam FKL COP**
 
-Bomba de Deslizamiento Positivo para trabajo pesado para desmontaje diario  
+Bomba de Deslizamiento Positivo para trabajo pesado para desmontaje diario. 
    
  Deje de reconstruir, reemplazar y gastar su valioso tiempo en otras bombas de PD. La bomba FKL COP de Fristam simplemente funciona mejor y dura más tiempo.
 

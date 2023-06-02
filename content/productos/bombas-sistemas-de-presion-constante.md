@@ -1,3 +1,12 @@
+---
+_template: productos
+---
+
+
+
+
+
+
 +++
 catalogo = "/catalogos/original-bombas-sistemas-de-presion-constante.pdf"
 categoria = ""

@@ -1,3 +1,12 @@
+---
+_template: productos
+---
+
+
+
+
+
+
 +++
 catalogo = "/catalogos/original-filtro-regulado-lubricador-frl.pdf"
 categoria = ""
