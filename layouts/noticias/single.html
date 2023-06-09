@@ -1,40 +1,38 @@
 {{ define "page-title"}}
-  <div class="page-title">
-    <div class="container">
-      <div class="title-container">
-        <h1>Noticias</h1>
-      </div>
+<div class="page-title">
+  <div class="container">
+    <div class="title-container">
+      <h1>Noticias</h1>
     </div>
   </div>
+</div>
 {{ end }}
 
 {{ define "main" }}
-  <div class="container">
-    <article class="article-content">
-      {{ if ne .Params.imagen_intro "" }}
-        <div class="article-full-image">
-            <img srcset="{{ .Site.Params.cloudinary_url }}w_320,f_auto,q_auto{{ .Params.imagen_intro }} 320w,
+<div class="container">
+  <article class="article-content">
+    {{ if ne .Params.imagen_intro "" }}
+    <div class="article-full-image">
+      <img srcset="{{ .Site.Params.cloudinary_url }}w_320,f_auto,q_auto{{ .Params.imagen_intro }} 320w,
                    {{ .Site.Params.cloudinary_url }}w_480,f_auto,q_auto{{ .Params.imagen_intro }} 480w,
-                   {{ .Site.Params.cloudinary_url }}w_820,f_auto,q_auto{{ .Params.imagen_intro }} 820w"
-             sizes="(max-width: 320px) 280px,
+                   {{ .Site.Params.cloudinary_url }}w_820,f_auto,q_auto{{ .Params.imagen_intro }} 820w" sizes="(max-width: 320px) 280px,
                     (max-width: 480px) 440px,
-                    820px"
-             src="{{ .Site.Params.cloudinary_url }}w_820,f_auto,q_auto{{ .Params.imagen_intro }}" alt="{{ $.Title }}">
-        </div>
-      {{end}}
-      <h2>{{ .Title }}</h2>
-      <!-- <p class="article-date"><small>{{ replace (dateFormat "2 #mes#, 2006" .Params.date) "#mes#" (index  (dateFormat "Jan" .Params.date)) }}</small></p> -->
-      {{ .Content }}
-    </article>
-    <aside class="article-aside">
-      {{ with .Params.tags }}
-        <h3>Categoría:</h3>
-        <ul>
-          {{ range . }}
-            <li>{{ . }}</li>
-          {{ end }}
-        </ul>
+                    820px" src="{{ .Site.Params.cloudinary_url }}w_820,f_auto,q_auto{{ .Params.imagen_intro }}"
+        alt="{{ $.Title }}">
+    </div>
+    {{end}}
+    <h2>{{ .Title }}</h2>
+    {{ .Content }}
+  </article>
+  <aside class="article-aside">
+    {{ with .Params.tags }}
+    <h3>Categoría:</h3>
+    <ul>
+      {{ range . }}
+      <li>{{ . }}</li>
       {{ end }}
-    </aside>
-  </div>
+    </ul>
+    {{ end }}
+  </aside>
+</div>
 {{ end }}
