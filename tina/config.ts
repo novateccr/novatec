@@ -9,12 +9,12 @@ import { productosFields } from "./templates";
 import { servicio_t_cnicoFields } from "./templates";
 
 // Your hosting provider likely exposes this as an environment variable
-const branch = process.env.HEAD || process.env.VERCEL_GIT_COMMIT_REF || "main";
+const branch = process.env.HEAD || process.env.VERCEL_GIT_COMMIT_REF || "master";
 
 export default defineConfig({
   branch,
   clientId: "f8f08d39-3226-4975-be3c-a0a852185519", // Get this from tina.io
-  token: "a75f3e3fbdabe0340d90d1ced3381c5ca1337d66", // Get this from tina.io
+  token: "ece7ff1f2e67338712a7fd4ad998411166115184", // Get this from tina.io
   client: { skip: true },
   build: {
     outputFolder: "admin",
