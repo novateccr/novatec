@@ -1,23 +1,40 @@
 <article class="post-item">
   <div class="inner">
-      <header>
-        <a href="{{ .Permalink }}"><img src="{{ .Site.Params.cloudinary_url }}f_auto,w_550,h_413,c_fill{{ .Params.imagen_intro }}" alt="{{ .Title }}"></a>
-      </header>
-  	<div class="entry-content">
-  		<h5 class="noticia-title">
-  			<a href="{{ .Permalink }}">{{ .Title }}</a>
+    <header>
+      <a href="{{ .Permalink }}"><img
+          src="{{ .Site.Params.cloudinary_url }}f_auto,w_550,h_413,c_fill{{ .Params.imagen_intro }}"
+          alt="{{ .Title }}"></a>
+    </header>
+    <div class="entry-content">
+      <h5 class="noticia-title">
+        <a href="{{ .Permalink }}">{{ .Title }}</a>
       </h5>
       <div class="noticias-summary">
-    		{{ .Summary }}
+        {{ .Summary }}
       </div>
       <div class="entry-meta">
-  			<div class="meta-inner">
-					<span class="post__date">
+        <div class="meta-inner">
+          <span class="post__date">
             <i class="fa fa-clock-o"></i>
-            {{ replace (dateFormat "2 #mes#, 2006" .Params.date) "#mes#" (index $.Site.Data.meses (dateFormat "Jan" .Params.date)) }}
+            {{ if isset .Params "date" }}
+            {{ $date := .Params.date }}
+            {{ if $date }}
+            {{ $formattedDate := dateFormat "2 #mes#, 2006" $date }}
+            {{ $month := index $.Site.Data.meses (dateFormat "Jan" $date) }}
+            {{ if and $formattedDate $month }}
+            {{ replace $formattedDate "#mes#" $month }}
+            {{ else }}
+            <!-- Handle case where formatted date or month is not available -->
+            {{ end }}
+            {{ else }}
+            <!-- Handle case where date parameter is empty -->
+            {{ end }}
+            {{ else }}
+            <!-- Handle case where date parameter is not defined -->
+            {{ end }}
           </span>
-  			</div>
-  		</div>
-  	</div>
+        </div>
+      </div>
+    </div>
   </div>
 </article>

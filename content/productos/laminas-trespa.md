@@ -1,3 +1,12 @@
+---
+_template: productos
+---
+
+
+
+
+
+
 +++
 catalogo = "/catalogos/original-laminas-trespa.pdf"
 familias = ["Tecnología de Ensamble"]

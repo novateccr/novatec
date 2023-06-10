@@ -1,3 +1,12 @@
+---
+_template: productos
+---
+
+
+
+
+
+
 +++
 catalogo = "/catalogos/original-doble-diafragma-sanitarias.pdf"
 categoria = ""

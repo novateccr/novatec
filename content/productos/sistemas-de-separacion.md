@@ -1,3 +1,12 @@
+---
+_template: productos
+---
+
+
+
+
+
+
 +++
 catalogo = "/catalogos/original-sistemas-de-separacion.pdf"
 familias = ["Filtros"]

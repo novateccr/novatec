@@ -1,3 +1,12 @@
+---
+_template: productos
+---
+
+
+
+
+
+
 +++
 catalogo = "/catalogos/original-centrifugas-sanitarias.pdf"
 familias = ["Bombas"]
@@ -14,7 +23,7 @@ titulo_adicional = ""
 weight = 1
 
 +++
-<h4>Calidad, flexibilidad e innovación</h4>
+<h4>Calidad, flexibilidad e innovación.</h4>
 <p>Nuestro estímulo es la innovación: queremos asegurar que las bombas Fristam siempre sean la mejor elección para su empresa.</p>
 <h4>Para el presente y para el futuro</h4>
 <p>Fristam invierte de forma importante en la investigación y desarrollo de nuevas tecnologías, no sólo para poder ofrecerle soluciones a medida, sino también para poder ofrecerle soluciones innovadoras. </p>

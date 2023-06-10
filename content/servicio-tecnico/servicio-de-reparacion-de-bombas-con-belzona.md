@@ -1,3 +1,12 @@
+---
+_template: servicio_tecnico
+---
+
+
+
+
+
+
 +++
 Imagen = "/v1623431911/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_-_2021-06-11T111825.843_jmuerm.png"
 hero = "/v1597782508/1341_7_tgn4n1.jpg"

@@ -1,7 +1,7 @@
 ---
 title: StaticWorx
 id: "19"
-logo: https://res.cloudinary.com/novatec/image/upload/v1680727705/1674242857326_jimixa.jpg
+logo: "v1680727705/1674242857326_jimixa.jpg"
 link: https://staticworx.com/
 catalogo: ''
 meta_keywords: pisos, vinil, pisos vinilicos, ESD, staticworx, antiestáticos

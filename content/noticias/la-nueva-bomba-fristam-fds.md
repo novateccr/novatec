@@ -1,3 +1,12 @@
+---
+_template: noticias
+---
+
+
+
+
+
+
 +++
 alias = "la-nueva-bomba-fristam-fds"
 asset_id = 148

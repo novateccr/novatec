@@ -1,6 +1,6 @@
 ---
 title: Noticias
-date: 2020-04-09T00:00:00.000-06:00
+date: 2020-04-09T06:00:00.000Z
 imagen_intro: ''
 tags: []
 featured: false
@@ -8,6 +8,12 @@ menu:
   principal:
     weight: 6
 draft: true
-
+_template: noticias
 ---
+
+
+
+
+
+
 Encuesta de satisfacción:
