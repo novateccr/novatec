@@ -191,7 +191,7 @@ export default defineConfig({
         label: "Productos",
         name: "productos",
         path: "content/productos",
-        frontmatterFormat: "yaml",
+        frontmatterFormat: "toml",
         match: {
           include: "**/*",
         },
