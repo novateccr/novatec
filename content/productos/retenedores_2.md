@@ -8,6 +8,8 @@ industrias:
   - Energía
   - Alimentos y Bebidas
 weight: '22'
+familias:
+  - Sellado
 ---
 
 **Protectores de Rodamiento KLOZURES:**
