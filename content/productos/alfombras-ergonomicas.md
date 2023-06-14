@@ -1,12 +1,3 @@
----
-_template: productos
----
-
-
-
-
-
-
 +++
 catalogo = "/catalogos/original-alfombras-ergonomicas.pdf"
 categoria = ""
@@ -24,4 +15,4 @@ titulo = ""
 weight = 105
 
 +++
-Todo en Alfombras ergonómicas y demarcación... Consultenos !! 
+Todo en Alfombras ergonómicas y demarcación... Consultenos !!

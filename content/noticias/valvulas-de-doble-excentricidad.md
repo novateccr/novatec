@@ -1,12 +1,3 @@
----
-_template: noticias
----
-
-
-
-
-
-
 +++
 date = 2021-02-15T06:00:00Z
 featured = true

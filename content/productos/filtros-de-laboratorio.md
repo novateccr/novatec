@@ -1,12 +1,3 @@
----
-_template: productos
----
-
-
-
-
-
-
 +++
 catalogo = ""
 familias = ["Filtros"]

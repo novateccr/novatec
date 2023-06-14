@@ -1,12 +1,3 @@
----
-_template: productos
----
-
-
-
-
-
-
 +++
 catalogo = "/catalogos/original-centrifugas-api.pdf"
 categoria = ""

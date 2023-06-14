@@ -1,12 +1,3 @@
----
-_template: productos
----
-
-
-
-
-
-
 +++
 catalogo = "/catalogos/original-bomba-positiva-de-engranajes-tipo-gr.pdf"
 draft = true

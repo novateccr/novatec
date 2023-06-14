@@ -1,12 +1,3 @@
----
-_template: productos
----
-
-
-
-
-
-
 +++
 catalogo = "/catalogos/original-pall-genedisc-pcr.pdf"
 familias = ["Filtros"]

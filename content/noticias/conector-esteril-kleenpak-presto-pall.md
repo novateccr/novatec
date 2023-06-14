@@ -1,12 +1,3 @@
----
-_template: noticias
----
-
-
-
-
-
-
 +++
 date = 2020-02-10T06:00:00Z
 featured = true

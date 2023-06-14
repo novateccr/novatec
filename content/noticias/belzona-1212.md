@@ -1,12 +1,3 @@
----
-_template: noticias
----
-
-
-
-
-
-
 +++
 date = "2018-10-26T13:31:52-06:00"
 featured = true
@@ -52,5 +43,3 @@ Belzona 1212 es fácil de mezclar y aplicar sin necesidad de herramientas especi
 | Se adhiere a las siguientes superficies: |
 | Aplicaciones típicas: |
 | Tamaño de la unidad: |
-
-  

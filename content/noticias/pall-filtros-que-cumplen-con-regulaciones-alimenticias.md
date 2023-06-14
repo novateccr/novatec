@@ -1,12 +1,3 @@
----
-_template: noticias
----
-
-
-
-
-
-
 +++
 alias = "pall-filtros-que-cumplen-con-regulaciones-alimenticias"
 asset_id = 125

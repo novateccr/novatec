@@ -1,12 +1,3 @@
----
-_template: productos
----
-
-
-
-
-
-
 +++
 catalogo = "/catalogos/original-desplazamiento-positivo.pdf"
 draft = true

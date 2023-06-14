@@ -1,12 +1,3 @@
----
-_template: noticias
----
-
-
-
-
-
-
 +++
 date = "2019-05-13T00:00:00-06:00"
 featured = true
@@ -20,4 +11,4 @@ Considere nuestra bomba KSB - Amarex KRT - para instalaciones de aguas residuale
 Sistemas de izaje por cable o tubos guía.   
  
 
-Consúltenos, tenemos un equipo de expertos en servicio dispuesto a asesorarle en todo momento. 
+Consúltenos, tenemos un equipo de expertos en servicio dispuesto a asesorarle en todo momento.

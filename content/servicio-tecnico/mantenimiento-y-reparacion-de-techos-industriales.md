@@ -1,12 +1,3 @@
----
-_template: servicio_tecnico
----
-
-
-
-
-
-
 +++
 Imagen = "/v1668541851/0_suurbl_sdk65a.jpg"
 info = ""

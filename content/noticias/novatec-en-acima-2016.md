@@ -1,12 +1,3 @@
----
-_template: noticias
----
-
-
-
-
-
-
 +++
 alias = "novatec-en-acima-2016"
 asset_id = 141

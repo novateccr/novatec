@@ -1,12 +1,3 @@
----
-_template: noticias
----
-
-
-
-
-
-
 +++
 date = 2019-05-31T06:00:00Z
 featured = false

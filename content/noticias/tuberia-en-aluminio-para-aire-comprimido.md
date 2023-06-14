@@ -1,12 +1,3 @@
----
-_template: noticias
----
-
-
-
-
-
-
 +++
 alias = "tuberia-en-aluminio-para-aire-comprimido"
 asset_id = 132

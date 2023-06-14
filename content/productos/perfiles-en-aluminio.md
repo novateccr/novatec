@@ -1,12 +1,3 @@
----
-_template: productos
----
-
-
-
-
-
-
 +++
 catalogo = "/catalogos/original-perfiles-en-aluminio.pdf"
 familias = ["Tecnología de Ensamble"]

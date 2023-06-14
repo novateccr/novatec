@@ -1,12 +1,3 @@
----
-_template: productos
----
-
-
-
-
-
-
 +++
 catalogo = "/catalogos/original-juntas-de-expansion-metalicas.pdf"
 familias = ["Sellado"]

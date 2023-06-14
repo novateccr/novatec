@@ -1,12 +1,3 @@
----
-_template: noticias
----
-
-
-
-
-
-
 +++
 date = 2019-11-07T06:00:00Z
 featured = true

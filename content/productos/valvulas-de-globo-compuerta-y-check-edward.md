@@ -1,12 +1,3 @@
----
-_template: productos
----
-
-
-
-
-
-
 +++
 catalogo = "/catalogos/original-valvulas-de-globo-compuerta-y-check-edward.pdf"
 categoria = ""

@@ -1,12 +1,3 @@
----
-_template: noticias
----
-
-
-
-
-
-
 +++
 date = "2019-01-23T00:00:00-06:00"
 featured = true

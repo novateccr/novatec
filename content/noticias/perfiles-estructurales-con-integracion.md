@@ -1,12 +1,3 @@
----
-_template: noticias
----
-
-
-
-
-
-
 +++
 date = 2023-02-07T06:00:00Z
 draft = true

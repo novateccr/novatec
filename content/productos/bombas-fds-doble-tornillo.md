@@ -1,12 +1,3 @@
----
-_template: productos
----
-
-
-
-
-
-
 +++
 catalogo = "/catalogos/original-bombas-fds-doble-tornillo.pdf"
 familias = ["Bombas"]

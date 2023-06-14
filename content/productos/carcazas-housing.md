@@ -1,12 +1,3 @@
----
-_template: productos
----
-
-
-
-
-
-
 +++
 catalogo = "/catalogos/original-carcazas-housing.pdf"
 familias = ["Filtros"]

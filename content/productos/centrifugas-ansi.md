@@ -1,12 +1,3 @@
----
-_template: productos
----
-
-
-
-
-
-
 +++
 catalogo = "/catalogos/original-centrifugas-ansi.pdf"
 familias = ["Bombas"]

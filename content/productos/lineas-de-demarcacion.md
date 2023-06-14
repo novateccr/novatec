@@ -1,12 +1,3 @@
----
-_template: productos
----
-
-
-
-
-
-
 +++
 title = "Líneas de Demarcación"
 id = 106

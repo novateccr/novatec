@@ -1,12 +1,3 @@
----
-_template: noticias
----
-
-
-
-
-
-
 +++
 title = "Novatec Construcción - Nueva empresa del Grupo Novatec"
 date = "2017-06-07 21:40:13"

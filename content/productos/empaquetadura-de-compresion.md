@@ -1,12 +1,3 @@
----
-_template: productos
----
-
-
-
-
-
-
 +++
 catalogo = "/catalogos/original-empaquetadura-de-compresion.pdf"
 familias = ["Sellado"]

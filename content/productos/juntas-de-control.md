@@ -1,12 +1,3 @@
----
-_template: productos
----
-
-
-
-
-
-
 +++
 catalogo = "/catalogos/original-juntas-de-control.pdf"
 familias = ["Pisos y Polímeros"]

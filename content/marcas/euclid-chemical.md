@@ -13,9 +13,3 @@ menu:
     weight: '8'
 _template: marcas
 ---
-
-
-
-
-
-

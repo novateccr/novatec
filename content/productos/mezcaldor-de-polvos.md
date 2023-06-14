@@ -1,12 +1,3 @@
----
-_template: productos
----
-
-
-
-
-
-
 +++
 catalogo = "/catalogos/original-mezcaldor-de-polvos.pdf"
 familias = ["Bombas"]

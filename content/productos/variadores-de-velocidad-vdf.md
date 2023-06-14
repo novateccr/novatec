@@ -1,12 +1,3 @@
----
-_template: productos
----
-
-
-
-
-
-
 +++
 catalogo = "https://shop.ksb.com/ims_docs/00/00215A9B03CC1EE8B0B929CCCE3315D6.pdf"
 categoria = ""

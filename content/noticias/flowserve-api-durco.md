@@ -1,12 +1,3 @@
----
-_template: noticias
----
-
-
-
-
-
-
 +++
 alias = "flowserve-api-durco"
 asset_id = 140

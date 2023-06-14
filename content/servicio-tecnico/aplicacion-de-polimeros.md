@@ -1,12 +1,3 @@
----
-_template: servicio_tecnico
----
-
-
-
-
-
-
 +++
 Imagen = "/v1643830039/MicrosoftTeams-image_44_1_eeadab.jpg"
 info = ""

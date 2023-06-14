@@ -1,12 +1,3 @@
----
-_template: productos
----
-
-
-
-
-
-
 +++
 catalogo = "/catalogos/original-transportadores.pdf"
 familias = ["Tecnología de Ensamble"]
