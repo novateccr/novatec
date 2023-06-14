@@ -207,6 +207,26 @@ export default defineConfig({
         ],
       },
       {
+        format: "md",
+        label: "Productos",
+        name: "productos",
+        path: "content/productos",
+        frontmatterFormat: "yaml",
+        match: {
+          include: "**/*",
+        },
+        fields: [
+          {
+            type: "rich-text",
+            name: "body",
+            label: "Body of Document",
+            description: "This is the markdown body",
+            isBody: true,
+          },
+          ...productosFields(),
+        ],
+      },
+      {
         format: "yml",
         label: "Social Networks",
         name: "social_networks",
