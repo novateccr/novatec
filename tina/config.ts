@@ -191,27 +191,7 @@ export default defineConfig({
         label: "Productos",
         name: "productos",
         path: "content/productos",
-        frontmatterFormat: "toml",
-        match: {
-          include: "**/*",
-        },
-        fields: [
-          {
-            type: "rich-text",
-            name: "body",
-            label: "Body of Document",
-            description: "This is the markdown body",
-            isBody: true,
-          },
-          ...productosFields(),
-        ],
-      },
-      {
-        format: "md",
-        label: "Productos",
-        name: "productos",
-        path: "content/productos",
-        frontmatterFormat: "yaml",
+        // frontmatterFormat: "toml",
         match: {
           include: "**/*",
         },
