@@ -3,14 +3,14 @@
 catalogo = ""
 familias = \["Sellado"]
 galeria = \[]
-id = 22
+id = 325
 imagen = "/v1617728290/Copia\_de\_Dise%C3%B1o\_sin\_t%C3%ADtulo\_3\_il7khp.png"
 industrias = \["Alimentos y Bebidas", "Energía", "Biofarmacéuticos"]
 marcas = \["Garlock"]
 meta\_description = "Retenedores"
 meta\_keywords = "garlock, rodamientos, klozure, retenedores"
 taxonomyCover = false
-title = "Retenedores"
+title = "Retenedores 2"
 titulo\_adicional = ""
 weight = 22
 
