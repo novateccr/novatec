@@ -111,7 +111,7 @@ export default defineConfig({
         label: "Marcas",
         name: "marcas",
         path: "content/marcas",
-        frontmatterFormat: "toml",
+        // frontmatterFormat: "toml",
         match: {
           include: "**/*",
         },
@@ -131,7 +131,7 @@ export default defineConfig({
         label: "Novatec construccion",
         name: "novatec_construccion",
         path: "content/novatec-construccion",
-        frontmatterFormat: "toml",
+        // frontmatterFormat: "toml",
         match: {
           include: "**/*",
         },
@@ -151,7 +151,7 @@ export default defineConfig({
         label: "Noticias",
         name: "noticias",
         path: "content/noticias",
-        frontmatterFormat: "toml",
+        // frontmatterFormat: "toml",
         match: {
           include: "**/*",
         },
@@ -171,7 +171,7 @@ export default defineConfig({
         label: "Servicio tecnico",
         name: "servicio_tecnico",
         path: "content/servicio-tecnico",
-        frontmatterFormat: "toml",
+        // frontmatterFormat: "toml",
         match: {
           include: "**/*",
         },
@@ -191,7 +191,7 @@ export default defineConfig({
         label: "Productos",
         name: "productos",
         path: "content/productos",
-        // frontmatterFormat: "toml",
+        // // frontmatterFormat: "toml",
         match: {
           include: "**/*",
         },
