@@ -9,6 +9,7 @@ industrias:
   - Energía
   - Alimentos y Bebidas
 weight: '14'
+imagen: /Staticworx.png
 ---
 
 ## Manejamos gran variedad de Carcasas (Housing) de la marca Pall, a continuación les mostramos algunas de ellas:
