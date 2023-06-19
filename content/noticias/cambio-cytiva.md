@@ -5,6 +5,4 @@ featured: true
 imagen_intro: ''
 ---
 
-![](/Cambio_CYTIVA.png)
-
-Prueba
+![](</Cambio CYTIVA.png>)
