@@ -9,10 +9,10 @@ import { productosFields } from "./templates";
 import { servicio_t_cnicoFields } from "./templates";
 
 // Your hosting provider likely exposes this as an environment variable
-const branch = process.env.HEAD || process.env.VERCEL_GIT_COMMIT_REF || "main";
+const branch = process.env.HEAD || process.env.VERCEL_GIT_COMMIT_REF || "master";
 
 export default defineConfig({
-  branch,
+  branch: "master",
   clientId: "834ff0fb-a8c2-471a-8f32-9f0c34b4af05", // Get this from tina.io
   token: "e24d7734efb42a8ee7570c3278c2184182fb8722", // Get this from tina.io
   client: { skip: true },
@@ -33,7 +33,7 @@ export default defineConfig({
         label: "Pages",
         name: "pages",
         path: "content",
-        frontmatterFormat: "yaml",
+        frontmatterFormat: "toml",
         match: {
           include: "*",
         },
@@ -73,7 +73,7 @@ export default defineConfig({
         label: "Familias",
         name: "familias",
         path: "content/familias",
-        frontmatterFormat: "yaml",
+        frontmatterFormat: "toml",
         match: {
           include: "**/*",
         },
@@ -92,7 +92,7 @@ export default defineConfig({
         label: "Industrias",
         name: "industrias",
         path: "content/industrias",
-        frontmatterFormat: "yaml",
+        frontmatterFormat: "toml",
         match: {
           include: "**/*",
         },
@@ -111,7 +111,7 @@ export default defineConfig({
         label: "Marcas",
         name: "marcas",
         path: "content/marcas",
-        // frontmatterFormat: "toml",
+        frontmatterFormat: "toml",
         match: {
           include: "**/*",
         },
@@ -131,7 +131,7 @@ export default defineConfig({
         label: "Novatec construccion",
         name: "novatec_construccion",
         path: "content/novatec-construccion",
-        // frontmatterFormat: "toml",
+        frontmatterFormat: "toml",
         match: {
           include: "**/*",
         },
@@ -151,7 +151,7 @@ export default defineConfig({
         label: "Noticias",
         name: "noticias",
         path: "content/noticias",
-        // frontmatterFormat: "toml",
+        frontmatterFormat: "toml",
         match: {
           include: "**/*",
         },
@@ -171,7 +171,7 @@ export default defineConfig({
         label: "Servicio tecnico",
         name: "servicio_tecnico",
         path: "content/servicio-tecnico",
-        // frontmatterFormat: "toml",
+        frontmatterFormat: "toml",
         match: {
           include: "**/*",
         },
@@ -191,7 +191,7 @@ export default defineConfig({
         label: "Productos",
         name: "productos",
         path: "content/productos",
-        // // frontmatterFormat: "toml",
+        frontmatterFormat: "toml",
         match: {
           include: "**/*",
         },
@@ -211,7 +211,7 @@ export default defineConfig({
         label: "Social Networks",
         name: "social_networks",
         path: "data",
-        frontmatterFormat: "yaml",
+        frontmatterFormat: "toml",
         ui: {
           allowedActions: {
             create: false,
