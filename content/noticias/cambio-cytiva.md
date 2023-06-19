@@ -1,9 +1,7 @@
-+++
-date = 2023-05-25T06:00:00Z
-featured = true
-imagen_intro = "resources/_gen/images/Cambio-CYTIVA.png"
-tags = []
-title = "Inclusión Cytiva"
+---
+title: CYTIVA
+date: 2023-06-16T06:00:00.000Z
+featured: true
+---
 
-+++
-![](https://res.cloudinary.com/drnun7bay/image/upload/v1685123457/Cambio_CYTIVA_hn2pe4.png)
+![](</Cambio CYTIVA.png>)
