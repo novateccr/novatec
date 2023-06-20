@@ -33,7 +33,6 @@ export default defineConfig({
         label: "Pages",
         name: "pages",
         path: "content",
-        frontmatterFormat: "toml",
         match: {
           include: "*",
         },
@@ -73,7 +72,6 @@ export default defineConfig({
         label: "Familias",
         name: "familias",
         path: "content/familias",
-        frontmatterFormat: "toml",
         match: {
           include: "**/*",
         },
@@ -92,7 +90,6 @@ export default defineConfig({
         label: "Industrias",
         name: "industrias",
         path: "content/industrias",
-        frontmatterFormat: "toml",
         match: {
           include: "**/*",
         },
@@ -111,7 +108,6 @@ export default defineConfig({
         label: "Marcas",
         name: "marcas",
         path: "content/marcas",
-        frontmatterFormat: "toml",
         match: {
           include: "**/*",
         },
@@ -131,7 +127,6 @@ export default defineConfig({
         label: "Novatec construccion",
         name: "novatec_construccion",
         path: "content/novatec-construccion",
-        frontmatterFormat: "toml",
         match: {
           include: "**/*",
         },
@@ -151,7 +146,6 @@ export default defineConfig({
         label: "Noticias",
         name: "noticias",
         path: "content/noticias",
-        frontmatterFormat: "yaml",
         match: {
           include: "**/*",
         },
@@ -171,7 +165,6 @@ export default defineConfig({
         label: "Servicio tecnico",
         name: "servicio_tecnico",
         path: "content/servicio-tecnico",
-        frontmatterFormat: "toml",
         match: {
           include: "**/*",
         },
@@ -191,7 +184,6 @@ export default defineConfig({
         label: "Productos",
         name: "productos",
         path: "content/productos",
-        frontmatterFormat: "toml",
         match: {
           include: "**/*",
         },
@@ -211,7 +203,6 @@ export default defineConfig({
         label: "Social Networks",
         name: "social_networks",
         path: "data",
-        frontmatterFormat: "toml",
         ui: {
           allowedActions: {
             create: false,
