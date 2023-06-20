@@ -151,7 +151,7 @@ export default defineConfig({
         label: "Noticias",
         name: "noticias",
         path: "content/noticias",
-        frontmatterFormat: "toml",
+        frontmatterFormat: "yaml",
         match: {
           include: "**/*",
         },
