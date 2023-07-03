@@ -1,19 +1,25 @@
-+++
-catalogo = "/catalogos/original-descargadores.pdf"
-familias = ["Bombas"]
-galeria = ["/v1595008934/descargadores1_jjvmmo.jpg"]
-id = 6
-imagen = "/v1617832877/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_94_pzon0h.png"
-industrias = ["Alimentos y Bebidas", "Biofarmacéuticos"]
-marcas = ["Graco"]
-meta_description = "Descargadores para la Industria Sanitaria"
-meta_keywords = "Descargadores para la Industria Sanitaria, Saniforce3150, Saniforce12:1, Saniforce2150"
-taxonomyCover = false
-title = "Descargadores"
-titulo_adicional = ""
-weight = 6
-
-+++
+---
+catalogo: /catalogos/original-descargadores.pdf
+familias:
+  - Bombas
+galeria:
+  - /v1595008934/descargadores1_jjvmmo.jpg
+id: 6
+imagen: /v1617832877/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_94_pzon0h.png
+industrias:
+  - Alimentos y Bebidas
+  - Biofarmacéuticos
+marcas:
+  - Graco
+meta_description: Descargadores para la Industria Sanitaria
+meta_keywords: >-
+  Descargadores para la Industria Sanitaria, Saniforce3150, Saniforce12:1,
+  Saniforce2150
+taxonomyCover: false
+title: Descargadores
+titulo_adicional: ''
+weight: 6
+---
 **Descargadores para la Industria Sanitaria.**
 
 **SaniForce 3150 HS**

@@ -1,12 +1,16 @@
-+++
-date = 2020-03-11T06:00:00Z
-draft = true
-featured = false
-imagen_intro = "/v1584123021/reaparacion6_azancp.jpg"
-tags = ["belzona", "reparación de bombas", "Cambio de sello mecánico", "Cambio de Rodamientos", "Reparación de impulsores"]
-title = "Tareas de mantenimiento asociadas a bombas:"
-
-+++
+---
+date: 2020-03-11T06:00:00.000Z
+draft: true
+featured: false
+imagen_intro: /v1584123021/reaparacion6_azancp.jpg
+tags:
+  - belzona
+  - reparación de bombas
+  - Cambio de sello mecánico
+  - Cambio de Rodamientos
+  - Reparación de impulsores
+title: 'Tareas de mantenimiento asociadas a bombas:'
+---
 # Tareas de mantenimiento asociadas a bombas:
 
 ![](https://res.cloudinary.com/novatec/v1584055763/reaparacion6_opjicw.jpg)

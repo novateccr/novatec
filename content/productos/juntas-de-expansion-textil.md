@@ -1,19 +1,27 @@
-+++
-catalogo = ""
-familias = ["Sellado"]
-galeria = ["/v1571676363/EBI_-_Junta_Exp_lc7g6y.jpg", "/v1571676230/EBI_-_Expansion_Joint_t0x3du.jpg"]
-id = 58
-imagen = "/v1617729619/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_9_joyovz.png"
-industrias = ["Alimentos y Bebidas", "Energía", "Industria Pesada", "Química", "Ingenios"]
-marcas = ["Eagleburgmann"]
-meta_description = "juntas de expansion textiles, o de tela"
-meta_keywords = "junta expansion, fabric"
-taxonomyCover = false
-title = "Juntas de Expansión Textil"
-titulo_adicional = ""
-weight = 58
-
-+++
+---
+catalogo: ''
+familias:
+  - Sellado
+galeria:
+  - /v1571676363/EBI_-_Junta_Exp_lc7g6y.jpg
+  - /v1571676230/EBI_-_Expansion_Joint_t0x3du.jpg
+id: 58
+imagen: /v1617729619/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_9_joyovz.png
+industrias:
+  - Alimentos y Bebidas
+  - Energía
+  - Industria Pesada
+  - Química
+  - Ingenios
+marcas:
+  - Eagleburgmann
+meta_description: juntas de expansion textiles, o de tela
+meta_keywords: junta expansion, fabric
+taxonomyCover: false
+title: Juntas de Expansión Textil
+titulo_adicional: ''
+weight: 58
+---
 Junta de expansión de tejido KE se instalan como conexiones flexibles en aire, conductos y sistemas de tuberías de gases de combustión para absorber o compensar la dilatación térmica, vibraciones y desalineaciones.
 
 ### **Ventajas de la Junta de expansión de tejido KE:**

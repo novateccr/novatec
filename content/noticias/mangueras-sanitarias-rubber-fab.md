@@ -1,11 +1,10 @@
-+++
-date = 2019-11-15T19:35:16Z
-featured = true
-imagen_intro = "/v1544211350/Ruibber-Fab.jpg"
-tags = []
-title = "Mangueras Sanitarias Rubber Fab"
-
-+++
+---
+date: 2019-11-15T19:35:16.000Z
+featured: true
+imagen_intro: /v1544211350/Ruibber-Fab.jpg
+tags: []
+title: Mangueras Sanitarias Rubber Fab
+---
 # La prestigiosa marca Rubber Fab
 
 Ofrece una variedad de mangueras de goma en diferentes materiales para satisfacer prácticamente cualquier aplicación de manguera sanitaria.

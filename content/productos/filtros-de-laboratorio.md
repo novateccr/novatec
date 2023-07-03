@@ -1,19 +1,28 @@
-+++
-catalogo = ""
-familias = ["Filtros"]
-galeria = []
-id = 12
-imagen = "/v1617830400/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_83_wldtil.png"
-industrias = ["Alimentos y Bebidas", "Energía", "Dispositivos Médicos", "Biofarmacéuticos", "Química", "Agrícola", "Ingenios", "Electrónica"]
-marcas = ["Pall"]
-meta_description = "Soluciones de Filtración para Laboratorio"
-meta_keywords = "PALL lab, PALL Laboratory, filtración laboratorio"
-taxonomyCover = false
-title = "Soluciones de Filtración para Lab"
-titulo_adicional = ""
-weight = 12
-
-+++
+---
+catalogo: ''
+familias:
+  - Filtros
+galeria: []
+id: 12
+imagen: /v1617830400/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_83_wldtil.png
+industrias:
+  - Alimentos y Bebidas
+  - Energía
+  - Dispositivos Médicos
+  - Biofarmacéuticos
+  - Química
+  - Agrícola
+  - Ingenios
+  - Electrónica
+marcas:
+  - Pall
+meta_description: Soluciones de Filtración para Laboratorio
+meta_keywords: PALL lab, PALL Laboratory, filtración laboratorio
+taxonomyCover: false
+title: Soluciones de Filtración para Lab
+titulo_adicional: ''
+weight: 12
+---
 # **Control de calidad Microbiología:**
 
 ### _Monitoreo efectivo de la calidad del producto..._

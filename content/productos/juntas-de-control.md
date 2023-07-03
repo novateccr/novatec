@@ -1,19 +1,31 @@
-+++
-catalogo = "/catalogos/original-juntas-de-control.pdf"
-familias = ["Pisos y Polímeros"]
-galeria = []
-id = 108
-imagen = "/v1617744157/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_71_etosb1.png"
-industrias = ["Alimentos y Bebidas", "Energía", "Dispositivos Médicos"]
-marcas = ["Flowcrete", "Belzona"]
-meta_description = "Ofrecemos un amplio portafolio de sellantes que incluyen: Sellos de Alto desempeño multi componente y mono componente, de poliuretano y polimero híbrido libre de isocianato, siliconas, sellos de PVC, hypalon, acrílico, bentonita, epóxico, poliurea, bitumen modificado y polisulfuro. Contamos con diferentes productos para cada necesidad"
-meta_keywords = "juntas, Euclid, Euco 700, EUCO QWIKJOINT 200, DYMONIC 100, SUPERSTOP, VULKEM 45 SSL, VULKEM 45 SSL"
-taxonomyCover = false
-title = "Juntas de control"
-titulo_adicional = ""
-weight = 108
-
-+++
+---
+catalogo: /catalogos/original-juntas-de-control.pdf
+familias:
+  - Pisos y Polímeros
+galeria: []
+id: 108
+imagen: /v1617744157/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_71_etosb1.png
+industrias:
+  - Alimentos y Bebidas
+  - Energía
+  - Dispositivos Médicos
+marcas:
+  - Flowcrete
+  - Belzona
+meta_description: >-
+  Ofrecemos un amplio portafolio de sellantes que incluyen: Sellos de Alto
+  desempeño multi componente y mono componente, de poliuretano y polimero
+  híbrido libre de isocianato, siliconas, sellos de PVC, hypalon, acrílico,
+  bentonita, epóxico, poliurea, bitumen modificado y polisulfuro. Contamos con
+  diferentes productos para cada necesidad
+meta_keywords: >-
+  juntas, Euclid, Euco 700, EUCO QWIKJOINT 200, DYMONIC 100, SUPERSTOP, VULKEM
+  45 SSL, VULKEM 45 SSL
+taxonomyCover: false
+title: Juntas de control
+titulo_adicional: ''
+weight: 108
+---
 ## **Ponemos a su disposición lo siguiente:**
 
 ### **EUCO 700:**

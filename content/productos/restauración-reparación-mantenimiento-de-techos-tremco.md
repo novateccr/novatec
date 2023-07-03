@@ -1,21 +1,27 @@
-+++
-catalogo = ""
-categoria = ""
-familias = ["Pisos y Polímeros"]
-galeria = ["/v1597776876/alumanation_hnjdqi-gigapixel-scale-4_00x_gvwln0.png", "/v1597776763/0_suurbl.jpg"]
-id = ""
-imagen = "/v1617744646/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_75_pkdpkk.png"
-industrias = []
-marcas = ["Tremco"]
-meta_description = "Tremco Roofing ofrece las soluciones de impermeabilización y techado más completas de la industria para restauración, reparación, mantenimiento, reemplazo y nueva construcción."
-meta_keywords = "Temco, restauración, reparación, mantenimiento de techos"
-taxonomyCover = false
-title = "Restauración, reparación, mant de techos - TREMCO"
-titulo = ""
-titulo_adicional = ""
-weight = ""
-
-+++
+---
+catalogo: ''
+categoria: ''
+familias:
+  - Pisos y Polímeros
+galeria:
+  - /v1597776876/alumanation_hnjdqi-gigapixel-scale-4_00x_gvwln0.png
+  - /v1597776763/0_suurbl.jpg
+id: ''
+imagen: /v1617744646/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_75_pkdpkk.png
+industrias: []
+marcas:
+  - Tremco
+meta_description: >-
+  Tremco Roofing ofrece las soluciones de impermeabilización y techado más
+  completas de la industria para restauración, reparación, mantenimiento,
+  reemplazo y nueva construcción.
+meta_keywords: Temco, restauración, reparación, mantenimiento de techos
+taxonomyCover: false
+title: Restauración, reparación, mant de techos - TREMCO
+titulo: ''
+titulo_adicional: ''
+weight: ''
+---
 ## Tremco Roofing ofrece las soluciones de impermeabilización y techado más completas de la industria para restauración, reparación, mantenimiento, reemplazo y nueva construcción.
 
 ### **ALUMANATION® 301:**

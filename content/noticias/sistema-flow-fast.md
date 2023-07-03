@@ -1,11 +1,13 @@
-+++
-date = "2018-10-10T20:34:48-06:00"
-featured = true
-imagen_intro = "/v1539225871/pisos.jpg"
-tags = ["Flowfast", "sistema", "60 minutos"]
-title = "Sistema Flow Fast - 60 min."
-
-+++
+---
+date: '2018-10-10T20:34:48-06:00'
+featured: true
+imagen_intro: /v1539225871/pisos.jpg
+tags:
+  - Flowfast
+  - sistema
+  - 60 minutos
+title: Sistema Flow Fast - 60 min.
+---
 
 # Sistema Flowfast 
 

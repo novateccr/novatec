@@ -1,19 +1,25 @@
-+++
-catalogo = "/catalogos/original-estaciones-de-trabajo.pdf"
-familias = ["Tecnología de Ensamble"]
-galeria = []
-id = 113
-imagen = "/v1617736996/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_47_cbdrdc.png"
-industrias = ["Alimentos y Bebidas", "Dispositivos Médicos", "Biofarmacéuticos"]
-marcas = ["Rexroth"]
-meta_description = "Estaciones de trabajo en perfil de aluminio personalizadas de la marca Bosch Rexroth todo en  perfiles de aluminio..."
-meta_keywords = "Rexroth, perfil de 40X40, perfil de la marca item, perfil Bosch "
-taxonomyCover = false
-title = "Estaciones Trabajo (perfil aluminio)"
-titulo_adicional = ""
-weight = 113
-
-+++
+---
+catalogo: /catalogos/original-estaciones-de-trabajo.pdf
+familias:
+  - Tecnología de Ensamble
+galeria: []
+id: 113
+imagen: /v1617736996/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_47_cbdrdc.png
+industrias:
+  - Alimentos y Bebidas
+  - Dispositivos Médicos
+  - Biofarmacéuticos
+marcas:
+  - Rexroth
+meta_description: >-
+  Estaciones de trabajo en perfil de aluminio personalizadas de la marca Bosch
+  Rexroth todo en  perfiles de aluminio...
+meta_keywords: 'Rexroth, perfil de 40X40, perfil de la marca item, perfil Bosch '
+taxonomyCover: false
+title: Estaciones Trabajo (perfil aluminio)
+titulo_adicional: ''
+weight: 113
+---
 ![](https://res.cloudinary.com/novatec/v1596836409/MT_13682_20160704_133333.big_urd18k.jpg)
 
 ## [**Estaciones de trabajo personalizadas**](https://www.boschrexroth.com/es/mx/productos/grupo-de-productos/tecnologia-de-ensamble/sistemas-de-produccion-manual/puestos-de-trabajo)

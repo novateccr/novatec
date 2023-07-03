@@ -1,19 +1,23 @@
-+++
-catalogo = "/catalogos/original-centrifugas-sanitarias.pdf"
-familias = ["Bombas"]
-galeria = ["/v1550353343/BOMBAS1.jpg"]
-id = 1
-imagen = "/v1617832233/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_91_sdoign.png"
-industrias = ["Alimentos y Bebidas", "Biofarmacéuticos"]
-marcas = ["Fristam"]
-meta_description = "encuentre las mejores bomba centrífugas sanitaria"
-meta_keywords = "bombas, bomba centrifuga, fristam"
-taxonomyCover = false
-title = "Bombas Centrífugas Sanitarias"
-titulo_adicional = ""
-weight = 1
-
-+++
+---
+catalogo: /catalogos/original-centrifugas-sanitarias.pdf
+familias:
+  - Bombas
+galeria:
+  - /v1550353343/BOMBAS1.jpg
+id: 1
+imagen: /v1617832233/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_91_sdoign.png
+industrias:
+  - Alimentos y Bebidas
+  - Biofarmacéuticos
+marcas:
+  - Fristam
+meta_description: encuentre las mejores bomba centrífugas sanitaria
+meta_keywords: bombas, bomba centrifuga, fristam
+taxonomyCover: false
+title: Bombas Centrífugas Sanitarias
+titulo_adicional: ''
+weight: 1
+---
 <h4>Calidad, flexibilidad e innovación.</h4>
 <p>Nuestro estímulo es la innovación: queremos asegurar que las bombas Fristam siempre sean la mejor elección para su empresa.</p>
 <h4>Para el presente y para el futuro</h4>

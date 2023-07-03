@@ -1,21 +1,24 @@
-+++
-catalogo = ""
-categoria = ""
-familias = ["Filtros"]
-galeria = []
-id = ""
-imagen = "/v1633615820/AAF_-_Flanders_dm2we5.png"
-industrias = []
-marcas = []
-meta_description = "¡Dando vida al aire limpio!"
-meta_keywords = "Aire, filtros, aire acondicionado, filtro de aire, HEPA, Filtros de partículas, AirGard, Parker,CLARCOR Air Products Filtration, AAF, American Air Filter, Flanders, Camfil  "
-taxonomyCover = false
-title = "AAF / Flanders - Filtración de Aire"
-titulo = ""
-titulo_adicional = ""
-weight = ""
-
-+++
+---
+catalogo: ''
+categoria: ''
+familias:
+  - Filtros
+galeria: []
+id: ''
+imagen: /v1633615820/AAF_-_Flanders_dm2we5.png
+industrias: []
+marcas: []
+meta_description: ¡Dando vida al aire limpio!
+meta_keywords: >-
+  Aire, filtros, aire acondicionado, filtro de aire, HEPA, Filtros de
+  partículas, AirGard, Parker,CLARCOR Air Products Filtration, AAF, American Air
+  Filter, Flanders, Camfil  
+taxonomyCover: false
+title: AAF / Flanders - Filtración de Aire
+titulo: ''
+titulo_adicional: ''
+weight: ''
+---
 ### **Proveemos soluciones de aire limpio !**
 
 ![](https://res.cloudinary.com/novatec/v1636133099/0001-removebg-preview_kf4v81.png)

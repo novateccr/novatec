@@ -1,11 +1,10 @@
-+++
-date = 2020-11-09T06:00:00Z
-featured = true
-imagen_intro = "/v1604948465/42998718-2f5d-48bd-b58e-b08cbecdaa13_1_dhhfle.png"
-tags = []
-title = "Bombas de aceite y grasa"
-
-+++
+---
+date: 2020-11-09T06:00:00.000Z
+featured: true
+imagen_intro: /v1604948465/42998718-2f5d-48bd-b58e-b08cbecdaa13_1_dhhfle.png
+tags: []
+title: Bombas de aceite y grasa
+---
 ## 
 
 _Desempeño y confiabilidad sobresalientes..._

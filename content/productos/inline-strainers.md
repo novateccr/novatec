@@ -1,21 +1,26 @@
-+++
-catalogo = ""
-categoria = ""
-familias = ["Pisos y Polímeros"]
-galeria = []
-id = ""
-imagen = "/v1680725973/Staticworx_acuurq.png"
-industrias = ["Dispositivos Médicos ", "Alimentos y Bebidas"]
-marcas = ["StaticWorx"]
-meta_description = "Pisos vinílicos "
-meta_keywords = "Pisos, pisos vinílicos, vinil, ESD, antiestático, VPI, Armstrong, Forbo, Staticworx"
-taxonomyCover = false
-title = "Pisos Vinílicos ESD"
-titulo = ""
-titulo_adicional = ""
-weight = ""
-
-+++
+---
+catalogo: ''
+categoria: ''
+familias:
+  - Pisos y Polímeros
+galeria: []
+id: ''
+imagen: /v1680725973/Staticworx_acuurq.png
+industrias:
+  - 'Dispositivos Médicos '
+  - Alimentos y Bebidas
+marcas:
+  - StaticWorx
+meta_description: 'Pisos vinílicos '
+meta_keywords: >-
+  Pisos, pisos vinílicos, vinil, ESD, antiestático, VPI, Armstrong, Forbo,
+  Staticworx
+taxonomyCover: false
+title: Pisos Vinílicos ESD
+titulo: ''
+titulo_adicional: ''
+weight: ''
+---
 ![](https://res.cloudinary.com/novatec/v1680725961/AmeriWorx-ESD-Vinyl-Tile-Classics-Collection_utmkvu.jpg)
 
 ### Pisos Vinílicos Antiestáticos

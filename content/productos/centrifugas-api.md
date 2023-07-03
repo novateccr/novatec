@@ -1,21 +1,26 @@
-+++
-catalogo = "/catalogos/original-centrifugas-api.pdf"
-categoria = ""
-familias = ["Bombas"]
-galeria = ["/v1566004987/rph-KSB_udpu2k.png"]
-id = 111
-imagen = "/v1617834290/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_99_u65sxb.png"
-industrias = ["Energía", "Industria Pesada"]
-marcas = ["Flowserve", "KSB"]
-meta_description = "Bombas de proceso robusta KSB tipo RPH API -610 y ISO 13709 "
-meta_keywords = "Bomba API, RPH"
-taxonomyCover = false
-title = "Centrifugas API"
-titulo = ""
-titulo_adicional = ""
-weight = 111
-
-+++
+---
+catalogo: /catalogos/original-centrifugas-api.pdf
+categoria: ''
+familias:
+  - Bombas
+galeria:
+  - /v1566004987/rph-KSB_udpu2k.png
+id: 111
+imagen: /v1617834290/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_99_u65sxb.png
+industrias:
+  - Energía
+  - Industria Pesada
+marcas:
+  - Flowserve
+  - KSB
+meta_description: 'Bombas de proceso robusta KSB tipo RPH API -610 y ISO 13709 '
+meta_keywords: Bomba API, RPH
+taxonomyCover: false
+title: Centrifugas API
+titulo: ''
+titulo_adicional: ''
+weight: 111
+---
 # Bomba de proceso RPH - robusta, fiable, eficiente
 
 Las bombas de proceso de una sola etapa de la serie RPH a la edición de API ª 610,10 se emplean en las refinerías, la industria química, aplicaciones petroquímicas y centrales eléctricas. Manejan fluidos de forma fiable y eficiente.

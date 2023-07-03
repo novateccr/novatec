@@ -1,19 +1,23 @@
-+++
-catalogo = "/catalogos/original-desplazamiento-positivo.pdf"
-draft = true
-familias = ["Bombas"]
-galeria = []
-id = 2
-imagen = "/v1530797588/productos/original-desplazamiento-positivo.jpg"
-industrias = ["Alimentos y Bebidas", "Energía", "Biofarmacéuticos"]
-marcas = ["Fristam"]
-meta_description = "Fristam FKL: La más durable y confiable Bomba de Desplazamiento Positivo"
-meta_keywords = ""
-taxonomyCover = false
-title = "Desplazamiento Positivo Sanitarias"
-weight = 2
-
-+++
+---
+catalogo: /catalogos/original-desplazamiento-positivo.pdf
+draft: true
+familias:
+  - Bombas
+galeria: []
+id: 2
+imagen: /v1530797588/productos/original-desplazamiento-positivo.jpg
+industrias:
+  - Alimentos y Bebidas
+  - Energía
+  - Biofarmacéuticos
+marcas:
+  - Fristam
+meta_description: 'Fristam FKL: La más durable y confiable Bomba de Desplazamiento Positivo'
+meta_keywords: ''
+taxonomyCover: false
+title: Desplazamiento Positivo Sanitarias
+weight: 2
+---
 #### Fristam FKL: La más durable y confiable Bomba de Desplazamiento Positivo
 
 Deje de reconstruir, reemplazar y desperdiciar su valioso tiempo con otras bombas de desplazamiento positivo. La bomba FKL de Fristam simplemente funciona mejor y dura más tiempo.

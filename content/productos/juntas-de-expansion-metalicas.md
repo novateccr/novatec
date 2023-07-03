@@ -1,19 +1,22 @@
-+++
-catalogo = "/catalogos/original-juntas-de-expansion-metalicas.pdf"
-familias = ["Sellado"]
-galeria = ["/v1570728971/Macoga-MWD_jq3rij.png"]
-id = 56
-imagen = "/v1617729070/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_8_kodjsa.png"
-industrias = ["Energía"]
-marcas = ["Macoga"]
-meta_description = "Juntas de expansión metálicas"
-meta_keywords = "Macoga, juntas metalicas, juntas de expansión"
-taxonomyCover = false
-title = "Juntas de Expansión Metálicas"
-titulo_adicional = ""
-weight = 56
-
-+++
+---
+catalogo: /catalogos/original-juntas-de-expansion-metalicas.pdf
+familias:
+  - Sellado
+galeria:
+  - /v1570728971/Macoga-MWD_jq3rij.png
+id: 56
+imagen: /v1617729070/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_8_kodjsa.png
+industrias:
+  - Energía
+marcas:
+  - Macoga
+meta_description: Juntas de expansión metálicas
+meta_keywords: Macoga, juntas metalicas, juntas de expansión
+taxonomyCover: false
+title: Juntas de Expansión Metálicas
+titulo_adicional: ''
+weight: 56
+---
 ## **Serie MWA y MFA:**
 
 Estas juntas de expansión están hechas de un solo elemento de fuelle con conexiones finales. Independientemente de los accesorios, como forros y fundas, este modelo absorbe todos los movimientos en cualquier longitud de tubería, pero se utiliza principalmente para absorber movimientos axiales.

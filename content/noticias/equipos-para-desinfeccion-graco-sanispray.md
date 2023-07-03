@@ -1,11 +1,10 @@
-+++
-date = 2020-09-01T06:00:00Z
-featured = true
-imagen_intro = "/v1598994672/Dise%C3%B1o_sin_t%C3%ADtulo_4_bzkuny.png"
-tags = []
-title = "Equipos para desinfección Graco SaniSpray"
-
-+++
+---
+date: 2020-09-01T06:00:00.000Z
+featured: true
+imagen_intro: /v1598994672/Dise%C3%B1o_sin_t%C3%ADtulo_4_bzkuny.png
+tags: []
+title: Equipos para desinfección Graco SaniSpray
+---
 ### **Novatec Industrial y Graco hacen su presentación de la línea de limpieza:**
 
 ## SaniSpray HP:

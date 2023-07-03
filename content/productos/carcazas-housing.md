@@ -1,19 +1,23 @@
-+++
-catalogo = "/catalogos/original-carcazas-housing.pdf"
-familias = ["Filtros"]
-galeria = []
-id = 14
-imagen = "/v1617830191/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_81_u4iosz.png"
-industrias = ["Alimentos y Bebidas", "Energía", "Biofarmacéuticos"]
-marcas = ["Pall"]
-meta_description = "Carcasas (Housing)"
-meta_keywords = "Carcasas (Housing), Pall, laboratorio"
-taxonomyCover = false
-title = "Carcasas (Housing)"
-titulo_adicional = ""
-weight = 14
-
-+++
+---
+catalogo: /catalogos/original-carcazas-housing.pdf
+familias:
+  - Filtros
+galeria: []
+id: 14
+imagen: /v1617830191/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_81_u4iosz.png
+industrias:
+  - Alimentos y Bebidas
+  - Energía
+  - Biofarmacéuticos
+marcas:
+  - Pall
+meta_description: Carcasas (Housing)
+meta_keywords: Carcasas (Housing), Pall, laboratorio
+taxonomyCover: false
+title: Carcasas (Housing)
+titulo_adicional: ''
+weight: 14
+---
 ## Manejamos gran variedad de Carcasas (Housing) de la marca Pall, a continuación les mostramos algunas de ellas:
 
 ## **1- Housing Advanta para líquidos:**

@@ -1,11 +1,13 @@
-+++
-date = 2020-02-10T06:00:00Z
-featured = true
-imagen_intro = "/v1581113186/Conector_Pall_Presto_mpsxyz.jpg"
-tags = ["Kleenpak ", "Kleenpak Presto", "conector estéril"]
-title = "Conector esteril Kleenpak Presto - Pall"
-
-+++
+---
+date: 2020-02-10T06:00:00.000Z
+featured: true
+imagen_intro: /v1581113186/Conector_Pall_Presto_mpsxyz.jpg
+tags:
+  - 'Kleenpak '
+  - Kleenpak Presto
+  - conector estéril
+title: Conector esteril Kleenpak Presto - Pall
+---
 ### **El conector estéril Kleenpak Presto es la nueva generación en la gama de productos Allegro™ de un solo uso en el manejo de fluidos.**
 
 Esta nueva generación de conectores sin género permite la permanente conexión estéril de dos corrientes de fluidos en una amplia gama de aplicaciones bio-farmacéuticas. Usando los conectores Presto, las conexiones estériles pueden llevarse a cabo incluso en un entorno sin clasificar, sin comprometer la esterilidad de las vías del fluido.

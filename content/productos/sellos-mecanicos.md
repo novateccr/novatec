@@ -1,19 +1,30 @@
-+++
-catalogo = ""
-familias = ["Sellado"]
-galeria = []
-id = 24
-imagen = "/v1617728729/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_5_eelfjb.png"
-industrias = ["Alimentos y Bebidas", "Energía", "Dispositivos Médicos", "Industria Pesada", "Biofarmacéuticos", "Química", "Agrícola", "Ingenios"]
-marcas = ["Eagleburgmann"]
-meta_description = "Sellos mecanicos, componete, cartucho"
-meta_keywords = "Sellos de componente, Cartuchos, API, ANSI, Tipo 21, Fuelle, M32, MG1, M7N, H75, MG9, Cartex"
-taxonomyCover = false
-title = "Sellos Mecánicos"
-titulo_adicional = ""
-weight = 24
-
-+++
+---
+catalogo: ''
+familias:
+  - Sellado
+galeria: []
+id: 24
+imagen: /v1617728729/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_5_eelfjb.png
+industrias:
+  - Alimentos y Bebidas
+  - Energía
+  - Dispositivos Médicos
+  - Industria Pesada
+  - Biofarmacéuticos
+  - Química
+  - Agrícola
+  - Ingenios
+marcas:
+  - Eagleburgmann
+meta_description: Sellos mecanicos, componete, cartucho
+meta_keywords: >-
+  Sellos de componente, Cartuchos, API, ANSI, Tipo 21, Fuelle, M32, MG1, M7N,
+  H75, MG9, Cartex
+taxonomyCover: false
+title: Sellos Mecánicos
+titulo_adicional: ''
+weight: 24
+---
 Ofrecemos gran variedad de Sellos de componente, sellos mecánicos entre ellos:
 
 ## **APItex:**

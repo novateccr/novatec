@@ -1,21 +1,24 @@
-+++
-catalogo = ""
-categoria = ""
-familias = ["Sellado"]
-galeria = ["/v1569268713/RF-FabHosecutaway_zupced.jpg", "/v1569263278/Hoses_sz93ud.jpg"]
-id = ""
-imagen = "/v1617730538/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_16_dsqx8v.png"
-industrias = []
-marcas = ["Rubber Fab"]
-meta_description = "Todo en mangueras sanitarias... "
-meta_keywords = "Rubber Fab "
-taxonomyCover = false
-title = "Mangueras Sanitarias"
-titulo = ""
-titulo_adicional = ""
-weight = ""
-
-+++
+---
+catalogo: ''
+categoria: ''
+familias:
+  - Sellado
+galeria:
+  - /v1569268713/RF-FabHosecutaway_zupced.jpg
+  - /v1569263278/Hoses_sz93ud.jpg
+id: ''
+imagen: /v1617730538/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_16_dsqx8v.png
+industrias: []
+marcas:
+  - Rubber Fab
+meta_description: 'Todo en mangueras sanitarias... '
+meta_keywords: 'Rubber Fab '
+taxonomyCover: false
+title: Mangueras Sanitarias
+titulo: ''
+titulo_adicional: ''
+weight: ''
+---
 Rubber Fab ofrece una variedad de mangueras de caucho en diferentes materiales para satisfacer prácticamente cualquier aplicación de manguera sanitaria. Nuestras mangueras y conjuntos de mangueras siempre cumplen con los estándares de calidad establecidos por las industrias farmacéutica y alimentaria. Cubiertas de manguera y accesorios también están disponibles
 
 **_A continuación le presentamos algunas:_**

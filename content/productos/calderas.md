@@ -1,21 +1,27 @@
-+++
-catalogo = "/catalogos/original-calderas.pdf"
-categoria = ""
-familias = ["Bombas"]
-galeria = ["/v1595030598/7053-12964578-gigapixel-scale-2_00x_iy7dbg.jpg"]
-id = 11
-imagen = "/v1617834767/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_-_2021-04-07T163236.199_jvo1gj.png"
-industrias = ["Alimentos y Bebidas", "Energía", "Biofarmacéuticos"]
-marcas = ["KSB"]
-meta_description = "bombas para alimentación de calderas tipo multitec"
-meta_keywords = "multitec, movitec, bombas para alimentación de calderas"
-taxonomyCover = false
-title = "Bombas de Alimentación de Calderas"
-titulo = ""
-titulo_adicional = ""
-weight = 11
-
-+++
+---
+catalogo: /catalogos/original-calderas.pdf
+categoria: ''
+familias:
+  - Bombas
+galeria:
+  - /v1595030598/7053-12964578-gigapixel-scale-2_00x_iy7dbg.jpg
+id: 11
+imagen: >-
+  /v1617834767/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_-_2021-04-07T163236.199_jvo1gj.png
+industrias:
+  - Alimentos y Bebidas
+  - Energía
+  - Biofarmacéuticos
+marcas:
+  - KSB
+meta_description: bombas para alimentación de calderas tipo multitec
+meta_keywords: multitec, movitec, bombas para alimentación de calderas
+taxonomyCover: false
+title: Bombas de Alimentación de Calderas
+titulo: ''
+titulo_adicional: ''
+weight: 11
+---
 #### **Bomba Multitec, marca KSB.**
 
 Bomba centrífuga horizontal o vertical de cuerpo segmentado, multietapa, versión en bancada o monobloc, de aspiración axial o radial, con impulsores radiales fundidos y sistema de regulación de velocidad montado sobre motor. Disponible en versión ATEX.

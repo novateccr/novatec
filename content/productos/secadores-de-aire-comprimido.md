@@ -1,19 +1,26 @@
-+++
-catalogo = "/catalogos/original-secadores-de-aire-comprimido.pdf"
-familias = ["Redes y tratamiento de Aire Comprimido"]
-galeria = []
-id = "120"
-imagen = "/v1617741800/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_56_zgcgu8.png"
-industrias = ["Alimentos y Bebidas", "Dispositivos Médicos", "Biofarmacéuticos", "Química", "Ingenios", "Electrónica"]
-marcas = ["Pneumatech"]
-meta_description = "secador, refigertaivo, desecante"
-meta_keywords = ""
-taxonomyCover = false
-title = "Productos Pneumatech"
-titulo_adicional = ""
-weight = 120
-
-+++
+---
+catalogo: /catalogos/original-secadores-de-aire-comprimido.pdf
+familias:
+  - Redes y tratamiento de Aire Comprimido
+galeria: []
+id: '120'
+imagen: /v1617741800/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_56_zgcgu8.png
+industrias:
+  - Alimentos y Bebidas
+  - Dispositivos Médicos
+  - Biofarmacéuticos
+  - Química
+  - Ingenios
+  - Electrónica
+marcas:
+  - Pneumatech
+meta_description: secador, refigertaivo, desecante
+meta_keywords: ''
+taxonomyCover: false
+title: Productos Pneumatech
+titulo_adicional: ''
+weight: 120
+---
 # En Novatec contamos con varios productos de la marca Pneumatech entre ellos:
 
 ## **1- Secadores refrigerados:**

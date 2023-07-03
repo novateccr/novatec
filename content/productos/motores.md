@@ -1,21 +1,35 @@
-+++
-catalogo = ""
-categoria = ""
-familias = ["Bombas"]
-galeria = ["/v1595035348/kompatibel-thumbnail-data_h0ehdh.jpg", "/v1582864617/KSB_SuPremE_Energy_Diet_IE5_npfyo3.png", "/v1582862356/foto-data_cl48og.jpg"]
-id = ""
-imagen = "/v1617834563/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_-_2021-04-07T162910.153_kuzrzw.png"
-industrias = ["Alimentos y Bebidas", "Pharmaceuticas", "Energia", "Industria", "Dispositivos Medicos"]
-marcas = ["KSB"]
-meta_description = "Motor de reluctancia síncrona sin imán, compatible con IEC, sin clase de eficiencia clase IE4 / IE5 (eficiencia super / ultra premium)"
-meta_keywords = "Supreme Motor, Motores, Sincrónicos, IE4, IE5, Ahorro energético, alta eficiencia, premium"
-taxonomyCover = false
-title = "Motores KSB SuPremE IE4 / IE5"
-titulo = ""
-titulo_adicional = ""
-weight = ""
-
-+++
+---
+catalogo: ''
+categoria: ''
+familias:
+  - Bombas
+galeria:
+  - /v1595035348/kompatibel-thumbnail-data_h0ehdh.jpg
+  - /v1582864617/KSB_SuPremE_Energy_Diet_IE5_npfyo3.png
+  - /v1582862356/foto-data_cl48og.jpg
+id: ''
+imagen: >-
+  /v1617834563/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_-_2021-04-07T162910.153_kuzrzw.png
+industrias:
+  - Alimentos y Bebidas
+  - Pharmaceuticas
+  - Energia
+  - Industria
+  - Dispositivos Medicos
+marcas:
+  - KSB
+meta_description: >-
+  Motor de reluctancia síncrona sin imán, compatible con IEC, sin clase de
+  eficiencia clase IE4 / IE5 (eficiencia super / ultra premium)
+meta_keywords: >-
+  Supreme Motor, Motores, Sincrónicos, IE4, IE5, Ahorro energético, alta
+  eficiencia, premium
+taxonomyCover: false
+title: Motores KSB SuPremE IE4 / IE5
+titulo: ''
+titulo_adicional: ''
+weight: ''
+---
 ### **Diseño.**
 
 Motor de reluctancia síncrona sin imán, compatible con IEC, sin clase de eficiencia clase IE4 / IE5 (eficiencia super / ultra premium) según IEC TS 60034-30-2: 2016 para operar en un sistema de velocidad variable KSB PumpDrive 2, PumpDrive 2 Eco o PumpDrive R . Adecuado para la conexión a la red trifásica de 380-480 V (a través de PumpDrive). 

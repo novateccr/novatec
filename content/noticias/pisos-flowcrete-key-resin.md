@@ -1,11 +1,10 @@
-+++
-date = 2020-01-21T06:00:00Z
-featured = true
-imagen_intro = "/v1579641946/FlowCrete_food_be49z6.jpg"
-tags = []
-title = "Pisos Flowcrete & Key Resin "
-
-+++
+---
+date: 2020-01-21T06:00:00.000Z
+featured: true
+imagen_intro: /v1579641946/FlowCrete_food_be49z6.jpg
+tags: []
+title: 'Pisos Flowcrete & Key Resin '
+---
 Desde la decoración tipo industrial, institucional o areas secundarias, Flowcrete y Key Resin Company ofrecen soluciones con el costos vs ciclo de vida más óptimos, durabilidad sobresaliente y rendimiento general. 
 
 Nuestras soluciones para pisos incluyen:

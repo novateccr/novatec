@@ -1,19 +1,25 @@
-+++
-catalogo = ""
-familias = ["Válvulas"]
-galeria = ["/v1596748318/KSB-BOAX-gigapixel-scale-4_00x_btxw8z.jpg", "/v1596748076/es000573-boax-b_gmrt2b.png"]
-id = 133
-imagen = "/v1617735528/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_38_ycymr1.png"
-industrias = ["Energía", "Química", "Ingenios"]
-marcas = ["KSB"]
-meta_description = "Válvula de mariposa de disco centrado tipo KSB"
-meta_keywords = "Válvula de mariposa, KSB, Boax b"
-taxonomyCover = false
-title = "Válvulas de mariposa tipo Boax-B "
-titulo_adicional = ""
-weight = 133
-
-+++
+---
+catalogo: ''
+familias:
+  - Válvulas
+galeria:
+  - /v1596748318/KSB-BOAX-gigapixel-scale-4_00x_btxw8z.jpg
+  - /v1596748076/es000573-boax-b_gmrt2b.png
+id: 133
+imagen: /v1617735528/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_38_ycymr1.png
+industrias:
+  - Energía
+  - Química
+  - Ingenios
+marcas:
+  - KSB
+meta_description: Válvula de mariposa de disco centrado tipo KSB
+meta_keywords: Válvula de mariposa, KSB, Boax b
+taxonomyCover: false
+title: 'Válvulas de mariposa tipo Boax-B '
+titulo_adicional: ''
+weight: 133
+---
 # **Válvulas de mariposa tipo Boax-B de KSB**
 
 ### **Nuestras válvulas tienen gran cantidad de aplicaciones, entre ellas:**

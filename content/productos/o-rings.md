@@ -1,21 +1,23 @@
-+++
-catalogo = ""
-categoria = ""
-familias = ["Sellado"]
-galeria = []
-id = ""
-imagen = "/v1617730877/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_17_mh7wh9.png"
-industrias = []
-marcas = ["Rubber Fab", "Dichtomatik"]
-meta_description = "Oring-s industriales"
-meta_keywords = "Oring-s, industrial"
-taxonomyCover = false
-title = "O-Rings Industriales "
-titulo = ""
-titulo_adicional = ""
-weight = ""
-
-+++
+---
+catalogo: ''
+categoria: ''
+familias:
+  - Sellado
+galeria: []
+id: ''
+imagen: /v1617730877/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_17_mh7wh9.png
+industrias: []
+marcas:
+  - Rubber Fab
+  - Dichtomatik
+meta_description: Oring-s industriales
+meta_keywords: Oring-s, industrial
+taxonomyCover: false
+title: 'O-Rings Industriales '
+titulo: ''
+titulo_adicional: ''
+weight: ''
+---
 ## **Orings desde Buna hasta Kalrez**
 
 ![](https://res.cloudinary.com/novatec/v1617724940/19_Oring_Pile_cmyk_brown-e1562776554279-570x372_hzmtxb.jpg)

@@ -1,21 +1,24 @@
-+++
-catalogo = ""
-categoria = ""
-familias = ["Bombas"]
-galeria = ["/v1595036811/ksb-megabloc-gigapixel-scale-4_00x_houpuj.jpg"]
-id = ""
-imagen = "/v1617834486/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_-_2021-04-07T162750.570_zdxsua.png"
-industrias = []
-marcas = ["KSB"]
-meta_description = "Todo en bombas para agua, consultenos !!"
-meta_keywords = "bomba de agua, bombas de agua, bomba para agua"
-taxonomyCover = false
-title = "Bombas para agua"
-titulo = ""
-titulo_adicional = ""
-weight = ""
-
-+++
+---
+catalogo: ''
+categoria: ''
+familias:
+  - Bombas
+galeria:
+  - /v1595036811/ksb-megabloc-gigapixel-scale-4_00x_houpuj.jpg
+id: ''
+imagen: >-
+  /v1617834486/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_-_2021-04-07T162750.570_zdxsua.png
+industrias: []
+marcas:
+  - KSB
+meta_description: Todo en bombas para agua, consultenos !!
+meta_keywords: bomba de agua, bombas de agua, bomba para agua
+taxonomyCover: false
+title: Bombas para agua
+titulo: ''
+titulo_adicional: ''
+weight: ''
+---
 ## Bombas Hydrobloc marca KSB.
 
   

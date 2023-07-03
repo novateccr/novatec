@@ -1,12 +1,11 @@
-+++
-date = 2020-02-26T06:00:00Z
-draft = true
-featured = true
-imagen_intro = "/v1582746492/Reparacion_techo_-_Tremco_lbykhk.jpg"
-tags = []
-title = "¿Restauración o reemplazo de techos? 5 cosas a tener en cuenta"
-
-+++
+---
+date: 2020-02-26T06:00:00.000Z
+draft: true
+featured: true
+imagen_intro: /v1582746492/Reparacion_techo_-_Tremco_lbykhk.jpg
+tags: []
+title: ¿Restauración o reemplazo de techos? 5 cosas a tener en cuenta
+---
 ### **¿Se ve el techo en cuestión desgastado? ¿Ha estado goteando? ¿Se acerca el final de su vida útil esperada? ¿No está seguro si puede restaurar o si debe reemplazarlo por completo? A continuación, hay cinco razones por las cuales la restauración puede ser la mejor opción.**
 
 ### **1. La restauración cuesta menos**

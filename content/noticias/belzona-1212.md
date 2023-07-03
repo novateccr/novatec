@@ -1,11 +1,12 @@
-+++
-date = "2018-10-26T13:31:52-06:00"
-featured = true
-imagen_intro = "/v1540582324/1212_10.jpg"
-tags = ["belzona", "1212"]
-title = "Belzona 1212"
-
-+++
+---
+date: '2018-10-26T13:31:52-06:00'
+featured: true
+imagen_intro: /v1540582324/1212_10.jpg
+tags:
+  - belzona
+  - '1212'
+title: Belzona 1212
+---
 # Belzona 1212
 
 Un compuesto epoxi duo componente tolerante a superficies diseñado específicamente para la aplicación in situ sobre superficies mojadas, contaminadas con aceite o sumergidas. Este material multiuso libre de solventes es de fraguado rápido y ofrece una excelente adherencia a sustratos preparados manualmente, donde no se puede realizar un granallado abrasivo.

@@ -1,21 +1,26 @@
-+++
-catalogo = ""
-categoria = ""
-familias = ["Tecnología de Ensamble"]
-galeria = []
-id = "112"
-imagen = "/v1675799900/bosch-rexroth-function-integrated-profiles-exhibit_640x360_ft9t02.jpg"
-industrias = ["Almentos y Bebidas", "Dispositivos Médicos", "Biofarmacéuticos"]
-marcas = ["Rexroth"]
-meta_description = ""
-meta_keywords = ""
-taxonomyCover = false
-title = "Perfiles con Integración"
-titulo = ""
-titulo_adicional = ""
-weight = ""
-
-+++
+---
+catalogo: ''
+categoria: ''
+familias:
+  - Tecnología de Ensamble
+galeria: []
+id: '112'
+imagen: >-
+  /v1675799900/bosch-rexroth-function-integrated-profiles-exhibit_640x360_ft9t02.jpg
+industrias:
+  - Almentos y Bebidas
+  - Dispositivos Médicos
+  - Biofarmacéuticos
+marcas:
+  - Rexroth
+meta_description: ''
+meta_keywords: ''
+taxonomyCover: false
+title: Perfiles con Integración
+titulo: ''
+titulo_adicional: ''
+weight: ''
+---
 ## Perfiles Estructurales con Integración Funcional
 
 Nuestros nuevos perfiles estructurales Rexroth con funciones integradas (FIP), ofrecen un gran interior utilizable y finalmente crean más espacio para sus ideas de diseño.

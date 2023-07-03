@@ -1,11 +1,13 @@
-+++
-date = "2019-01-23T00:00:00-06:00"
-featured = true
-imagen_intro = "/v1548255324/megacpk.jpg"
-tags = ["ksb", "bombas", "megacpk"]
-title = "MegaCPK KSB – Bomba química normalizada"
-
-+++
+---
+date: '2019-01-23T00:00:00-06:00'
+featured: true
+imagen_intro: /v1548255324/megacpk.jpg
+tags:
+  - ksb
+  - bombas
+  - megacpk
+title: MegaCPK KSB – Bomba química normalizada
+---
 # MegaCPK – Bomba química normalizada
 
 Campos de aplicación:
