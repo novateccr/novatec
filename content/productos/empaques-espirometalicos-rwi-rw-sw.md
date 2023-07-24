@@ -15,12 +15,13 @@ industrias:
 marcas:
   - Garlock
 meta_description: Empaques Espirometálicos RWI - RW -SW
-meta_keywords: juntas espirometálicas, empaques espirometálicas, rwi, rw, sw
+meta_keywords: 'juntas espirometálicas, empaques espirometálicas, rwi, rw, sw'
 taxonomyCover: false
 title: 'Empaques Espirometálicos '
 titulo_adicional: ''
 weight: 134
 ---
+
 ## **Juntas espirometálicas FLEXSEAL® RWI:**
 
 El estilo RWI presenta un anillo interior, bobinado en espiral y un anillo de centrado para usar en aplicaciones de alta presión.
