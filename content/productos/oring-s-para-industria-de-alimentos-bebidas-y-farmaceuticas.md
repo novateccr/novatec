@@ -9,13 +9,14 @@ imagen: /v1617730973/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_18_qoln7g.png
 industrias: []
 marcas:
   - RubberFab
-meta_description: Oring-s para Industria de alimentos & bebidas, y farmacéuticas
+meta_description: 'Oring-s para Industria de alimentos & bebidas, y farmacéuticas'
 meta_keywords: 'Oring-s, alimentos y bebidas, farmacéutica '
 taxonomyCover: false
-title: Oring-s Alimentos, bebida & Farma
+title: 'Oring-s Alimentos, bebida & Farma'
 titulo: ''
 titulo_adicional: ''
 ---
+
 
 ## [**Los Oring-s funcionan en diferentes aplicaciones...**](https://rubberfab.com/es/products/o-rings/)
 
