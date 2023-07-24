@@ -23,4 +23,5 @@ weight: 125
 ---
 
 
+
 <p>Filtros de profundidad, filtros para soluciones esteriles (0,8, 0,65. 0,45 y 0,2 micras)</p>
