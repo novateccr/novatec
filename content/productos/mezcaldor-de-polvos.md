@@ -11,13 +11,14 @@ industrias:
   - Biofarmacéuticos
 marcas:
   - Fristam
-meta_description: Mezcladores Fristam, la mejor mezcla en el menor tiempo
-meta_keywords: mezclador de polvos, fristam, mezclador de polvo
+meta_description: 'Mezcladores Fristam, la mejor mezcla en el menor tiempo'
+meta_keywords: 'mezclador de polvos, fristam, mezclador de polvo'
 taxonomyCover: false
 title: 'Mezclador de Polvos '
 titulo_adicional: ''
 weight: 72
 ---
+
 ### Una mejor mezcla en menos tiempo.
 
 Deje de perder su valioso tiempo y dinero en sistemas de mezclado obsoletos, demasiado grandes o que no le brindan el rendimiento necesario.
