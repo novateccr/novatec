@@ -13,9 +13,10 @@ industrias:
 marcas:
   - Pall
 meta_description: equipo Genedisc de PALL PCR en tiempo real
-meta_keywords: PCR, PALL
+meta_keywords: 'PCR, PALL'
 taxonomyCover: false
 title: PALL Genedisc - PCR
 titulo_adicional: ''
 weight: 135
 ---
+
