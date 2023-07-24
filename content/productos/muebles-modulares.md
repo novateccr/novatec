@@ -15,12 +15,13 @@ industrias:
 marcas:
   - Rexroth
 meta_description: Muebles modulares
-meta_keywords: Muebles modulares, Rexroth, BRL
+meta_keywords: 'Muebles modulares, Rexroth, BRL'
 taxonomyCover: false
 title: Muebles modulares
 titulo: ''
 titulo_adicional: ''
 ---
+
 
 Novatec Industrial le brinda la mejor atención a sus clientes y proveedores. Ofrecemos **_Muebles Modulares_** fabricadas a su gusto y estilo en Costa Rica.
 
