@@ -11,9 +11,10 @@ industrias:
   - Ingenios
 marcas:
   - Flowserve
-meta_description: Bomba tipo GR, positiva, Vicking
+meta_description: 'Bomba tipo GR, positiva, Vicking'
 meta_keywords: ''
 taxonomyCover: false
 title: Bomba positiva de engranajes tipo GR
 weight: 136
 ---
+
