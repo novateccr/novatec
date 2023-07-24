@@ -12,12 +12,13 @@ industrias:
 marcas:
   - KSB
 meta_description: Válvula de guillotina tipo KSB ERA SH
-meta_keywords: ERA SH, Válvula de guillotina, KSB
+meta_keywords: 'ERA SH, Válvula de guillotina, KSB'
 taxonomyCover: false
 title: Válvulas de Guillotina tipo ERA SH
 titulo: ''
 titulo_adicional: ''
 ---
+
 
 # **Diseño**
 
