@@ -12,12 +12,13 @@ industrias: []
 marcas:
   - Kaivac
 meta_description: Desinfectante KaiBosh de Kaivac
-meta_keywords: Desinfectante, Kaibosh, Kaivac, COVID-19
+meta_keywords: 'Desinfectante, Kaibosh, Kaivac, COVID-19'
 taxonomyCover: false
 title: '09. Desinfectante KaiBosh '
 titulo: ''
 titulo_adicional: ''
 ---
+
 
 # **KaiBosh**:
 
