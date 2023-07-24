@@ -17,8 +17,8 @@ taxonomyCover: false
 title: Mangueras Sanitarias
 titulo: ''
 titulo_adicional: ''
-weight: ''
 ---
+
 Rubber Fab ofrece una variedad de mangueras de caucho en diferentes materiales para satisfacer prácticamente cualquier aplicación de manguera sanitaria. Nuestras mangueras y conjuntos de mangueras siempre cumplen con los estándares de calidad establecidos por las industrias farmacéutica y alimentaria. Cubiertas de manguera y accesorios también están disponibles
 
 **_A continuación le presentamos algunas:_**
@@ -27,15 +27,15 @@ Rubber Fab ofrece una variedad de mangueras de caucho en diferentes materiales p
 
 **_Características:_**
 
-* Ultra flexible.
-*  Esterilizable en autoclave, CIP, SIP y procesos de radiación gamma.
-* Dureza Valor 70 Shore A.
-* No permite la acumulación de sabor ni olor.
-* Fabricada en cuarto limpio.
-* No tóxico.
-* No pirogénico.
-* Trazabilidad por lote y por número de batch.
-* Resiste temperaturas extremas y ozono.
+- Ultra flexible.
+- Esterilizable en autoclave, CIP, SIP y procesos de radiación gamma.
+- Dureza Valor 70 Shore A.
+- No permite la acumulación de sabor ni olor.
+- Fabricada en cuarto limpio.
+- No tóxico.
+- No pirogénico.
+- Trazabilidad por lote y por número de batch.
+- Resiste temperaturas extremas y ozono.
 
 **_Aplicaciones:_**
 
@@ -67,27 +67,27 @@ Las mangueras de goma Rubber Fab aprobadas por la FDA están diseñadas para tra
 
 ![](https://res.cloudinary.com/novatec/v1597356622/RDM_hxa4cb.png)
 
-**_Características:_** 
+**_Características:_**
 
-* FDA de grado alimenticio
-* Exterior liso / brillante rojo forrado
-* Manguera de cubierta de goma enrollada
-* TUBO: EPDM blanco liso, libre de ftalatos, compatible con REACH
-* CUBIERTA: Goma FDA corrugada ancha con rojo, de baja fricción, liso / brillante,
-* Cubierta UHMW
-* REFUERZO: Capas sintéticas, hélices de alambre de acero
-* TEMPERATURA: -40 ° F a 245 ° F
+- FDA de grado alimenticio
+- Exterior liso / brillante rojo forrado
+- Manguera de cubierta de goma enrollada
+- TUBO: EPDM blanco liso, libre de ftalatos, compatible con REACH
+- CUBIERTA: Goma FDA corrugada ancha con rojo, de baja fricción, liso / brillante,
+- Cubierta UHMW
+- REFUERZO: Capas sintéticas, hélices de alambre de acero
+- TEMPERATURA: -40 ° F a 245 ° F
 
 ### **RFF&B:**
 
 ![](https://res.cloudinary.com/novatec/v1597356754/rff_hxqvjx.png)
 
-**_Características:_** 
+**_Características:_**
 
-* Mezcla de nitrilo / PVC de grado alimenticio FDA 
-* Aplastamiento forrado de alimentos y bebidas Manguera resistente 
-* TUBO: Mezcla suave de nitrilo blanco / PVC 
-* CUBIERTA: Caucho EPDM gris 
-* REFUERZO: Sintético alto tejido extensible con conductor estático hélice de filamento y monofilamento.
+- Mezcla de nitrilo / PVC de grado alimenticio FDA
+- Aplastamiento forrado de alimentos y bebidas Manguera resistente
+- TUBO: Mezcla suave de nitrilo blanco / PVC
+- CUBIERTA: Caucho EPDM gris
+- REFUERZO: Sintético alto tejido extensible con conductor estático hélice de filamento y monofilamento.
 
 ### **_Entre muchas más, no dude en consultarnos!_**

@@ -16,8 +16,8 @@ taxonomyCover: false
 title: 'Válvulas mariposa doble excentricidad '
 titulo: ''
 titulo_adicional: ''
-weight: ''
 ---
+
 ![](https://res.cloudinary.com/novatec/v1596753800/es000427-danais-150_nmafk0.png)
 
 # [**DANAIS 150**](https://products.ksb.com/es-es/productos/valvulas/danais-150-31496)
@@ -26,21 +26,21 @@ Válvula de mariposa de doble excentricidad, con asiento de plastómero (tambié
 
 ### **Aplicaciones principales:**
 
-* Acero
-* Agua
-* Alimentación y Bebidas
-* Azúcar
-* Biocombustible
-* Buques de carga seca
-* Petróleo, gas, industria química y petroquímica
-* Aplicaciones navales, transporte de productos petrolíferos y productos químicos
-* Industria azucarera
-* Energía geotérmica
-* Construcción naval
-* Vapor a baja presión, aplicaciones de vacío
-* Minería, fluidos corrosivos
-* Agentes de limpieza
-* Fluidos muy agresivos
-* Salmuera, industria de la celulosa y el papel, abonos.
+- Acero
+- Agua
+- Alimentación y Bebidas
+- Azúcar
+- Biocombustible
+- Buques de carga seca
+- Petróleo, gas, industria química y petroquímica
+- Aplicaciones navales, transporte de productos petrolíferos y productos químicos
+- Industria azucarera
+- Energía geotérmica
+- Construcción naval
+- Vapor a baja presión, aplicaciones de vacío
+- Minería, fluidos corrosivos
+- Agentes de limpieza
+- Fluidos muy agresivos
+- Salmuera, industria de la celulosa y el papel, abonos.
 
 #### **Toda aplicación que requiera el uso de una válvula de mariposa excéntrica.**

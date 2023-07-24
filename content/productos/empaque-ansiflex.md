@@ -16,24 +16,24 @@ taxonomyCover: false
 title: Empaque Ansi-Flex
 titulo: ''
 titulo_adicional: ''
-weight: ''
 ---
+
 ## **ANSI-FLEX:**
 
 La superficie de contacto de la junta de brida Ansi-Flex 150 # Ansi está unida con PTFE a un núcleo interno de caucho EPDM. Esta construcción totalmente unida proporciona una junta de PTFE con las características mecánicas, incluida la memoria, de una junta de elastómero con resistencia al vapor. La junta de brida Ansi-Flex 150 # tiene una vida útil superior y prolongada sobre las juntas de brida estándar.
 
 ### **Aplicaciones:**
 
-* Tubería de PVC
-* Tubería de revestimiento de vidrio
+- Tubería de PVC
+- Tubería de revestimiento de vidrio
 
 ### **Ansi-Flex cumple con estrictos estándares:**
 
-* Certificación de clase VI de la farmacopea de EE. UU.
-* Criterios de citotoxicidad
-* Estándares sanitarios USDA y 3-A
-* Buenas prácticas de fabricación actuales (CGMP)
-* Estándares ASME-BPE
-* Sin ingredientes de origen animal (sin ADI)
+- Certificación de clase VI de la farmacopea de EE. UU.
+- Criterios de citotoxicidad
+- Estándares sanitarios USDA y 3-A
+- Buenas prácticas de fabricación actuales (CGMP)
+- Estándares ASME-BPE
+- Sin ingredientes de origen animal (sin ADI)
 
 ### [Ver más información>>>](https://rubberfab.com/products/sanitary-gaskets/specialty-gaskets/ansi-flex/#rf-resources)

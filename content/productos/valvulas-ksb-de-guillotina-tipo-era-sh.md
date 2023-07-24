@@ -17,17 +17,17 @@ taxonomyCover: false
 title: Válvulas de Guillotina tipo ERA SH
 titulo: ''
 titulo_adicional: ''
-weight: ''
 ---
+
 # **Diseño**
 
 Válvula de compuerta de cuchilla según ANSI / ASME con cuerpo de una sola pieza de acero al carbono o acero inoxidable; unidireccional, con prensaestopas, vástago ascendente, volante no ascendente.
 
 # **Aplicaciones**
 
-* Ingeniería de plantas industriales y aguas residuales
-* Industria de pulpa y papel
-* Industria de alimentos y bebidas
-* Industria química
-* Para agua, aguas residuales y fluidos cargados de sólidos
-* Otros fluidos
+- Ingeniería de plantas industriales y aguas residuales
+- Industria de pulpa y papel
+- Industria de alimentos y bebidas
+- Industria química
+- Para agua, aguas residuales y fluidos cargados de sólidos
+- Otros fluidos

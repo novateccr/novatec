@@ -19,8 +19,8 @@ taxonomyCover: false
 title: 'Perfil tubular EcoShape '
 titulo: ''
 titulo_adicional: ''
-weight: ''
 ---
+
 # **La siguiente dimensión en sistemas de armazón tubular.**
 
 **Versátil, simple, eficiente....**

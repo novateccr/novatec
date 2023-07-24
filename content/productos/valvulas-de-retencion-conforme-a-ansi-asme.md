@@ -16,9 +16,9 @@ taxonomyCover: false
 title: Válvulas de retención ANSI/ASME
 titulo: ''
 titulo_adicional: ''
-weight: ''
 ---
-# **Válvulas de retención** 
+
+# **Válvulas de retención**
 
 # [**ECOLINE PTF 150-600**](https://products.ksb.com/es-es/productos/valvulas/v%C3%A1lvulas-de-cierre-de-compuerta/ecoline-ptf-150-600-31596)
 
@@ -28,17 +28,17 @@ Válvula de retención tipo lift check conforme a ANSI/ASME con bridas, acero fo
 
 ### **Aplicaciones principales:**
 
-* Centrales eléctricas > 100 MW
-* Centrales eléctricas < 100 MW
-* Energía
-* Industria petroquímica
-* Ingeniería de procesos e industrial
-* Petróleo / Gas
-* Aplicaciones de la industria
-* Centrales eléctricas
-* Ingeniería de procesos
-* refinerías, aceite y Marina
-* Para agua, vapor, gas, aceite y otros fluidos no agresivos.
+- Centrales eléctricas > 100 MW
+- Centrales eléctricas < 100 MW
+- Energía
+- Industria petroquímica
+- Ingeniería de procesos e industrial
+- Petróleo / Gas
+- Aplicaciones de la industria
+- Centrales eléctricas
+- Ingeniería de procesos
+- refinerías, aceite y Marina
+- Para agua, vapor, gas, aceite y otros fluidos no agresivos.
 
 # [**SICCA 800-2500 PCF**](https://products.ksb.com/es-es/productos/valvulas/sicca-800-2500-pcf-22346)
 
@@ -48,16 +48,16 @@ Válvula de retención tipo lift check conforme a ANSI/ASME con extremos roscado
 
 ### **Aplicaciones principales:**
 
-* Agua de refrigeración y condensados
-* Centrales eléctricas > 100 MW
-* Centrales eléctricas < 100 MW
-* Circulación de calderas
-* Energía
-* Industria petroquímica
-* En refinerías
-* Centrales eléctricas
-* Industria en general e Ingeniería de procesos
-* Para agua, vapor, aceite, gas y otros fluidos no agresivos. 
+- Agua de refrigeración y condensados
+- Centrales eléctricas > 100 MW
+- Centrales eléctricas < 100 MW
+- Circulación de calderas
+- Energía
+- Industria petroquímica
+- En refinerías
+- Centrales eléctricas
+- Industria en general e Ingeniería de procesos
+- Para agua, vapor, aceite, gas y otros fluidos no agresivos.
 
 # [**ECOLINE SCC 150-600**](https://products.ksb.com/es-es/productos/valvulas/ecoline-scc-150-600-31616)![](https://res.cloudinary.com/novatec/v1596753072/es000776-ecoline-scc-150-600_nyqylm.png)
 
@@ -65,12 +65,12 @@ Válvula de retención de clapeta oscilante conforme a ANSI/ASME, con bridas, ac
 
 ### **Aplicaciones principales:**
 
-* Agua de refrigeración y condensados
-* Centrales eléctricas > 100 MW
-* Centrales eléctricas < 100 MW
-* Circulación de calderas
-* Energía
-* Industria petroquímica
-* Refinerías
-* Centrales eléctricas
-* Ingeniería de procesos e industria en general; agua, vapor, aceite, gas.
+- Agua de refrigeración y condensados
+- Centrales eléctricas > 100 MW
+- Centrales eléctricas < 100 MW
+- Circulación de calderas
+- Energía
+- Industria petroquímica
+- Refinerías
+- Centrales eléctricas
+- Ingeniería de procesos e industria en general; agua, vapor, aceite, gas.

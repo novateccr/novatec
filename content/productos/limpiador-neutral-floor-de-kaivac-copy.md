@@ -17,8 +17,8 @@ taxonomyCover: false
 title: '10. Desengrasante KaiPow '
 titulo: ''
 titulo_adicional: ''
-weight: ''
 ---
+
 # Paquete de desengrasante KaiPow ™
 
 Un desengrasante de uso general que penetra rápidamente aceites, grasas, grasas y suelos...

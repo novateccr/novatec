@@ -4,6 +4,7 @@
   "private": true,
   "description": "Sitio para Novatec Industrial",
   "scripts": {
+    "audit": "tinacms audit",
     "dev": "tinacms dev -c \"hugo server - D\"",
     "clean": "npm cache clean --force",
     "build": "tinacms build && npm run build:assets && hugo && node critical.js",

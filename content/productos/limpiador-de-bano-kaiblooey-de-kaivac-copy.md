@@ -17,8 +17,8 @@ taxonomyCover: false
 title: '09. Desinfectante KaiBosh '
 titulo: ''
 titulo_adicional: ''
-weight: ''
 ---
+
 # **KaiBosh**:
 
 **KaiBosh es un limpiador desinfectante concentrado de uso hospitalario sin enjuague para COVID-19 (coronavirus), norovirus, gripe aviar y porcina y más, que desinfecta y limpia en un solo paso para ahorrar trabajo.**

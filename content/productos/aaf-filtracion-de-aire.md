@@ -12,13 +12,13 @@ meta_description: ¡Dando vida al aire limpio!
 meta_keywords: >-
   Aire, filtros, aire acondicionado, filtro de aire, HEPA, Filtros de
   partículas, AirGard, Parker,CLARCOR Air Products Filtration, AAF, American Air
-  Filter, Flanders, Camfil  
+  Filter, Flanders, Camfil
 taxonomyCover: false
 title: AAF / Flanders - Filtración de Aire
 titulo: ''
 titulo_adicional: ''
-weight: ''
 ---
+
 ### **Proveemos soluciones de aire limpio !**
 
 ![](https://res.cloudinary.com/novatec/v1636133099/0001-removebg-preview_kf4v81.png)

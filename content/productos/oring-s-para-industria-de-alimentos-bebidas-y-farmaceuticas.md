@@ -15,8 +15,8 @@ taxonomyCover: false
 title: Oring-s Alimentos, bebida & Farma
 titulo: ''
 titulo_adicional: ''
-weight: ''
 ---
+
 ## [**Los Oring-s funcionan en diferentes aplicaciones...**](https://rubberfab.com/es/products/o-rings/)
 
 ![](https://res.cloudinary.com/novatec/v1617721413/FDAOrings_bak2vv.jpg)
@@ -37,13 +37,13 @@ Estos o-rings de goma Fab son conformes a la FDA para su uso en aplicaciones ali
 
 **Materiales:**
 
-* Acero Tuf-Steel
-* Kalrez
-* Silicona curada con platino y peróxido
-* EPDM
-* FKM & Aflas® FFKM
-* PTFE
-* Buna
+- Acero Tuf-Steel
+- Kalrez
+- Silicona curada con platino y peróxido
+- EPDM
+- FKM & Aflas® FFKM
+- PTFE
+- Buna
 
 ![](https://res.cloudinary.com/novatec/v1617723393/descarga_z93v1o.webp)
 

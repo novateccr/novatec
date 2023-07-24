@@ -16,8 +16,8 @@ taxonomyCover: false
 title: 02. UniVac
 titulo: ''
 titulo_adicional: ''
-weight: ''
 ---
+
 ## **Kaivac UniVac**
 
 El sistema UniVac™ es una adaptación compacta del sistema de múltiples galardones Despacho y Aspirado. Esta máquina de limpieza “sin trapeador” de un solo llenado ofrece un método simple para obtener pisos más limpios y seguros en un paquete ágil de una sola pieza, el cual es ideal para áreas con espacio limitado de almacenamiento. Su capacidad de limpieza extrema ofrecen resultados higiénicos en las peores condiciones de suciedad y grasa, dejando los pisos realmente limpios y completamente secos.

@@ -19,8 +19,8 @@ taxonomyCover: false
 title: Pisos Vinílicos ESD
 titulo: ''
 titulo_adicional: ''
-weight: ''
 ---
+
 ![](https://res.cloudinary.com/novatec/v1680725961/AmeriWorx-ESD-Vinyl-Tile-Classics-Collection_utmkvu.jpg)
 
 ### Pisos Vinílicos Antiestáticos

@@ -15,8 +15,8 @@ taxonomyCover: false
 title: Empaques (Cleaver Brooks)
 titulo: ''
 titulo_adicional: ''
-weight: ''
 ---
+
 Kit de empaques para calderas - (Cleaver Brooks)
 
 Lado fuego, lado agua (Manhole, handhole)

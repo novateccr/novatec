@@ -20,8 +20,8 @@ taxonomyCover: false
 title: Restauración, reparación, mant de techos - TREMCO
 titulo: ''
 titulo_adicional: ''
-weight: ''
 ---
+
 ## Tremco Roofing ofrece las soluciones de impermeabilización y techado más completas de la industria para restauración, reparación, mantenimiento, reemplazo y nueva construcción.
 
 ### **ALUMANATION® 301:**
@@ -30,9 +30,9 @@ Es un recubrimiento líquido impermeabilizante para mantenimiento de techos form
 
 **USOS:**
 
-* Techos y muros metálicos
-* Cubiertas y techos BUR
-* Cubiertas y techos asfalticos.
+- Techos y muros metálicos
+- Cubiertas y techos BUR
+- Cubiertas y techos asfalticos.
 
   ![](https://res.cloudinary.com/novatec/v1597776732/11_pnl4k8.png)
 
@@ -54,9 +54,9 @@ PERMAFAB está diseñada para ser utilizada con recubrimientos y selladores de T
 
 **USOS:**
 
-* Detallado de techos
-* Impermeabilizacion con sistema Alumanation
-* Impermeabilizacion con sistema Geogard
-* Impermeabilizacion con sistema AlphaGuard
+- Detallado de techos
+- Impermeabilizacion con sistema Alumanation
+- Impermeabilizacion con sistema Geogard
+- Impermeabilizacion con sistema AlphaGuard
 
 ![](https://res.cloudinary.com/novatec/v1597777059/maxresdefault_jzwmvh.jpg)

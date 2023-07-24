@@ -16,8 +16,8 @@ taxonomyCover: false
 title: Flowfast sistema de rápida curación
 titulo: ''
 titulo_adicional: ''
-weight: ''
 ---
+
 La pintura para pavimentos Flowfast acrílico ha sido diseñado para ofrecer a sus clientes un acabado de pavimento decorativo y duradero que apropiado para rápidas puestas en obra.
 
 Gracias al uso de un metacrilato de metilo (MMA), Flowfast es capaz de acelerar la velocidad de endurecimiento del pavimento, por lo que es una excelente opción para los proyectos de reforma de tiendas ya que se ajustan al tiempo disponible para la aplicación, o también en pavimentos en Edificios de nueva construcción.

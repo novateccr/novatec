@@ -17,8 +17,8 @@ taxonomyCover: false
 title: '11. Limpiador Neutral Floor '
 titulo: ''
 titulo_adicional: ''
-weight: ''
 ---
+
 # Limpiador Neutral Floor:
 
 Un limpiador diario con pH neutro que es duro en los suelos pero suave en los pisos y acabados. Funciona muy bien en prácticamente cualquier piso de superficie dura, como vinilo, piedra, concreto pulido, mármol, caucho, epoxi, granito, cerámica y más. Es ideal para usar con OmniFlex AutoVac, pero también se puede aplicar usando un depurador automático o un sistema de limpieza.

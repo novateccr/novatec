@@ -21,14 +21,14 @@ marcas:
 meta_description: >-
   PumpDrive R es un variador de frecuencia para montaje en pared o gabinete
   diseñado para control de velocidad variable y otras funciones de control para
-  motores asíncronos, motores de reluctancia síncrona como KSB SuPremE 
+  motores asíncronos, motores de reluctancia síncrona como KSB SuPremE
 meta_keywords: Variadores, VDF, PumpDrive R, PumpDrive 2, Pump Drive
 taxonomyCover: false
 title: 'Variadores de velocidad VDF - PumpDrive '
 titulo: ''
 titulo_adicional: ''
-weight: ''
 ---
+
 ### **PumpDrive R**
 
 #### **Diseño:**

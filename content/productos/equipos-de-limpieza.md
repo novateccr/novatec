@@ -20,13 +20,13 @@ meta_description: >-
   empujable – sin pérdida de efectividad de limpieza.
 meta_keywords: >-
   Equipo de limpieza, Equipo de limpieza industrial,  Kaivac, AutoVac, Stretch,
-  máquinas de limpieza de pisos 
+  máquinas de limpieza de pisos
 taxonomyCover: false
 title: 04. AutoVac Stretch
 titulo: ''
 titulo_adicional: ''
-weight: ''
 ---
+
 Conozca Kaivac AutoVac - Stretch. La tecnología de limpieza de suciedad extrema de Kaivac, en combinación con la fuente de energía de iones de litio de cambio rápido, y la opción de reciclaje de un solo llenado permite un rango de limpieza nunca antes visto en una máquina empujable – sin pérdida de efectividad de limpieza. Ofrece el desempeño de un fregador automático a una fracción del costo y complejidad.
 
 **Puntos destacados:**
@@ -39,7 +39,7 @@ Conozca Kaivac AutoVac - Stretch. La tecnología de limpieza de suciedad extrem
 energía para un mayor rango de  
 limpieza.
 
-\* Elimina el  99% de suciedad.
+\* Elimina el 99% de suciedad.
 
 \* Reduce el consumo de agua un 75%  
 o más.

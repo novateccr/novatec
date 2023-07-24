@@ -16,12 +16,12 @@ taxonomyCover: false
 title: Bombas Dosificadoras
 titulo: ''
 titulo_adicional: ''
-weight: ''
 ---
+
 ## **Diseñadas para Durar.**
 
 Presentamos la nueva Bomba Dosificadora de Químicos Serie PD: diseñada específicamente para aplicaciones de tratamiento de aguas industriales. La nueva bomba de la serie PD añade tecnología avanzada a una de las bombas más populares de LMI. Disponible en dos modelos, Manual y Avanzado, la serie PD se adapta perfectamente a su proceso de tratamiento de agua al tiempo que agrega comodidad y valor a su aplicación
 
-Ir a pagina web: [Bombas LMI - MiltonRoy](https://www.lmipumps.com/es/ "Bombas LMI")
+Ir a pagina web: [Bombas LMI - MiltonRoy](https://www.lmipumps.com/es/ 'Bombas LMI')
 
 Consúltenos!

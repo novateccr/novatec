@@ -20,8 +20,8 @@ taxonomyCover: false
 title: '03. No-Touch Cleaning, NTC '
 titulo: ''
 titulo_adicional: ''
-weight: ''
 ---
+
 ## **Kaivac No-Touch Cleaning.**
 
 #### No solo limpie, use Kaivac...
@@ -38,7 +38,7 @@ Resuelva el riesgo de salud y queja número 1 en el mantenimiento de edificios: 
 
 \*Limpie su sanitario de manera más fácil, rápida, y económica.
 
-\*Elimine el estigma de la limpieza de los sanitarios. Permita   que los trabajadores hagan la limpieza sin entrar en contacto directo con las superficies, y sin gatear para llegar a las áreas difíciles de alcanzar.
+\*Elimine el estigma de la limpieza de los sanitarios. Permita que los trabajadores hagan la limpieza sin entrar en contacto directo con las superficies, y sin gatear para llegar a las áreas difíciles de alcanzar.
 
 \*Haga la limpieza en una tercera parte del tiempo en comparación con los métodos convencionales; esto reduce también el costo de mano de obra y tiempo de cierre del sanitario.
 

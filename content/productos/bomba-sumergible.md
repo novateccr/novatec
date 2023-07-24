@@ -19,21 +19,21 @@ taxonomyCover: false
 title: Bombas Sumergibles
 titulo: ''
 titulo_adicional: ''
-weight: ''
 ---
+
 ### **Bombas Sumergibles tipo UPA:**
 
 Las bombas sumergibles para pozos profundos UPA 150C son adecuadas para pozos con diámetros desde 150 mm. Permite su instalación vertical en pozos profundos estrechos, o su instalación horizontal.
 
 **Aplicaciones de la bomba para pozos profundos de KSB UPA 150C:**
 
-* Manejo de agua limpia o ligeramente contaminada 
-* Regadíos y drenajes, riegos por aspersión 
-* Abastecimiento de agua Industrial y municipal
-* Disminución y gestión de aguas subterráneas
-* Abastecimiento de agua bruta y de servicio
-* Aumento de presión
-* Abastecimiento agua potable (certificada según ACS)
+- Manejo de agua limpia o ligeramente contaminada
+- Regadíos y drenajes, riegos por aspersión
+- Abastecimiento de agua Industrial y municipal
+- Disminución y gestión de aguas subterráneas
+- Abastecimiento de agua bruta y de servicio
+- Aumento de presión
+- Abastecimiento agua potable (certificada según ACS)
 
 ### Beneficios de la bomba sumergible para pozos profundos de KSB
 
@@ -45,11 +45,11 @@ Las bombas sumergibles para pozos profundos de KSB se soportan en la fiabilidad 
 
 Razones por las que las bombas para pozos son tan fiables:
 
-* Filtros de aspiración reforzados
-* Linternas de motor /soporte de motor robustos
-* Válvulas de retención integradas
-* Impulsores por soldadura láser
-* Protección contra giro en sentido inverso
+- Filtros de aspiración reforzados
+- Linternas de motor /soporte de motor robustos
+- Válvulas de retención integradas
+- Impulsores por soldadura láser
+- Protección contra giro en sentido inverso
 
 **Bajo costo de funcionamiento**  
 KSB suministra bombas para pozos libres de mantenimiento con motores perfectamente ajustados. Esto reduce los costos de energía. La válvula de retención de baja perdida contribuye también al ahorro a largo plazo.

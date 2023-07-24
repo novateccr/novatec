@@ -16,8 +16,8 @@ taxonomyCover: false
 title: 'Válvulas de compuerta ANSI/ASME '
 titulo: ''
 titulo_adicional: ''
-weight: ''
 ---
+
 # **Válvulas de compuerta ANSI/ASME KSB**
 
 # [**ECOLINE GTC 150-600**](https://products.ksb.com/es-es/productos/valvulas/ecoline-gtc-150-600-31620)
@@ -28,17 +28,17 @@ Válvula de compuerta conforme a ANSI/ASME, con bridas, acero fundido A216 WCB, 
 
 ### **Aplicaciones principales:**
 
-* Agua de refrigeración y condensados
-* Centrales eléctricas > 100 MW
-* Centrales eléctricas < 100 MW
-* Circulación de calderas
-* Energía
-* Industria petroquímica
-* Aplicaciones de la industria
-* Centrales eléctricas
-* Ingeniería de procesos
-* Refinerías, aceite y Marina
-* Para agua, vapor, gas, aceite y otros fluidos no agresivos.
+- Agua de refrigeración y condensados
+- Centrales eléctricas > 100 MW
+- Centrales eléctricas < 100 MW
+- Circulación de calderas
+- Energía
+- Industria petroquímica
+- Aplicaciones de la industria
+- Centrales eléctricas
+- Ingeniería de procesos
+- Refinerías, aceite y Marina
+- Para agua, vapor, gas, aceite y otros fluidos no agresivos.
 
 # [**ECOLINE GTF 150-600**](https://products.ksb.com/es-es/productos/valvulas/valvulas-asme-ansi/ecoline-gtf-150-600-31642)
 
@@ -48,17 +48,17 @@ Válvula de compuerta conforme a ANSI/ASME con bridas, acero forjado A105, acaba
 
 ### **Aplicaciones principales:**
 
-* Centrales eléctricas > 100 MW
-* Centrales eléctricas < 100 MW
-* Energía
-* Industria petroquímica
-* Ingeniería de procesos e industrial
-* Petróleo / Gas
-* Aplicaciones de la industria
-* Centrales eléctricas
-* Ingeniería de procesos
-* Refinerías, aceite y Marina
-* Para agua, vapor, gas, aceite y otros fluidos no agresivos.
+- Centrales eléctricas > 100 MW
+- Centrales eléctricas < 100 MW
+- Energía
+- Industria petroquímica
+- Ingeniería de procesos e industrial
+- Petróleo / Gas
+- Aplicaciones de la industria
+- Centrales eléctricas
+- Ingeniería de procesos
+- Refinerías, aceite y Marina
+- Para agua, vapor, gas, aceite y otros fluidos no agresivos.
 
 # [**ECOLINE GTV 150-600**](https://products.ksb.com/es-es/productos/valvulas/valvulas-asme-ansi/ecoline-gtv-150-600-31634)
 
@@ -68,16 +68,16 @@ Válvula de compuerta conforme a ANSI/ASME con bridas, fundición de acero A351 
 
 ### **Aplicaciones principales:**
 
-* Centrales eléctricas < 100 MW
-* Industria petroquímica
-* Industria química
-* Ingeniería de procesos e industrial
-* Petróleo / Gas
-* Refinería
-* Química especializada
-* Industria alimentaria
-* Industria en general
-* Agua, vapor, gas y otros fluidos.
+- Centrales eléctricas < 100 MW
+- Industria petroquímica
+- Industria química
+- Ingeniería de procesos e industrial
+- Petróleo / Gas
+- Refinería
+- Química especializada
+- Industria alimentaria
+- Industria en general
+- Agua, vapor, gas y otros fluidos.
 
 # [**ECOLINE GTF 800**](https://products.ksb.com/es-es/productos/valvulas/ecoline-gtf-800-31570)
 
@@ -87,14 +87,14 @@ Válvula de compuerta conforme a ANSI/ASME con manguitos roscados (NPT), extremo
 
 ### **Aplicaciones principales:**
 
-* Agua de refrigeración y condensados
-* Almacenamiento en cavernas
-* Centrales eléctricas > 100 MW
-* Centrales eléctricas < 100 MW
-* Circulación de calderas
-* Energía
-* Aplicaciones de la industria
-* Centrales eléctricas
-* Ingeniería de procesos
-* Refinerías, aceite y Marina
-* Para agua, vapor, gas, aceite y otros fluidos no agresivos.
+- Agua de refrigeración y condensados
+- Almacenamiento en cavernas
+- Centrales eléctricas > 100 MW
+- Centrales eléctricas < 100 MW
+- Circulación de calderas
+- Energía
+- Aplicaciones de la industria
+- Centrales eléctricas
+- Ingeniería de procesos
+- Refinerías, aceite y Marina
+- Para agua, vapor, gas, aceite y otros fluidos no agresivos.
