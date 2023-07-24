@@ -14,12 +14,13 @@ industrias:
 marcas:
   - KSB
 meta_description: Válvula de mariposa de disco centrado tipo KSB
-meta_keywords: Válvula de mariposa, KSB, Boax b
+meta_keywords: 'Válvula de mariposa, KSB, Boax b'
 taxonomyCover: false
 title: 'Válvulas de mariposa tipo Boax-B '
 titulo_adicional: ''
 weight: 133
 ---
+
 # **Válvulas de mariposa tipo Boax-B de KSB**
 
 ### **Nuestras válvulas tienen gran cantidad de aplicaciones, entre ellas:**
