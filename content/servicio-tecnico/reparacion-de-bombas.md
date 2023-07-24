@@ -5,6 +5,7 @@ info: ''
 title: 'Servicio técnico de bombeo. '
 ---
 
+
 ### **En Novatec contamos con el servicio de Mantenimiento y Reparación de bombas.**
 
 **Servicio profesional e individual para bombas KSB y repuestos originales de KSB: KSB ofrece conceptos de repuestos y servicio a medida para bombas, válvulas y otros equipos rotativos, sea cual sea el fabricante: la solución perfecta para todo el ciclo de vida.**
