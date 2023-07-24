@@ -8,6 +8,7 @@ tags:
   - mangueras
 title: Prensado radial de -360 °
 ---
+
 Prensado radial de -360 °
 
 El equipo de fabricación de la manguera de Rubber Fab ofrece un engarce radial de 360 ° a nuestra manguera sanitaria para un bloqueo positivo que permite que el ensamble se use a la presión máxima de trabajo del estilo y tamaño de la manguera en particular sin que sea necesario quitarla.
