@@ -20,6 +20,7 @@ titulo_adicional: ''
 ---
 
 
+
 ## **Válvula de retención de tapón químico:**
 
 Se ajusta dentro de la jarra de galones para extraer químicos.
