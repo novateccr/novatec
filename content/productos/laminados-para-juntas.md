@@ -12,13 +12,14 @@ imagen: /v1617730411/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_15_k8z3zo.png
 industrias: []
 marcas:
   - 'Garlock '
-meta_description: Laminados para juntas, Empaques Garlock
-meta_keywords: Empaques libres de asbesto, blue gard, gylon
+meta_description: 'Laminados para juntas, Empaques Garlock'
+meta_keywords: 'Empaques libres de asbesto, blue gard, gylon'
 taxonomyCover: false
 title: Laminados para Juntas
 titulo: ''
 titulo_adicional: ''
 ---
+
 
 **Las juntas Garlock® se ofrecen en una amplia gama de materiales, incluidas las juntas de fibra comprimida con PTFE reestructurado GYLON®, las láminas de grafito flexibles GRAPH-LOCK®, las juntas para temperaturas extremas THERMa-PUR y los productos de láminas de caucho de alto rendimiento.**
 
