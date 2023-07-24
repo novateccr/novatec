@@ -25,6 +25,7 @@ weight: 20
 ---
 
 
+
 # **Incompresible, extensible, altamente impermeable y elástica. Disponibles en rollos, longitudes en yardas y juntas cortadas.**
 
 La mayoría de los clientes suponen, cuando compran un rollo de “neopreno”, que la parte de polímero de los materiales que recibieron de hecho es TODA de neopreno. Desafortunadamente, eso no podría estar más alejado de la realidad. La mayoría de los productos de láminas de caucho de bajo costo que se venden en el mercado en la actualidad contienen solamente una fracción del polímero declarado (en muchos casos, menos del 5 %). El resto son polímeros de menor costo. Esto se convierte en un problema cuando los “otros polímeros” no son compatibles con el elemento en el servicio previsto, lo que puede provocar tiempo de inactividad, pérdida de producción y, más importante aún, un riesgo para la seguridad de los trabajadores en las instalaciones.
