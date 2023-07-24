@@ -12,7 +12,7 @@ import { servicio_t_cnicoFields } from './templates';
 const branch = process.env.HEAD || 'master';
 
 export default defineConfig({
-  // branch,
+  branch,
   clientId: '834ff0fb-a8c2-471a-8f32-9f0c34b4af05', // Get this from tina.io
   token: 'e24d7734efb42a8ee7570c3278c2184182fb8722', // Get this from tina.io
   client: { skip: true },
