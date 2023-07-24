@@ -56,12 +56,6 @@ barra_fondo_imagen:
 menu:
   principal:
     parent: ''
-    weight: '2'
+    weight: 2
 _template: inicio
 ---
-
-
-
-
-
-

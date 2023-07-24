@@ -8,7 +8,6 @@ meta_keywords: >-
   pulido pisos, sase, pulidoras, diamantados, concreto, preparación de
   superficie
 title: SASE
-weight: ''
 menu:
   principal:
     parent: Marcas

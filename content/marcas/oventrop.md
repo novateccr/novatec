@@ -6,7 +6,6 @@ logo: /v1613755026/oventrop-logo_uvvmln.gif
 meta_description: Válvulas de control
 meta_keywords: 'valvulas, valvulas de control'
 title: Oventrop
-weight: ''
 menu:
   principal:
     parent: Marcas
@@ -17,7 +16,7 @@ Oventrop es una de las empresas más avanzadas y prestigiosas en Europa en la fa
 
 Los productos Oventrop son líderes en diseño e innovación. La construcción y el diseño se trabajan en la fábrica.
 
-Además, Oventrop trabaja junto con diseñadores externos líderes. 
+Además, Oventrop trabaja junto con diseñadores externos líderes.
 
 Oventrop es un diseñador líder de válvulas y accesorios para radiadores.
 

@@ -6,7 +6,6 @@ logo: /v1680736615/AWH_LOGO_beqazj.jpg
 meta_description: Válvulas para sistemas HVAC
 meta_keywords: 'valvulas, valvulas sanitarias, valvuleria, HVAC, NIBCO, VNE'
 title: AWH
-weight: ''
 menu:
   principal:
     parent: Marcas

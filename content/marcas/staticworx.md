@@ -6,7 +6,7 @@ link: 'https://staticworx.com/'
 catalogo: ''
 meta_keywords: 'pisos, vinil, pisos vinilicos, ESD, staticworx, antiestáticos'
 meta_description: Pisos Vinílicos Antiestáticos
-weight: '19'
+weight: 19
 menu:
   principal:
     parent: Marcas

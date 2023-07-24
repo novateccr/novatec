@@ -9,7 +9,6 @@ meta_keywords: >-
   impermeabilización y techado más completas de la industria para restauración,
   reparación, mantenimiento, reemplazo y nueva construcción.
 title: TREMCO
-weight: ''
 menu:
   principal:
     parent: Marcas

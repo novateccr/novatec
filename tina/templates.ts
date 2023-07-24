@@ -62,7 +62,7 @@ export function industriaFields() {
       label: 'Meta description'
     },
     {
-      type: 'string',
+      type: 'number',
       name: 'weight',
       label: 'Weight'
     }
@@ -186,7 +186,7 @@ export function marcasFields() {
       label: 'Meta description'
     },
     {
-      type: 'string',
+      type: 'number',
       name: 'weight',
       label: 'Weight'
     },
