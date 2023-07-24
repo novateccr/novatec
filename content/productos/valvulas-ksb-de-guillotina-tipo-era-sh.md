@@ -20,6 +20,7 @@ titulo_adicional: ''
 ---
 
 
+
 # **Diseño**
 
 Válvula de compuerta de cuchilla según ANSI / ASME con cuerpo de una sola pieza de acero al carbono o acero inoxidable; unidireccional, con prensaestopas, vástago ascendente, volante no ascendente.
