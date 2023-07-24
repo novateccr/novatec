@@ -11,12 +11,13 @@ industrias:
 marcas:
   - KSB
 meta_description: Válvulas de compuerta ANSI/ASME KSB
-meta_keywords: válvulas de compuerta, KSB, ANSI,ASME
+meta_keywords: 'válvulas de compuerta, KSB, ANSI,ASME'
 taxonomyCover: false
 title: 'Válvulas de compuerta ANSI/ASME '
 titulo: ''
 titulo_adicional: ''
 ---
+
 
 # **Válvulas de compuerta ANSI/ASME KSB**
 
