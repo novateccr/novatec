@@ -21,6 +21,7 @@ titulo_adicional: ''
 weight: 140
 ---
 
+
 # Bomba de doble tornillo Fristam FDS. 
 
 ## _Un diseño Perfeccionado:_
