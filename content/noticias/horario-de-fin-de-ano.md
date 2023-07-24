@@ -7,6 +7,7 @@ tags: []
 title: Horario de fin de año
 ---
 
+
 Estaremos cerrados a partir del Lunes 23 de Diciembre y regresamos el Lunes 6 de Enero 2020
 
 Para emergencias nos puedes escribir a: asistencia@novatec.cr
