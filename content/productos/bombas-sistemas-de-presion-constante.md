@@ -27,6 +27,7 @@ titulo_adicional: ''
 weight: 139
 ---
 
+
 ### **Bombas de Alta Presión Movitec:**
 
 KSB ha mejorado aún más sus bombas de alta presión Movitec en términos de materiales, sellados y conexión. Las bombas son ahora aún más versátiles que antes, cuentan con componentes hidráulicos optimizados, la bomba in-line para alta presión cumple ya con los requisito de eficiencia de la regulación ErP Europea. Por lo tanto, desempeña un papel importante en el ahorro de la energía. Adicionalmente, el concepto global de eficiencia energética FluidFuture® KSB permite optimizar todo el sistema hidráulico.
