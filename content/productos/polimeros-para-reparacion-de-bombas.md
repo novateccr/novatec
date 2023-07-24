@@ -20,6 +20,7 @@ weight: 137
 ---
 
 
+
 ## **Novatec Industrial le ofrece gran variedad de polímeros para la reparación de bombas, así como el servicio mismo.**
 
 ## **Serie 1000:**
