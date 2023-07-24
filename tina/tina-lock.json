@@ -123,7 +123,7 @@
               {
                 "type": "object",
                 "name": "barra_fondo_imagen",
-                "label": "Barra fondo imagen z",
+                "label": "Barra fondo imagen",
                 "fields": [
                   {
                     "type": "string",
