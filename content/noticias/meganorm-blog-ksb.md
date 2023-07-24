@@ -6,6 +6,7 @@ tags:
   - KSB
 title: Meganorm Blog- KSB
 ---
+
 # Bomba KSB Megabloc
 
 Tecnología avanzada, construcción robusta y simplicidad de diseño hacen de la bomba KSB Megabloc la mejor de las opciones en bombas monobloque para aplicaciones industriales, construcción civil, aire acondicionado, agricultura, riego, uso doméstico o servicios generales.
