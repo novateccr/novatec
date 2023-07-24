@@ -20,6 +20,7 @@ weight: 22
 ---
 
 
+
 # **Protectores de Rodamiento KLOZURE:**
 
 #### **_Aisladores de rodamientos Klozure® para bombas, motores y cajas de engranajes._**
