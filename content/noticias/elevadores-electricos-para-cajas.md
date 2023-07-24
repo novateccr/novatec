@@ -6,6 +6,7 @@ tags: []
 title: Elevadores eléctricos para cajas
 ---
 
+
 Las dolencias del aparato motor del ser humano son una de las causas principales para las ausencias de los trabajadores.
 
 Debe reducir la carga física a la que expone a sus empleados a un nivel mínimo si desea bajar el número de bajas en su producción de forma duradera. Sobre todo el levantamiento y el depósito repetido de cargas puede causar posturas de trabajo incorrectas y, por lo tanto, generar una gran carga en los empleados. La flexión del tronco (por debajo de 800 mm) supone una carga desproporcionada para el ser humano.
