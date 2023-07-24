@@ -23,6 +23,7 @@ titulo_adicional: ''
 
 
 
+
 ### **Bombas Sumergibles tipo UPA:**
 
 Las bombas sumergibles para pozos profundos UPA 150C son adecuadas para pozos con diámetros desde 150 mm. Permite su instalación vertical en pozos profundos estrechos, o su instalación horizontal.
