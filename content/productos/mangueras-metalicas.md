@@ -22,6 +22,7 @@ weight: 23
 ---
 
 
+
 Novatec Industrial maneja una línea completa de mangueras metálicas anulares en diferentes tamaños, aleaciones y configuraciones. La manguera UNAFLEX de metal Matchless es ideal para absorber vibraciones, desalineación, expansión o contracción de la tubería y movimiento del equipo.
 
 El trenzado permite el uso a altas presiones y también atenúa la vibración. Cada corrugación anular es un elemento separado diseñado para impartir una fl exibilidad óptima para cada tamaño de manguera que ofrecemos.
