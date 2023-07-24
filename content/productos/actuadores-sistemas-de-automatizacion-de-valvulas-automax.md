@@ -13,12 +13,13 @@ industrias:
 marcas:
   - KSB
 meta_description: Actuadores - Sistemas de automatización de Válvulas KSB
-meta_keywords: Actuadores, válvulas, KSB, sistemas de automatización
+meta_keywords: 'Actuadores, válvulas, KSB, sistemas de automatización'
 taxonomyCover: false
 title: Actuadores y Accionadores KSB
 titulo_adicional: ''
 weight: 132
 ---
+
 # **Todo para su proyecto:**
 
 ### A continuación le presentamos los principales Actuadores y Accionadores de la marca KSB.
