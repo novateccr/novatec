@@ -7,4 +7,5 @@ tags:
   - Dispositivos Médicos
 title: Esta es otra prueba
 ---
+
 Este es el cuerpo de la noticia
