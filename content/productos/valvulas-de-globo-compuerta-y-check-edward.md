@@ -11,10 +11,11 @@ industrias:
   - Energía
 marcas:
   - KSB
-meta_description: Válvulas Eduard,
+meta_description: 'Válvulas Eduard,'
 meta_keywords: valvular para vapor
 taxonomyCover: false
-title: Válvulas de globo, compuerta y check (Edward)
+title: 'Válvulas de globo, compuerta y check (Edward)'
 titulo: ''
 weight: 130
 ---
+
