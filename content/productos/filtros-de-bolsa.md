@@ -20,6 +20,7 @@ titulo_adicional: ''
 weight: 16
 ---
 
+
 ## **Tipos de filtros de bolsa:**
 
 ### **Tamaño 1:**
