@@ -7,4 +7,5 @@ title: Equipos SPC Delta Basic - KSB
 ---
 
 
+
 Equipos SPC Delta Basic - KSB
