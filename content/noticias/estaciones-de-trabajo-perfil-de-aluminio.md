@@ -8,6 +8,7 @@ title: Estaciones de Trabajo (perfil de aluminio)
 
 
 
+
 ## [**Estaciones de trabajo personalizadas**](https://www.boschrexroth.com/es/mx/productos/grupo-de-productos/tecnologia-de-ensamble/sistemas-de-produccion-manual/puestos-de-trabajo)
 
 Las estaciones de trabajo personalizadas ofrecen dimensiones variables y componentes versátiles para la configuración individual y flexible de sus estaciones de trabajo.
