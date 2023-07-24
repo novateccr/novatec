@@ -10,6 +10,7 @@ title: >-
 
 
 
+
 Los sellos GYLON BIO-PRO® ofrecen una solución segura y duradera para proteger la integridad de los elementos de procesamiento farmacéutico y alimenticio. Su material PTFE modificado y reestructurado es premoldeado y tiene la tensión controlada para todas las conexiones TRI-CLAMP comunes. Es dimensionalmente estable y resiste la intrusión.
 
 ![](https://res.cloudinary.com/novatec/v1603380689/d5473e71-5e89-4068-9532-f8d6a4172f7e_1_ltj0ue.jpg)
