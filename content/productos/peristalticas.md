@@ -15,7 +15,7 @@ industrias:
 marcas:
   - Graco
 meta_description: Bombas Peristálticas marca Graco
-meta_keywords: Bombas Peristálticas, Graco, Solotech
+meta_keywords: 'Bombas Peristálticas, Graco, Solotech'
 taxonomyCover: false
 title: 'Bombas Peristálticas '
 titulo: ''
@@ -23,6 +23,7 @@ titulo_adicional: ''
 type: ''
 weight: 5
 ---
+
 **Bombas Peristálticas marca Graco.**
 
 Modelo SoloTech.
