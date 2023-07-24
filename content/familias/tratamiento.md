@@ -1,7 +1,7 @@
 ---
 title: Tratamiento
 id: '10'
-imagen: '/v1530801710/familias/'
+imagen: /v1530801710/familias/
 link: ''
 catalogo: ''
 meta_keywords: ''
@@ -13,3 +13,4 @@ menu:
     weight: 5
 draft: true
 ---
+
