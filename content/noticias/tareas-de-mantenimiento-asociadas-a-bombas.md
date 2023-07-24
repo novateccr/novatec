@@ -14,6 +14,7 @@ title: 'Tareas de mantenimiento asociadas a bombas:'
 
 
 
+
 # Tareas de mantenimiento asociadas a bombas:
 
 ![](https://res.cloudinary.com/novatec/v1584055763/reaparacion6_opjicw.jpg)
