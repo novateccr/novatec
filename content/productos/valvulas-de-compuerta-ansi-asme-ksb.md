@@ -20,6 +20,7 @@ titulo_adicional: ''
 
 
 
+
 # **Válvulas de compuerta ANSI/ASME KSB**
 
 # [**ECOLINE GTC 150-600**](https://products.ksb.com/es-es/productos/valvulas/ecoline-gtc-150-600-31620)
