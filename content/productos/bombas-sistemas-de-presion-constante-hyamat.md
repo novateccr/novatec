@@ -17,8 +17,8 @@ industrias:
   - Electrónica
 marcas:
   - KSB
-meta_description: Sistema de presión constante, Ksb, bombas, variador
-meta_keywords: Ksb, Presión constante, hyamat
+meta_description: 'Sistema de presión constante, Ksb, bombas, variador'
+meta_keywords: 'Ksb, Presión constante, hyamat'
 taxonomyCover: false
 title: Bombas Sistema de Presión Constante KSB tipo Hyamat
 titulo: ''
@@ -26,6 +26,7 @@ titulo_adicional: ''
 type: ''
 weight: 139
 ---
+
 ### **Descripción:**
 
 Sistema automático de agua a presión, con 2 a 6 bombas verticales y control variable de velocidad en cada bomba mediante PumpDrive; para completo control electrónico para asegurar la presión de suministro requerida. Configuración y funciones según DIN 1988. Automatizado con BoosterControl y PumpDrive.
