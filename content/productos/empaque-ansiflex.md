@@ -11,12 +11,13 @@ industrias: []
 marcas:
   - Rubber Fab
 meta_description: Empaque Ansi-Flex
-meta_keywords: ANSI flex, ANSI-FLEX, PVC, Rubber Fab
+meta_keywords: 'ANSI flex, ANSI-FLEX, PVC, Rubber Fab'
 taxonomyCover: false
 title: Empaque Ansi-Flex
 titulo: ''
 titulo_adicional: ''
 ---
+
 
 ## **ANSI-FLEX:**
 
