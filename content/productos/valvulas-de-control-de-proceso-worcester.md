@@ -15,12 +15,13 @@ industrias:
 marcas:
   - KSB
 meta_description: Válvulas de Control de Proceso Ecoline XLC KSB
-meta_keywords: Valvulas de control, válvulas proceso, ecoline, xlc, KSB
+meta_keywords: 'Valvulas de control, válvulas proceso, ecoline, xlc, KSB'
 taxonomyCover: false
 title: 'Válvulas Control de Proceso XLC '
 titulo_adicional: ''
 weight: 31
 ---
+
 # **ECOLINE XLC de KSB**
 
 ## **Diseño:**
