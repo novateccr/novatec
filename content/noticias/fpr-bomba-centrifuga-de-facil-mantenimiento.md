@@ -8,6 +8,7 @@ title: 'FPR: Bomba centrífuga de fácil mantenimiento'
 
 
 
+
 La bomba sanitaria centrífuga serie FPR de Fristam, diseñada para ser fácil de mantener y requerir menor inventario de piezas de repuesto, exceden las normas establecidas por nuestras bombas centrífugas y de desplazamiento positivo de alto rendimiento.
 
 ![](https://res.cloudinary.com/novatec/v1603143909/2d5a6b19-7d69-41cb-9485-95455b9715f7_tb299m.png)
