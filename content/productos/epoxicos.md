@@ -29,6 +29,7 @@ weight: 17
 ---
 
 
+
 Un acabado de resina audaz, brillante y vibrante es una forma fantástica de infundir un espacio comercial con diseños llamativos y de color, al mismo tiempo que garantiza que el piso tenga la funcionalidad necesaria para un alto nivel. 
 
 Las soluciones de pisos comerciales de Flowcrete se han formulado para ofrecer una estética sorprendente combinada con una excelente resistencia al deslizamiento y la durabilidad para soportar las demandas de las instalaciones comerciales ocupadas, como centros comerciales, aeropuertos, escuelas y hospitales.

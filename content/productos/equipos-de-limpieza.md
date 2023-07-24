@@ -29,6 +29,7 @@ titulo_adicional: ''
 
 
 
+
 Conozca Kaivac AutoVac - Stretch. La tecnología de limpieza de suciedad extrema de Kaivac, en combinación con la fuente de energía de iones de litio de cambio rápido, y la opción de reciclaje de un solo llenado permite un rango de limpieza nunca antes visto en una máquina empujable – sin pérdida de efectividad de limpieza. Ofrece el desempeño de un fregador automático a una fracción del costo y complejidad.
 
 **Puntos destacados:**

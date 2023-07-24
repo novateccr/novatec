@@ -22,6 +22,7 @@ weight: 133
 ---
 
 
+
 # **Válvulas de mariposa tipo Boax-B de KSB**
 
 ### **Nuestras válvulas tienen gran cantidad de aplicaciones, entre ellas:**

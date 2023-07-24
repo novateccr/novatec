@@ -19,6 +19,7 @@ weight: 129
 ---
 
 
+
 # **KSB PROFIN VT2**
 
 ## Válvula de Bola de 2 Cuerpos Conexión NPT

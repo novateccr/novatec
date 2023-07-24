@@ -24,6 +24,7 @@ weight: 58
 ---
 
 
+
 Junta de expansión de tejido KE se instalan como conexiones flexibles en aire, conductos y sistemas de tuberías de gases de combustión para absorber o compensar la dilatación térmica, vibraciones y desalineaciones.
 
 ### **Ventajas de la Junta de expansión de tejido KE:**
