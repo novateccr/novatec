@@ -1,7 +1,7 @@
 ---
 catalogo: ''
 id: ''
-link: https://www.lmipumps.com/
+link: 'https://www.lmipumps.com/'
 logo: /v1565046599/LMI_fjwhsu.jpg
 meta_description: ''
 meta_keywords: Todo en bombas dosificadoras
@@ -12,4 +12,5 @@ menu:
     parent: Marcas
     weight: 9
 ---
+
 **Bombas Dosificadoras**
