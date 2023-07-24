@@ -11,5 +11,5 @@ menu:
   principal:
     parent: Marcas
     weight: 8
-_template: marcas
 ---
+
