@@ -186,6 +186,7 @@
     color: $text-color;
     font-size: 14px;
     transition: background ease 0.5s;
+    break-inside: avoid;
 
     @include grid-media($desktop-grid) {
       font-size: 14px;
