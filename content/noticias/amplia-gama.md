@@ -1,5 +1,5 @@
 ---
-date: 2018-07-23T14:10:05.000Z
+date: '2018-07-23T14:10:05.000Z'
 featured: true
 imagen_intro: /v1532355592/aventics_noticia.jpg
 tags:
@@ -7,8 +7,9 @@ tags:
   - frl
   - válvulas
   - costa rica
-title: Amplia gama de opciones en filtros, reguladores, lubricadores
+title: 'Amplia gama de opciones en filtros, reguladores, lubricadores'
 ---
+
 **Tome la mejor decisión, somos un equipo que nos gusta asesorar a nuestros clientes y socios**
 
 **La familia AVENTICS**
