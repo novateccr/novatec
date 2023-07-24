@@ -13,12 +13,13 @@ industrias:
 marcas:
   - KSB
 meta_description: Válvulas sanitarias SISTO C KSB
-meta_keywords: Válvulas sanitarias, Válvulas, sanitarias, Sisto C, KSB
+meta_keywords: 'Válvulas sanitarias, Válvulas, sanitarias, Sisto C, KSB'
 taxonomyCover: false
 title: Válvulas sanitarias SISTO C KSB
 titulo_adicional: ''
 weight: 131
 ---
+
 # **Válvulas sanitarias SISTO-C**
 
 Válvula de diafragma con extremos para soldar o abrazaderas, de paso directo, forma en Y, en T o multipuerto, cierre en paso directo y hacia el exterior a través de un diafragma de cierre encapsulado, sin espacios muertos, esterilizable, diseño apto para limpieza CIP/SIP, indicador de posición. Todos los componentes funcionales están fuera del fluido bombeado; sin mantenimiento.
