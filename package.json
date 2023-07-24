@@ -15,7 +15,7 @@
     "babel:watch": "babel assets/js --watch --out-file static/js/site.js --source-maps",
     "sass:watch": "onchange 'assets/scss/**/*.scss' -- npm run sass:build",
     "sass:build": "sass assets/scss/main.scss static/site.css --style compressed",
-    "build:assets": "npm run clean && npm run sass:build && npm run babel:build && npm run babel:minify",
+    "build:assets": "npm run clean && npm run sass:build && npm run babel:build",
     "start": "npm run clean && npm run sass:build && npm run babel:build | npm run sass:watch | npm run babel:watch | hugo serve -D --bind 0.0.0.0",
     "windowsstart": "npm run windowsclean && npm run sass:build && npm run babel:build | npm run sass:watch | npm run babel:watch | hugo serve -D --bind 0.0.0.0",
     "drafts": "npm run clean && npm run sass:build && npm run babel:build | npm run sass:watch | npm run babel:watch | hugo serve -D --bind 0.0.0.0",
