@@ -30,6 +30,7 @@ weight: 7
 ---
 
 
+
 **Bombas KSB**
 
 Bombas de agua centrifugas KSB, tipo: MegaCpk, hydrobloc, etc y opcional **con** [**motores sincrónicos**](https://www.novatec.cr/productos/motores/ "KSB SuPremE") de super alta eficiencia.
