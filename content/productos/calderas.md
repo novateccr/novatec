@@ -15,13 +15,14 @@ industrias:
 marcas:
   - KSB
 meta_description: bombas para alimentación de calderas tipo multitec
-meta_keywords: multitec, movitec, bombas para alimentación de calderas
+meta_keywords: 'multitec, movitec, bombas para alimentación de calderas'
 taxonomyCover: false
 title: Bombas de Alimentación de Calderas
 titulo: ''
 titulo_adicional: ''
 weight: 11
 ---
+
 #### **Bomba Multitec, marca KSB.**
 
 Bomba centrífuga horizontal o vertical de cuerpo segmentado, multietapa, versión en bancada o monobloc, de aspiración axial o radial, con impulsores radiales fundidos y sistema de regulación de velocidad montado sobre motor. Disponible en versión ATEX.
