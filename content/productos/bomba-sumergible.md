@@ -14,12 +14,13 @@ industrias:
 marcas:
   - KSB
 meta_description: Bombas para agua tipo upa chrome marca KSB
-meta_keywords: Bomba para agua, KSB UPA, pozo profundo, bombas sumergibles
+meta_keywords: 'Bomba para agua, KSB UPA, pozo profundo, bombas sumergibles'
 taxonomyCover: false
 title: Bombas Sumergibles
 titulo: ''
 titulo_adicional: ''
 ---
+
 
 ### **Bombas Sumergibles tipo UPA:**
 
