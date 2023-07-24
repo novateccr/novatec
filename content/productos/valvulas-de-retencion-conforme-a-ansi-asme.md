@@ -11,12 +11,13 @@ industrias:
 marcas:
   - KSB
 meta_description: Válvulas de retención KSB conforme a ANSI/ASME
-meta_keywords: Válvulas, válvulas de retención, KSB
+meta_keywords: 'Válvulas, válvulas de retención, KSB'
 taxonomyCover: false
 title: Válvulas de retención ANSI/ASME
 titulo: ''
 titulo_adicional: ''
 ---
+
 
 # **Válvulas de retención**
 
