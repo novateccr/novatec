@@ -19,6 +19,7 @@ weight: 49
 ---
 
 
+
 ## **Equipo HLP de Pall**
 
 Con un diseño basado en 30 años de experiencia de campo real, el purificador de aceite Pall HLP6 combina la excelente eficiencia de purificadores de transferencia de masa con un nivel excepcional de fiabilidad y facilidad de uso.
