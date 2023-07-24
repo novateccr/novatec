@@ -11,12 +11,13 @@ industrias: []
 marcas:
   - Kaivac
 meta_description: Equipo de limpieza Kaivac tipo UniVac
-meta_keywords: Equipo de limpieza, kaivac, univac
+meta_keywords: 'Equipo de limpieza, kaivac, univac'
 taxonomyCover: false
 title: 02. UniVac
 titulo: ''
 titulo_adicional: ''
 ---
+
 
 ## **Kaivac UniVac**
 

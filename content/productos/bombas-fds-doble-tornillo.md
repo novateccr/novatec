@@ -14,12 +14,13 @@ industrias:
 marcas:
   - Fristam
 meta_description: bomba positiva Fristam de doble tornillo tipo FDS
-meta_keywords: doble screw pump, doble tornillo
+meta_keywords: 'doble screw pump, doble tornillo'
 taxonomyCover: false
 title: Bombas Sanitarias de Doble Tornillo
 titulo_adicional: ''
 weight: 140
 ---
+
 # Bomba de doble tornillo Fristam FDS. 
 
 ## _Un diseño Perfeccionado:_

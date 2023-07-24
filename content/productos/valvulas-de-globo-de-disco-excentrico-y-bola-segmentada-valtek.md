@@ -11,12 +11,13 @@ industrias:
 marcas:
   - KSB
 meta_description: Válvulas de bola PROFIN VT2 KSB
-meta_keywords: KSB, Válvula de bola, Profin VT2, válvula de dos cuerpos
+meta_keywords: 'KSB, Válvula de bola, Profin VT2, válvula de dos cuerpos'
 taxonomyCover: false
 title: Válvulas de bola PROFIN VT2 KSB
 titulo_adicional: ''
 weight: 129
 ---
+
 # **KSB PROFIN VT2**
 
 ## Válvula de Bola de 2 Cuerpos Conexión NPT

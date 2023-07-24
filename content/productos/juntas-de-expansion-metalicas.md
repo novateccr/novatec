@@ -11,12 +11,13 @@ industrias:
 marcas:
   - Macoga
 meta_description: Juntas de expansión metálicas
-meta_keywords: Macoga, juntas metalicas, juntas de expansión
+meta_keywords: 'Macoga, juntas metalicas, juntas de expansión'
 taxonomyCover: false
 title: Juntas de Expansión Metálicas
 titulo_adicional: ''
 weight: 56
 ---
+
 ## **Serie MWA y MFA:**
 
 Estas juntas de expansión están hechas de un solo elemento de fuelle con conexiones finales. Independientemente de los accesorios, como forros y fundas, este modelo absorbe todos los movimientos en cualquier longitud de tubería, pero se utiliza principalmente para absorber movimientos axiales.

@@ -11,12 +11,13 @@ industrias:
 marcas:
   - KSB
 meta_description: ' Válvulas de mariposa de doble excentricidad KSB'
-meta_keywords: Válvulas mariposa, doble excentricidad, KSB
+meta_keywords: 'Válvulas mariposa, doble excentricidad, KSB'
 taxonomyCover: false
 title: 'Válvulas mariposa doble excentricidad '
 titulo: ''
 titulo_adicional: ''
 ---
+
 
 ![](https://res.cloudinary.com/novatec/v1596753800/es000427-danais-150_nmafk0.png)
 

@@ -12,12 +12,13 @@ industrias: []
 marcas:
   - Kaivac
 meta_description: Limpiador Neutral Floor de Kaivac
-meta_keywords: Limpiador Neutral Floor, Kaivac
+meta_keywords: 'Limpiador Neutral Floor, Kaivac'
 taxonomyCover: false
 title: '11. Limpiador Neutral Floor '
 titulo: ''
 titulo_adicional: ''
 ---
+
 
 # Limpiador Neutral Floor:
 

@@ -10,6 +10,7 @@ title: Sistema Flow Fast - 60 min.
 ---
 
 
+
 # Sistema Flowfast 
 
 Listo para ser usado sólo 60 minutos después de aplicado, el sistema Flowfast es la solución más rápida en instalación y tiempos de curado para proyectos de remodelación y construcción nuevos, dando un acabado atractivo. 

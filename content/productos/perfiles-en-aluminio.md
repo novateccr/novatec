@@ -12,12 +12,13 @@ industrias:
 marcas:
   - Rexroth
 meta_description: Perfil en aluminio de Bosch Rexroth.
-meta_keywords: Perfil, Aluminio, Item, Rexroth
+meta_keywords: 'Perfil, Aluminio, Item, Rexroth'
 taxonomyCover: false
 title: Nuestros productos de BRL
 titulo_adicional: ''
 weight: 112
 ---
+
 Con su amplia selección de tubos cuadrados y redondos, tecnología de conexión fácil de instalar y una gran cantidad de accesorios, los perfiles Rexroth abren todos los espacios libres imaginables al diseñar entornos de trabajo ergonómicos, eficientes y seguros.
 
 ## **Perfiles de soporte.**

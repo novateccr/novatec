@@ -13,12 +13,13 @@ marcas:
   - Pall
   - Lesac
 meta_description: 'Filtros de Bolsa '
-meta_keywords: Filtros de Bolsa, lesac, filtración
+meta_keywords: 'Filtros de Bolsa, lesac, filtración'
 taxonomyCover: false
 title: 'Filtros de Bolsa '
 titulo_adicional: ''
 weight: 16
 ---
+
 ## **Tipos de filtros de bolsa:**
 
 ### **Tamaño 1:**

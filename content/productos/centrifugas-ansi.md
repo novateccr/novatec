@@ -13,13 +13,14 @@ industrias:
 marcas:
   - Flowserve
   - KSB
-meta_description: bombas KSB tipo ANSI, ISO para uso robusto
-meta_keywords: ANSI, ISO
+meta_description: 'bombas KSB tipo ANSI, ISO para uso robusto'
+meta_keywords: 'ANSI, ISO'
 taxonomyCover: false
 title: Centrifugas ANSI
 titulo_adicional: ''
 weight: 8
 ---
+
 **KSB Ansichem**
 
 BOMBA DE PROCESO QUÍMICO.

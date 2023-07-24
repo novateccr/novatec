@@ -15,13 +15,14 @@ industrias:
 marcas:
   - Graco
 meta_description: 'Doble Diafragma - Sanitarias '
-meta_keywords: Doble Diafragma, Sanitarias, Saniforce
+meta_keywords: 'Doble Diafragma, Sanitarias, Saniforce'
 taxonomyCover: false
 title: 'Bombas de Doble Diafragma - Sanitarias '
 titulo: ''
 titulo_adicional: ''
 weight: 128
 ---
+
 #### **Bombas de Doble Diafragma Sanitarias, marca Graco.**
 
 #### Bomba de doble diafragma SaniForce 2150.

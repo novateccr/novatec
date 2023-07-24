@@ -18,6 +18,7 @@ taxonomyCover: false
 title: Desplazamiento Positivo Sanitarias
 weight: 2
 ---
+
 #### Fristam FKL: La más durable y confiable Bomba de Desplazamiento Positivo
 
 Deje de reconstruir, reemplazar y desperdiciar su valioso tiempo con otras bombas de desplazamiento positivo. La bomba FKL de Fristam simplemente funciona mejor y dura más tiempo.

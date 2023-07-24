@@ -22,6 +22,7 @@ title: 'Junta higiénica GYLON BIO-PRO '
 titulo_adicional: ''
 weight: 21
 ---
+
 Los sellos GYLON BIO-PRO® ofrecen una solución segura y duradera para proteger la integridad de los elementos de procesamiento farmacéutico y alimenticio. Su material PTFE modificado y reestructurado es premoldeado y tiene la tensión controlada para todas las conexiones TRI-CLAMP comunes. Es dimensionalmente estable y resiste la intrusión.
 
 ### CARACTERÍSTICAS/BENEFICIOS:

@@ -12,12 +12,13 @@ industrias:
 marcas:
   - Garlock
 meta_description: Retenedores
-meta_keywords: garlock, rodamientos, klozure, retenedores
+meta_keywords: 'garlock, rodamientos, klozure, retenedores'
 taxonomyCover: false
 title: Retenedores
 titulo_adicional: ''
 weight: 22
 ---
+
 # **Protectores de Rodamiento KLOZURE:**
 
 #### **_Aisladores de rodamientos Klozure® para bombas, motores y cajas de engranajes._**

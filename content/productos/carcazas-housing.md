@@ -12,12 +12,13 @@ industrias:
 marcas:
   - Pall
 meta_description: Carcasas (Housing)
-meta_keywords: Carcasas (Housing), Pall, laboratorio
+meta_keywords: 'Carcasas (Housing), Pall, laboratorio'
 taxonomyCover: false
 title: Carcasas (Housing)
 titulo_adicional: ''
 weight: 14
 ---
+
 ## Manejamos gran variedad de Carcasas (Housing) de la marca Pall, a continuación les mostramos algunas de ellas:
 
 ## **1- Housing Advanta para líquidos:**

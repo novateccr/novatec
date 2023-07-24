@@ -14,11 +14,12 @@ industrias:
   - Ingenios
 marcas:
   - Pall
-meta_description: Housing, Carcaza, Sanitario
-meta_keywords: Carcaza sanitaria, Housing industrial
+meta_description: 'Housing, Carcaza, Sanitario'
+meta_keywords: 'Carcaza sanitaria, Housing industrial'
 taxonomyCover: false
 title: Elementos (cartuchos)
 titulo_adicional: ''
 weight: 125
 ---
+
 <p>Filtros de profundidad, filtros para soluciones esteriles (0,8, 0,65. 0,45 y 0,2 micras)</p>

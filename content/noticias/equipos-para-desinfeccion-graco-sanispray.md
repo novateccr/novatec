@@ -6,6 +6,7 @@ tags: []
 title: Equipos para desinfección Graco SaniSpray
 ---
 
+
 ### **Novatec Industrial y Graco hacen su presentación de la línea de limpieza:**
 
 ## SaniSpray HP:

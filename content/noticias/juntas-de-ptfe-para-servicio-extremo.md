@@ -8,6 +8,7 @@ tags:
 title: Juntas de PTFE para servicio extremo
 ---
 
+
 # Las juntas GYLON de Garlock
 
 Son una familia de materiales para juntas de PTFE para servicio extremo fabricadas utilizando un proceso patentado que imparte propiedades físicas únicas que no pueden obtenerse a través de los métodos de fabricación convencionales.

@@ -11,13 +11,14 @@ industrias:
   - Ingenios
 marcas:
   - Belzona
-meta_description: Belzona, 1391
+meta_description: 'Belzona, 1391'
 meta_keywords: reparation de bombas
 taxonomyCover: false
 title: Polímeros para reparación de bombas
 titulo_adicional: ''
 weight: 137
 ---
+
 ## **Novatec Industrial le ofrece gran variedad de polímeros para la reparación de bombas, así como el servicio mismo.**
 
 ## **Serie 1000:**

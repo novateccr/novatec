@@ -16,7 +16,7 @@ industrias:
   - Ingenios
 marcas:
   - Eagleburgmann
-meta_description: Sellos mecanicos, componete, cartucho
+meta_description: 'Sellos mecanicos, componete, cartucho'
 meta_keywords: >-
   Sellos de componente, Cartuchos, API, ANSI, Tipo 21, Fuelle, M32, MG1, M7N,
   H75, MG9, Cartex
@@ -25,6 +25,7 @@ title: Sellos Mecánicos
 titulo_adicional: ''
 weight: 24
 ---
+
 Ofrecemos gran variedad de Sellos de componente, sellos mecánicos entre ellos:
 
 ## **APItex:**

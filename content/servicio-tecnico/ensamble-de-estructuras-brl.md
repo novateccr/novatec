@@ -4,6 +4,7 @@ info: ''
 title: Diseño y Ensamble de Estructuras BRL
 ---
 
+
 ### ¡En Novatec ofrecemos soluciones completas a sus necesidades!
 
 ![](https://res.cloudinary.com/novatec/v1655222750/WhatsApp_Image_2022-06-14_at_10.03.06_AM__1_-removebg-preview_o3xbw5.png)

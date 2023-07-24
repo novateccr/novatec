@@ -14,12 +14,13 @@ industrias:
 marcas:
   - Rexroth
 meta_description: 'Perfil tubular EcoShape '
-meta_keywords: perfil ecoshape, perfil tubular, tecnologia de ensamble, BRL
+meta_keywords: 'perfil ecoshape, perfil tubular, tecnologia de ensamble, BRL'
 taxonomyCover: false
 title: 'Perfil tubular EcoShape '
 titulo: ''
 titulo_adicional: ''
 ---
+
 
 # **La siguiente dimensión en sistemas de armazón tubular.**
 

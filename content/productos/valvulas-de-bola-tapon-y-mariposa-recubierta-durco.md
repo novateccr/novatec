@@ -16,12 +16,13 @@ industrias:
 marcas:
   - KSB
 meta_description: Válvulas de globo ECOLINE GLC KSB
-meta_keywords: Valvula, válvulas, valvulas de globo, ecoline, ksb
+meta_keywords: 'Valvula, válvulas, valvulas de globo, ecoline, ksb'
 taxonomyCover: false
 title: 'Válvulas de globo ECOLINE GLC '
 titulo_adicional: ''
 weight: 30
 ---
+
 # **ECOLINE GLC 150-600 de KSB**
 
 Válvula de globo conforme a ANSI/ASME con bridas, acero fundido A216 WCB, acabado 8 (estelite/acero al 13 % de cromo) para clase 150/300/600, acabado 5 (estelite/estelite) para clase 600, tapa con pernos, husillo ascendente con roscado exterior, empaquetadura de grafito, juntas de acero inoxidable/grafito.

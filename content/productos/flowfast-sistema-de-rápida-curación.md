@@ -11,12 +11,13 @@ industrias: []
 marcas:
   - Flowcrete
 meta_description: Flowfast sistema de rápida curación
-meta_keywords: Flowfast, MMA, pisos decorativos, Flowfast sistema de rápida curación
+meta_keywords: 'Flowfast, MMA, pisos decorativos, Flowfast sistema de rápida curación'
 taxonomyCover: false
 title: Flowfast sistema de rápida curación
 titulo: ''
 titulo_adicional: ''
 ---
+
 
 La pintura para pavimentos Flowfast acrílico ha sido diseñado para ofrecer a sus clientes un acabado de pavimento decorativo y duradero que apropiado para rápidas puestas en obra.
 

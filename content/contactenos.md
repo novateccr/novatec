@@ -7,6 +7,7 @@ menu:
 _template: inicio
 ---
 
+
 <div class="container-container">
 <div class="contact-form-left">
 <form class="contact-form" name="contacto" action="gracias" netlify-honeypot="adios" netlify>

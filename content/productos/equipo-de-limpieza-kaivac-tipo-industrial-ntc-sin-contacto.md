@@ -15,12 +15,13 @@ meta_description: >-
   Sistemas de limpieza sin contacto de Kaivac están diseñados para eliminar la
   suciedad extrema, lo que permite a los trabajadores limpiar higiénicamente sin
   tocar las superficies contaminadas
-meta_keywords: Kaivac, Kaivac1250, Kaivac1750, Equipo de limpieza sin contacto
+meta_keywords: 'Kaivac, Kaivac1250, Kaivac1750, Equipo de limpieza sin contacto'
 taxonomyCover: false
 title: '03. No-Touch Cleaning, NTC '
 titulo: ''
 titulo_adicional: ''
 ---
+
 
 ## **Kaivac No-Touch Cleaning.**
 

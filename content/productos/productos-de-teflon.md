@@ -18,13 +18,14 @@ industrias:
   - Electrónica
 marcas:
   - Garlock
-meta_description: Cintas,Laminas,Barras,Teflon Expandido
-meta_keywords: Cintas Garlock, 3535, Teflon expandido
+meta_description: 'Cintas,Laminas,Barras,Teflon Expandido'
+meta_keywords: 'Cintas Garlock, 3535, Teflon expandido'
 taxonomyCover: false
 title: Productos de Teflon
 titulo_adicional: ''
 weight: 122
 ---
+
 ## **Tenemos varios productos de Teflón a su disposición entre ellos:**
 
 ### _PLASTI - THREAD® Cinta de PTFE GRADO PREMIUM:_

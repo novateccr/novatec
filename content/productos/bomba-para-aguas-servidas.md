@@ -16,12 +16,13 @@ marcas:
 meta_description: >-
   KSB ofrece soluciones integrales para aplicaciones de aguas servidas, tipo
   Amarex, KRT...
-meta_keywords: Flight, KRT, Amarex N, KSB
+meta_keywords: 'Flight, KRT, Amarex N, KSB'
 taxonomyCover: false
 title: Bombas para aguas servidas - Amarex
 titulo: ''
 titulo_adicional: ''
 ---
+
 
 ### **Bombas Amarex marca KSB:**
 

@@ -15,13 +15,14 @@ industrias:
   - Ingenios
 marcas:
   - Eagleburgmann
-meta_description: juntas de expansion textiles, o de tela
-meta_keywords: junta expansion, fabric
+meta_description: 'juntas de expansion textiles, o de tela'
+meta_keywords: 'junta expansion, fabric'
 taxonomyCover: false
 title: Juntas de Expansión Textil
 titulo_adicional: ''
 weight: 58
 ---
+
 Junta de expansión de tejido KE se instalan como conexiones flexibles en aire, conductos y sistemas de tuberías de gases de combustión para absorber o compensar la dilatación térmica, vibraciones y desalineaciones.
 
 ### **Ventajas de la Junta de expansión de tejido KE:**

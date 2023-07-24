@@ -6,6 +6,7 @@ tags: []
 title: Especialistas en pisos para la industria de Alimentos y Bebidas
 ---
 
+
 Flowcrete Americas es una empresa líder en la fabricación de sistemas de pisos continuos y recubrimientos autoniveladores para espacios tanto industriales como comerciales. Nuestros sistemas de pisos higiénicos en uretano cementicio, han sido desarrollados para cumplir con las necesidades particulares que se presentan en la Industria de Alimentos y Bebidas, donde el control de higiene es indispensable.
 
 ### **Flowfresh es....**

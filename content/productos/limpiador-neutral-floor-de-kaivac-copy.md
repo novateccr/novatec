@@ -12,12 +12,13 @@ industrias: []
 marcas:
   - Kaivac
 meta_description: Desengrasante KaiPow de Kaivac
-meta_keywords: Desengrasante, KaiPow, Kaivac
+meta_keywords: 'Desengrasante, KaiPow, Kaivac'
 taxonomyCover: false
 title: '10. Desengrasante KaiPow '
 titulo: ''
 titulo_adicional: ''
 ---
+
 
 # Paquete de desengrasante KaiPow ™
 

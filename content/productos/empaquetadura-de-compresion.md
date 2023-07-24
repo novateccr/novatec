@@ -16,12 +16,13 @@ industrias:
 marcas:
   - Garlock
 meta_description: 'Empaquetadura de compresión '
-meta_keywords: Empaquetadura de compresión, 1306, packmaster, 1925, garlock
+meta_keywords: 'Empaquetadura de compresión, 1306, packmaster, 1925, garlock'
 taxonomyCover: false
 title: 'Empaquetadura de compresión '
 titulo_adicional: ''
 weight: 119
 ---
+
 # **_Gran variedad de empaquetaduras de compresión, entre ellas:_**
 
 ## _1306 Fibra de Grafito flexible con refuerzo en la esquinas de fibra de carbón._

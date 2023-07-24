@@ -12,12 +12,13 @@ industrias: []
 marcas:
   - Kaivac
 meta_description: Equipo de limpieza Kaivac tipo Omniflex
-meta_keywords: Equipo de limpieza, Kaivac, Omniflex
+meta_keywords: 'Equipo de limpieza, Kaivac, Omniflex'
 taxonomyCover: false
 title: 01. OmniFlex™
 titulo: ''
 titulo_adicional: ''
 ---
+
 
 ## **Kaivac OmniFlex:**
 

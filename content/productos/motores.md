@@ -30,6 +30,7 @@ titulo: ''
 titulo_adicional: ''
 ---
 
+
 ### **Diseño.**
 
 Motor de reluctancia síncrona sin imán, compatible con IEC, sin clase de eficiencia clase IE4 / IE5 (eficiencia super / ultra premium) según IEC TS 60034-30-2: 2016 para operar en un sistema de velocidad variable KSB PumpDrive 2, PumpDrive 2 Eco o PumpDrive R . Adecuado para la conexión a la red trifásica de 380-480 V (a través de PumpDrive).
