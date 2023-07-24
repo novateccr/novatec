@@ -22,6 +22,7 @@ titulo: ''
 titulo_adicional: ''
 weight: 116
 ---
+
 Sabemos que las condiciones de las áreas de trabajo son diferentes en cada industria, por ello utilizando nuestra experiencia y habilidades llevamos acabo un análisis de su situación actual identificando problemas y oportunidades. Nuestra gran experiencia combinada a nuestra variedad de productos nos permite ofrecerle una solución integral en términos de ergonomía y seguridad que responda a sus necesidades especificas, le presentamos a continuación las diferentes tipos de alfombra que le ofrecemos:
 
 # **ERGOMAT INFINITY BUBBLE:**
