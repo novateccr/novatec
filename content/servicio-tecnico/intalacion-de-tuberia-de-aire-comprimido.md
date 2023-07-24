@@ -1,10 +1,9 @@
-+++
-Imagen = "/v1622217576/Copia_de_Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_1_spgto4.png"
-hero = "/v1530797586/productos/3f2ab090b41cda2b37c5ea94238cf2d3-Tuberia.jpg"
-info = ""
-title = "Instalación de Tubería Transair"
-
-+++
+---
+Imagen: /v1622217576/Copia_de_Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_1_spgto4.png
+hero: /v1530797586/productos/3f2ab090b41cda2b37c5ea94238cf2d3-Tuberia.jpg
+info: ''
+title: Instalación de Tubería Transair
+---
 ### En Novactec Industrial S.A nos especializamos en la instalación tubería de aire comprimido Transair.
 
 ![](https://res.cloudinary.com/novatec/v1644594590/Transair-400x400_s1atlg.png)

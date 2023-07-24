@@ -1,21 +1,34 @@
-+++
-catalogo = "/catalogos/original-tuberia-en-aluminio-para-aire-comprimido-y-gases-inertes.pdf"
-categoria = ""
-familias = ["Redes y tratamiento de Aire Comprimido"]
-galeria = ["/v1570655013/fitting_and_pipe_image_amx1ac.jpg"]
-id = 28
-imagen = "/v1617741621/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_55_jvrj4d.png"
-industrias = ["Alimentos y Bebidas", "Energía", "Dispositivos Médicos", "Industria Pesada", "Biofarmacéuticos", "Química", "Agrícola", "Ingenios", "Comercial - Construcción", "Electrónica"]
-marcas = ["Parker-Transair"]
-meta_description = "Tubería, Aluminio, Transair, Aire comprimido, aluminum pipe"
-meta_keywords = "Tubería para aire comprimido, air pipe, transair"
-taxonomyCover = false
-title = "Tubería Aluminio para Aire Comprimido y Gases inertes"
-titulo = ""
-titulo_adicional = ""
-weight = 28
-
-+++
+---
+catalogo: >-
+  /catalogos/original-tuberia-en-aluminio-para-aire-comprimido-y-gases-inertes.pdf
+categoria: ''
+familias:
+  - Redes y tratamiento de Aire Comprimido
+galeria:
+  - /v1570655013/fitting_and_pipe_image_amx1ac.jpg
+id: 28
+imagen: /v1617741621/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_55_jvrj4d.png
+industrias:
+  - Alimentos y Bebidas
+  - Energía
+  - Dispositivos Médicos
+  - Industria Pesada
+  - Biofarmacéuticos
+  - Química
+  - Agrícola
+  - Ingenios
+  - Comercial - Construcción
+  - Electrónica
+marcas:
+  - Parker-Transair
+meta_description: Tubería, Aluminio, Transair, Aire comprimido, aluminum pipe
+meta_keywords: Tubería para aire comprimido, air pipe, transair
+taxonomyCover: false
+title: Tubería Aluminio para Aire Comprimido y Gases inertes
+titulo: ''
+titulo_adicional: ''
+weight: 28
+---
 Parker Hannifin es el líder mundial en tecnologías de movimiento y control, y se asocia con sus clientes para aumentar su productividad y rentabilidad. Dentro de Parker, Transair® es la unidad de negocio especializada en proyectos para redes de fluidos industriales.
 
 **Una tecnología con múltiples beneficios Transair®:**

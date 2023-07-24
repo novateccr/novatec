@@ -1,19 +1,24 @@
-+++
-catalogo = ""
-familias = ["Válvulas"]
-galeria = []
-id = 132
-imagen = "/v1617735430/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_37_pit5dn.png"
-industrias = ["Alimentos y Bebidas", "Industria Pesada", "Biofarmacéuticos", "Química"]
-marcas = ["KSB"]
-meta_description = "Actuadores - Sistemas de automatización de Válvulas KSB"
-meta_keywords = "Actuadores, válvulas, KSB, sistemas de automatización"
-taxonomyCover = false
-title = "Actuadores y Accionadores KSB"
-titulo_adicional = ""
-weight = 132
-
-+++
+---
+catalogo: ''
+familias:
+  - Válvulas
+galeria: []
+id: 132
+imagen: /v1617735430/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_37_pit5dn.png
+industrias:
+  - Alimentos y Bebidas
+  - Industria Pesada
+  - Biofarmacéuticos
+  - Química
+marcas:
+  - KSB
+meta_description: Actuadores - Sistemas de automatización de Válvulas KSB
+meta_keywords: Actuadores, válvulas, KSB, sistemas de automatización
+taxonomyCover: false
+title: Actuadores y Accionadores KSB
+titulo_adicional: ''
+weight: 132
+---
 # **Todo para su proyecto:**
 
 ### A continuación le presentamos los principales Actuadores y Accionadores de la marca KSB.

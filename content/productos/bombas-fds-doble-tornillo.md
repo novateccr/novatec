@@ -1,19 +1,25 @@
-+++
-catalogo = "/catalogos/original-bombas-fds-doble-tornillo.pdf"
-familias = ["Bombas"]
-galeria = ["/v1595033122/FDS-USA-2018_Main-web_1_dgawez.jpg"]
-id = 140
-imagen = "/v1617836670/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_-_2021-04-07T170411.734_l5d5pj.png"
-industrias = ["Alimentos y Bebidas", "Dispositivos Médicos", "Biofarmacéuticos"]
-marcas = ["Fristam"]
-meta_description = "bomba positiva Fristam de doble tornillo tipo FDS"
-meta_keywords = "doble screw pump, doble tornillo"
-taxonomyCover = false
-title = "Bombas Sanitarias de Doble Tornillo"
-titulo_adicional = ""
-weight = 140
-
-+++
+---
+catalogo: /catalogos/original-bombas-fds-doble-tornillo.pdf
+familias:
+  - Bombas
+galeria:
+  - /v1595033122/FDS-USA-2018_Main-web_1_dgawez.jpg
+id: 140
+imagen: >-
+  /v1617836670/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_-_2021-04-07T170411.734_l5d5pj.png
+industrias:
+  - Alimentos y Bebidas
+  - Dispositivos Médicos
+  - Biofarmacéuticos
+marcas:
+  - Fristam
+meta_description: bomba positiva Fristam de doble tornillo tipo FDS
+meta_keywords: doble screw pump, doble tornillo
+taxonomyCover: false
+title: Bombas Sanitarias de Doble Tornillo
+titulo_adicional: ''
+weight: 140
+---
 # Bomba de doble tornillo Fristam FDS. 
 
 ## _Un diseño Perfeccionado:_

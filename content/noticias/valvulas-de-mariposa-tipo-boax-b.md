@@ -1,11 +1,10 @@
-+++
-date = 2020-11-02T06:00:00Z
-featured = true
-imagen_intro = "/v1596748076/es000573-boax-b_gmrt2b.png"
-tags = []
-title = "Válvulas de mariposa tipo Boax-B"
-
-+++
+---
+date: 2020-11-02T06:00:00.000Z
+featured: true
+imagen_intro: /v1596748076/es000573-boax-b_gmrt2b.png
+tags: []
+title: Válvulas de mariposa tipo Boax-B
+---
 # **Válvulas de mariposa tipo Boax-B**
 
 ### **Nuestras válvulas tienen gran cantidad de aplicaciones, entre ellas:**

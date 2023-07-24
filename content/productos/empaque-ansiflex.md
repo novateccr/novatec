@@ -1,21 +1,23 @@
-+++
-catalogo = ""
-categoria = ""
-familias = ["Sellado"]
-galeria = ["/v1573667908/ansiflex_eekxq2.jpg"]
-id = ""
-imagen = "/v1617730025/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_13_k4gwwk.png"
-industrias = []
-marcas = ["Rubber Fab"]
-meta_description = "Empaque Ansi-Flex"
-meta_keywords = "ANSI flex, ANSI-FLEX, PVC, Rubber Fab"
-taxonomyCover = false
-title = "Empaque Ansi-Flex"
-titulo = ""
-titulo_adicional = ""
-weight = ""
-
-+++
+---
+catalogo: ''
+categoria: ''
+familias:
+  - Sellado
+galeria:
+  - /v1573667908/ansiflex_eekxq2.jpg
+id: ''
+imagen: /v1617730025/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_13_k4gwwk.png
+industrias: []
+marcas:
+  - Rubber Fab
+meta_description: Empaque Ansi-Flex
+meta_keywords: ANSI flex, ANSI-FLEX, PVC, Rubber Fab
+taxonomyCover: false
+title: Empaque Ansi-Flex
+titulo: ''
+titulo_adicional: ''
+weight: ''
+---
 ## **ANSI-FLEX:**
 
 La superficie de contacto de la junta de brida Ansi-Flex 150 # Ansi está unida con PTFE a un núcleo interno de caucho EPDM. Esta construcción totalmente unida proporciona una junta de PTFE con las características mecánicas, incluida la memoria, de una junta de elastómero con resistencia al vapor. La junta de brida Ansi-Flex 150 # tiene una vida útil superior y prolongada sobre las juntas de brida estándar.

@@ -1,19 +1,25 @@
-+++
-catalogo = "/catalogos/original-transportadores.pdf"
-familias = ["Tecnología de Ensamble"]
-galeria = []
-id = 115
-imagen = "/v1617737071/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_48_tnuohp.png"
-industrias = ["Alimentos y Bebidas", "Dispositivos Médicos", "Biofarmacéuticos"]
-marcas = ["Qc Industries"]
-meta_description = "Transportadores"
-meta_keywords = "Transportadores médicos, Transportadores  para Industria de Alimentos y Bebidas, Distanciamiento Social"
-taxonomyCover = false
-title = "Transportadores"
-titulo_adicional = ""
-weight = 115
-
-+++
+---
+catalogo: /catalogos/original-transportadores.pdf
+familias:
+  - Tecnología de Ensamble
+galeria: []
+id: 115
+imagen: /v1617737071/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_48_tnuohp.png
+industrias:
+  - Alimentos y Bebidas
+  - Dispositivos Médicos
+  - Biofarmacéuticos
+marcas:
+  - Qc Industries
+meta_description: Transportadores
+meta_keywords: >-
+  Transportadores médicos, Transportadores  para Industria de Alimentos y
+  Bebidas, Distanciamiento Social
+taxonomyCover: false
+title: Transportadores
+titulo_adicional: ''
+weight: 115
+---
 ## **Transportadores para Distanciamiento Social**
 
 ![](https://res.cloudinary.com/novatec/v1596828434/47f933a7-4ec0-46b2-ac3a-4331b0202171_jw0okb.png)

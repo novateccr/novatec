@@ -1,21 +1,23 @@
-+++
-catalogo = ""
-categoria = ""
-familias = ["Pisos y Polímeros"]
-galeria = ["/v1566336162/flowfast-4_m0qnfv.jpg"]
-id = ""
-imagen = "/v1617743606/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_67_firayu.png"
-industrias = []
-marcas = ["Flowcrete"]
-meta_description = "Flowfast sistema de rápida curación"
-meta_keywords = "Flowfast, MMA, pisos decorativos, Flowfast sistema de rápida curación"
-taxonomyCover = false
-title = "Flowfast sistema de rápida curación"
-titulo = ""
-titulo_adicional = ""
-weight = ""
-
-+++
+---
+catalogo: ''
+categoria: ''
+familias:
+  - Pisos y Polímeros
+galeria:
+  - /v1566336162/flowfast-4_m0qnfv.jpg
+id: ''
+imagen: /v1617743606/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_67_firayu.png
+industrias: []
+marcas:
+  - Flowcrete
+meta_description: Flowfast sistema de rápida curación
+meta_keywords: Flowfast, MMA, pisos decorativos, Flowfast sistema de rápida curación
+taxonomyCover: false
+title: Flowfast sistema de rápida curación
+titulo: ''
+titulo_adicional: ''
+weight: ''
+---
 La pintura para pavimentos Flowfast acrílico ha sido diseñado para ofrecer a sus clientes un acabado de pavimento decorativo y duradero que apropiado para rápidas puestas en obra.
 
 Gracias al uso de un metacrilato de metilo (MMA), Flowfast es capaz de acelerar la velocidad de endurecimiento del pavimento, por lo que es una excelente opción para los proyectos de reforma de tiendas ya que se ajustan al tiempo disponible para la aplicación, o también en pavimentos en Edificios de nueva construcción.

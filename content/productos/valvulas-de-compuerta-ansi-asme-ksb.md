@@ -1,21 +1,23 @@
-+++
-catalogo = ""
-categoria = ""
-familias = ["Válvulas"]
-galeria = []
-id = ""
-imagen = "/v1617736057/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_41_br7ap8.png"
-industrias = ["Energía"]
-marcas = ["KSB"]
-meta_description = "Válvulas de compuerta ANSI/ASME KSB"
-meta_keywords = "válvulas de compuerta, KSB, ANSI,ASME"
-taxonomyCover = false
-title = "Válvulas de compuerta ANSI/ASME "
-titulo = ""
-titulo_adicional = ""
-weight = ""
-
-+++
+---
+catalogo: ''
+categoria: ''
+familias:
+  - Válvulas
+galeria: []
+id: ''
+imagen: /v1617736057/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_41_br7ap8.png
+industrias:
+  - Energía
+marcas:
+  - KSB
+meta_description: Válvulas de compuerta ANSI/ASME KSB
+meta_keywords: válvulas de compuerta, KSB, ANSI,ASME
+taxonomyCover: false
+title: 'Válvulas de compuerta ANSI/ASME '
+titulo: ''
+titulo_adicional: ''
+weight: ''
+---
 # **Válvulas de compuerta ANSI/ASME KSB**
 
 # [**ECOLINE GTC 150-600**](https://products.ksb.com/es-es/productos/valvulas/ecoline-gtc-150-600-31620)

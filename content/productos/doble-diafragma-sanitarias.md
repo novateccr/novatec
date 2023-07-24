@@ -1,21 +1,27 @@
-+++
-catalogo = "/catalogos/original-doble-diafragma-sanitarias.pdf"
-categoria = ""
-familias = ["Bombas"]
-galeria = ["/v1595029890/saniforce_2150_tpldxi.jpg"]
-id = 128
-imagen = "/v1617836102/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_-_2021-04-07T165439.074_gol2nl.png"
-industrias = ["Alimentos y Bebidas", "Dispositivos Médicos", "Biofarmacéuticos"]
-marcas = ["Graco"]
-meta_description = "Doble Diafragma - Sanitarias "
-meta_keywords = "Doble Diafragma, Sanitarias, Saniforce"
-taxonomyCover = false
-title = "Bombas de Doble Diafragma - Sanitarias "
-titulo = ""
-titulo_adicional = ""
-weight = 128
-
-+++
+---
+catalogo: /catalogos/original-doble-diafragma-sanitarias.pdf
+categoria: ''
+familias:
+  - Bombas
+galeria:
+  - /v1595029890/saniforce_2150_tpldxi.jpg
+id: 128
+imagen: >-
+  /v1617836102/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_-_2021-04-07T165439.074_gol2nl.png
+industrias:
+  - Alimentos y Bebidas
+  - Dispositivos Médicos
+  - Biofarmacéuticos
+marcas:
+  - Graco
+meta_description: 'Doble Diafragma - Sanitarias '
+meta_keywords: Doble Diafragma, Sanitarias, Saniforce
+taxonomyCover: false
+title: 'Bombas de Doble Diafragma - Sanitarias '
+titulo: ''
+titulo_adicional: ''
+weight: 128
+---
 #### **Bombas de Doble Diafragma Sanitarias, marca Graco.**
 
 #### Bomba de doble diafragma SaniForce 2150.

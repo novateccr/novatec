@@ -1,21 +1,23 @@
-+++
-catalogo = ""
-categoria = ""
-familias = ["Válvulas"]
-galeria = []
-id = ""
-imagen = "/v1617736405/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_44_u5lll7.png"
-industrias = ["Energía"]
-marcas = ["KSB"]
-meta_description = " Válvulas de mariposa de doble excentricidad KSB"
-meta_keywords = "Válvulas mariposa, doble excentricidad, KSB"
-taxonomyCover = false
-title = "Válvulas mariposa doble excentricidad "
-titulo = ""
-titulo_adicional = ""
-weight = ""
-
-+++
+---
+catalogo: ''
+categoria: ''
+familias:
+  - Válvulas
+galeria: []
+id: ''
+imagen: /v1617736405/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_44_u5lll7.png
+industrias:
+  - Energía
+marcas:
+  - KSB
+meta_description: ' Válvulas de mariposa de doble excentricidad KSB'
+meta_keywords: Válvulas mariposa, doble excentricidad, KSB
+taxonomyCover: false
+title: 'Válvulas mariposa doble excentricidad '
+titulo: ''
+titulo_adicional: ''
+weight: ''
+---
 ![](https://res.cloudinary.com/novatec/v1596753800/es000427-danais-150_nmafk0.png)
 
 # [**DANAIS 150**](https://products.ksb.com/es-es/productos/valvulas/danais-150-31496)

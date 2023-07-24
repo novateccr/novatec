@@ -1,10 +1,10 @@
-+++
-Imagen = "/v1623431911/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_-_2021-06-11T111825.843_jmuerm.png"
-hero = "/v1597782508/1341_7_tgn4n1.jpg"
-info = ""
-title = "Servicio de reparación de bombas "
-
-+++
+---
+Imagen: >-
+  /v1623431911/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_-_2021-06-11T111825.843_jmuerm.png
+hero: /v1597782508/1341_7_tgn4n1.jpg
+info: ''
+title: 'Servicio de reparación de bombas '
+---
 ## En Novatec Industrial nos especializamos en la reparación de bombas con Belzona, realizando las siguientes tareas:
 
 * Reparación de impulsores, recuperación de geometría, recubrimiento y balance dinámico.

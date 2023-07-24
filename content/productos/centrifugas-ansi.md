@@ -1,19 +1,25 @@
-+++
-catalogo = "/catalogos/original-centrifugas-ansi.pdf"
-familias = ["Bombas"]
-galeria = ["/v1595025047/Ancichem-gigapixel-scale-2_00x_ydbmzk.png"]
-id = 8
-imagen = "/v1617834013/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_96_utxkha.png"
-industrias = ["Alimentos y Bebidas", "Energía", "Biofarmacéuticos"]
-marcas = ["Flowserve", "KSB"]
-meta_description = "bombas KSB tipo ANSI, ISO para uso robusto"
-meta_keywords = "ANSI, ISO"
-taxonomyCover = false
-title = "Centrifugas ANSI"
-titulo_adicional = ""
-weight = 8
-
-+++
+---
+catalogo: /catalogos/original-centrifugas-ansi.pdf
+familias:
+  - Bombas
+galeria:
+  - /v1595025047/Ancichem-gigapixel-scale-2_00x_ydbmzk.png
+id: 8
+imagen: /v1617834013/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_96_utxkha.png
+industrias:
+  - Alimentos y Bebidas
+  - Energía
+  - Biofarmacéuticos
+marcas:
+  - Flowserve
+  - KSB
+meta_description: bombas KSB tipo ANSI, ISO para uso robusto
+meta_keywords: ANSI, ISO
+taxonomyCover: false
+title: Centrifugas ANSI
+titulo_adicional: ''
+weight: 8
+---
 **KSB Ansichem**
 
 BOMBA DE PROCESO QUÍMICO.

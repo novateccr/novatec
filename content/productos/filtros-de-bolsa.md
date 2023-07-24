@@ -1,19 +1,24 @@
-+++
-catalogo = "/catalogos/original-filtros-de-bolsa.pdf"
-familias = ["Filtros"]
-galeria = []
-id = 16
-imagen = "/v1617830646/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_85_eg7esd.png"
-industrias = ["Alimentos y Bebidas", "Energía", "Biofarmacéuticos"]
-marcas = ["Pall", "Lesac"]
-meta_description = "Filtros de Bolsa "
-meta_keywords = "Filtros de Bolsa, lesac, filtración"
-taxonomyCover = false
-title = "Filtros de Bolsa "
-titulo_adicional = ""
-weight = 16
-
-+++
+---
+catalogo: /catalogos/original-filtros-de-bolsa.pdf
+familias:
+  - Filtros
+galeria: []
+id: 16
+imagen: /v1617830646/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_85_eg7esd.png
+industrias:
+  - Alimentos y Bebidas
+  - Energía
+  - Biofarmacéuticos
+marcas:
+  - Pall
+  - Lesac
+meta_description: 'Filtros de Bolsa '
+meta_keywords: Filtros de Bolsa, lesac, filtración
+taxonomyCover: false
+title: 'Filtros de Bolsa '
+titulo_adicional: ''
+weight: 16
+---
 ## **Tipos de filtros de bolsa:**
 
 ### **Tamaño 1:**

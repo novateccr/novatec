@@ -1,21 +1,22 @@
-+++
-catalogo = ""
-categoria = ""
-familias = ["Pisos y Polímeros"]
-galeria = []
-id = ""
-imagen = "/v1645476235/MicrosoftTeams-image_47_xgxgnl.jpg"
-industrias = []
-marcas = ["Flowcrete"]
-meta_description = "Pisos epóxicos antiestáticos y disipativos."
-meta_keywords = "Pisos, ESD, estática, carga electroestática, epóxico conductivo, "
-taxonomyCover = false
-title = "Pisos ESD"
-titulo = ""
-titulo_adicional = ""
-weight = ""
-
-+++
+---
+catalogo: ''
+categoria: ''
+familias:
+  - Pisos y Polímeros
+galeria: []
+id: ''
+imagen: /v1645476235/MicrosoftTeams-image_47_xgxgnl.jpg
+industrias: []
+marcas:
+  - Flowcrete
+meta_description: Pisos epóxicos antiestáticos y disipativos.
+meta_keywords: 'Pisos, ESD, estática, carga electroestática, epóxico conductivo, '
+taxonomyCover: false
+title: Pisos ESD
+titulo: ''
+titulo_adicional: ''
+weight: ''
+---
 ### Pisos ESD
 
 Diseñados para evitar que las descargas estáticas afecten a los equipos y procesos productivos más preciados de sus instalaciones.

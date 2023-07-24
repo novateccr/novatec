@@ -1,19 +1,26 @@
-+++
-catalogo = "/catalogos/original-recubrimiento-de-tanques.pdf"
-familias = ["Pisos y Polímeros"]
-galeria = ["/v1597788942/original-recubrimiento-de-tanques_oxupm9.jpg"]
-id = 109
-imagen = "/v1617744309/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_73_sojuo8.png"
-industrias = ["Alimentos y Bebidas", "Dispositivos Médicos", "Química", "Comercial - Construcción"]
-marcas = ["Flowcrete", "Belzona"]
-meta_description = ""
-meta_keywords = ""
-taxonomyCover = false
-title = "Recubrimiento de Tanques"
-titulo_adicional = ""
-weight = 109
-
-+++
+---
+catalogo: /catalogos/original-recubrimiento-de-tanques.pdf
+familias:
+  - Pisos y Polímeros
+galeria:
+  - /v1597788942/original-recubrimiento-de-tanques_oxupm9.jpg
+id: 109
+imagen: /v1617744309/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_73_sojuo8.png
+industrias:
+  - Alimentos y Bebidas
+  - Dispositivos Médicos
+  - Química
+  - Comercial - Construcción
+marcas:
+  - Flowcrete
+  - Belzona
+meta_description: ''
+meta_keywords: ''
+taxonomyCover: false
+title: Recubrimiento de Tanques
+titulo_adicional: ''
+weight: 109
+---
 ### **_En Novatec Industrial tenemos los mejores productos para el recubrimiento de sus tanques:_**
 
 ### [**Belzona 5812 DW:**](https://www.belzona.com/es/products/5000/5812dw.aspx)

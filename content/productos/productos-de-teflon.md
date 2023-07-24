@@ -1,19 +1,30 @@
-+++
-catalogo = "/catalogos/original-productos-de-teflon.pdf"
-familias = ["Sellado"]
-galeria = []
-id = 122
-imagen = "/v1617729829/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_11_uvfusw.png"
-industrias = ["Alimentos y Bebidas", "Energía", "Dispositivos Médicos", "Industria Pesada", "Biofarmacéuticos", "Química", "Agrícola", "Ingenios", "Comercial - Construcción", "Electrónica"]
-marcas = ["Garlock"]
-meta_description = "Cintas,Laminas,Barras,Teflon Expandido"
-meta_keywords = "Cintas Garlock, 3535, Teflon expandido"
-taxonomyCover = false
-title = "Productos de Teflon"
-titulo_adicional = ""
-weight = 122
-
-+++
+---
+catalogo: /catalogos/original-productos-de-teflon.pdf
+familias:
+  - Sellado
+galeria: []
+id: 122
+imagen: /v1617729829/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_11_uvfusw.png
+industrias:
+  - Alimentos y Bebidas
+  - Energía
+  - Dispositivos Médicos
+  - Industria Pesada
+  - Biofarmacéuticos
+  - Química
+  - Agrícola
+  - Ingenios
+  - Comercial - Construcción
+  - Electrónica
+marcas:
+  - Garlock
+meta_description: Cintas,Laminas,Barras,Teflon Expandido
+meta_keywords: Cintas Garlock, 3535, Teflon expandido
+taxonomyCover: false
+title: Productos de Teflon
+titulo_adicional: ''
+weight: 122
+---
 ## **Tenemos varios productos de Teflón a su disposición entre ellos:**
 
 ### _PLASTI - THREAD® Cinta de PTFE GRADO PREMIUM:_

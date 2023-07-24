@@ -1,21 +1,27 @@
-+++
-catalogo = ""
-categoria = ""
-familias = ["Equipos y sistemas de limpieza", "Neumática"]
-galeria = ["/v1595456280/cleaning-compressor_xs6rbb.png"]
-id = ""
-imagen = "/v1617731776/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_21_c1jarq.png"
-industrias = []
-marcas = ["Kaivac"]
-meta_description = "Sistemas de limpieza sin contacto de Kaivac están diseñados para eliminar la suciedad extrema, lo que permite a los trabajadores limpiar higiénicamente sin tocar las superficies contaminadas"
-meta_keywords = "Kaivac, Kaivac1250, Kaivac1750, Equipo de limpieza sin contacto"
-taxonomyCover = false
-title = "03. No-Touch Cleaning, NTC "
-titulo = ""
-titulo_adicional = ""
-weight = ""
-
-+++
+---
+catalogo: ''
+categoria: ''
+familias:
+  - Equipos y sistemas de limpieza
+  - Neumática
+galeria:
+  - /v1595456280/cleaning-compressor_xs6rbb.png
+id: ''
+imagen: /v1617731776/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_21_c1jarq.png
+industrias: []
+marcas:
+  - Kaivac
+meta_description: >-
+  Sistemas de limpieza sin contacto de Kaivac están diseñados para eliminar la
+  suciedad extrema, lo que permite a los trabajadores limpiar higiénicamente sin
+  tocar las superficies contaminadas
+meta_keywords: Kaivac, Kaivac1250, Kaivac1750, Equipo de limpieza sin contacto
+taxonomyCover: false
+title: '03. No-Touch Cleaning, NTC '
+titulo: ''
+titulo_adicional: ''
+weight: ''
+---
 ## **Kaivac No-Touch Cleaning.**
 
 #### No solo limpie, use Kaivac...

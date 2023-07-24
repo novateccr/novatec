@@ -1,19 +1,22 @@
-+++
-catalogo = "/catalogos/original-purificadores-de-aceite.pdf"
-familias = ["Filtros"]
-galeria = ["/v1595458128/4dae10ed-e701-4b85-8a29-7d301a3c0827_o0ibuv.png"]
-id = 49
-imagen = "/v1617830894/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_86_x2vrxl.png"
-industrias = ["Energía"]
-marcas = ["Pall"]
-meta_description = ""
-meta_keywords = ""
-taxonomyCover = false
-title = "Purificadores de Aceite"
-titulo_adicional = ""
-weight = 49
-
-+++
+---
+catalogo: /catalogos/original-purificadores-de-aceite.pdf
+familias:
+  - Filtros
+galeria:
+  - /v1595458128/4dae10ed-e701-4b85-8a29-7d301a3c0827_o0ibuv.png
+id: 49
+imagen: /v1617830894/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_86_x2vrxl.png
+industrias:
+  - Energía
+marcas:
+  - Pall
+meta_description: ''
+meta_keywords: ''
+taxonomyCover: false
+title: Purificadores de Aceite
+titulo_adicional: ''
+weight: 49
+---
 ## **Equipo HLP de Pall**
 
 Con un diseño basado en 30 años de experiencia de campo real, el purificador de aceite Pall HLP6 combina la excelente eficiencia de purificadores de transferencia de masa con un nivel excepcional de fiabilidad y facilidad de uso.

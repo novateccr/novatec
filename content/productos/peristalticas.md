@@ -1,22 +1,28 @@
-+++
-catalogo = "/catalogos/original-peristalticas.pdf"
-categoria = ""
-familias = ["Bombas"]
-galeria = ["/v1595286830/_jcr_content_4_yer7f5.jpg", "/v1595286830/_jcr_content_5_ks3pbz.jpg"]
-id = 5
-imagen = "/v1617832789/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_93_kckgxn.png"
-industrias = ["Alimentos y Bebidas", "Energía", "Biofarmacéuticos"]
-marcas = ["Graco"]
-meta_description = "Bombas Peristálticas marca Graco"
-meta_keywords = "Bombas Peristálticas, Graco, Solotech"
-taxonomyCover = false
-title = "Bombas Peristálticas "
-titulo = ""
-titulo_adicional = ""
-type = ""
-weight = 5
-
-+++
+---
+catalogo: /catalogos/original-peristalticas.pdf
+categoria: ''
+familias:
+  - Bombas
+galeria:
+  - /v1595286830/_jcr_content_4_yer7f5.jpg
+  - /v1595286830/_jcr_content_5_ks3pbz.jpg
+id: 5
+imagen: /v1617832789/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_93_kckgxn.png
+industrias:
+  - Alimentos y Bebidas
+  - Energía
+  - Biofarmacéuticos
+marcas:
+  - Graco
+meta_description: Bombas Peristálticas marca Graco
+meta_keywords: Bombas Peristálticas, Graco, Solotech
+taxonomyCover: false
+title: 'Bombas Peristálticas '
+titulo: ''
+titulo_adicional: ''
+type: ''
+weight: 5
+---
 **Bombas Peristálticas marca Graco.**
 
 Modelo SoloTech.

@@ -1,21 +1,24 @@
-+++
-catalogo = ""
-categoria = ""
-familias = ["Equipos y sistemas de limpieza", "Neumática"]
-galeria = ["/v1595545335/kaibosh-gigapixel-scale-4_00x_iq74v5.png"]
-id = ""
-imagen = "/v1617733934/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_28_pt1pwc.png"
-industrias = []
-marcas = ["Kaivac"]
-meta_description = "Desinfectante KaiBosh de Kaivac"
-meta_keywords = "Desinfectante, Kaibosh, Kaivac, COVID-19"
-taxonomyCover = false
-title = "09. Desinfectante KaiBosh "
-titulo = ""
-titulo_adicional = ""
-weight = ""
-
-+++
+---
+catalogo: ''
+categoria: ''
+familias:
+  - Equipos y sistemas de limpieza
+  - Neumática
+galeria:
+  - /v1595545335/kaibosh-gigapixel-scale-4_00x_iq74v5.png
+id: ''
+imagen: /v1617733934/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_28_pt1pwc.png
+industrias: []
+marcas:
+  - Kaivac
+meta_description: Desinfectante KaiBosh de Kaivac
+meta_keywords: Desinfectante, Kaibosh, Kaivac, COVID-19
+taxonomyCover: false
+title: '09. Desinfectante KaiBosh '
+titulo: ''
+titulo_adicional: ''
+weight: ''
+---
 # **KaiBosh**:
 
 **KaiBosh es un limpiador desinfectante concentrado de uso hospitalario sin enjuague para COVID-19 (coronavirus), norovirus, gripe aviar y porcina y más, que desinfecta y limpia en un solo paso para ahorrar trabajo.**

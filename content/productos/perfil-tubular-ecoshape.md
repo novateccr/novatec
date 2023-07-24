@@ -1,21 +1,26 @@
-+++
-catalogo = ""
-categoria = ""
-familias = ["Tecnología de Ensamble"]
-galeria = []
-id = ""
-imagen = "/v1617737870/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_52_crua7a.png"
-industrias = ["Alimentos y Bebidas", "Dispositivos Médicos", "Biofarmacéuticos", "Química"]
-marcas = ["Rexroth"]
-meta_description = "Perfil tubular EcoShape "
-meta_keywords = "perfil ecoshape, perfil tubular, tecnologia de ensamble, BRL"
-taxonomyCover = false
-title = "Perfil tubular EcoShape "
-titulo = ""
-titulo_adicional = ""
-weight = ""
-
-+++
+---
+catalogo: ''
+categoria: ''
+familias:
+  - Tecnología de Ensamble
+galeria: []
+id: ''
+imagen: /v1617737870/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_52_crua7a.png
+industrias:
+  - Alimentos y Bebidas
+  - Dispositivos Médicos
+  - Biofarmacéuticos
+  - Química
+marcas:
+  - Rexroth
+meta_description: 'Perfil tubular EcoShape '
+meta_keywords: perfil ecoshape, perfil tubular, tecnologia de ensamble, BRL
+taxonomyCover: false
+title: 'Perfil tubular EcoShape '
+titulo: ''
+titulo_adicional: ''
+weight: ''
+---
 # **La siguiente dimensión en sistemas de armazón tubular.**
 
 **Versátil, simple, eficiente....**

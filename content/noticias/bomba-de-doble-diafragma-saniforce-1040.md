@@ -1,11 +1,10 @@
-+++
-date = 2020-10-30T06:00:00Z
-featured = true
-imagen_intro = "/v1595031471/19324.tif.imagep_xk9qcq.jpg"
-tags = []
-title = "Bomba de doble diafragma SaniForce 1040"
-
-+++
+---
+date: 2020-10-30T06:00:00.000Z
+featured: true
+imagen_intro: /v1595031471/19324.tif.imagep_xk9qcq.jpg
+tags: []
+title: Bomba de doble diafragma SaniForce 1040
+---
 Las bombas neumáticas de doble diafragma sanitarias SaniForce 1040 de Graco tienen una de las mejores y más durables válvulas de aire sin lubricante de la industria. Ideales para aplicaciones que requieren altos caudales y portabilidad, las bombas de diafragma Graco son confiables y ofrecen una amplia variedad de elastómeros de calidad alimentaria, incluyendo Santoprene, PTFE y EPDM/PTFE sobremoldeados.
 
 **Características SaniForce 1040:**  

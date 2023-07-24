@@ -4,7 +4,7 @@ meta_description: Contáctenos aquí
 menu:
   principal:
     weight: 9
-
+_template: inicio
 ---
 <div class="container-container">
 <div class="contact-form-left">

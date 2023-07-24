@@ -1,21 +1,26 @@
-+++
-catalogo = ""
-categoria = ""
-familias = ["Bombas"]
-galeria = ["/v1595035114/submersible-pumps-ksb-gigapixel-scale-2_00x_yueyh0.jpg", "/v1595034855/upa-teaser-pic-data_n8kdis.jpg"]
-id = ""
-imagen = "/v1617834425/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_-_2021-04-07T162639.296_hzpmeq.png"
-industrias = ["Alimentos y Bebidas"]
-marcas = ["KSB"]
-meta_description = "Bombas para agua tipo upa chrome marca KSB"
-meta_keywords = "Bomba para agua, KSB UPA, pozo profundo, bombas sumergibles"
-taxonomyCover = false
-title = "Bombas Sumergibles"
-titulo = ""
-titulo_adicional = ""
-weight = ""
-
-+++
+---
+catalogo: ''
+categoria: ''
+familias:
+  - Bombas
+galeria:
+  - /v1595035114/submersible-pumps-ksb-gigapixel-scale-2_00x_yueyh0.jpg
+  - /v1595034855/upa-teaser-pic-data_n8kdis.jpg
+id: ''
+imagen: >-
+  /v1617834425/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_-_2021-04-07T162639.296_hzpmeq.png
+industrias:
+  - Alimentos y Bebidas
+marcas:
+  - KSB
+meta_description: Bombas para agua tipo upa chrome marca KSB
+meta_keywords: Bomba para agua, KSB UPA, pozo profundo, bombas sumergibles
+taxonomyCover: false
+title: Bombas Sumergibles
+titulo: ''
+titulo_adicional: ''
+weight: ''
+---
 ### **Bombas Sumergibles tipo UPA:**
 
 Las bombas sumergibles para pozos profundos UPA 150C son adecuadas para pozos con diámetros desde 150 mm. Permite su instalación vertical en pozos profundos estrechos, o su instalación horizontal.

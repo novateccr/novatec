@@ -1,19 +1,23 @@
-+++
-catalogo = ""
-familias = ["Sellado"]
-galeria = []
-id = 22
-imagen = "/v1617728290/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_3_il7khp.png"
-industrias = ["Alimentos y Bebidas", "Energía", "Biofarmacéuticos"]
-marcas = ["Garlock"]
-meta_description = "Retenedores"
-meta_keywords = "garlock, rodamientos, klozure, retenedores"
-taxonomyCover = false
-title = "Retenedores"
-titulo_adicional = ""
-weight = 22
-
-+++
+---
+catalogo: ''
+familias:
+  - Sellado
+galeria: []
+id: 22
+imagen: /v1617728290/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_3_il7khp.png
+industrias:
+  - Alimentos y Bebidas
+  - Energía
+  - Biofarmacéuticos
+marcas:
+  - Garlock
+meta_description: Retenedores
+meta_keywords: garlock, rodamientos, klozure, retenedores
+taxonomyCover: false
+title: Retenedores
+titulo_adicional: ''
+weight: 22
+---
 # **Protectores de Rodamiento KLOZURE:**
 
 #### **_Aisladores de rodamientos Klozure® para bombas, motores y cajas de engranajes._**

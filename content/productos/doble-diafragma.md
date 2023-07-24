@@ -1,19 +1,29 @@
-+++
-catalogo = "/catalogos/original-doble-diafragma.pdf"
-familias = ["Bombas"]
-galeria = ["/v1595001368/doble_diafragma_xkf0cf.jpg", "/v1595001257/Bomba_de_doble_diafragma_z7uz7q.jpg"]
-id = 4
-imagen = "/v1617832511/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_92_xiuinm.png"
-industrias = ["Alimentos y Bebidas", "Energía", "Industria Pesada", "Biofarmacéuticos", "Química", "Agrícola", "Ingenios"]
-marcas = ["Graco"]
-meta_description = "Bombas de doble diafragma GRACO tipo Husky de 1/2¨ a 3¨ NPT"
-meta_keywords = "bomba, neumáticas, doble, diafragma, doble diafragma eléctrica"
-taxonomyCover = false
-title = "Bombas Doble Diafragma"
-titulo_adicional = ""
-weight = 4
-
-+++
+---
+catalogo: /catalogos/original-doble-diafragma.pdf
+familias:
+  - Bombas
+galeria:
+  - /v1595001368/doble_diafragma_xkf0cf.jpg
+  - /v1595001257/Bomba_de_doble_diafragma_z7uz7q.jpg
+id: 4
+imagen: /v1617832511/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_92_xiuinm.png
+industrias:
+  - Alimentos y Bebidas
+  - Energía
+  - Industria Pesada
+  - Biofarmacéuticos
+  - Química
+  - Agrícola
+  - Ingenios
+marcas:
+  - Graco
+meta_description: Bombas de doble diafragma GRACO tipo Husky de 1/2¨ a 3¨ NPT
+meta_keywords: bomba, neumáticas, doble, diafragma, doble diafragma eléctrica
+taxonomyCover: false
+title: Bombas Doble Diafragma
+titulo_adicional: ''
+weight: 4
+---
 Las **bombas neumáticas** de Husky tienen multitud de características para que siempre haga bien su trabajo y están diseñadas para ahorrar dinero.
 
 #### Ventajas de las bombas neumáticas de doble diafragma de Husky

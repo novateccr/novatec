@@ -1,11 +1,10 @@
-+++
-date = 2020-11-19T06:00:00Z
-featured = true
-imagen_intro = "/v1595036200/es000898-pumpdrive-r-2_p456bg-gigapixel-scale-4_00x_vsydnt.png"
-tags = []
-title = "Variadores de velocidad VDF - PumpDrive"
-
-+++
+---
+date: 2020-11-19T06:00:00.000Z
+featured: true
+imagen_intro: /v1595036200/es000898-pumpdrive-r-2_p456bg-gigapixel-scale-4_00x_vsydnt.png
+tags: []
+title: Variadores de velocidad VDF - PumpDrive
+---
 ### **PumpDrive R**
 
 #### **Diseño:**

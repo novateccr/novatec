@@ -1,11 +1,10 @@
-+++
-date = 2020-04-09T23:19:26Z
-featured = true
-imagen_intro = "/v1535584782/ksbselect.jpg"
-tags = []
-title = "KSB APP"
-
-+++
+---
+date: 2020-04-09T23:19:26.000Z
+featured: true
+imagen_intro: /v1535584782/ksbselect.jpg
+tags: []
+title: KSB APP
+---
 **KSB Select & Compare**
 
 La aplicación KSB Select & Compare le ofrece una selección rápida, fácil y precisa de las gamas de bombas KSB Movitec y Comeo.

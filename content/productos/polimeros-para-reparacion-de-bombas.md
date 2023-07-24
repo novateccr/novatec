@@ -1,19 +1,23 @@
-+++
-catalogo = "/catalogos/original-polimeros-para-reparacion-de-bombas.pdf"
-familias = ["Pisos y Polímeros"]
-galeria = []
-id = 137
-imagen = "/v1617743126/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_63_wsr6rr.png"
-industrias = ["Energía", "Agrícola", "Ingenios"]
-marcas = ["Belzona"]
-meta_description = "Belzona, 1391"
-meta_keywords = "reparation de bombas"
-taxonomyCover = false
-title = "Polímeros para reparación de bombas"
-titulo_adicional = ""
-weight = 137
-
-+++
+---
+catalogo: /catalogos/original-polimeros-para-reparacion-de-bombas.pdf
+familias:
+  - Pisos y Polímeros
+galeria: []
+id: 137
+imagen: /v1617743126/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_63_wsr6rr.png
+industrias:
+  - Energía
+  - Agrícola
+  - Ingenios
+marcas:
+  - Belzona
+meta_description: Belzona, 1391
+meta_keywords: reparation de bombas
+taxonomyCover: false
+title: Polímeros para reparación de bombas
+titulo_adicional: ''
+weight: 137
+---
 ## **Novatec Industrial le ofrece gran variedad de polímeros para la reparación de bombas, así como el servicio mismo.**
 
 ## **Serie 1000:**

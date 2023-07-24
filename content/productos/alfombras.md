@@ -1,21 +1,27 @@
-+++
-catalogo = "/catalogos/original-alfombras.pdf"
-categoria = ""
-familias = ["Tecnología de Ensamble"]
-galeria = ["/v1564179173/Ergomat01.jpg"]
-id = 116
-imagen = "/v1617737463/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_49_ngbhre.png"
-industrias = ["Alimentos y Bebidas", "Dispositivos Médicos", "Biofarmacéuticos", "Agrícola"]
-marcas = ["Ergomat"]
-meta_description = "alfombras"
-meta_keywords = "Ergonomicas"
-taxonomyCover = false
-title = "Alfombras Ergonómicas"
-titulo = ""
-titulo_adicional = ""
-weight = 116
-
-+++
+---
+catalogo: /catalogos/original-alfombras.pdf
+categoria: ''
+familias:
+  - Tecnología de Ensamble
+galeria:
+  - /v1564179173/Ergomat01.jpg
+id: 116
+imagen: /v1617737463/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_49_ngbhre.png
+industrias:
+  - Alimentos y Bebidas
+  - Dispositivos Médicos
+  - Biofarmacéuticos
+  - Agrícola
+marcas:
+  - Ergomat
+meta_description: alfombras
+meta_keywords: Ergonomicas
+taxonomyCover: false
+title: Alfombras Ergonómicas
+titulo: ''
+titulo_adicional: ''
+weight: 116
+---
 Sabemos que las condiciones de las áreas de trabajo son diferentes en cada industria, por ello utilizando nuestra experiencia y habilidades llevamos acabo un análisis de su situación actual identificando problemas y oportunidades. Nuestra gran experiencia combinada a nuestra variedad de productos nos permite ofrecerle una solución integral en términos de ergonomía y seguridad que responda a sus necesidades especificas, le presentamos a continuación las diferentes tipos de alfombra que le ofrecemos:
 
 # **ERGOMAT INFINITY BUBBLE:**

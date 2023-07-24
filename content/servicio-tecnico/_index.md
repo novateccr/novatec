@@ -1,4 +1,5 @@
 ---
+_template: servicio_tecnico
 title: Servicio Técnico
 areas:
 - title: Instalación de redes de aire comprimido
