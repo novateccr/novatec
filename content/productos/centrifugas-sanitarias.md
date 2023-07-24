@@ -19,6 +19,7 @@ titulo_adicional: ''
 weight: 1
 ---
 
+
 <h4>Calidad, flexibilidad e innovación.</h4>
 <p>Nuestro estímulo es la innovación: queremos asegurar que las bombas Fristam siempre sean la mejor elección para su empresa.</p>
 <h4>Para el presente y para el futuro</h4>
