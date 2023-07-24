@@ -11,8 +11,8 @@ menu:
   principal:
     parent: Marcas
     weight: 4
-_template: marcas
 ---
+
 
 Los entornos de trabajo son aún más eficientes cuando se adaptan individualmente para cumplir con los requisitos de producción respectivos. Desde bastidores de flujo y marcos hechos de **perfiles de aluminio**, **recintos, estaciones de trabajo de ensamblaje ergonómico hasta líneas de fabricación totalmente automatizadas con sistemas de transferencia**: con base en décadas de experiencia práctica, la tecnología de ensamblaje sofisticada y excepcionalmente versátil de Bosch Rexroth se desarrolla continuamente. Con componentes modulares, finamente coordinados, Bosch Rexroth facilita la realización de soluciones personalizadas y preparadas para el futuro para su producción.
 
