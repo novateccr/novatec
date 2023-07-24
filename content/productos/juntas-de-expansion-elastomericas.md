@@ -28,6 +28,7 @@ titulo_adicional: ''
 weight: 55
 ---
 
+
 Las juntas de expansión Garlock ofrecen un rendimiento, una fiabilidad y una vida útil superiores, lo que mejora la seguridad de la planta y aumenta la integridad mecánica del equipo.
 
 Como productos diseñados específicamente que se insertan en un sistema de tubería rígida, las juntas de expansión de caucho Garlock permiten:

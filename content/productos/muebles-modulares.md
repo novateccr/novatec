@@ -23,6 +23,7 @@ titulo_adicional: ''
 ---
 
 
+
 Novatec Industrial le brinda la mejor atención a sus clientes y proveedores. Ofrecemos **_Muebles Modulares_** fabricadas a su gusto y estilo en Costa Rica.
 
 Los mismos utilizando tecnología de ensamble de la más alta calidad marca Rexroth.

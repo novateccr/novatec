@@ -21,6 +21,7 @@ titulo_adicional: ''
 weight: 113
 ---
 
+
 ![](https://res.cloudinary.com/novatec/v1596836409/MT_13682_20160704_133333.big_urd18k.jpg)
 
 ## [**Estaciones de trabajo personalizadas**](https://www.boschrexroth.com/es/mx/productos/grupo-de-productos/tecnologia-de-ensamble/sistemas-de-produccion-manual/puestos-de-trabajo)

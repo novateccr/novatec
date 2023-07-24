@@ -27,6 +27,7 @@ type: ''
 weight: 139
 ---
 
+
 ### **Descripción:**
 
 Sistema automático de agua a presión, con 2 a 6 bombas verticales y control variable de velocidad en cada bomba mediante PumpDrive; para completo control electrónico para asegurar la presión de suministro requerida. Configuración y funciones según DIN 1988. Automatizado con BoosterControl y PumpDrive.

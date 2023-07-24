@@ -30,6 +30,7 @@ titulo_adicional: ''
 weight: 28
 ---
 
+
 Parker Hannifin es el líder mundial en tecnologías de movimiento y control, y se asocia con sus clientes para aumentar su productividad y rentabilidad. Dentro de Parker, Transair® es la unidad de negocio especializada en proyectos para redes de fluidos industriales.
 
 **Una tecnología con múltiples beneficios Transair®:**

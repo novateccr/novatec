@@ -22,6 +22,7 @@ titulo_adicional: ''
 weight: 111
 ---
 
+
 # Bomba de proceso RPH - robusta, fiable, eficiente
 
 Las bombas de proceso de una sola etapa de la serie RPH a la edición de API ª 610,10 se emplean en las refinerías, la industria química, aplicaciones petroquímicas y centrales eléctricas. Manejan fluidos de forma fiable y eficiente.

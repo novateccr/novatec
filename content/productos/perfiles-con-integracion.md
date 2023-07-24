@@ -22,6 +22,7 @@ titulo_adicional: ''
 ---
 
 
+
 ## Perfiles Estructurales con Integración Funcional
 
 Nuestros nuevos perfiles estructurales Rexroth con funciones integradas (FIP), ofrecen un gran interior utilizable y finalmente crean más espacio para sus ideas de diseño.

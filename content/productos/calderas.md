@@ -23,6 +23,7 @@ titulo_adicional: ''
 weight: 11
 ---
 
+
 #### **Bomba Multitec, marca KSB.**
 
 Bomba centrífuga horizontal o vertical de cuerpo segmentado, multietapa, versión en bancada o monobloc, de aspiración axial o radial, con impulsores radiales fundidos y sistema de regulación de velocidad montado sobre motor. Disponible en versión ATEX.

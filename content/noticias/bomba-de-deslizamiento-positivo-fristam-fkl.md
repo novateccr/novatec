@@ -11,6 +11,7 @@ title: Bomba de Deslizamiento Positivo Fristam FKL
 ---
 
 
+
 **Fristam FKL COP**
 
 Bomba de Deslizamiento Positivo para trabajo pesado para desmontaje diario. 

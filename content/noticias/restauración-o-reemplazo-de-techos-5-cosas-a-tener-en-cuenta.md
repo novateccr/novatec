@@ -8,6 +8,7 @@ title: ¿Restauración o reemplazo de techos? 5 cosas a tener en cuenta
 ---
 
 
+
 ### **¿Se ve el techo en cuestión desgastado? ¿Ha estado goteando? ¿Se acerca el final de su vida útil esperada? ¿No está seguro si puede restaurar o si debe reemplazarlo por completo? A continuación, hay cinco razones por las cuales la restauración puede ser la mejor opción.**
 
 ### **1. La restauración cuesta menos**

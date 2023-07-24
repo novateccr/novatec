@@ -21,6 +21,7 @@ titulo_adicional: ''
 ---
 
 
+
 **Las juntas Garlock® se ofrecen en una amplia gama de materiales, incluidas las juntas de fibra comprimida con PTFE reestructurado GYLON®, las láminas de grafito flexibles GRAPH-LOCK®, las juntas para temperaturas extremas THERMa-PUR y los productos de láminas de caucho de alto rendimiento.**
 
 GYLON® es un producto de eficacia comprobada con el tiempo que es reconocido en la industria como el material de elección para servicio químicos extremos. Además, la disponibilidad de tamaños de las juntas GYLON® es prácticamente ilimitada, ya que el producto puede adherirse térmicamente usando un proceso patentado.
