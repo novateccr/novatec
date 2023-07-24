@@ -23,6 +23,7 @@ weight: 123
 ---
 
 
+
 Las láminas HPL que ofrecemos son de alta presión, las mismas no sueltan viruta ni tampoco se decoloran con los rayos UV, es duradera, ofrecemos en 6,8 mm y 12 mm.
 
 **Consúltenos!**
