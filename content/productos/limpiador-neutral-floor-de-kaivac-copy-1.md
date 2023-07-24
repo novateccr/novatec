@@ -12,12 +12,13 @@ industrias: []
 marcas:
   - Kaivac
 meta_description: Limpiador Neutral Floor de Kaivac
-meta_keywords: Limpiador Neutral Floor, Kaivac
+meta_keywords: 'Limpiador Neutral Floor, Kaivac'
 taxonomyCover: false
 title: 13. Partes clave para Equipo de Limpieza Kaivac
 titulo: ''
 titulo_adicional: ''
 ---
+
 
 ## **Válvula de retención de tapón químico:**
 
