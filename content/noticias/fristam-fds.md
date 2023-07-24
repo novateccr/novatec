@@ -8,6 +8,7 @@ title: Caso de éxito Fristam
 ---
 
 
+
 # **Caso de éxito para Industrial de Helados.** 
 
 Un gran fabricante internacional de helados estaba buscando una manera de simplificar el proceso de dosificación de su premezcla de helado. La fábrica produce alrededor de 250 sabores de helado, con una variedad de agregados de alimentos. Debido a que la compañía produce tantas variedades, los cambios de lotes ocurren varias veces al día. Con cada cambio de lote viene el desafío de bombear diferentes agregados de alimentos, cada una con una viscosidad, densidad y forma y tamaño diferentes a las del último lote.
