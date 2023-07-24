@@ -13,5 +13,6 @@ id: 33
 tags:
   - Productos
 ---
+
 <p>Novatec Construcción es nombrado distribuidor de Euclid para Costa Rica.</p>
 <!--more-->
