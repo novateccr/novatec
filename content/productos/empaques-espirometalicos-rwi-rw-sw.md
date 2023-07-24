@@ -23,6 +23,7 @@ weight: 134
 ---
 
 
+
 ## **Juntas espirometálicas FLEXSEAL® RWI:**
 
 El estilo RWI presenta un anillo interior, bobinado en espiral y un anillo de centrado para usar en aplicaciones de alta presión.
