@@ -7,4 +7,5 @@ title: Láminas HPL
 ---
 
 
+
 ![](https://res.cloudinary.com/novatec/v1646670958/HPL_uzzjx5.jpg)
