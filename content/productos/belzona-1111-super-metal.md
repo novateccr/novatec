@@ -25,6 +25,7 @@ weight: 138
 ---
 
 
+
 Un revestimiento de 2 partes libre de solventes a base de resina epoxi reforzado con aleación de acero al silicio para la reparación de metales. Este material de reparación no se corroe y resiste una amplia gama de productos químicos. Es fácil de mezclar y aplicar sin necesidad de herramientas especiales, y puede mecanizarse con herramientas convencionales.
 
 #### Beneficios clave:
