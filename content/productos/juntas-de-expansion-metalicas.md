@@ -19,6 +19,7 @@ weight: 56
 ---
 
 
+
 ## **Serie MWA y MFA:**
 
 Estas juntas de expansión están hechas de un solo elemento de fuelle con conexiones finales. Independientemente de los accesorios, como forros y fundas, este modelo absorbe todos los movimientos en cualquier longitud de tubería, pero se utiliza principalmente para absorber movimientos axiales.
