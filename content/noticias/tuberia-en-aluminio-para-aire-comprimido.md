@@ -1,7 +1,7 @@
 ---
 alias: tuberia-en-aluminio-para-aire-comprimido
 asset_id: 132
-date: 2020-04-09T06:00:00.000Z
+date: '2020-04-09T06:00:00.000Z'
 featured: false
 id: 25
 imagen_full: ''
@@ -13,6 +13,7 @@ tags:
   - Productos
 title: Tubería en Aluminio para aire comprimido
 ---
+
 <p>Tubería Transair en 1/2" 1"  1-1/2"  2"  2-1/2"  3"  4"  y  6" </p>
 <hr class="system-pagebreak" />
 <p> </p>
