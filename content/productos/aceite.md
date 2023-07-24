@@ -14,12 +14,13 @@ industrias:
 marcas:
   - KSB
 meta_description: Bombas para aceites térmicos y agua sobrecalentada
-meta_keywords: Bombas para aceites térmicos y agua sobrecalentada, Etanorm, Etaline, Etabloc
+meta_keywords: 'Bombas para aceites térmicos y agua sobrecalentada, Etanorm, Etaline, Etabloc'
 taxonomyCover: false
 title: Bombas para aceite termico
 titulo_adicional: ''
 weight: 10
 ---
+
 **Bombas para aceites térmicos y agua sobrecalentada: La apuesta segura.**
 
 ![](https://res.cloudinary.com/novatec/v1595020368/dentro_pn9oj3.png)
