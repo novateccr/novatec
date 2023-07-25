@@ -7,13 +7,11 @@ catalogo: ''
 meta_keywords: >-
   Filtros, Filtración, laboratorio, Farma, PALL, pharma, filtros pall, filtros
   cytiva, filtros lab
-meta_description: Filtración laboratorio y farma
+meta_description: Filtración Laboratorio y Farmacéutica
 weight: 19
 menu:
   principal:
     parent: Marcas
     weight: 19
 ---
-
-
 
