@@ -1,7 +1,7 @@
 ---
 title: Cytiva
 id: '20'
-logo: /cytiva-logo-vector.png
+logo: /v1690237100/33587_10061.png
 link: 'https://www.cytivalifesciences.com/en/cr/'
 catalogo: ''
 meta_keywords: >-
@@ -14,4 +14,3 @@ menu:
     parent: Marcas
     weight: 19
 ---
-
