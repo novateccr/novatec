@@ -5,3 +5,4 @@ imagen_intro: /Aviso 2 de Agosto - NVTI_Mesa de trabajo 1.jpg
 featured: true
 ---
 
+![](</Aviso 2 de Agosto - NVTI_Mesa de trabajo 1.jpg>)
