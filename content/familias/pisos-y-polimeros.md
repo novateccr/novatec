@@ -17,14 +17,10 @@ menu:
     weight: 10
 ---
 
-
-
-
 Desde productos de la línea decorativa a la industrial, institucional y secundaria, Flowcrete y Key Resin Company ofrece soluciones que ofrecen costos de ciclo de vida más bajos, durabilidad sobresaliente y rendimiento general. Nuestras soluciones para pisos incluyen:
 
-- Sistemas de pisos decorativos industriales.
-- Pisos elastoméricos.
-- Sistemas de pisos industriales generales.
-- Sistemas de revestimiento de pisos y paredes.
-- Sistemas de metacrilato de metilo (MMA)
-- Sistemas de control de vapor de humedad.
+* Sistemas de pisos industriales generales.
+* Pisos elastoméricos.
+* Sistemas de revestimiento de pisos y paredes.
+* Sistemas de metacrilato de metilo (MMA)
+* Sistemas de control de vapor de humedad.
