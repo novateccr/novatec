@@ -8,38 +8,38 @@ slides:
     published: true
     link: 'https://www.nvtconstruccion.com/productos/'
   - title: Consulte a uno de nuestros asesores.
-    image: /v1660749431/AdobeStock_291229954_n3ckuh.jpg
     description: ¡Estamos para servirle!
+    image: /AdobeStock_532646540.jpeg
     published: true
     link: /contactenos
   - title: ¡Confíe en la excelencia!
-    image: /v1626994940/AdobeStock_301503760_ucdmih.jpg
     description: ''
+    image: /v1626994940/AdobeStock_301503760_ucdmih.jpg
     published: true
     link: ''
   - title: Sirviendo a la Industria
-    image: /v1660750375/AdobeStock_297479672_bz6lrk.jpg
     description: <p>Bombas · Filtros · Sellos · Pisos · Neumática · Hidráulica</p>
+    image: /v1660750375/AdobeStock_297479672_bz6lrk.jpg
     published: true
     link: ''
   - title: 'Todo en Pisos y Recubrimientos '
-    image: /v1660750081/Ak7cPkg8_xbebqj.jpg
     description: Para todas las Industrias.
+    image: /v1660750081/Ak7cPkg8_xbebqj.jpg
     published: true
     link: ''
   - title: Dispositivos Médicos - Estaciones de trabajo
-    image: /v1660749754/19096_1_iqugtk.png
     description: ''
+    image: /v1660749754/19096_1_iqugtk.png
     published: true
     link: /industrias/dispositivos-medicos/
   - title: Bombas Sanitarias Fristam
-    image: /v1530542510/fristam-seal.jpg
     description: "<p>Bombas Sanitarias Centrífugas · Desplazamiento Positivas\_·\_Mezcladoras</p>"
+    image: /v1530542510/fristam-seal.jpg
     published: true
     link: /marcas/fristam/
   - title: Fristam
-    image: /v1550353343/BOMBAS1.jpg
     description: <p>Bombas · Válvulas · Actuadores</p>
+    image: /v1550353343/BOMBAS1.jpg
     published: true
     link: /marcas/fristam
 barra_azul:
@@ -59,6 +59,4 @@ menu:
     weight: 2
 _template: inicio
 ---
-
-
 
