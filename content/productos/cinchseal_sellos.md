@@ -6,7 +6,8 @@ familias:
   - Sellado
 industrias:
   - Ingenios
-imagen: /Cinchseal1.JPG
+imagen: >-
+  https://res.cloudinary.com/novatec/image/upload/v1697831480/Cinchseal_1_dcbsei.png
 catalogo: 'https://cinchseal.com/'
 meta_description: 'ejes rotativos, cinchseal, sellos rotativos, sellos para ejes'
 meta_keywords: Sellos para ejes rotativos
@@ -15,8 +16,7 @@ galeria:
   - /descarga (4).jpeg
 ---
 
-**Cinchseal - Sellos para Ejes Rotativos**\
-
+**Cinchseal - Sellos para Ejes Rotativos**\\
 
 \
 ![](/Cinchseal.PNG)\
