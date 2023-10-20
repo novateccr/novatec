@@ -1,6 +1,6 @@
 [build]
   base = "."
-  functions = "./functions"
+  functions = "netlify/functions"
   command = "npm run build"
 [functions]
     external_node_modules = ["express", "vm2"]
