@@ -2,12 +2,11 @@
   base = "."
   functions = "./functions"
   command = "npm run build"
-[[redirects]]
-    force = true
-    from = '/api/*'
-    to = '/.functions/api/:splat'
-    status = 200
 [functions]
     external_node_modules = ["express", "vm2"]
     node_bundler = 'esbuild'
-  
+[[redirects]]
+    force = true
+    from = '/api/*'
+    status = 200
+    to = "/.netlify/functions/api/:splat"
