@@ -1,8 +1,7 @@
 ---
 title: Robots Autónomos AMR - Rexroth
 date: 2023-10-20T06:00:00.000Z
-imagen_intro: >-
-  https://res.cloudinary.com/novatec/image/upload/v1697831540/bosch-rexroth-activeshuttle-lifts-up-dollies-with-small-load-carriers_aygffu.jpg
+imagen_intro: https://res.cloudinary.com/novatec/image/upload/v1697831540/bosch-rexroth-activeshuttle-lifts-up-dollies-with-small-load-carriers_aygffu.jpg
 featured: true
 ---
 
