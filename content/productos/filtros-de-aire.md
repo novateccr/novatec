@@ -24,16 +24,16 @@ weight: 13
 
 Filtros para Aire Comprimido, Coalecentes, Partículas, Estéril, Trampas, Drenes...
 Certificaciones 
-<div class="page" title="Page 3">
-<div class="section">
-<div class="layoutArea">
-<div class="column">
-<ul>
-<li style="font-size: 9pt; font-family: Helvetica;">
+
+
+
+
+
+
  ISO 8573-1 
-</li>
-</ul>
-</div>
-</div>
-</div>
-</div>
+
+
+
+
+
+

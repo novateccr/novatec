@@ -17,9 +17,9 @@ tags:
 
 
 
-<img src="images/noticias/NInews.jpg" alt="" />
+
 Debido a la Emergencia Nacional por el Huracán-Otto, nos vamos a mantener cerrados, hasta nuevo aviso.  
-<div style="color: #000000; font-family: Helvetica; font-size: 12px;">Para emergencias favor escribir a <a href="mailto:asistencia@novatec.cr">asistencia@novatec.cr</a></div>
-<div style="color: #000000; font-family: Helvetica; font-size: 12px;"> </div>
-<div style="color: #000000; font-family: Helvetica; font-size: 12px;"> </div>
-<!--more-->
+Para emergencias favor escribir a asistencia@novatec.cr
+ 
+ 
+
