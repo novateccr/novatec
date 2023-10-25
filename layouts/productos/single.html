@@ -13,7 +13,7 @@
   <div class="grid-container">
     <section id="producto-main">
       {{ with .Params.galeria }}
-      {{ partial "product-image-gallery.html" ( dict "dir" $.Site.Params.cloudinary_url "imgs" . ) }}
+      {{ partial "product-image-gallery.html" ( dict "imgs" . ) }}
       {{ end }}
 
       {{ .Content }}
