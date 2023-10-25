@@ -1,7 +1,7 @@
 ---
 title: 'EagleBurgmann '
 id: "5"
-logo: /v1530089073/logos/6b057a5cb7631f71537a93d8186b1ae6-eagleburgmann.jpg
+logo: https://res.cloudinary.com/novatec/image/upload/v1530089073/logos/6b057a5cb7631f71537a93d8186b1ae6-eagleburgmann.jpg
 link: https://www.eagleburgmann.com
 catalogo: ''
 meta_keywords: EagleBurgmann, especialistas en sellos mecánicos y juntas de expansión.

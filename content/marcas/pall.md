@@ -1,7 +1,7 @@
 ---
 title: Pall
 id: "4"
-logo: /v1530089073/logos/8f8a22a0e4c21e877f034299958e9cbe-pall.jpg
+logo: https://res.cloudinary.com/novatec/image/upload/v1530089073/logos/8f8a22a0e4c21e877f034299958e9cbe-pall.jpg
 link: http://www.pall.com
 catalogo: ''
 meta_keywords: ''
