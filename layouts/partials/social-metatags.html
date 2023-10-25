@@ -1,26 +1,28 @@
 <!-- Update your html tag to include the itemscope and itemtype attributes. -->
 <html itemscope itemtype="http://schema.org/Article">
 {{ with .Title }}
-  <meta itemprop="name" content="{{.}}">
-  <meta property="og:title" content="{{.}}" />
-  <meta name="twitter:title" content="{{.}}">
+<meta itemprop="name" content="{{.}}">
+<meta property="og:title" content="{{.}}" />
+<meta name="twitter:title" content="{{.}}">
 {{ end }}
 {{ with .Params.meta_description }}
-  <meta name="description" content="{{.}}" />
-  <meta itemprop="description" content="{{.}}">
-  <meta name="twitter:description" content="{{.}}">
-  <meta property="og:description" content="{{.}}" />
+<meta name="description" content="{{.}}" />
+<meta itemprop="description" content="{{.}}">
+<meta name="twitter:description" content="{{.}}">
+<meta property="og:description" content="{{.}}" />
 {{ end }}
 {{ with .Params.meta_keywords }}
-  <meta name="keywords" content="{{.}}">
+<meta name="keywords" content="{{.}}">
 {{ end }}
 <meta name="twitter:creator" content="@novatecnews">
 <meta name="twitter:site" content="@novatecnews">
 {{ with .Params.imagen_intro }}
-  <meta itemprop="image" content="{{ $.Site.Params.cloudinary_url }}f_auto,w_550,h_413,c_fill{{.}}">
-  <meta name="twitter:card" content="{{ $.Site.Params.cloudinary_url }}f_auto,w_550,h_413,c_fill{{.}}">
-  <meta name="twitter:image:src" content="{{ $.Site.Params.cloudinary_url }}f_auto,w_550,h_413,c_fill{{.}}">
-  <meta property="og:image" content="{{ $.Site.Params.cloudinary_url }}f_auto,w_550,h_413,c_fill{{.}}" />
+{{ $img_params := "w_500,h_350,c_fill,f_auto" }}
+{{ $img_url := partial "cloudinary-img.html" (dict "url" . "params" $img_params) }}
+<meta itemprop="image" content="{{ $img_url | safeURL }}">
+<meta name="twitter:card" content="{{ $img_url | safeURL }}">
+<meta name="twitter:image:src" content="{{ $img_url | safeURL }}">
+<meta property="og:image" content="{{ $img_url | safeURL }}" />
 {{ end }}
 <!-- Open Graph data -->
 <meta property="og:type" content="article" />

@@ -10,9 +10,9 @@
       <li>
         <a class="noticia-image-link" href="{{ .Permalink }}">
           <div class="noticia-imagen-container">
-            <img class="lazy"
-              data-src="{{ $.Site.Params.cloudinary_url }}c_thumb,w_260,h_195,c_pad{{ .Params.imagen_intro }}"
-              alt="{{ .Title }}" />
+            {{ $img_params := "c_thumb,w_260,h_195,c_pad" }}
+            {{ $img_url := partial "cloudinary-img.html" (dict "url" .Params.imagen_intro "params" $img_params) }}
+            <img class="lazy" data-src="{{ $img_url | safeURL }}" alt="{{ .Title }}">
           </div>
         </a>
         <a class="noticia-title" href="{{ .Permalink }}">
