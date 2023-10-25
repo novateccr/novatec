@@ -17,5 +17,5 @@ title: La nueva bomba Fristam FDS
 
 
 
-FDS nueva bomba Fristam sanitaria de doble tornillo, consulte en ventas@novatec.cr
+FDS nueva bomba Fristam sanitaria de doble tornillo, consulte en sac@novatec.cr
 <!--more-->
