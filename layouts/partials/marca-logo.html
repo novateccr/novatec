@@ -1,6 +1,6 @@
 <div class="marca-page-logo-content">
   {{ $img_params := "f_auto,w_280,h_280,c_fit,q_80" }}
-  {{ $img_url := partial "cloudinary-img.html" (dict "url" .Params.imagen "params" $img_params) }}
+  {{ $img_url := partial "cloudinary-img.html" (dict "url" .Params.logo "params" $img_params) }}
   <img src="{{ $img_url | safeURL }}" alt="{{ .Title }}">
 </div>
 <div class="text-center">
