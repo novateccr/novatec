@@ -20,7 +20,7 @@ weight: 1
 ---
 ## Calidad, flexibilidad e innovación.
 Nuestro estímulo es la innovación: queremos asegurar que las bombas Fristam siempre sean la mejor elección para su empresa.
-<h4>Para el presente y para el futuro</h4>
+#### Para el presente y para el futuro
 Fristam invierte de forma importante en la investigación y desarrollo de nuevas tecnologías, no sólo para poder ofrecerle soluciones a medida, sino también para poder ofrecerle soluciones innovadoras. 
  
 
