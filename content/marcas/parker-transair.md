@@ -1,7 +1,7 @@
 ---
 title: Parker-Transair
 id: "11"
-logo: "/v1530089073/logos/2b6a5e17122beb1afce28449a34f4ff3-parkerlegris.jpg"
+logo: /v1530089073/logos/2b6a5e17122beb1afce28449a34f4ff3-parkerlegris.jpg
 link: http://promo.parker.com/promotionsite/transair/us/en/home
 catalogo: ''
 meta_keywords: ''

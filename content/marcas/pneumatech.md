@@ -1,7 +1,7 @@
 ---
 title: Pneumatech
 id: "13"
-logo: "/v1530089073/logos/98b200012719ae55c47ba80ef26661ca-pneumatech.jpg"
+logo: /v1530089073/logos/98b200012719ae55c47ba80ef26661ca-pneumatech.jpg
 link: http://www.pneumatech.com
 catalogo: ''
 meta_keywords: ''

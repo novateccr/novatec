@@ -1,7 +1,7 @@
 ---
 title: Garlock
 id: "6"
-logo: "/v1530089074/logos/cb5f14d025d6fe82d7bf313bc520635f-garlock.jpg"
+logo: /v1530089074/logos/cb5f14d025d6fe82d7bf313bc520635f-garlock.jpg
 link: http://www.garlock.com/es/
 catalogo: ''
 meta_keywords: Garlock
