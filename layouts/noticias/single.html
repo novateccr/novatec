@@ -13,12 +13,17 @@
   <article class="article-content">
     {{ if ne .Params.imagen_intro "" }}
     <div class="article-full-image">
-      <img srcset="{{ .Site.Params.cloudinary_url }}w_320,f_auto,q_auto{{ .Params.imagen_intro }} 320w,
-                   {{ .Site.Params.cloudinary_url }}w_480,f_auto,q_auto{{ .Params.imagen_intro }} 480w,
-                   {{ .Site.Params.cloudinary_url }}w_820,f_auto,q_auto{{ .Params.imagen_intro }} 820w" sizes="(max-width: 320px) 280px,
+      {{ $img_params_320 := "w_320,f_auto,q_auto" }}
+      {{ $img_url_320 := partial "cloudinary-img.html" (dict "url" .Params.imagen_intro "params" $img_params_320) }}
+      {{ $img_params_480 := "w_480,f_auto,q_auto" }}
+      {{ $img_url_480 := partial "cloudinary-img.html" (dict "url" .Params.imagen_intro "params" $img_params_480) }}
+      {{ $img_params_820 := "w_820,f_auto,q_auto" }}
+      {{ $img_url_820 := partial "cloudinary-img.html" (dict "url" .Params.imagen_intro "params" $img_params_820) }}
+      <img srcset="{{ $img_url_320 | safeURL }} 320w,
+      {{ $img_url_480 | safeURL }} 480w,
+      {{ $img_url_820 | safeURL }} 820w" sizes="(max-width: 320px) 280px,
                     (max-width: 480px) 440px,
-                    820px" src="{{ .Site.Params.cloudinary_url }}w_820,f_auto,q_auto{{ .Params.imagen_intro }}"
-        alt="{{ $.Title }}">
+                    820px" src="{{ $img_url_820 | safeURL }}" alt="{{ $.Title }}">
     </div>
     {{end}}
     <h2>{{ .Title }}</h2>

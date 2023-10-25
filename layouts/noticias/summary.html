@@ -1,9 +1,10 @@
 <article class="post-item">
   <div class="inner">
     <header>
-      <a href="{{ .Permalink }}"><img
-          src="{{ .Site.Params.cloudinary_url }}f_auto,w_550,h_413,c_fill{{ .Params.imagen_intro }}"
-          alt="{{ .Title }}"></a>
+      <a href="{{ .Permalink }}">
+        {{ $img_params := "f_auto,w_550,h_413,c_fill" }}
+        {{ $img_url := partial "cloudinary-img.html" (dict "url" .Params.imagen_intro "params" $img_params) }}
+        <img src="{{ $img_url | safeURL }}" alt="{{ .Title }}"></a>
     </header>
     <div class="entry-content">
       <h5 class="noticia-title">
