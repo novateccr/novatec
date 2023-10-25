@@ -1,7 +1,7 @@
 ---
 title: Industria Pesada
 id: "4"
-imagen: "/v1530762491/industrias/78829ca69d4d85b41e8f3c749c3d7a6d-CP.jpg"
+imagen: https://res.cloudinary.com/novatec/image/upload/v1530762491/industrias/78829ca69d4d85b41e8f3c749c3d7a6d-CP.jpg
 link: ''
 catalogo: ''
 meta_keywords: ''

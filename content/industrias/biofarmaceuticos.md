@@ -1,7 +1,7 @@
 ---
 title: Biofarmacéuticos
 id: "5"
-imagen: "/v1530762491/industrias/1a62319c83f38c46ef2ba3ca6d869f46-BF.jpg"
+imagen: https://res.cloudinary.com/novatec/image/upload/v1530762491/industrias/1a62319c83f38c46ef2ba3ca6d869f46-BF.jpg
 link: ''
 catalogo: ''
 meta_keywords: ''

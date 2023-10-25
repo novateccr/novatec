@@ -1,7 +1,7 @@
 ---
 title: Alimentos y Bebidas
 id: "1"
-imagen: "/v1530762492/industrias/6e78dab4f624e11495570fb85e23a652-alimentos-bebidas.jpg"
+imagen: https://res.cloudinary.com/novatec/image/upload/v1530762492/industrias/6e78dab4f624e11495570fb85e23a652-alimentos-bebidas.jpg
 link: ''
 catalogo: ''
 meta_keywords: ''
