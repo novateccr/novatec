@@ -30,7 +30,7 @@ Certificaciones 
 <div class="column">
 <ul>
 <li style="font-size: 9pt; font-family: Helvetica;">
-<span style="font-size: 9pt;"> ISO 8573-1 </span>
+ ISO 8573-1 
 </li>
 </ul>
 </div>
