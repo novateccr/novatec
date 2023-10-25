@@ -42,7 +42,7 @@
     "imagemin": "^8.0.1",
     "js-yaml": "^4.1.0",
     "next-tinacms-cloudinary": "^4.3.7",
-    "sass": "^1.64.1",
+    "sass": "^1.69.4",
     "serverless-http": "^3.2.0",
     "tinacms": "^1.5.17",
     "toml": "^3.0.0"
