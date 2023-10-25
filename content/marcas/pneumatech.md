@@ -13,4 +13,4 @@ menu:
     weight: 17
 
 ---
-<p>Fabricante de tratamiento para el aire comprimido</p>
+Fabricante de tratamiento para el aire comprimido

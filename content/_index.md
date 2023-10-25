@@ -18,7 +18,7 @@ slides:
     published: true
     link: ''
   - title: Sirviendo a la Industria
-    description: <p>Bombas · Filtros · Sellos · Pisos · Neumática · Hidráulica</p>
+    description: Bombas · Filtros · Sellos · Pisos · Neumática · Hidráulica
     image: /v1660750375/AdobeStock_297479672_bz6lrk.jpg
     published: true
     link: ''
@@ -33,12 +33,12 @@ slides:
     published: true
     link: /industrias/dispositivos-medicos/
   - title: Bombas Sanitarias Fristam
-    description: "<p>Bombas Sanitarias Centrífugas · Desplazamiento Positivas\_·\_Mezcladoras</p>"
+    description: "Bombas Sanitarias Centrífugas · Desplazamiento Positivas\_·\_Mezcladoras"
     image: /v1530542510/fristam-seal.jpg
     published: true
     link: /marcas/fristam/
   - title: Fristam
-    description: <p>Bombas · Válvulas · Actuadores</p>
+    description: Bombas · Válvulas · Actuadores
     image: /v1550353343/BOMBAS1.jpg
     published: true
     link: /marcas/fristam

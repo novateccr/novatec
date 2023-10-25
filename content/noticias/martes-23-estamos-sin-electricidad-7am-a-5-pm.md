@@ -17,8 +17,8 @@ tags:
 
 
 
-<p>Horario Semana Santa:</p>
-<p>Lunes a Miércoles de 8 a 5:30 pm</p>
-<p>Jueves y Viernes cerrado.</p>
-<p>Para emergencias favor escribir a asistencia@novatec.cr </p>
+Horario Semana Santa:
+Lunes a Miércoles de 8 a 5:30 pm
+Jueves y Viernes cerrado.
+Para emergencias favor escribir a asistencia@novatec.cr 
 <!--more-->

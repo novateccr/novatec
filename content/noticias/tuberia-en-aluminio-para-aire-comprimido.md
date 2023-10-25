@@ -17,11 +17,11 @@ title: Tubería en Aluminio para aire comprimido
 
 
 
-<p>Tubería Transair en 1/2" 1"  1-1/2"  2"  2-1/2"  3"  4"  y  6" </p>
+Tubería Transair en 1/2" 1"  1-1/2"  2"  2-1/2"  3"  4"  y  6" 
 <hr class="system-pagebreak" />
-<p> </p>
-<p>Tubería para aire comprimido, gases inertes.</p>
-<p>única con 10 años de Garantía.</p>
-<p> </p>
-<p> </p>
+ 
+Tubería para aire comprimido, gases inertes.
+única con 10 años de Garantía.
+ 
+ 
 <!--more-->

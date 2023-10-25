@@ -13,4 +13,4 @@ menu:
     weight: 7
 
 ---
-<p>Cilindros, válvulas, filtros reguladores y lubricadores</p>
+Cilindros, válvulas, filtros reguladores y lubricadores

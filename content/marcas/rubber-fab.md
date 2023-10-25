@@ -13,4 +13,4 @@ menu:
     weight: 10
 
 ---
-<p>Rubber Fab</p>
+Rubber Fab

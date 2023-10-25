@@ -17,8 +17,8 @@ tags:
 
 
 
-<p>Consultenos para toda la linea de bombas FlowServe...</p>
-<p><img src="images/noticias/Durco.jpg" alt="" /></p>
-<p> </p>
-<p><a href="mailto:sac@novatec.cr">sac@novatec.cr</a></p>
+Consultenos para toda la linea de bombas FlowServe...
+<img src="images/noticias/Durco.jpg" alt="" />
+ 
+<a href="mailto:sac@novatec.cr">sac@novatec.cr</a>
 <!--more-->

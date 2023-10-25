@@ -22,15 +22,15 @@ weight: 13
 
 
 
-<p>Filtros para Aire Comprimido, Coalecentes, Partículas, Estéril, Trampas, Drenes...</p>
-<p>Certificaciones </p>
+Filtros para Aire Comprimido, Coalecentes, Partículas, Estéril, Trampas, Drenes...
+Certificaciones 
 <div class="page" title="Page 3">
 <div class="section">
 <div class="layoutArea">
 <div class="column">
 <ul>
 <li style="font-size: 9pt; font-family: Helvetica;">
-<p><span style="font-size: 9pt;"> ISO 8573-1 </span></p>
+<span style="font-size: 9pt;"> ISO 8573-1 </span>
 </li>
 </ul>
 </div>
