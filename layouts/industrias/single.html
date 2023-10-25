@@ -1,55 +1,57 @@
 {{ define "page-title"}}
-  {{ partial "page-title.html" .}}
+{{ partial "page-title.html" .}}
 {{ end }}
 
 {{ define "main" }}
-  <div class="container industria-page">
-    <div class="row">
-      <div class="industria-page-imagen">
-        <img src="{{ $.Site.Params.cloudinary_url }}w_500,h_350,c_fill,f_auto{{ .Params.imagen }}" alt="{{ .Title }}">
+<div class="container industria-page">
+  <div class="row">
+    <div class="industria-page-imagen">
+      {{ $img_params := "w_500,h_350,c_fill,f_auto" }}
+      {{ $img_url := partial "cloudinary-img.html" (dict "url" .Params.imagen "params" $img_params) }}
+      <img src="{{ $img_url | safeURL }}" alt="{{ .Title }}">
 
-        {{ with .Params.catalogo }}
-          <div class="text-center small-text">
-            <a href="{{ . }}" download="Catalogo Industria {{$.Title}} - Novatec.pdf">
-              <i class="fa fa-file-pdf-o"></i><br> Descargar catálogo de Agrícola
-            </a>
-          </div>
-        {{ end }}
-        {{ .Content }}
+      {{ with .Params.catalogo }}
+      <div class="text-center small-text">
+        <a href="{{ . }}" download="Catalogo Industria {{$.Title}} - Novatec.pdf">
+          <i class="fa fa-file-pdf-o"></i><br> Descargar catálogo de Agrícola
+        </a>
       </div>
-      <div class="industria-page-productos">
-        <h2>Productos</h2>
-        <ul class="pages-list">
+      {{ end }}
+      {{ .Content }}
+    </div>
+    <div class="industria-page-productos">
+      <h2>Productos</h2>
+      <ul class="pages-list">
         {{ $array := slice .Title }}
         {{ $.Scratch.Set "marcas" (slice "") }}
         {{ $paginas := where .Site.RegularPages "Params.industrias" "intersect" $array }}
         <ul class="pages-list">
           {{ range $paginas }}
 
-            {{ with .Params.marcas}}
-              {{ range . }}
-                {{ $.Scratch.Add "marcas" (slice .) }}
-              {{ end }}
-            {{ end}}
-            
-            <li>
-              <a href="{{ .Permalink }}">{{ .Title }}</a>
-            </li>
+          {{ with .Params.marcas}}
+          {{ range . }}
+          {{ $.Scratch.Add "marcas" (slice .) }}
+          {{ end }}
+          {{ end}}
+
+          <li>
+            <a href="{{ .Permalink }}">{{ .Title }}</a>
+          </li>
           {{ end }}
         </ul>
-      </div>
-      <div class="industria-page-marcas">
-        <h2>Marcas</h2>
-        <ul class="pages-list">
-          {{ $current_marcas := $.Scratch.Get "marcas" }}
-          {{ range uniq $current_marcas }}
-            {{ $brand := $.Site.GetPage (print "/marcas/" (urlize (index .)) ) }}
-            {{ with $brand }}
-              <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
-            {{ end }}
-          {{ end }}
-        </ul>
-      </div>
+    </div>
+    <div class="industria-page-marcas">
+      <h2>Marcas</h2>
+      <ul class="pages-list">
+        {{ $current_marcas := $.Scratch.Get "marcas" }}
+        {{ range uniq $current_marcas }}
+        {{ $brand := $.Site.GetPage (print "/marcas/" (urlize (index .)) ) }}
+        {{ with $brand }}
+        <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+        {{ end }}
+        {{ end }}
+      </ul>
     </div>
   </div>
+</div>
 {{ end }}

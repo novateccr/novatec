@@ -1,0 +1,4 @@
+{{- $url := .url -}}
+{{- $params := .params -}}
+{{- $split := split $url "/upload/" -}}
+{{- printf "%s/upload/%s/%s" (index $split 0) $params (index $split 1) -}}
