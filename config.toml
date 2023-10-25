@@ -6,3 +6,5 @@ title = "Novatec Industrial"
 HUGO_VERSION = "0.42.2"
 [params]
 cloudinary_url = "https://res.cloudinary.com/novatec/image/upload/"
+[security.funcs]
+  getenv = ['^HUGO_', '^CI$', '^LOCAL_DEV$']
