@@ -11,12 +11,15 @@
 }
 
 .internal-contact-form {
-  input, textarea {
+
+  input,
+  textarea {
     display: block;
     width: 100%;
     border: 1px solid $mid-grey;
-    margin-bottom: $general-padding / 2;
+    margin-bottom: math.div($general-padding, 2);
   }
+
   textarea {
     margin-bottom: $general-padding;
   }

@@ -16,9 +16,11 @@
 /// @access private
 
 @function _neat-column-ratio($grid, $columns) {
-  @if length($columns) > 1 {
+  @if length($columns)>1 {
     @return nth($columns, 1) / _neat-parse-columns($columns);
-  } @else if $columns {
-    @return $columns / _retrieve-neat-setting($grid, columns);
+  }
+
+  @else if $columns {
+    @return math.div($columns, _retrieve-neat-setting($grid, columns));
   }
 }
