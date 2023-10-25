@@ -4,9 +4,9 @@ categoria: ''
 familias:
   - Alfombras y Demarcación
 galeria:
-  - /v1564179173/Ergomat01.jpg
+  - https://res.cloudinary.com/novatec/image/upload/v1564179173/Ergomat01.jpg
 id: 105
-imagen: /v1530797588/productos/original-alfombras-ergonomicas
+imagen: https://res.cloudinary.com/novatec/image/upload/v1530797588/productos/original-alfombras-ergonomicas
 industrias:
   - Biofarmacéuticos
 marcas:

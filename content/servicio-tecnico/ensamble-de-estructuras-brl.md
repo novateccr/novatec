@@ -1,5 +1,5 @@
 ---
-Imagen: /v1643830853/MT_39551_20210915_140610.web_lrgnbn.jpg
+Imagen: https://res.cloudinary.com/novatec/image/upload/v1643830853/MT_39551_20210915_140610.web_lrgnbn.jpg
 info: ''
 title: Diseño y Ensamble de Estructuras BRL
 ---

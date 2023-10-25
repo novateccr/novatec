@@ -1,7 +1,7 @@
 ---
 date: '2018-10-10T20:34:48-06:00'
 featured: true
-imagen_intro: /v1539225871/pisos.jpg
+imagen_intro: https://res.cloudinary.com/novatec/image/upload/v1539225871/pisos.jpg
 tags:
   - Flowfast
   - sistema

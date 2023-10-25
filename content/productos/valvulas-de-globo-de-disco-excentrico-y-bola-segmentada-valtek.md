@@ -3,9 +3,9 @@ catalogo: ''
 familias:
   - Válvulas
 galeria:
-  - /v1596747425/PROFIN-gigapixel-scale-4_00x_m7jkja.png
+  - https://res.cloudinary.com/novatec/image/upload/v1596747425/PROFIN-gigapixel-scale-4_00x_m7jkja.png
 id: 129
-imagen: /v1617735180/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_35_xz8oow.png
+imagen: https://res.cloudinary.com/novatec/image/upload/v1617735180/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_35_xz8oow.png
 industrias:
   - Energía
 marcas:

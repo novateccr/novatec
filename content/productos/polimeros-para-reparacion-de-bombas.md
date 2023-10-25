@@ -4,7 +4,7 @@ familias:
   - Pisos y Polímeros
 galeria: []
 id: 137
-imagen: /v1617743126/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_63_wsr6rr.png
+imagen: https://res.cloudinary.com/novatec/image/upload/v1617743126/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_63_wsr6rr.png
 industrias:
   - Energía
   - Agrícola

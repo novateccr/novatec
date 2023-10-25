@@ -5,10 +5,10 @@ familias:
   - Equipos y sistemas de limpieza
   - Neumática
 galeria:
-  - /v1595454860/autovac2_aucpso.png
-  - /v1595453013/autovac_pqy91x.png
+  - https://res.cloudinary.com/novatec/image/upload/v1595454860/autovac2_aucpso.png
+  - https://res.cloudinary.com/novatec/image/upload/v1595453013/autovac_pqy91x.png
 id: ''
-imagen: /v1617731973/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_22_vmwixc.png
+imagen: https://res.cloudinary.com/novatec/image/upload/v1617731973/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_22_vmwixc.png
 industrias: []
 marcas:
   - Kaivac

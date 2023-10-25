@@ -4,7 +4,7 @@ familias:
   - Filtros
 galeria: []
 id: 121
-imagen: /v1617831041/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_87_typ149.png
+imagen: https://res.cloudinary.com/novatec/image/upload/v1617831041/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_87_typ149.png
 industrias:
   - Energía
   - Industria Pesada

@@ -4,7 +4,7 @@ familias:
   - Válvulas
 galeria: []
 id: 141
-imagen: /v1678996450/Oventrop_ciflqd.png
+imagen: https://res.cloudinary.com/novatec/image/upload/v1678996450/Oventrop_ciflqd.png
 industrias:
   - Alimentos y Bebidas
   - Energía

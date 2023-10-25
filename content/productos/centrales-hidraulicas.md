@@ -10,7 +10,7 @@ industrias:
   - Energía
   - Biofarmacéuticos
   - Ingenios
-imagen: /v1530797588/productos/original-centrales-hidraulicas
+imagen: https://res.cloudinary.com/novatec/image/upload/v1530797588/productos/original-centrales-hidraulicas
 catalogo: /catalogos/original-centrales-hidraulicas.pdf
 meta_description: central hidraulica
 meta_keywords: Central

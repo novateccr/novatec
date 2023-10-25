@@ -4,10 +4,10 @@ categoria: ''
 familias:
   - Tecnología de Ensamble
 galeria:
-  - /v1596755390/9d35595a-6d41-423b-acc2-0d08a4c7e322_dnyo8y.jpg
-  - /v1596755466/a2370cf8-dec9-4da0-a707-418694ca1785_t3qhcw.jpg
+  - https://res.cloudinary.com/novatec/image/upload/v1596755390/9d35595a-6d41-423b-acc2-0d08a4c7e322_dnyo8y.jpg
+  - https://res.cloudinary.com/novatec/image/upload/v1596755466/a2370cf8-dec9-4da0-a707-418694ca1785_t3qhcw.jpg
 id: ''
-imagen: /v1617737765/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_51_nv8usm.png
+imagen: https://res.cloudinary.com/novatec/image/upload/v1617737765/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_51_nv8usm.png
 industrias:
   - Alimentos y Bebidas
   - Dispositivos Médicos

@@ -7,7 +7,7 @@ familias:
   - Alfombras y Demarcación
 industrias:
   - Biofarmacéuticos
-imagen: /v1530797588/productos/original-lineas-de-demarcacion
+imagen: https://res.cloudinary.com/novatec/image/upload/v1530797588/productos/original-lineas-de-demarcacion
 catalogo: /catalogos/original-lineas-de-demarcacion.pdf
 meta_description: ''
 meta_keywords: ''

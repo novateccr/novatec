@@ -4,9 +4,9 @@ categoria: ''
 familias:
   - Equipos y sistemas de limpieza
 galeria:
-  - /v1595457332/Univac-Specs_blwcup.jpg
+  - https://res.cloudinary.com/novatec/image/upload/v1595457332/Univac-Specs_blwcup.jpg
 id: ''
-imagen: /v1617731362/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_20_i4gnla.png
+imagen: https://res.cloudinary.com/novatec/image/upload/v1617731362/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_20_i4gnla.png
 industrias: []
 marcas:
   - Kaivac

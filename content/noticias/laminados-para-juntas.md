@@ -1,7 +1,7 @@
 ---
 date: '2020-11-04T06:00:00.000Z'
 featured: true
-imagen_intro: /v1582130678/Garlock_obnsqq.png
+imagen_intro: https://res.cloudinary.com/novatec/image/upload/v1582130678/Garlock_obnsqq.png
 tags: []
 title: Laminados para Juntas
 ---

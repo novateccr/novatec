@@ -1,5 +1,5 @@
 ---
-Imagen: /v1668541851/0_suurbl_sdk65a.jpg
+Imagen: https://res.cloudinary.com/novatec/image/upload/v1668541851/0_suurbl_sdk65a.jpg
 info: ''
 title: 'Mantenimiento y Reparación de Techos Industriales '
 ---

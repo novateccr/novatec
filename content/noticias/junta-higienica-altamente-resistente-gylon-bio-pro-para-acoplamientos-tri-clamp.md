@@ -1,7 +1,7 @@
 ---
 date: '2020-10-23T06:00:00.000Z'
 featured: true
-imagen_intro: /v1569268306/Bio-Pro_1_oqwpak.jpg
+imagen_intro: https://res.cloudinary.com/novatec/image/upload/v1569268306/Bio-Pro_1_oqwpak.jpg
 tags: []
 title: >-
   Junta higiénica altamente resistente GYLON BIO-PRO® para acoplamientos

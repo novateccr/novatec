@@ -1,7 +1,7 @@
 ---
 date: '2020-12-03T06:00:00.000Z'
 featured: true
-imagen_intro: /v1596756073/b693c0c2-d6b7-4e92-b140-69aab5a3e355_iejlzl.png
+imagen_intro: https://res.cloudinary.com/novatec/image/upload/v1596756073/b693c0c2-d6b7-4e92-b140-69aab5a3e355_iejlzl.png
 tags: []
 title: Transportadores para Industrias de Bebida alimenticia
 ---

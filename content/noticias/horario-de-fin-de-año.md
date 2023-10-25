@@ -2,7 +2,7 @@
 date: '2019-11-16T06:00:00.000Z'
 draft: true
 featured: true
-imagen_intro: /v1530204881/NInews.jpg
+imagen_intro: https://res.cloudinary.com/novatec/image/upload/v1530204881/NInews.jpg
 tags: []
 title: Horario de fin de año
 ---

@@ -1,7 +1,7 @@
 ---
 title: Válvulas
 id: '12'
-imagen: /v1596748076/es000573-boax-b_gmrt2b.png
+imagen: https://res.cloudinary.com/novatec/image/upload/v1596748076/es000573-boax-b_gmrt2b.png
 link: ''
 catalogo: ''
 meta_keywords: >-

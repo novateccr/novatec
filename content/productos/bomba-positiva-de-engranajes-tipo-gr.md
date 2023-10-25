@@ -4,7 +4,7 @@ draft: true
 familias:
   - Bombas
 id: 136
-imagen: /v1530797588/productos/original-bomba-positiva-de-engranajes-tipo-gr.jpg
+imagen: https://res.cloudinary.com/novatec/image/upload/v1530797588/productos/original-bomba-positiva-de-engranajes-tipo-gr.jpg
 industrias:
   - Energía
   - Industria Pesada

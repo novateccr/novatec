@@ -1,7 +1,7 @@
 ---
 date: '2019-05-13T00:00:00-06:00'
 featured: true
-imagen_intro: /v1557793689/aguas%20residuales%20ksb_FACEBOOK%209-2_WEB%20%20copy%209.jpg
+imagen_intro: https://res.cloudinary.com/novatec/image/upload/v1557793689/aguas%20residuales%20ksb_FACEBOOK%209-2_WEB%20%20copy%209.jpg
 tags:
   - aguas residuales
   - ' aguas'

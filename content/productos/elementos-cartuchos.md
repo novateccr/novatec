@@ -3,9 +3,9 @@ catalogo: /catalogos/original-elementos-cartuchos.pdf
 familias:
   - Filtros
 galeria:
-  - /v1569025889/PALL_Elementos_c8imwm.jpg
+  - https://res.cloudinary.com/novatec/image/upload/v1569025889/PALL_Elementos_c8imwm.jpg
 id: 125
-imagen: /v1617831381/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_89_k0xken.png
+imagen: https://res.cloudinary.com/novatec/image/upload/v1617831381/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_89_k0xken.png
 industrias:
   - Alimentos y Bebidas
   - Industria Pesada

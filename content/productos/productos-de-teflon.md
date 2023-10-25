@@ -4,7 +4,7 @@ familias:
   - Sellado
 galeria: []
 id: 122
-imagen: /v1617729829/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_11_uvfusw.png
+imagen: https://res.cloudinary.com/novatec/image/upload/v1617729829/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_11_uvfusw.png
 industrias:
   - Alimentos y Bebidas
   - Energía

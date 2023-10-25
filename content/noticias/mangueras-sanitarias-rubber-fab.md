@@ -1,7 +1,7 @@
 ---
 date: '2019-11-15T19:35:16.000Z'
 featured: true
-imagen_intro: /v1544211350/Ruibber-Fab.jpg
+imagen_intro: https://res.cloudinary.com/novatec/image/upload/v1544211350/Ruibber-Fab.jpg
 tags: []
 title: Mangueras Sanitarias Rubber Fab
 ---

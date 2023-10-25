@@ -4,9 +4,9 @@ categoria: ''
 familias:
   - Bombas
 galeria:
-  - /v1595034285/LMI-PD-bombas-dosificadoras-milton-roy_qb6bcj.jpg
+  - https://res.cloudinary.com/novatec/image/upload/v1595034285/LMI-PD-bombas-dosificadoras-milton-roy_qb6bcj.jpg
 id: ''
-imagen: /v1617834363/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_100_y4cvq1.png
+imagen: https://res.cloudinary.com/novatec/image/upload/v1617834363/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_100_y4cvq1.png
 industrias: []
 marcas:
   - MiltonRoy

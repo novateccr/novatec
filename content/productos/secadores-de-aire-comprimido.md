@@ -4,7 +4,7 @@ familias:
   - Redes y tratamiento de Aire Comprimido
 galeria: []
 id: '120'
-imagen: /v1617741800/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_56_zgcgu8.png
+imagen: https://res.cloudinary.com/novatec/image/upload/v1617741800/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_56_zgcgu8.png
 industrias:
   - Alimentos y Bebidas
   - Dispositivos Médicos

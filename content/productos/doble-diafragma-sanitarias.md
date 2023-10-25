@@ -4,10 +4,10 @@ categoria: ''
 familias:
   - Bombas
 galeria:
-  - /v1595029890/saniforce_2150_tpldxi.jpg
+  - https://res.cloudinary.com/novatec/image/upload/v1595029890/saniforce_2150_tpldxi.jpg
 id: 128
 imagen: >-
-  /v1617836102/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_-_2021-04-07T165439.074_gol2nl.png
+  https://res.cloudinary.com/novatec/image/upload/v1617836102/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_-_2021-04-07T165439.074_gol2nl.png
 industrias:
   - Alimentos y Bebidas
   - Dispositivos Médicos

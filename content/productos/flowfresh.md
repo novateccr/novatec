@@ -9,7 +9,7 @@ industrias:
   - Alimentos y Bebidas
   - Energía
   - Biofarmacéuticos
-imagen: /v1530797588/productos/original-flowfresh
+imagen: https://res.cloudinary.com/novatec/image/upload/v1530797588/productos/original-flowfresh
 catalogo: /catalogos/original-flowfresh.pdf
 meta_description: ''
 meta_keywords: ''

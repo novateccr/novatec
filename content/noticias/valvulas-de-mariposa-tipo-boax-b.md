@@ -1,7 +1,7 @@
 ---
 date: '2020-11-02T06:00:00.000Z'
 featured: true
-imagen_intro: /v1596748076/es000573-boax-b_gmrt2b.png
+imagen_intro: https://res.cloudinary.com/novatec/image/upload/v1596748076/es000573-boax-b_gmrt2b.png
 tags: []
 title: Válvulas de mariposa tipo Boax-B
 ---

@@ -4,7 +4,7 @@ description: Especialistas en soluciones para el manejo y sellado de fluidos.
 slides:
   - title: Novatec Industrial.
     description: ¡Consúltenos!
-    image: /v1626995521/AdobeStock_68822437_aldhhx.jpg
+    image: https://res.cloudinary.com/novatec/image/upload/v1626995521/AdobeStock_68822437_aldhhx.jpg
     published: true
     link: 'https://www.nvtconstruccion.com/productos/'
   - title: Consulte a uno de nuestros asesores.
@@ -14,32 +14,32 @@ slides:
     link: /contactenos
   - title: ¡Confíe en la excelencia!
     description: ''
-    image: /v1626994940/AdobeStock_301503760_ucdmih.jpg
+    image: https://res.cloudinary.com/novatec/image/upload/v1626994940/AdobeStock_301503760_ucdmih.jpg
     published: true
     link: ''
   - title: Sirviendo a la Industria
     description: Bombas · Filtros · Sellos · Pisos · Neumática · Hidráulica
-    image: /v1660750375/AdobeStock_297479672_bz6lrk.jpg
+    image: https://res.cloudinary.com/novatec/image/upload/v1660750375/AdobeStock_297479672_bz6lrk.jpg
     published: true
     link: ''
   - title: 'Todo en Pisos y Recubrimientos '
     description: Para todas las Industrias.
-    image: /v1660750081/Ak7cPkg8_xbebqj.jpg
+    image: https://res.cloudinary.com/novatec/image/upload/v1660750081/Ak7cPkg8_xbebqj.jpg
     published: true
     link: ''
   - title: Dispositivos Médicos - Estaciones de trabajo
     description: ''
-    image: /v1660749754/19096_1_iqugtk.png
+    image: https://res.cloudinary.com/novatec/image/upload/v1660749754/19096_1_iqugtk.png
     published: true
     link: /industrias/dispositivos-medicos/
   - title: Bombas Sanitarias Fristam
     description: "Bombas Sanitarias Centrífugas · Desplazamiento Positivas\_·\_Mezcladoras"
-    image: /v1530542510/fristam-seal.jpg
+    image: https://res.cloudinary.com/novatec/image/upload/v1530542510/fristam-seal.jpg
     published: true
     link: /marcas/fristam/
   - title: Fristam
     description: Bombas · Válvulas · Actuadores
-    image: /v1550353343/BOMBAS1.jpg
+    image: https://res.cloudinary.com/novatec/image/upload/v1550353343/BOMBAS1.jpg
     published: true
     link: /marcas/fristam
 barra_azul:

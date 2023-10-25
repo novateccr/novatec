@@ -3,10 +3,10 @@ catalogo: /catalogos/original-juntas-de-expansion-elastomericas.pdf
 familias:
   - Sellado
 galeria:
-  - /v1597180315/pipingExpansionJoints_akazxf.png
-  - /v1570652706/EJ_Family_PTFE_Metal_AB_edit_1200X900_br2rud.png
+  - https://res.cloudinary.com/novatec/image/upload/v1597180315/pipingExpansionJoints_akazxf.png
+  - https://res.cloudinary.com/novatec/image/upload/v1570652706/EJ_Family_PTFE_Metal_AB_edit_1200X900_br2rud.png
 id: 55
-imagen: /v1617728914/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_7_frgxex.png
+imagen: https://res.cloudinary.com/novatec/image/upload/v1617728914/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_7_frgxex.png
 industrias:
   - Alimentos y Bebidas
   - Energía

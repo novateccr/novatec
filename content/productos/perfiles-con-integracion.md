@@ -6,7 +6,7 @@ familias:
 galeria: []
 id: '112'
 imagen: >-
-  /v1675799900/bosch-rexroth-function-integrated-profiles-exhibit_640x360_ft9t02.jpg
+  https://res.cloudinary.com/novatec/image/upload/v1675799900/bosch-rexroth-function-integrated-profiles-exhibit_640x360_ft9t02.jpg
 industrias:
   - Almentos y Bebidas
   - Dispositivos Médicos

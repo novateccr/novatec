@@ -4,12 +4,12 @@ categoria: ''
 familias:
   - Bombas
 galeria:
-  - /v1566006531/megacpk-KSB1_eqdko2.png
+  - https://res.cloudinary.com/novatec/image/upload/v1566006531/megacpk-KSB1_eqdko2.png
   - >-
-    /v1595012749/pic-pumpmeter-auswertung-des-lastprofil_v8z1pj-gigapixel-scale-2_00x_itcwmk.jpg
-  - /v1582866757/es000807-pumpmeter_llzlou.png
+    https://res.cloudinary.com/novatec/image/upload/v1595012749/pic-pumpmeter-auswertung-des-lastprofil_v8z1pj-gigapixel-scale-2_00x_itcwmk.jpg
+  - https://res.cloudinary.com/novatec/image/upload/v1582866757/es000807-pumpmeter_llzlou.png
 id: 7
-imagen: /v1617833939/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_95_udh1sv.png
+imagen: https://res.cloudinary.com/novatec/image/upload/v1617833939/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_95_udh1sv.png
 industrias:
   - Alimentos y Bebidas
   - Energía

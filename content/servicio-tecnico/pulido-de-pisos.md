@@ -1,6 +1,6 @@
 ---
 Imagen: >-
-  /v1673384846/procedimiento-de-pulido-de-pisos-de-marmol-en-Mexico-1024x683_ka6lgs.jpg
+  https://res.cloudinary.com/novatec/image/upload/v1673384846/procedimiento-de-pulido-de-pisos-de-marmol-en-Mexico-1024x683_ka6lgs.jpg
 info: ''
 title: Pulido de Pisos
 ---

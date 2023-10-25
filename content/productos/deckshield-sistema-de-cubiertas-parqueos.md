@@ -4,11 +4,11 @@ categoria: ''
 familias:
   - Pisos y Polímeros
 galeria:
-  - /v1597775794/deckshield-header-image-03_y3tkhq.jpg
-  - /v1597775786/deckshield-header-image-02_qmemaj.jpg
-  - /v1597775779/deckshield-header-image-01_jvaz9u.jpg
+  - https://res.cloudinary.com/novatec/image/upload/v1597775794/deckshield-header-image-03_y3tkhq.jpg
+  - https://res.cloudinary.com/novatec/image/upload/v1597775786/deckshield-header-image-02_qmemaj.jpg
+  - https://res.cloudinary.com/novatec/image/upload/v1597775779/deckshield-header-image-01_jvaz9u.jpg
 id: ''
-imagen: /v1617743454/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_66_a3rxc8.png
+imagen: https://res.cloudinary.com/novatec/image/upload/v1617743454/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_66_a3rxc8.png
 industrias: []
 marcas:
   - Flowcrete

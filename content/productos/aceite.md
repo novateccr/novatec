@@ -3,10 +3,10 @@ catalogo: /catalogos/original-aceite.pdf
 familias:
   - Bombas
 galeria:
-  - /v1595020794/E12B-Etaline-SYT_cwajfc.jpg
-  - /v1595020201/ethanorm_hfon1d.jpg
+  - https://res.cloudinary.com/novatec/image/upload/v1595020794/E12B-Etaline-SYT_cwajfc.jpg
+  - https://res.cloudinary.com/novatec/image/upload/v1595020201/ethanorm_hfon1d.jpg
 id: 10
-imagen: /v1617834074/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_97_ewbal9.png
+imagen: https://res.cloudinary.com/novatec/image/upload/v1617834074/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_97_ewbal9.png
 industrias:
   - Alimentos y Bebidas
   - Energía

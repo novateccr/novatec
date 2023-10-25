@@ -3,9 +3,9 @@ catalogo: /catalogos/original-juntas-de-expansion-metalicas.pdf
 familias:
   - Sellado
 galeria:
-  - /v1570728971/Macoga-MWD_jq3rij.png
+  - https://res.cloudinary.com/novatec/image/upload/v1570728971/Macoga-MWD_jq3rij.png
 id: 56
-imagen: /v1617729070/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_8_kodjsa.png
+imagen: https://res.cloudinary.com/novatec/image/upload/v1617729070/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_8_kodjsa.png
 industrias:
   - Energía
 marcas:

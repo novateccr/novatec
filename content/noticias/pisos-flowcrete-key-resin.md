@@ -1,7 +1,7 @@
 ---
 date: '2020-01-21T06:00:00.000Z'
 featured: true
-imagen_intro: /v1579641946/FlowCrete_food_be49z6.jpg
+imagen_intro: https://res.cloudinary.com/novatec/image/upload/v1579641946/FlowCrete_food_be49z6.jpg
 tags: []
 title: 'Pisos Flowcrete & Key Resin '
 ---

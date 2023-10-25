@@ -11,7 +11,7 @@ industrias:
   - Industria Pesada
   - Biofarmacéuticos
   - Ingenios
-imagen: /v1530797588/productos/original-cilindros
+imagen: https://res.cloudinary.com/novatec/image/upload/v1530797588/productos/original-cilindros
 catalogo: /catalogos/original-cilindros.pdf
 meta_description: Cilindro hidraulico
 meta_keywords: 'Cilindro, piston, rexroth'

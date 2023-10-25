@@ -4,7 +4,7 @@ familias:
   - Tecnología de Ensamble
 galeria: []
 id: 115
-imagen: /v1617737071/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_48_tnuohp.png
+imagen: https://res.cloudinary.com/novatec/image/upload/v1617737071/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_48_tnuohp.png
 industrias:
   - Alimentos y Bebidas
   - Dispositivos Médicos

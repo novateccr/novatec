@@ -1,7 +1,7 @@
 ---
 date: '2019-05-07T00:00:00-06:00'
 featured: true
-imagen_intro: /v1557374649/Mangueras-Sanitarias%20Marca%20Rubber-FAB2.jpg
+imagen_intro: https://res.cloudinary.com/novatec/image/upload/v1557374649/Mangueras-Sanitarias%20Marca%20Rubber-FAB2.jpg
 tags:
   - rubber fab
   - mangueras sanitarias

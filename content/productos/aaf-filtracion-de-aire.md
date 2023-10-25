@@ -5,7 +5,7 @@ familias:
   - Filtros
 galeria: []
 id: ''
-imagen: /v1633615820/AAF_-_Flanders_dm2we5.png
+imagen: https://res.cloudinary.com/novatec/image/upload/v1633615820/AAF_-_Flanders_dm2we5.png
 industrias: []
 marcas: []
 meta_description: ¡Dando vida al aire limpio!

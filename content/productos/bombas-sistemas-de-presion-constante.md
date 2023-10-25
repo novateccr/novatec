@@ -4,11 +4,11 @@ categoria: ''
 familias:
   - Bombas
 galeria:
-  - /v1595032632/7053-12962111-gigapixel-scale-2_00x_usonfo.jpg
-  - /v1595032518/movitec-high-pressure-pump-img-data_e1cxwm.jpg
+  - https://res.cloudinary.com/novatec/image/upload/v1595032632/7053-12962111-gigapixel-scale-2_00x_usonfo.jpg
+  - https://res.cloudinary.com/novatec/image/upload/v1595032518/movitec-high-pressure-pump-img-data_e1cxwm.jpg
 id: 139
 imagen: >-
-  /v1617836473/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_-_2021-04-07T170042.138_x7vpxs.png
+  https://res.cloudinary.com/novatec/image/upload/v1617836473/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_-_2021-04-07T170042.138_x7vpxs.png
 industrias:
   - Alimentos y Bebidas
   - Energía

@@ -3,9 +3,9 @@ catalogo: /catalogos/original-recubrimiento-de-tanques.pdf
 familias:
   - Pisos y Polímeros
 galeria:
-  - /v1597788942/original-recubrimiento-de-tanques_oxupm9.jpg
+  - https://res.cloudinary.com/novatec/image/upload/v1597788942/original-recubrimiento-de-tanques_oxupm9.jpg
 id: 109
-imagen: /v1617744309/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_73_sojuo8.png
+imagen: https://res.cloudinary.com/novatec/image/upload/v1617744309/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_73_sojuo8.png
 industrias:
   - Alimentos y Bebidas
   - Dispositivos Médicos

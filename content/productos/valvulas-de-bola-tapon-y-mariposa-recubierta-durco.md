@@ -3,10 +3,10 @@ catalogo: ''
 familias:
   - Válvulas
 galeria:
-  - /v1596741645/ecoline-gigapixel-scale-4_00x_wcg29w.png
-  - /v1596741491/es000775-ecoline-glc-150-600-gigapixel-scale-4_00x_mtscsw.png
+  - https://res.cloudinary.com/novatec/image/upload/v1596741645/ecoline-gigapixel-scale-4_00x_wcg29w.png
+  - https://res.cloudinary.com/novatec/image/upload/v1596741491/es000775-ecoline-glc-150-600-gigapixel-scale-4_00x_mtscsw.png
 id: 30
-imagen: /v1617734773/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_32_rvuvns.png
+imagen: https://res.cloudinary.com/novatec/image/upload/v1617734773/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_32_rvuvns.png
 industrias:
   - Alimentos y Bebidas
   - Energía

@@ -1,7 +1,7 @@
 ---
 date: '2021-02-15T06:00:00.000Z'
 featured: true
-imagen_intro: /v1596753800/es000427-danais-150_nmafk0.png
+imagen_intro: https://res.cloudinary.com/novatec/image/upload/v1596753800/es000427-danais-150_nmafk0.png
 tags: []
 title: 'Válvulas de doble excentricidad '
 ---

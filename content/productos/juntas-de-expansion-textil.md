@@ -3,10 +3,10 @@ catalogo: ''
 familias:
   - Sellado
 galeria:
-  - /v1571676363/EBI_-_Junta_Exp_lc7g6y.jpg
-  - /v1571676230/EBI_-_Expansion_Joint_t0x3du.jpg
+  - https://res.cloudinary.com/novatec/image/upload/v1571676363/EBI_-_Junta_Exp_lc7g6y.jpg
+  - https://res.cloudinary.com/novatec/image/upload/v1571676230/EBI_-_Expansion_Joint_t0x3du.jpg
 id: 58
-imagen: /v1617729619/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_9_joyovz.png
+imagen: https://res.cloudinary.com/novatec/image/upload/v1617729619/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_9_joyovz.png
 industrias:
   - Alimentos y Bebidas
   - Energía

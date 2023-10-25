@@ -3,10 +3,10 @@ catalogo: /catalogos/original-mangueras-metalicas.pdf
 familias:
   - Sellado
 galeria:
-  - /v1597272263/slide-3_kxiizr.jpg
-  - /v1597271656/unnamed_5_dvh784.jpg
+  - https://res.cloudinary.com/novatec/image/upload/v1597272263/slide-3_kxiizr.jpg
+  - https://res.cloudinary.com/novatec/image/upload/v1597271656/unnamed_5_dvh784.jpg
 id: 23
-imagen: /v1617728792/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_6_vpw58a.png
+imagen: https://res.cloudinary.com/novatec/image/upload/v1617728792/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_6_vpw58a.png
 industrias:
   - Alimentos y Bebidas
   - Biofarmacéuticos

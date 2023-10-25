@@ -1,7 +1,7 @@
 ---
 date: '2019-05-31T06:00:00.000Z'
 featured: false
-imagen_intro: /v1559342337/fristam.gif
+imagen_intro: https://res.cloudinary.com/novatec/image/upload/v1559342337/fristam.gif
 tags:
   - bombas
   - deslizamiento positivo

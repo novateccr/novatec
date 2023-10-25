@@ -5,9 +5,9 @@ familias:
   - Equipos y sistemas de limpieza
   - Neumática
 galeria:
-  - /v1595456280/cleaning-compressor_xs6rbb.png
+  - https://res.cloudinary.com/novatec/image/upload/v1595456280/cleaning-compressor_xs6rbb.png
 id: ''
-imagen: /v1617731776/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_21_c1jarq.png
+imagen: https://res.cloudinary.com/novatec/image/upload/v1617731776/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_21_c1jarq.png
 industrias: []
 marcas:
   - Kaivac

@@ -5,7 +5,7 @@ familias:
   - Pisos y Polímeros
 galeria: []
 id: ''
-imagen: /v1645476235/MicrosoftTeams-image_47_xgxgnl.jpg
+imagen: https://res.cloudinary.com/novatec/image/upload/v1645476235/MicrosoftTeams-image_47_xgxgnl.jpg
 industrias: []
 marcas:
   - Flowcrete

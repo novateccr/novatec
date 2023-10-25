@@ -1,7 +1,7 @@
 ---
 date: '2020-04-09T23:19:26.000Z'
 featured: true
-imagen_intro: /v1535584782/ksbselect.jpg
+imagen_intro: https://res.cloudinary.com/novatec/image/upload/v1535584782/ksbselect.jpg
 tags: []
 title: KSB APP
 ---

@@ -2,7 +2,7 @@
 date: '2019-11-16T06:00:00.000Z'
 draft: true
 featured: true
-imagen_intro: /v1576187881/Fin_de_an%CC%83o_2020_smvsx0.jpg
+imagen_intro: https://res.cloudinary.com/novatec/image/upload/v1576187881/Fin_de_an%CC%83o_2020_smvsx0.jpg
 tags: []
 title: Horario de fin de año
 ---

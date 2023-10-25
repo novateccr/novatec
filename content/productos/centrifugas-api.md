@@ -4,9 +4,9 @@ categoria: ''
 familias:
   - Bombas
 galeria:
-  - /v1566004987/rph-KSB_udpu2k.png
+  - https://res.cloudinary.com/novatec/image/upload/v1566004987/rph-KSB_udpu2k.png
 id: 111
-imagen: /v1617834290/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_99_u65sxb.png
+imagen: https://res.cloudinary.com/novatec/image/upload/v1617834290/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_99_u65sxb.png
 industrias:
   - Energía
   - Industria Pesada

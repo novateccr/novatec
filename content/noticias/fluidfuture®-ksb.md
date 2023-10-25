@@ -1,7 +1,7 @@
 ---
 date: '2019-11-05T06:00:00.000Z'
 featured: false
-imagen_intro: /v1560436251/eficienciaenergetica.png
+imagen_intro: https://res.cloudinary.com/novatec/image/upload/v1560436251/eficienciaenergetica.png
 tags:
   - ksb
   - eficiencia energética

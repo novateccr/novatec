@@ -1,7 +1,7 @@
 ---
 title: Cytiva
 id: '20'
-logo: /v1690237100/33587_10061.png
+logo: https://res.cloudinary.com/novatec/image/upload/v1690237100/33587_10061.png
 link: 'https://www.cytivalifesciences.com/en/cr/'
 catalogo: ''
 meta_keywords: >-

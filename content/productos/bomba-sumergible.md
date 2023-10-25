@@ -4,11 +4,11 @@ categoria: ''
 familias:
   - Bombas
 galeria:
-  - /v1595035114/submersible-pumps-ksb-gigapixel-scale-2_00x_yueyh0.jpg
-  - /v1595034855/upa-teaser-pic-data_n8kdis.jpg
+  - https://res.cloudinary.com/novatec/image/upload/v1595035114/submersible-pumps-ksb-gigapixel-scale-2_00x_yueyh0.jpg
+  - https://res.cloudinary.com/novatec/image/upload/v1595034855/upa-teaser-pic-data_n8kdis.jpg
 id: ''
 imagen: >-
-  /v1617834425/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_-_2021-04-07T162639.296_hzpmeq.png
+  https://res.cloudinary.com/novatec/image/upload/v1617834425/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_-_2021-04-07T162639.296_hzpmeq.png
 industrias:
   - Alimentos y Bebidas
 marcas:

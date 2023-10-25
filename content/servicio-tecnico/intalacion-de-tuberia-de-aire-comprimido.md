@@ -1,6 +1,6 @@
 ---
-Imagen: /v1622217576/Copia_de_Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_1_spgto4.png
-hero: /v1530797586/productos/3f2ab090b41cda2b37c5ea94238cf2d3-Tuberia.jpg
+Imagen: https://res.cloudinary.com/novatec/image/upload/v1622217576/Copia_de_Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_1_spgto4.png
+hero: https://res.cloudinary.com/novatec/image/upload/v1530797586/productos/3f2ab090b41cda2b37c5ea94238cf2d3-Tuberia.jpg
 info: ''
 title: Instalación de Tubería Transair
 ---

@@ -4,10 +4,10 @@ categoria: ''
 familias:
   - Pisos y Polímeros
 galeria:
-  - /v1597776876/alumanation_hnjdqi-gigapixel-scale-4_00x_gvwln0.png
-  - /v1597776763/0_suurbl.jpg
+  - https://res.cloudinary.com/novatec/image/upload/v1597776876/alumanation_hnjdqi-gigapixel-scale-4_00x_gvwln0.png
+  - https://res.cloudinary.com/novatec/image/upload/v1597776763/0_suurbl.jpg
 id: ''
-imagen: /v1617744646/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_75_pkdpkk.png
+imagen: https://res.cloudinary.com/novatec/image/upload/v1617744646/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_75_pkdpkk.png
 industrias: []
 marcas:
   - Tremco

@@ -2,7 +2,7 @@
 catalogo: ''
 id: ''
 link: 'https://www.lmipumps.com/'
-logo: /v1565046599/LMI_fjwhsu.jpg
+logo: https://res.cloudinary.com/novatec/image/upload/v1565046599/LMI_fjwhsu.jpg
 meta_description: ''
 meta_keywords: Todo en bombas dosificadoras
 title: LMI - MiltonRoy

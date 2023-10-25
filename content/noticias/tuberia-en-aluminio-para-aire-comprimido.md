@@ -6,7 +6,7 @@ featured: false
 id: 25
 imagen_full: ''
 imagen_intro: >-
-  /v1530797594/productos/original-tuberia-en-aluminio-para-aire-comprimido-y-gases-inertes.png
+  https://res.cloudinary.com/novatec/image/upload/v1530797594/productos/original-tuberia-en-aluminio-para-aire-comprimido-y-gases-inertes.png
 metadesc: ''
 metakey: ''
 tags:

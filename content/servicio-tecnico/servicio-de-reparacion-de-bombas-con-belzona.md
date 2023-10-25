@@ -1,7 +1,7 @@
 ---
 Imagen: >-
-  /v1623431911/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_-_2021-06-11T111825.843_jmuerm.png
-hero: /v1597782508/1341_7_tgn4n1.jpg
+  https://res.cloudinary.com/novatec/image/upload/v1623431911/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_-_2021-06-11T111825.843_jmuerm.png
+hero: https://res.cloudinary.com/novatec/image/upload/v1597782508/1341_7_tgn4n1.jpg
 info: ''
 title: 'Servicio de reparación de bombas '
 ---

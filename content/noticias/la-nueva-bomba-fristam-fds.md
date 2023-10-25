@@ -5,8 +5,8 @@ date: '2017-07-29 15:26:37'
 draft: false
 featured: false
 id: 34
-imagen_full: /v1530205793/fristam2.jpg
-imagen_intro: /v1530204932/fristam.jpg
+imagen_full: https://res.cloudinary.com/novatec/image/upload/v1530205793/fristam2.jpg
+imagen_intro: https://res.cloudinary.com/novatec/image/upload/v1530204932/fristam.jpg
 metadesc: FDS
 metakey: 'FDS, Fristam, doble tornillo'
 tags:

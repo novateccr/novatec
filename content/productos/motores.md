@@ -4,12 +4,12 @@ categoria: ''
 familias:
   - Bombas
 galeria:
-  - /v1595035348/kompatibel-thumbnail-data_h0ehdh.jpg
-  - /v1582864617/KSB_SuPremE_Energy_Diet_IE5_npfyo3.png
-  - /v1582862356/foto-data_cl48og.jpg
+  - https://res.cloudinary.com/novatec/image/upload/v1595035348/kompatibel-thumbnail-data_h0ehdh.jpg
+  - https://res.cloudinary.com/novatec/image/upload/v1582864617/KSB_SuPremE_Energy_Diet_IE5_npfyo3.png
+  - https://res.cloudinary.com/novatec/image/upload/v1582862356/foto-data_cl48og.jpg
 id: ''
 imagen: >-
-  /v1617834563/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_-_2021-04-07T162910.153_kuzrzw.png
+  https://res.cloudinary.com/novatec/image/upload/v1617834563/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_-_2021-04-07T162910.153_kuzrzw.png
 industrias:
   - Alimentos y Bebidas
   - Pharmaceuticas

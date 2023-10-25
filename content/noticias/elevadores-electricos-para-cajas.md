@@ -1,7 +1,7 @@
 ---
 date: '2018-09-10T21:10:04-06:00'
 featured: true
-imagen_intro: /v1536637162/elevadores.jpg
+imagen_intro: https://res.cloudinary.com/novatec/image/upload/v1536637162/elevadores.jpg
 tags: []
 title: Elevadores eléctricos para cajas
 ---

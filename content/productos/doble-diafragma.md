@@ -3,10 +3,10 @@ catalogo: /catalogos/original-doble-diafragma.pdf
 familias:
   - Bombas
 galeria:
-  - /v1595001368/doble_diafragma_xkf0cf.jpg
-  - /v1595001257/Bomba_de_doble_diafragma_z7uz7q.jpg
+  - https://res.cloudinary.com/novatec/image/upload/v1595001368/doble_diafragma_xkf0cf.jpg
+  - https://res.cloudinary.com/novatec/image/upload/v1595001257/Bomba_de_doble_diafragma_z7uz7q.jpg
 id: 4
-imagen: /v1617832511/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_92_xiuinm.png
+imagen: https://res.cloudinary.com/novatec/image/upload/v1617832511/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_92_xiuinm.png
 industrias:
   - Alimentos y Bebidas
   - Energía

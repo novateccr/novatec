@@ -1,7 +1,7 @@
 ---
 date: '2020-10-30T06:00:00.000Z'
 featured: true
-imagen_intro: /v1595031471/19324.tif.imagep_xk9qcq.jpg
+imagen_intro: https://res.cloudinary.com/novatec/image/upload/v1595031471/19324.tif.imagep_xk9qcq.jpg
 tags: []
 title: Bomba de doble diafragma SaniForce 1040
 ---

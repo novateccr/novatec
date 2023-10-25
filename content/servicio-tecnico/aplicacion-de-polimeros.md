@@ -1,5 +1,5 @@
 ---
-Imagen: /v1643830039/MicrosoftTeams-image_44_1_eeadab.jpg
+Imagen: https://res.cloudinary.com/novatec/image/upload/v1643830039/MicrosoftTeams-image_44_1_eeadab.jpg
 info: ''
 title: Aplicación de Polímeros
 ---

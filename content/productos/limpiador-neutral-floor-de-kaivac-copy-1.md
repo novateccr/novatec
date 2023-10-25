@@ -7,7 +7,7 @@ familias:
   - Neumática
 galeria: []
 id: ''
-imagen: /v1595627313/kaivac1231_ayb9zw.png
+imagen: https://res.cloudinary.com/novatec/image/upload/v1595627313/kaivac1231_ayb9zw.png
 industrias: []
 marcas:
   - Kaivac

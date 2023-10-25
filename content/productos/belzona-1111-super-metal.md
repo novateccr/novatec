@@ -3,10 +3,10 @@ catalogo: /catalogos/original-belzona-1111-super-metal.pdf
 familias:
   - Pisos y Polímeros
 galeria:
-  - /v1597777880/1111_1_ze8ctg.jpg
-  - /v1597777912/1111_3_ogntzs.jpg
+  - https://res.cloudinary.com/novatec/image/upload/v1597777880/1111_1_ze8ctg.jpg
+  - https://res.cloudinary.com/novatec/image/upload/v1597777912/1111_3_ogntzs.jpg
 id: 138
-imagen: /v1617743202/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_64_ghhc5l.png
+imagen: https://res.cloudinary.com/novatec/image/upload/v1617743202/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_64_ghhc5l.png
 industrias:
   - Alimentos y Bebidas
   - Energía

@@ -3,9 +3,9 @@ catalogo: /catalogos/original-purificadores-de-aceite.pdf
 familias:
   - Filtros
 galeria:
-  - /v1595458128/4dae10ed-e701-4b85-8a29-7d301a3c0827_o0ibuv.png
+  - https://res.cloudinary.com/novatec/image/upload/v1595458128/4dae10ed-e701-4b85-8a29-7d301a3c0827_o0ibuv.png
 id: 49
-imagen: /v1617830894/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_86_x2vrxl.png
+imagen: https://res.cloudinary.com/novatec/image/upload/v1617830894/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_86_x2vrxl.png
 industrias:
   - Energía
 marcas:

@@ -1,7 +1,7 @@
 ---
 date: '2020-10-19T06:00:00.000Z'
 featured: true
-imagen_intro: /v1603143886/66ae330f-3ee6-43c4-b3df-c554b7942c51_ndc2rb.jpg
+imagen_intro: https://res.cloudinary.com/novatec/image/upload/v1603143886/66ae330f-3ee6-43c4-b3df-c554b7942c51_ndc2rb.jpg
 tags: []
 title: 'FPR: Bomba centrífuga de fácil mantenimiento'
 ---

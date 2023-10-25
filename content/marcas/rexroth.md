@@ -1,7 +1,7 @@
 ---
 title: Rexroth a Bosch Company
 id: '16'
-logo: /v1561091641/Logo_of_Bosch_Rexroth_AG.svg
+logo: https://res.cloudinary.com/novatec/image/upload/v1561091641/Logo_of_Bosch_Rexroth_AG.svg
 link: 'http://www.rexroth.com'
 catalogo: ''
 meta_keywords: 'perfiles de aluminio, recintos, estaciones de trabajo de ensamblaje ergonómico'

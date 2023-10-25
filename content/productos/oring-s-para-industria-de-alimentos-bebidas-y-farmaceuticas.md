@@ -5,7 +5,7 @@ familias:
   - Sellado
 galeria: []
 id: ''
-imagen: /v1617730973/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_18_qoln7g.png
+imagen: https://res.cloudinary.com/novatec/image/upload/v1617730973/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_18_qoln7g.png
 industrias: []
 marcas:
   - RubberFab

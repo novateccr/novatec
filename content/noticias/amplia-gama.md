@@ -1,7 +1,7 @@
 ---
 date: '2018-07-23T14:10:05.000Z'
 featured: true
-imagen_intro: /v1532355592/aventics_noticia.jpg
+imagen_intro: https://res.cloudinary.com/novatec/image/upload/v1532355592/aventics_noticia.jpg
 tags:
   - aventics
   - frl

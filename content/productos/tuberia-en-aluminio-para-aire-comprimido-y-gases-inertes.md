@@ -5,9 +5,9 @@ categoria: ''
 familias:
   - Redes y tratamiento de Aire Comprimido
 galeria:
-  - /v1570655013/fitting_and_pipe_image_amx1ac.jpg
+  - https://res.cloudinary.com/novatec/image/upload/v1570655013/fitting_and_pipe_image_amx1ac.jpg
 id: 28
-imagen: /v1617741621/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_55_jvrj4d.png
+imagen: https://res.cloudinary.com/novatec/image/upload/v1617741621/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_55_jvrj4d.png
 industrias:
   - Alimentos y Bebidas
   - Energía

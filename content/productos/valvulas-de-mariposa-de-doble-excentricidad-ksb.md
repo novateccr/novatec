@@ -5,7 +5,7 @@ familias:
   - Válvulas
 galeria: []
 id: ''
-imagen: /v1617736405/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_44_u5lll7.png
+imagen: https://res.cloudinary.com/novatec/image/upload/v1617736405/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_44_u5lll7.png
 industrias:
   - Energía
 marcas:

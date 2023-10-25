@@ -3,11 +3,11 @@ catalogo: /catalogos/original-uretanos-cementicios.pdf
 familias:
   - Pisos y Polímeros
 galeria:
-  - /v1597766175/cementitious-urethane-header-03_hvuca9.jpg
-  - /v1566075498/flowfresh-2_tgzovo.jpg
-  - /v1566075485/flowfresh-3_uo5mer.jpg
+  - https://res.cloudinary.com/novatec/image/upload/v1597766175/cementitious-urethane-header-03_hvuca9.jpg
+  - https://res.cloudinary.com/novatec/image/upload/v1566075498/flowfresh-2_tgzovo.jpg
+  - https://res.cloudinary.com/novatec/image/upload/v1566075485/flowfresh-3_uo5mer.jpg
 id: 107
-imagen: /v1617743714/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_68_eissv4.png
+imagen: https://res.cloudinary.com/novatec/image/upload/v1617743714/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_68_eissv4.png
 industrias:
   - Alimentos y Bebidas
   - Energía

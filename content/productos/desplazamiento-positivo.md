@@ -5,7 +5,7 @@ familias:
   - Bombas
 galeria: []
 id: 2
-imagen: /v1530797588/productos/original-desplazamiento-positivo.jpg
+imagen: https://res.cloudinary.com/novatec/image/upload/v1530797588/productos/original-desplazamiento-positivo.jpg
 industrias:
   - Alimentos y Bebidas
   - Energía

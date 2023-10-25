@@ -2,7 +2,7 @@
 date: '2020-03-11T06:00:00.000Z'
 draft: true
 featured: false
-imagen_intro: /v1584123021/reaparacion6_azancp.jpg
+imagen_intro: https://res.cloudinary.com/novatec/image/upload/v1584123021/reaparacion6_azancp.jpg
 tags:
   - belzona
   - reparación de bombas

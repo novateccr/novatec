@@ -4,10 +4,10 @@ categoria: ''
 familias:
   - Bombas
 galeria:
-  - /v1595036811/ksb-megabloc-gigapixel-scale-4_00x_houpuj.jpg
+  - https://res.cloudinary.com/novatec/image/upload/v1595036811/ksb-megabloc-gigapixel-scale-4_00x_houpuj.jpg
 id: ''
 imagen: >-
-  /v1617834486/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_-_2021-04-07T162750.570_zdxsua.png
+  https://res.cloudinary.com/novatec/image/upload/v1617834486/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_-_2021-04-07T162750.570_zdxsua.png
 industrias: []
 marcas:
   - KSB

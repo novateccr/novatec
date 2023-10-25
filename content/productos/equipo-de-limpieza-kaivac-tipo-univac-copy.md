@@ -5,9 +5,9 @@ familias:
   - Equipos y sistemas de limpieza
   - Neumática
 galeria:
-  - /v1595538306/ODV-Angled-Combo-Spec-new_kq1wpa.jpg
+  - https://res.cloudinary.com/novatec/image/upload/v1595538306/ODV-Angled-Combo-Spec-new_kq1wpa.jpg
 id: ''
-imagen: /v1617731207/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_19_w64mih.png
+imagen: https://res.cloudinary.com/novatec/image/upload/v1617731207/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_19_w64mih.png
 industrias: []
 marcas:
   - Kaivac

@@ -5,10 +5,10 @@ familias:
   - Filtros
   - Redes y tratamiento de Aire Comprimido
 galeria:
-  - /v1597433867/a69124de-d1d5-4b24-9bdf-b54df598c05a_a67fhz.png
-  - /v1597433844/92d7b2b2-4423-495a-9d00-28b4e40e36ea_do4c38.png
+  - https://res.cloudinary.com/novatec/image/upload/v1597433867/a69124de-d1d5-4b24-9bdf-b54df598c05a_a67fhz.png
+  - https://res.cloudinary.com/novatec/image/upload/v1597433844/92d7b2b2-4423-495a-9d00-28b4e40e36ea_do4c38.png
 id: 102
-imagen: /v1617831162/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_88_gexv62.png
+imagen: https://res.cloudinary.com/novatec/image/upload/v1617831162/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_88_gexv62.png
 industrias:
   - Alimentos y Bebidas
   - Energía

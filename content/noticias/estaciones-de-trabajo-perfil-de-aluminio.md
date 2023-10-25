@@ -1,7 +1,7 @@
 ---
 date: '2020-11-06T06:00:00.000Z'
 featured: true
-imagen_intro: /v1596836409/MT_13682_20160704_133333.big_urd18k.jpg
+imagen_intro: https://res.cloudinary.com/novatec/image/upload/v1596836409/MT_13682_20160704_133333.big_urd18k.jpg
 tags: []
 title: Estaciones de Trabajo (perfil de aluminio)
 ---

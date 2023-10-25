@@ -3,9 +3,9 @@ catalogo: /catalogos/original-empaques-espirometalicos-rwi-rw-sw.pdf
 familias:
   - Sellado
 galeria:
-  - /v1597273717/Flexsealcategoryimage_1200x900_1_mnrels.png
+  - https://res.cloudinary.com/novatec/image/upload/v1597273717/Flexsealcategoryimage_1200x900_1_mnrels.png
 id: 134
-imagen: /v1617729915/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_12_rsotdh.png
+imagen: https://res.cloudinary.com/novatec/image/upload/v1617729915/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_12_rsotdh.png
 industrias:
   - Alimentos y Bebidas
   - Energía

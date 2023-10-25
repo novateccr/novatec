@@ -4,9 +4,9 @@ categoria: ''
 familias:
   - Válvulas
 galeria:
-  - /v1596750674/es000844-hera-sa-gigapixel-scale-4_00x_wqeutr.png
+  - https://res.cloudinary.com/novatec/image/upload/v1596750674/es000844-hera-sa-gigapixel-scale-4_00x_wqeutr.png
 id: ''
-imagen: /v1617735942/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_40_xlyxpj.png
+imagen: https://res.cloudinary.com/novatec/image/upload/v1617735942/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_40_xlyxpj.png
 industrias:
   - Energia
 marcas:

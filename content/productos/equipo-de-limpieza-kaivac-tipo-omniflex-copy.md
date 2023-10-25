@@ -5,9 +5,9 @@ familias:
   - Equipos y sistemas de limpieza
   - Neumática
 galeria:
-  - /v1595544238/KAIKAIBLOOEY-gigapixel-scale-4_00x_h2lmex.jpg
+  - https://res.cloudinary.com/novatec/image/upload/v1595544238/KAIKAIBLOOEY-gigapixel-scale-4_00x_h2lmex.jpg
 id: ''
-imagen: /v1617734324/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_31_eum0zk.png
+imagen: https://res.cloudinary.com/novatec/image/upload/v1617734324/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_31_eum0zk.png
 industrias: []
 marcas:
   - Kaivac

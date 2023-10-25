@@ -3,9 +3,9 @@ catalogo: ''
 familias:
   - Válvulas
 galeria:
-  - /v1596746741/es000639-ecoline-xlc-gigapixel-scale-4_00x_catabg.png
+  - https://res.cloudinary.com/novatec/image/upload/v1596746741/es000639-ecoline-xlc-gigapixel-scale-4_00x_catabg.png
 id: 31
-imagen: /v1617734878/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_33_k3vzev.png
+imagen: https://res.cloudinary.com/novatec/image/upload/v1617734878/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_33_k3vzev.png
 industrias:
   - Alimentos y Bebidas
   - Energía

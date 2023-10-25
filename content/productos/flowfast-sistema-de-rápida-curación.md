@@ -4,9 +4,9 @@ categoria: ''
 familias:
   - Pisos y Polímeros
 galeria:
-  - /v1566336162/flowfast-4_m0qnfv.jpg
+  - https://res.cloudinary.com/novatec/image/upload/v1566336162/flowfast-4_m0qnfv.jpg
 id: ''
-imagen: /v1617743606/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_67_firayu.png
+imagen: https://res.cloudinary.com/novatec/image/upload/v1617743606/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_67_firayu.png
 industrias: []
 marcas:
   - Flowcrete

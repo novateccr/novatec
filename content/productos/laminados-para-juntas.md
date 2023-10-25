@@ -4,11 +4,11 @@ categoria: ''
 familias:
   - Sellado
 galeria:
-  - /v1582131186/GRAPH-LOCKgroup_tblkcz.png
-  - /v1582131182/Garlock_700_mb1qri.jpg
-  - /v1582131185/BLUE-GARD_Family12x9_kml1k5.png
+  - https://res.cloudinary.com/novatec/image/upload/v1582131186/GRAPH-LOCKgroup_tblkcz.png
+  - https://res.cloudinary.com/novatec/image/upload/v1582131182/Garlock_700_mb1qri.jpg
+  - https://res.cloudinary.com/novatec/image/upload/v1582131185/BLUE-GARD_Family12x9_kml1k5.png
 id: ''
-imagen: /v1617730411/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_15_k8z3zo.png
+imagen: https://res.cloudinary.com/novatec/image/upload/v1617730411/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_15_k8z3zo.png
 industrias: []
 marcas:
   - 'Garlock '

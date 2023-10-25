@@ -1,6 +1,6 @@
 ---
-Imagen: /v1622217597/Copia_de_Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_pjgajk.png
-hero: /v1597782508/1341_7_tgn4n1.jpg
+Imagen: https://res.cloudinary.com/novatec/image/upload/v1622217597/Copia_de_Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_pjgajk.png
+hero: https://res.cloudinary.com/novatec/image/upload/v1597782508/1341_7_tgn4n1.jpg
 info: ''
 title: 'Servicio técnico de bombeo. '
 ---

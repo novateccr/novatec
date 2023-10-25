@@ -4,11 +4,11 @@ categoria: ''
 familias:
   - Bombas
 galeria:
-  - /v1595033593/es000507-amarex-n_lct5nm.png
-  - /v1595033578/amarexn-data_qtjqql.jpg
+  - https://res.cloudinary.com/novatec/image/upload/v1595033593/es000507-amarex-n_lct5nm.png
+  - https://res.cloudinary.com/novatec/image/upload/v1595033578/amarexn-data_qtjqql.jpg
 id: ''
 imagen: >-
-  /v1617836745/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_-_2021-04-07T170518.565_wfu3zh.png
+  https://res.cloudinary.com/novatec/image/upload/v1617836745/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_-_2021-04-07T170518.565_wfu3zh.png
 industrias:
   - Energía
 marcas:

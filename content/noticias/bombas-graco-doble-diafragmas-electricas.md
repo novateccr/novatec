@@ -5,7 +5,7 @@ date: '2020-02-05T06:00:00.000Z'
 featured: true
 id: 24
 imagen_full: ''
-imagen_intro: /v1530797590/productos/original-doble-diafragma.jpg
+imagen_intro: https://res.cloudinary.com/novatec/image/upload/v1530797590/productos/original-doble-diafragma.jpg
 metadesc: ''
 metakey: ''
 tags:

@@ -4,10 +4,10 @@ categoria: ''
 familias:
   - Bombas
 galeria:
-  - /v1595286830/_jcr_content_4_yer7f5.jpg
-  - /v1595286830/_jcr_content_5_ks3pbz.jpg
+  - https://res.cloudinary.com/novatec/image/upload/v1595286830/_jcr_content_4_yer7f5.jpg
+  - https://res.cloudinary.com/novatec/image/upload/v1595286830/_jcr_content_5_ks3pbz.jpg
 id: 5
-imagen: /v1617832789/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_93_kckgxn.png
+imagen: https://res.cloudinary.com/novatec/image/upload/v1617832789/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_93_kckgxn.png
 industrias:
   - Alimentos y Bebidas
   - Energía

@@ -4,7 +4,7 @@ familias:
   - Filtros
 galeria: []
 id: 13
-imagen: /v1617830323/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_82_tpgrxw.png
+imagen: https://res.cloudinary.com/novatec/image/upload/v1617830323/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_82_tpgrxw.png
 industrias:
   - Alimentos y Bebidas
   - Energía

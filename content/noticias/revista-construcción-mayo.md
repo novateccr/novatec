@@ -2,7 +2,7 @@
 date: '2020-04-09T06:00:00.000Z'
 draft: true
 featured: true
-imagen_intro: /v1556941933/novatec.jpg
+imagen_intro: https://res.cloudinary.com/novatec/image/upload/v1556941933/novatec.jpg
 tags:
   - revista construcción
 title: Revista Construcción Mayo

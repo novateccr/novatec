@@ -1,7 +1,7 @@
 ---
 date: '2020-10-28T06:00:00.000Z'
 featured: true
-imagen_intro: /v1597766224/florida-beer-company-image-05_f2gbtr.jpg
+imagen_intro: https://res.cloudinary.com/novatec/image/upload/v1597766224/florida-beer-company-image-05_f2gbtr.jpg
 tags: []
 title: Especialistas en pisos para la industria de Alimentos y Bebidas
 ---

@@ -1,7 +1,7 @@
 ---
 date: '2019-01-23T00:00:00-06:00'
 featured: true
-imagen_intro: /v1548255324/megacpk.jpg
+imagen_intro: https://res.cloudinary.com/novatec/image/upload/v1548255324/megacpk.jpg
 tags:
   - ksb
   - bombas

@@ -1,7 +1,7 @@
 ---
 date: '2020-11-23T06:00:00.000Z'
 featured: true
-imagen_intro: /v1606156267/stress_i0clgq.png
+imagen_intro: https://res.cloudinary.com/novatec/image/upload/v1606156267/stress_i0clgq.png
 tags: []
 title: 'Juntas Stress Saver '
 ---

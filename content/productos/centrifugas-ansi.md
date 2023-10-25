@@ -3,9 +3,9 @@ catalogo: /catalogos/original-centrifugas-ansi.pdf
 familias:
   - Bombas
 galeria:
-  - /v1595025047/Ancichem-gigapixel-scale-2_00x_ydbmzk.png
+  - https://res.cloudinary.com/novatec/image/upload/v1595025047/Ancichem-gigapixel-scale-2_00x_ydbmzk.png
 id: 8
-imagen: /v1617834013/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_96_utxkha.png
+imagen: https://res.cloudinary.com/novatec/image/upload/v1617834013/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_96_utxkha.png
 industrias:
   - Alimentos y Bebidas
   - Energía

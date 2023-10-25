@@ -1,7 +1,7 @@
 ---
 title: Tratamiento
 id: '10'
-imagen: /v1530801710/familias/
+imagen: https://res.cloudinary.com/novatec/image/upload/v1530801710/familias/
 link: ''
 catalogo: ''
 meta_keywords: ''

@@ -5,7 +5,7 @@ familias:
   - Pisos y Polímeros
 galeria: []
 id: ''
-imagen: /v1680725973/Staticworx_acuurq.png
+imagen: https://res.cloudinary.com/novatec/image/upload/v1680725973/Staticworx_acuurq.png
 industrias:
   - 'Dispositivos Médicos '
   - Alimentos y Bebidas

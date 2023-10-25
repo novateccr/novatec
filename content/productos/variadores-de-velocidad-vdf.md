@@ -4,14 +4,14 @@ categoria: ''
 familias:
   - Bombas
 galeria:
-  - /v1595036200/es000898-pumpdrive-r-2_p456bg-gigapixel-scale-4_00x_vsydnt.png
+  - https://res.cloudinary.com/novatec/image/upload/v1595036200/es000898-pumpdrive-r-2_p456bg-gigapixel-scale-4_00x_vsydnt.png
   - >-
-    /v1595036026/pic-gal-3-1-pumpdrive-und-pumpdrive-eco_d0i19z-gigapixel-scale-4_00x_m0n1fe.jpg
-  - /v1595035938/7053-12964794_s7x214-gigapixel-scale-4_00x_fn5sw2.jpg
-  - /v1595035709/pic-gal-3-2und-anlagen_jpjy3s-gigapixel-scale-4_00x_rmdqzv.jpg
+    https://res.cloudinary.com/novatec/image/upload/v1595036026/pic-gal-3-1-pumpdrive-und-pumpdrive-eco_d0i19z-gigapixel-scale-4_00x_m0n1fe.jpg
+  - https://res.cloudinary.com/novatec/image/upload/v1595035938/7053-12964794_s7x214-gigapixel-scale-4_00x_fn5sw2.jpg
+  - https://res.cloudinary.com/novatec/image/upload/v1595035709/pic-gal-3-2und-anlagen_jpjy3s-gigapixel-scale-4_00x_rmdqzv.jpg
 id: ''
 imagen: >-
-  /v1617836800/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_-_2021-04-07T170623.952_ioeqzb.png
+  https://res.cloudinary.com/novatec/image/upload/v1617836800/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_-_2021-04-07T170623.952_ioeqzb.png
 industrias:
   - Alimentos y Bebidas
   - Industria

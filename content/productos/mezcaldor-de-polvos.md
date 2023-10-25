@@ -3,9 +3,9 @@ catalogo: /catalogos/original-mezcaldor-de-polvos.pdf
 familias:
   - Bombas
 galeria:
-  - /v1595025647/c6671e37-aed4-442a-bcdd-4d7908584dd1_tj1bgi.png
+  - https://res.cloudinary.com/novatec/image/upload/v1595025647/c6671e37-aed4-442a-bcdd-4d7908584dd1_tj1bgi.png
 id: 72
-imagen: /v1617834212/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_98_ea1p6m.png
+imagen: https://res.cloudinary.com/novatec/image/upload/v1617834212/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_98_ea1p6m.png
 industrias:
   - Alimentos y Bebidas
   - Biofarmacéuticos

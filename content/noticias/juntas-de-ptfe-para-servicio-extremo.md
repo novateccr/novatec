@@ -1,7 +1,7 @@
 ---
 date: '2018-12-07T19:57:19.000Z'
 featured: false
-imagen_intro: /v1544212707/Garlock.jpg
+imagen_intro: https://res.cloudinary.com/novatec/image/upload/v1544212707/Garlock.jpg
 tags:
   - garlock
   - juntas

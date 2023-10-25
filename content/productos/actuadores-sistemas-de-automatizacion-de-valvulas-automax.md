@@ -4,7 +4,7 @@ familias:
   - Válvulas
 galeria: []
 id: 132
-imagen: /v1617735430/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_37_pit5dn.png
+imagen: https://res.cloudinary.com/novatec/image/upload/v1617735430/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_37_pit5dn.png
 industrias:
   - Alimentos y Bebidas
   - Industria Pesada

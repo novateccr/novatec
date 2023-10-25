@@ -3,9 +3,9 @@ catalogo: /catalogos/original-laminas-trespa.pdf
 familias:
   - Tecnología de Ensamble
 galeria:
-  - /v1596836065/unnamed_4_-gigapixel-scale-4_00x_i3y8xq.jpg
+  - https://res.cloudinary.com/novatec/image/upload/v1596836065/unnamed_4_-gigapixel-scale-4_00x_i3y8xq.jpg
 id: 123
-imagen: /v1617737536/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_50_nelb4a.png
+imagen: https://res.cloudinary.com/novatec/image/upload/v1617737536/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_50_nelb4a.png
 industrias:
   - Alimentos y Bebidas
   - Dispositivos Médicos

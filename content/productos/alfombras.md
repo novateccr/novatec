@@ -4,9 +4,9 @@ categoria: ''
 familias:
   - Tecnología de Ensamble
 galeria:
-  - /v1564179173/Ergomat01.jpg
+  - https://res.cloudinary.com/novatec/image/upload/v1564179173/Ergomat01.jpg
 id: 116
-imagen: /v1617737463/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_49_ngbhre.png
+imagen: https://res.cloudinary.com/novatec/image/upload/v1617737463/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_49_ngbhre.png
 industrias:
   - Alimentos y Bebidas
   - Dispositivos Médicos

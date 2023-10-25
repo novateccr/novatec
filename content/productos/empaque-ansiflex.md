@@ -4,9 +4,9 @@ categoria: ''
 familias:
   - Sellado
 galeria:
-  - /v1573667908/ansiflex_eekxq2.jpg
+  - https://res.cloudinary.com/novatec/image/upload/v1573667908/ansiflex_eekxq2.jpg
 id: ''
-imagen: /v1617730025/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_13_k4gwwk.png
+imagen: https://res.cloudinary.com/novatec/image/upload/v1617730025/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_13_k4gwwk.png
 industrias: []
 marcas:
   - Rubber Fab

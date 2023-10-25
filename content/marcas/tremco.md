@@ -2,7 +2,7 @@
 catalogo: ''
 id: ''
 link: 'http://www.tremcoroofing.com/'
-logo: /v1582745995/tremcoLogo_mlefdz.jpg
+logo: https://res.cloudinary.com/novatec/image/upload/v1582745995/tremcoLogo_mlefdz.jpg
 meta_description: 'Tremco, Restauracion, reparaciones de techos, '
 meta_keywords: >-
   Tremco - especialistas en restauración de techos ofrece las soluciones de

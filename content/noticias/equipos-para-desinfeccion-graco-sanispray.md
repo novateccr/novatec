@@ -1,7 +1,7 @@
 ---
 date: '2020-09-01T06:00:00.000Z'
 featured: true
-imagen_intro: /v1598994672/Dise%C3%B1o_sin_t%C3%ADtulo_4_bzkuny.png
+imagen_intro: https://res.cloudinary.com/novatec/image/upload/v1598994672/Dise%C3%B1o_sin_t%C3%ADtulo_4_bzkuny.png
 tags: []
 title: Equipos para desinfección Graco SaniSpray
 ---

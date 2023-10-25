@@ -2,7 +2,7 @@
 catalogo: ''
 id: ''
 link: 'https://www.oventrop.com/'
-logo: /v1613755026/oventrop-logo_uvvmln.gif
+logo: https://res.cloudinary.com/novatec/image/upload/v1613755026/oventrop-logo_uvvmln.gif
 meta_description: Válvulas de control
 meta_keywords: 'valvulas, valvulas de control'
 title: Oventrop

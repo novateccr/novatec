@@ -3,11 +3,11 @@ catalogo: ''
 familias:
   - Válvulas
 galeria:
-  - /v1596741879/es000320-sisto-c_xidqhv.png
-  - /v1596742080/es000841-sisto-drainna_fay5xo.png
-  - /v1596742043/membranventil-sisto-c-data_j9ysoe.jpg
+  - https://res.cloudinary.com/novatec/image/upload/v1596741879/es000320-sisto-c_xidqhv.png
+  - https://res.cloudinary.com/novatec/image/upload/v1596742080/es000841-sisto-drainna_fay5xo.png
+  - https://res.cloudinary.com/novatec/image/upload/v1596742043/membranventil-sisto-c-data_j9ysoe.jpg
 id: 131
-imagen: /v1617735294/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_36_ekpwhl.png
+imagen: https://res.cloudinary.com/novatec/image/upload/v1617735294/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_36_ekpwhl.png
 industrias:
   - Alimentos y Bebidas
 marcas:

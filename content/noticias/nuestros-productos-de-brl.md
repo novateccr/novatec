@@ -1,7 +1,7 @@
 ---
 date: '2020-10-21T06:00:00.000Z'
 featured: true
-imagen_intro: /v1603304917/e588d141-b60d-4b71-843d-42b79bd39711_ftpqjl.png
+imagen_intro: https://res.cloudinary.com/novatec/image/upload/v1603304917/e588d141-b60d-4b71-843d-42b79bd39711_ftpqjl.png
 tags: []
 title: Nuestros productos de BRL
 ---

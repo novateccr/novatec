@@ -5,8 +5,8 @@ date: '2015-11-05 21:01:48'
 draft: false
 featured: true
 id: 26
-imagen_full: /v1529917501/fristam-seal.jpg
-imagen_intro: /v1529917501/fristam-seal.jpg
+imagen_full: https://res.cloudinary.com/novatec/image/upload/v1529917501/fristam-seal.jpg
+imagen_intro: https://res.cloudinary.com/novatec/image/upload/v1529917501/fristam-seal.jpg
 metadesc: ''
 metakey: ''
 tags:

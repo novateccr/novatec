@@ -4,10 +4,10 @@ categoria: ''
 familias:
   - Sellado
 galeria:
-  - /v1569268713/RF-FabHosecutaway_zupced.jpg
-  - /v1569263278/Hoses_sz93ud.jpg
+  - https://res.cloudinary.com/novatec/image/upload/v1569268713/RF-FabHosecutaway_zupced.jpg
+  - https://res.cloudinary.com/novatec/image/upload/v1569263278/Hoses_sz93ud.jpg
 id: ''
-imagen: /v1617730538/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_16_dsqx8v.png
+imagen: https://res.cloudinary.com/novatec/image/upload/v1617730538/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_16_dsqx8v.png
 industrias: []
 marcas:
   - Rubber Fab

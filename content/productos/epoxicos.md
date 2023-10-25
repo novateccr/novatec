@@ -4,11 +4,11 @@ categoria: ''
 familias:
   - Pisos y Polímeros
 galeria:
-  - /v1597769602/commercial-Epoxico-FC_vko50g-gigapixel-scale-4_00x_qfudhp.jpg
-  - /v1597765045/commercial-flooring-header-03_eirm8m.jpg
-  - /v1597765009/commercial-flooring-header-05_m3zlls.jpg
+  - https://res.cloudinary.com/novatec/image/upload/v1597769602/commercial-Epoxico-FC_vko50g-gigapixel-scale-4_00x_qfudhp.jpg
+  - https://res.cloudinary.com/novatec/image/upload/v1597765045/commercial-flooring-header-03_eirm8m.jpg
+  - https://res.cloudinary.com/novatec/image/upload/v1597765009/commercial-flooring-header-05_m3zlls.jpg
 id: 17
-imagen: /v1617743942/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_70_jngmyl.png
+imagen: https://res.cloudinary.com/novatec/image/upload/v1617743942/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_70_jngmyl.png
 industrias:
   - Alimentos y Bebidas
   - Energía

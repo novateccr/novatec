@@ -1,7 +1,7 @@
 ---
 date: '2019-11-07T06:00:00.000Z'
 featured: true
-imagen_intro: /v1558742951/NOVATEC_POSTEOS_FACEBOOK%20copy%206.png
+imagen_intro: https://res.cloudinary.com/novatec/image/upload/v1558742951/NOVATEC_POSTEOS_FACEBOOK%20copy%206.png
 tags:
   - hyamat v
   - ksb

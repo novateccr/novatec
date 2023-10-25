@@ -1,7 +1,7 @@
 ---
 date: '2018-10-26T13:31:52-06:00'
 featured: true
-imagen_intro: /v1540582324/1212_10.jpg
+imagen_intro: https://res.cloudinary.com/novatec/image/upload/v1540582324/1212_10.jpg
 tags:
   - belzona
   - '1212'

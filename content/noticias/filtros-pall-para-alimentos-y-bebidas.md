@@ -6,7 +6,7 @@ draft: true
 featured: true
 id: 29
 imagen_full: ''
-imagen_intro: /v1569025889/PALL_Elementos_c8imwm.jpg
+imagen_intro: https://res.cloudinary.com/novatec/image/upload/v1569025889/PALL_Elementos_c8imwm.jpg
 metadesc: ''
 metakey: ''
 tags:

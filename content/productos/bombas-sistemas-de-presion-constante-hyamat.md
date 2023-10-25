@@ -4,11 +4,11 @@ categoria: ''
 familias:
   - Bombas
 galeria:
-  - /v1595032259/HYAMATT-gigapixel-scale-2_00x_r77q86.png
-  - /v1595032058/SPC-gigapixel-scale-2_00x_hejocu.png
+  - https://res.cloudinary.com/novatec/image/upload/v1595032259/HYAMATT-gigapixel-scale-2_00x_r77q86.png
+  - https://res.cloudinary.com/novatec/image/upload/v1595032058/SPC-gigapixel-scale-2_00x_hejocu.png
 id: '1'
 imagen: >-
-  /v1617836213/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_-_2021-04-07T165624.693_loi5pk.png
+  https://res.cloudinary.com/novatec/image/upload/v1617836213/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_-_2021-04-07T165624.693_loi5pk.png
 industrias:
   - Alimentos y Bebidas
   - energía

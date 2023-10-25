@@ -3,9 +3,9 @@ catalogo: /catalogos/original-centrifugas-sanitarias.pdf
 familias:
   - Bombas
 galeria:
-  - /v1550353343/BOMBAS1.jpg
+  - https://res.cloudinary.com/novatec/image/upload/v1550353343/BOMBAS1.jpg
 id: 1
-imagen: /v1617832233/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_91_sdoign.png
+imagen: https://res.cloudinary.com/novatec/image/upload/v1617832233/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_91_sdoign.png
 industrias:
   - Alimentos y Bebidas
   - Biofarmacéuticos
