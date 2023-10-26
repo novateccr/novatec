@@ -9,7 +9,7 @@ slides:
     link: 'https://www.nvtconstruccion.com/productos/'
   - title: Consulte a uno de nuestros asesores.
     description: ¡Estamos para servirle!
-    image: https://res.cloudinary.com/novatec/image/upload/v1626995521/v1660749431/AdobeStock_291229954_n3ckuh.jpg
+    image: https://res.cloudinary.com/novatec/image/upload/v1626995521/AdobeStock_291229954_n3ckuh.jpg
     published: true
     link: /contactenos
   - title: ¡Confíe en la excelencia!
