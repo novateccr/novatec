@@ -1,5 +1,5 @@
 ---
-title: Estaciones a la medida
+title: Muebles Modulares y Estaciones a medida
 marcas:
   - Rexroth
 familias:
