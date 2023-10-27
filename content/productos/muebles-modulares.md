@@ -17,11 +17,11 @@ meta_keywords: >-
   perfiles de aluminio, item, 1320, perfiles estructurales
 taxonomyCover: false
 galeria:
-  - >-
-    https://res.cloudinary.com/novatec/image/upload/v1698423055/WhatsApp_Image_2023-02-17_at_09.32.21_hnn3nd.jpg
   - 'https://res.cloudinary.com/novatec/image/upload/v1698422830/BRL1_agxwmt.png'
   - >-
     https://res.cloudinary.com/novatec/image/upload/v1596755466/a2370cf8-dec9-4da0-a707-418694ca1785_t3qhcw.jpg
+  - >-
+    https://res.cloudinary.com/novatec/image/upload/v1698423055/WhatsApp_Image_2023-02-17_at_09.32.21_hnn3nd.jpg
 titulo_adicional: ''
 ---
 
