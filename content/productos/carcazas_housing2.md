@@ -8,12 +8,10 @@ industrias:
   - Biofarmacéuticos
   - Energía
   - Alimentos y Bebidas
+imagen: >-
+  https://res.cloudinary.com/novatec/image/upload/v1699895323/housing_gas_u7ukl3_1_tmwafl.png
 weight: 14
-imagen: /Staticworx.png
 ---
-
-
-
 
 ## Manejamos gran variedad de Carcasas (Housing) de la marca Pall, a continuación les mostramos algunas de ellas:
 
@@ -53,9 +51,9 @@ Esto se refleja en la elección de materiales, los diseños y el proceso de fabr
 
 ### **Características y Beneficios:**
 
-- Diseño aséptico con superficies electropulidas sin fisuras (valor interno de Ra \<0,375 μm / 14,8 μin), completamente autodrenante y sin piernas muertas, lo que permite un drenaje de punto bajo y un soporte bajo volúmenes de retención para una máxima recuperación del producto.
-- Flexibilidad y diseño modular: variedad de entradas y salidas conexiones como parte de la carcasa del núcleo, y una gama de conexiones modulares intercambiables de ventilación y drenaje para elegir, lo que permite un ajuste flexible en cualquier instalación, y reconsideración de la opción de ventilación y drenaje sin la necesidad de reemplazar toda la carcasa.
-- Cartucho de filtro: Acepta un código Pall de un solo extremo abierto 7 o código 2 estilo "AB" 127 mm (5 pulg.), 254 mm (10 pulg.), Cartucho de filtro de 508 mm (20 pulg.) O 762 mm (30 pulg.) de altura.
+* Diseño aséptico con superficies electropulidas sin fisuras (valor interno de Ra \<0,375 μm / 14,8 μin), completamente autodrenante y sin piernas muertas, lo que permite un drenaje de punto bajo y un soporte bajo volúmenes de retención para una máxima recuperación del producto.
+* Flexibilidad y diseño modular: variedad de entradas y salidas conexiones como parte de la carcasa del núcleo, y una gama de conexiones modulares intercambiables de ventilación y drenaje para elegir, lo que permite un ajuste flexible en cualquier instalación, y reconsideración de la opción de ventilación y drenaje sin la necesidad de reemplazar toda la carcasa.
+* Cartucho de filtro: Acepta un código Pall de un solo extremo abierto 7 o código 2 estilo "AB" 127 mm (5 pulg.), 254 mm (10 pulg.), Cartucho de filtro de 508 mm (20 pulg.) O 762 mm (30 pulg.) de altura.
 
 ![](https://res.cloudinary.com/novatec/v1598455139/housing_gas_u7ukl3.png)
 
@@ -67,20 +65,20 @@ Se pueden suministrar con variedad de configuraciones de conexión diferentes y 
 
 ### **Características y Beneficios:**
 
-- Combina diseño sanitario y rentabilidad
-- Cumple estrictos requisitos en los diferentes segmentos del mercado biofarmacéutico.
-- Mayor facilidad de limpieza del producto debido a que no tiene grietas soldadura y diseño sanitario
-- Adecuado para SIP y CIP
-- Disponible en dos opciones de superficie:
-- Electropulido con valor Ra interno \<0,38 µm
-- Mecánicamente pulido y pasivado con valor interno de Ra \<0,8 µm
-- Fabricado en configuración de 1, 3 y 5 rondas
-- Disponible con diferentes conexiones de entrada y salida
-- Incluye diferentes opciones con ajuste rápido tipo "Stäubli" conexión de ventilación para una fácil prueba de integridad del filtro.
-- Abrazadera en V fácil de usar (una sola ronda) y banda en V cierre para carcasas multi-redondas
-- Paquete de documentación mejorado suministrado en CD (Opcional)
-- Adecuado para su uso con líquidos y gases peligrosos de acuerdo con PED 97/23 / EC
-- Seguro para su uso en entornos peligrosos de acuerdo con ATEX 94/9 / EC Grupo II Categoría 2 (Zonas 1/21 y 2/22)
+* Combina diseño sanitario y rentabilidad
+* Cumple estrictos requisitos en los diferentes segmentos del mercado biofarmacéutico.
+* Mayor facilidad de limpieza del producto debido a que no tiene grietas soldadura y diseño sanitario
+* Adecuado para SIP y CIP
+* Disponible en dos opciones de superficie:
+* Electropulido con valor Ra interno \<0,38 µm
+* Mecánicamente pulido y pasivado con valor interno de Ra \<0,8 µm
+* Fabricado en configuración de 1, 3 y 5 rondas
+* Disponible con diferentes conexiones de entrada y salida
+* Incluye diferentes opciones con ajuste rápido tipo "Stäubli" conexión de ventilación para una fácil prueba de integridad del filtro.
+* Abrazadera en V fácil de usar (una sola ronda) y banda en V cierre para carcasas multi-redondas
+* Paquete de documentación mejorado suministrado en CD (Opcional)
+* Adecuado para su uso con líquidos y gases peligrosos de acuerdo con PED 97/23 / EC
+* Seguro para su uso en entornos peligrosos de acuerdo con ATEX 94/9 / EC Grupo II Categoría 2 (Zonas 1/21 y 2/22)
 
 ![](https://res.cloudinary.com/novatec/v1598455802/Gas_Filter_Housings_Liquid_Filter_Housings_fhlpwe.jpg)
 
@@ -124,12 +122,12 @@ Se pueden suministrar con variedad de configuraciones de conexión diferentes y 
 
 ### **Características:**
 
-- Acepta 10,2 cm (4 pulgadas), 25,4 cm (10 pulgadas), 50,8 cm (20 pulgadas) o 76,2 cm (30 pulgadas)
-- Doble Cartuchos de filtro de extremo abierto1
-- Presión de funcionamiento hasta 12,1 bar (175 psig) a 93 ° C (200 ° F) permite su uso en una amplia gama de aplicaciones
-- Hierro fundido y acero inoxidable 316 o todo acero inoxidable 316 materiales de acero de construcción
-- Conexiones de entrada y salida en línea para una fácil instalación
-- El mango en T opcional permite el reemplazo del filtro cartucho sin herramientas
+* Acepta 10,2 cm (4 pulgadas), 25,4 cm (10 pulgadas), 50,8 cm (20 pulgadas) o 76,2 cm (30 pulgadas)
+* Doble Cartuchos de filtro de extremo abierto1
+* Presión de funcionamiento hasta 12,1 bar (175 psig) a 93 ° C (200 ° F) permite su uso en una amplia gama de aplicaciones
+* Hierro fundido y acero inoxidable 316 o todo acero inoxidable 316 materiales de acero de construcción
+* Conexiones de entrada y salida en línea para una fácil instalación
+* El mango en T opcional permite el reemplazo del filtro cartucho sin herramientas
 
 ![](https://res.cloudinary.com/novatec/v1598459496/housinglmo-gigapixel-scale-4_00x_ultdc2.png)
 
