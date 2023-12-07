@@ -7,4 +7,4 @@ tags:
 featured: true
 ---
 
-![](https://res.cloudinary.com/novatec/image/upload/v1701970301/Notificacion_Novatec_-_Cytiva_PALL_-firmado_abluve.jpg)
+![](https://res.cloudinary.com/novatec/image/upload/v1701982306/Notificacion_Novatec_-_Cytiva_PALL_-firmado_oodq0v.jpg)
