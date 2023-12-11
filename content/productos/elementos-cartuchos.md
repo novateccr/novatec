@@ -4,7 +4,7 @@ title: Elementos (cartuchos)
 marcas:
   - Pall
 familias:
-  - Ciencias-de-la-salud
+  - Ciencias_de_la_salud
   - Filtros
 industrias:
   - Alimentos y Bebidas
