@@ -4,7 +4,6 @@ title: Carcasas (Housing)
 marcas:
   - Pall
 familias:
-  - ciencias_de_la_vida
   - Filtros
 industrias:
   - Alimentos y Bebidas
