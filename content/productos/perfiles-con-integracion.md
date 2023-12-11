@@ -12,7 +12,7 @@ industrias:
   - Dispositivos Médicos
   - Biofarmacéuticos
 imagen: >-
-  https://res.cloudinary.com/novatec/image/upload/v1702315727/bosch-rexroth-function-integrated-profiles-exhibit_640x360_ywfbwc_ozg6tn.png
+  https://res.cloudinary.com/novatec/image/upload/v1702316025/bosch-rexroth-function-integrated-profiles-exhibit_640x360_ywfbwc_pcex98.png
 catalogo: ''
 meta_description: ''
 meta_keywords: ''
