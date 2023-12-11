@@ -3,6 +3,7 @@ title: Carcasas (Housing) 2
 marcas:
   - Pall
 familias:
+  - Ciencias_de_la_salud
   - Filtros
 industrias:
   - Biofarmacéuticos
