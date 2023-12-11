@@ -1,28 +1,25 @@
 ---
-catalogo: ''
 categoria: ''
+id: '112'
+titulo: ''
+title: Perfiles con Integración
+marcas:
+  - Rexroth
 familias:
   - Tecnología de Ensamble
-galeria: []
-id: '112'
-imagen: >-
-  https://res.cloudinary.com/novatec/image/upload/v1675799900/bosch-rexroth-function-integrated-profiles-exhibit_640x360_ft9t02.jpg
 industrias:
   - Almentos y Bebidas
   - Dispositivos Médicos
   - Biofarmacéuticos
-marcas:
-  - Rexroth
+imagen: >-
+  https://res.cloudinary.com/novatec/image/upload/v1702315727/bosch-rexroth-function-integrated-profiles-exhibit_640x360_ywfbwc_ozg6tn.png
+catalogo: ''
 meta_description: ''
 meta_keywords: ''
 taxonomyCover: false
-title: Perfiles con Integración
-titulo: ''
+galeria: []
 titulo_adicional: ''
 ---
-
-
-
 
 ## Perfiles Estructurales con Integración Funcional
 
