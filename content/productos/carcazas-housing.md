@@ -1,25 +1,25 @@
 ---
-catalogo: /catalogos/original-carcazas-housing.pdf
-familias:
-  - Filtros
-galeria: []
 id: 14
-imagen: https://res.cloudinary.com/novatec/image/upload/v1617830191/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_81_u4iosz.png
+title: Carcasas (Housing)
+marcas:
+  - Pall
+familias:
+  - ciencias_de_la_vida
+  - Filtros
 industrias:
   - Alimentos y Bebidas
   - Energía
   - Biofarmacéuticos
-marcas:
-  - Pall
+imagen: >-
+  https://res.cloudinary.com/novatec/image/upload/v1617830191/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_81_u4iosz.png
+catalogo: /catalogos/original-carcazas-housing.pdf
 meta_description: Carcasas (Housing)
 meta_keywords: 'Carcasas (Housing), Pall, laboratorio'
-taxonomyCover: false
-title: Carcasas (Housing)
-titulo_adicional: ''
 weight: 14
+taxonomyCover: false
+galeria: []
+titulo_adicional: ''
 ---
-
-
 
 ## Manejamos gran variedad de Carcasas (Housing) de la marca Pall, a continuación les mostramos algunas de ellas:
 
@@ -59,7 +59,7 @@ Esto se refleja en la elección de materiales, los diseños y el proceso de fabr
 
 ### **Características y Beneficios:**
 
-* Diseño aséptico con superficies electropulidas sin fisuras (valor interno de Ra <0,375 μm / 14,8 μin), completamente autodrenante y sin piernas muertas, lo que permite un drenaje de punto bajo y un soporte bajo volúmenes de retención para una máxima recuperación del producto.
+* Diseño aséptico con superficies electropulidas sin fisuras (valor interno de Ra \<0,375 μm / 14,8 μin), completamente autodrenante y sin piernas muertas, lo que permite un drenaje de punto bajo y un soporte bajo volúmenes de retención para una máxima recuperación del producto.
 * Flexibilidad y diseño modular: variedad de entradas y salidas conexiones como parte de la carcasa del núcleo, y una gama de conexiones modulares intercambiables de ventilación y drenaje para elegir, lo que permite un ajuste flexible en cualquier instalación, y reconsideración de la opción de ventilación y drenaje sin la necesidad de reemplazar toda la carcasa.
 * Cartucho de filtro: Acepta un código Pall de un solo extremo abierto 7 o código 2 estilo "AB" 127 mm (5 pulg.), 254 mm (10 pulg.), Cartucho de filtro de 508 mm (20 pulg.) O 762 mm (30 pulg.) de altura.
 
@@ -78,8 +78,8 @@ Se pueden suministrar con variedad de configuraciones de conexión diferentes y 
 * Mayor facilidad de limpieza del producto debido a que no tiene grietas soldadura y diseño sanitario
 * Adecuado para SIP y CIP
 * Disponible en dos opciones de superficie:
-* Electropulido con valor Ra interno <0,38 µm
-* Mecánicamente pulido y pasivado con valor interno de Ra <0,8 µm
+* Electropulido con valor Ra interno \<0,38 µm
+* Mecánicamente pulido y pasivado con valor interno de Ra \<0,8 µm
 * Fabricado en configuración de 1, 3 y 5 rondas
 * Disponible con diferentes conexiones de entrada y salida
 * Incluye diferentes opciones con ajuste rápido tipo "Stäubli" conexión de ventilación para una fácil prueba de integridad del filtro.
@@ -141,7 +141,7 @@ Se pueden suministrar con variedad de configuraciones de conexión diferentes y 
 
 ## **7- Housing MDS:**
 
-Se recomiendan carcasas de filtro Pall MDS para aplicaciones de flujo pequeño que implican filtración de líquidos o gases. Serie MDS las carcasas admiten MC * o MD * Cartuchos estilo 4463 y 2230 con líquido caudales de hasta 7.5 L / min (2 gal / min) y el gas fluye hasta 100 Nm3 / hora (60 scfm).
+Se recomiendan carcasas de filtro Pall MDS para aplicaciones de flujo pequeño que implican filtración de líquidos o gases. Serie MDS las carcasas admiten MC \* o MD \* Cartuchos estilo 4463 y 2230 con líquido caudales de hasta 7.5 L / min (2 gal / min) y el gas fluye hasta 100 Nm3 / hora (60 scfm).
 
 ### **Características y Beneficios:**
 
@@ -165,7 +165,7 @@ Las características de esta gama de carcasas incluyen alta superficies internas
 
 ### **Características y Beneficios:**
 
-• Diseño aséptico - con electropulido superficies que dan valores Ra internos típicos de <0,4 µm / <15 µ pulgadas sin hendiduras o piernas muertas.
+• Diseño aséptico - con electropulido superficies que dan valores Ra internos típicos de \<0,4 µm / \<15 µ pulgadas sin hendiduras o piernas muertas.
 
 • Alto rendimiento de producto por baja retención volúmenes.
 
