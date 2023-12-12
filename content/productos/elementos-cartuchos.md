@@ -18,8 +18,8 @@ imagen: >-
 catalogo: /catalogos/original-elementos-cartuchos.pdf
 meta_description: Elementos Filtrantes de partículas o grado esterilizante
 meta_keywords: >-
-  Carcaza sanitaria, Housing industrial, Housing, Elementos, Cartuchos, Filtros,
-  Sanitario, filtro particulas, Pall, Cytiva, Milipore, Sartorius
+  Elementos, Cartuchos, Filtros, Sanitario, filtro particulas, Pall, Cytiva,
+  Milipore, Sartorius
 weight: 125
 taxonomyCover: false
 galeria:
