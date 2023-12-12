@@ -16,8 +16,10 @@ industrias:
 imagen: >-
   https://res.cloudinary.com/novatec/image/upload/v1617831381/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_89_k0xken.png
 catalogo: /catalogos/original-elementos-cartuchos.pdf
-meta_description: ''
-meta_keywords: 'Carcaza sanitaria, Housing industrial, Housing, Carcaza, Sanitario'
+meta_description: Elementos Filtrantes de partículas o grado esterilizante
+meta_keywords: >-
+  Carcaza sanitaria, Housing industrial, Housing, Elementos, Cartuchos, Filtros,
+  Sanitario, filtro particulas, Pall, Cytiva, Milipore, Sartorius
 weight: 125
 taxonomyCover: false
 galeria:
