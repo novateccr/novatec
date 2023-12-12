@@ -21,4 +21,8 @@ galeria:
     https://res.cloudinary.com/novatec/image/upload/v1702418721/Kassow_robots_unidad_zvfeh7.jpg
 ---
 
-##### **Cobot de hasta 7 ejes.**  Fuerte, rápido y simple. La impresionante combinación de gran capacidad de carga, alcance y velocidad.
+**Cobot de hasta 7 ejes.**  
+
+La impresionante combinación de gran capacidad de carga, alcance y velocidad.
+
+Fuerte, rápido y simple.
