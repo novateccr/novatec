@@ -1,5 +1,5 @@
 ---
-title: Carcasas (Housing) 2
+title: 'Carcasas (Housing) '
 marcas:
   - Pall
 familias:
