@@ -2,7 +2,7 @@
 id: 125
 title: Elementos (cartuchos)
 marcas:
-  - cytiva
+  - Cytiva
   - Pall
 familias:
   - Ciencias de la Salud
