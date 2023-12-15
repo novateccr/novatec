@@ -1,12 +1,10 @@
 ---
-catalogo: /catalogos/original-doble-diafragma.pdf
+id: 4
+title: Bombas Doble Diafragma
+marcas:
+  - Graco
 familias:
   - Bombas
-galeria:
-  - https://res.cloudinary.com/novatec/image/upload/v1595001368/doble_diafragma_xkf0cf.jpg
-  - https://res.cloudinary.com/novatec/image/upload/v1595001257/Bomba_de_doble_diafragma_z7uz7q.jpg
-id: 4
-imagen: https://res.cloudinary.com/novatec/image/upload/v1617832511/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_92_xiuinm.png
 industrias:
   - Alimentos y Bebidas
   - Energía
@@ -15,17 +13,20 @@ industrias:
   - Química
   - Agrícola
   - Ingenios
-marcas:
-  - Graco
+imagen: >-
+  https://res.cloudinary.com/novatec/image/upload/v1617832511/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_92_xiuinm.png
+catalogo: /catalogos/original-doble-diafragma.pdf
 meta_description: Bombas de doble diafragma GRACO tipo Husky de 1/2¨ a 3¨ NPT
-meta_keywords: 'bomba, neumáticas, doble, diafragma, doble diafragma eléctrica'
-taxonomyCover: false
-title: Bombas Doble Diafragma
-titulo_adicional: ''
+meta_keywords: 'bomba, neumáticas, doble, diafragma, doble diafragma, Graco, Aro, Wilden'
 weight: 4
+taxonomyCover: false
+galeria:
+  - >-
+    https://res.cloudinary.com/novatec/image/upload/v1595001368/doble_diafragma_xkf0cf.jpg
+  - >-
+    https://res.cloudinary.com/novatec/image/upload/v1595001257/Bomba_de_doble_diafragma_z7uz7q.jpg
+titulo_adicional: ''
 ---
-
-
 
 Las **bombas neumáticas** de Husky tienen multitud de características para que siempre haga bien su trabajo y están diseñadas para ahorrar dinero.
 
@@ -37,4 +38,4 @@ Las **bombas neumáticas** de Husky tienen multitud de características para que
 * **Fácil mantenimiento:** Las bombas Husky tienen menos componentes que otras bombas del mercado y la válvula neumática es completamente accesible desde fuera, así que se puede reparar y mantener de manera rápida y sencilla sin tener que desmontar la bomba.
 * **Válvula neumática modular:** las válvulas neumáticas de baja pulsación y sin pérdidas ofrecen conmutaciones rápidas y fluidas, aumentando la eficacia y disminuyendo el tiempo de parada.
 
-{{< youtube 7mkKrZvFxP8 >}}
+{{\< youtube 7mkKrZvFxP8 >}}
