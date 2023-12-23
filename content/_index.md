@@ -53,7 +53,7 @@ slides:
     description: los mejores deseos para este 2024 !!
     image: >-
       https://res.cloudinary.com/novatec/image/upload/v1703290542/Felices_Fiestas_j92dej.png
-    published: true
+    published: false
     link: ''
 barra_azul:
   titular: >-
