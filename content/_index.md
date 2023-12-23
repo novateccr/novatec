@@ -6,6 +6,7 @@ menu:
 title: Inicio
 description: Especialistas en soluciones para el manejo y sellado de fluidos.
 slides:
+  - {}
   - title: Novatec Industrial.
     description: ¡Consúltenos!
     image: >-
@@ -48,11 +49,12 @@ slides:
       https://res.cloudinary.com/novatec/image/upload/v1530542510/fristam-seal.jpg
     published: true
     link: /marcas/fristam/
-  - title: Fristam
-    description: Bombas · Válvulas · Actuadores
-    image: 'https://res.cloudinary.com/novatec/image/upload/v1550353343/BOMBAS1.jpg'
+  - title: Felices Fiestas
+    description: los mejores deseos para este 2024 !!
+    image: >-
+      https://res.cloudinary.com/novatec/image/upload/v1703290542/Felices_Fiestas_j92dej.png
     published: true
-    link: /marcas/fristam
+    link: ''
 barra_azul:
   titular: >-
     Estamos laborando hasta el 22 de Dic y regresamos el 2 enero 2024 !! Felices
