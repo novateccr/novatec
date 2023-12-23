@@ -57,8 +57,8 @@ slides:
     link: ''
 barra_azul:
   titular: >-
-    Estamos laborando hasta el 22 de Dic y regresamos el 2 enero 2024 !! Felices
-    Fiestas 
+    Cerramos a partir de del 23 Diciembre y regresamos el 2 enero 2024 !!
+    Felices Fiestas 
   subtitular: >-
     Para consultas y cotizaciones/emergencias contactarse al correo:
     sac@novatec.cr o al WhatsApp: 6383-6383
