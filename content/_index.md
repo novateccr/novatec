@@ -12,7 +12,7 @@ slides:
     image: >-
       https://res.cloudinary.com/novatec/image/upload/v1626995521/AdobeStock_68822437_aldhhx.jpg
     published: true
-    link: 'https://www.nvtconstruccion.com/productos/'
+    link: 'https://www.novatec.cr/'
   - title: Consulte a uno de nuestros asesores.
     description: ¡Estamos para servirle!
     image: >-
