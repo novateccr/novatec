@@ -56,12 +56,8 @@ slides:
     published: true
     link: ''
 barra_azul:
-  titular: >-
-    Cerramos a partir de del 23 Diciembre y regresamos el 2 enero 2024 !!
-    Felices Fiestas 
-  subtitular: >-
-    Para consultas y cotizaciones/emergencias contactarse al correo:
-    sac@novatec.cr o al WhatsApp: 6383-6383
+  titular: ''
+  subtitular: ''
 barra_fondo_imagen:
   texto: >
     El Grupo Novatec está comprometido con la seguridad y búsqueda de soluciones
