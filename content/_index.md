@@ -6,7 +6,7 @@ menu:
 title: Inicio
 description: Especialistas en soluciones para el manejo y sellado de fluidos.
 slides:
-  - {}
+  - published: false
   - title: Novatec Industrial.
     description: ¡Consúltenos!
     image: >-
