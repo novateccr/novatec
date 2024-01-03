@@ -6,7 +6,6 @@ menu:
 title: Inicio
 description: Especialistas en soluciones para el manejo y sellado de fluidos.
 slides:
-  - published: false
   - title: Novatec Industrial.
     description: ¡Consúltenos!
     image: >-
@@ -49,11 +48,6 @@ slides:
       https://res.cloudinary.com/novatec/image/upload/v1530542510/fristam-seal.jpg
     published: true
     link: /marcas/fristam/
-  - title: Felices Fiestas
-    description: los mejores deseos para este 2024 !!
-    image: ''
-    published: false
-    link: ''
 barra_azul:
   titular: ''
   subtitular: ''
