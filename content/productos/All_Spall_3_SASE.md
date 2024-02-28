@@ -5,7 +5,7 @@ marcas:
 familias:
   - Pisos y Polímeros
 imagen: >-
-  https://res.cloudinary.com/novatec/image/upload/v1709155445/all-spall-3-collage_azaz6v.png
+  https://res.cloudinary.com/novatec/image/upload/v1709159152/Template_fotos_p%C3%A1gina_qrbavt.png
 meta_description: All Spall 3 de SASE
 meta_keywords: >-
   Reparación de concreto,Concreto pulido,SASE,All Spall 3,Alta
@@ -27,5 +27,7 @@ Aplicaciones: “All Spall 3” se puede utilizar para una variedad de aplicacio
 Características del Producto: “All Spall 3” es un sistema de dos partes, 00% sólidos, que tiene una vida útil extendida para trabajos más grandes que requieren más tiempo. Este producto es capaz de curar desde -20° F hasta 30° F, y puede producir alta resistencia rápidamente.
 
 Opciones de color: “All Spall 3” está disponible en una variedad de colores, incluyendo Grizzle Grey, Standard Grey, Gauntlet Grey, Warmstone, Mocha, French Roast y Dovetail.
+
+![](https://res.cloudinary.com/novatec/image/upload/v1709155445/all-spall-3-collage_azaz6v.png)
 
 Gracias por visitar nuestra página y explorar las soluciones de alta calidad que ofrecemos para la reparación de concreto. Con 'All Spall 3' de SASE, puedes transformar tus superficies de concreto y darles una nueva vida. Si tienes alguna pregunta o necesitas más información, no dudes en contactarnos. Estamos aquí para ayudarte a encontrar la mejor solución para tus necesidades de concreto. ¡Esperamos trabajar contigo pronto!
