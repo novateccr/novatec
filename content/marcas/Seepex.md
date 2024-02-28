@@ -9,7 +9,7 @@ meta_keywords: >-
   bombeo,Bombas industriales
 meta_description: Seepex
 logo: >-
-  https://res.cloudinary.com/novatec/image/upload/v1709161929/logo_seepex_footer_Small_x8t76m.webp
+  https://res.cloudinary.com/novatec/image/upload/v1709162582/Template_fotos_p%C3%A1gina_1_thkspg.png
 ---
 
 # **Seepex**
