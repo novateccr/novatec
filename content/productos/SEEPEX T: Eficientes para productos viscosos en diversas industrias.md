@@ -1,5 +1,5 @@
 ---
-title: Bomba de tolva abierta (T) Bombas versátiles para manejo eficiente de fluidos
+title: 'Bombas SEEPEX T: Eficientes para productos viscosos en diversas industrias'
 marcas:
   - Seepex
 familias:
