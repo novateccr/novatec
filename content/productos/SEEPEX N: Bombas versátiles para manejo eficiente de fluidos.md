@@ -1,5 +1,7 @@
 ---
-title: Bomba de cavidad progresiva estándar (N)
+title: >-
+  Bomba de cavidad progresiva estándar (N) Bombas versátiles para manejo
+  eficiente de fluidos
 marcas:
   - Seepex
 familias:
@@ -16,3 +18,5 @@ meta_keywords: 'Baja pulsación,Suavidad,Opciones de instalación flexibles,Comp
 ## Bomba de cavidad progresiva estándar (N)
 
 son versátiles y eficientes, diseñadas para manejar fluidos de baja a alta viscosidad, con o sin sólidos, a bajas tasas de pulsación. Estas bombas son ideales para una amplia gama de sectores, desde la industria medioambiental hasta la química y la producción de alimentos. Con SEEPEX N, obtendrá una solución de bombeo confiable y de alto rendimiento que cumple con los requisitos más exigentes de fiabilidad y durabilidad.
+
+![](https://res.cloudinary.com/novatec/image/upload/v1709219547/Bomba_de_cavidad_progresiva_est%C3%A1ndar_N_Seepex_cy3h6o.jpg)
