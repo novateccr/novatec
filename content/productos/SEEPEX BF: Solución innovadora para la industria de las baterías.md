@@ -16,7 +16,7 @@ meta_description: 'Bomba SEEPEX BF: Solución innovadora para la industria de la
 meta_keywords: 'Baja pulsación,Suavidad,Opciones de instalación flexibles,Compatibilidad'
 ---
 
-## Bomba para aplicaciones de batería (BF) 
+## Bomba para aplicaciones de batería (BF)
 
 Ees una solución innovadora diseñada específicamente para la industria de las baterías. Estas bombas están adaptadas para la transferencia, producción y revestimiento de compuestos de baterías. Ofrecen una excelente manipulación de fluidos de precisión, lo que las convierte en un componente esencial en la industria de las baterías. Una de sus características destacadas es su compromiso inquebrantable con la prevención de la contaminación. Construidas con acero inoxidable y un eje flexible de titanio, estas bombas garantizan que los materiales vitales permanezcan sin contaminar, eliminando preocupaciones sobre la contaminación por aceite o grasa.
 
