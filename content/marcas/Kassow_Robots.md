@@ -3,6 +3,7 @@ title: Kassow Robots
 link: 'https://www.kassowrobots.com/'
 meta_keywords: 'Kassow,UR,Universal robots,robots colaborativos,'
 meta_description: robots colaborativos
+weight: 18
 logo: >-
   https://res.cloudinary.com/novatec/image/upload/v1701964240/Kassow_robots_spxxyd.png
 ---
