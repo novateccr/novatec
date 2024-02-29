@@ -1,7 +1,5 @@
 ---
-title: >-
-  Bomba de cavidad progresiva estándar (N) Bombas versátiles para manejo
-  eficiente de fluidos
+title: 'SEEPEX N: Bombas versátiles para manejo eficiente de fluidos'
 marcas:
   - Seepex
 familias:
