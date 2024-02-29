@@ -1,5 +1,5 @@
 ---
-title: Las Bombas Dosificadoras (D) Precisión y eficiencia en dosificación de fluidos
+title: 'Bombas SEEPEX D: Precisión y eficiencia en dosificación de fluidos'
 marcas:
   - Seepex
 familias:
