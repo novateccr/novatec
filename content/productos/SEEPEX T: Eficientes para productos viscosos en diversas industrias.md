@@ -12,7 +12,7 @@ industrias:
   - Alimentos y Bebidas
 imagen: >-
   https://res.cloudinary.com/novatec/image/upload/v1709221638/Bomba_de_tolva_abierta_T_seepex_dyloet.png
-meta_description: 'SEEPEX N: Bombas versátiles para manejo eficiente de fluidos'
+meta_description: 'Bombas SEEPEX T: Eficientes para productos viscosos en diversas industrias'
 meta_keywords: 'Baja pulsación,Suavidad,Opciones de instalación flexibles,Compatibilidad'
 ---
 
