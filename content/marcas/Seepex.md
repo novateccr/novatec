@@ -19,4 +19,4 @@ Expertos En Bombas De Rotor Helicoidal. Productos Innovadores. Soluciones Indivi
 
 Tecnología, servicio, soluciones: todo fluye y cambia. Incluso una gran empresa puede crecer más cada día.
 
-![](https://res.cloudinary.com/novatec/image/upload/v1709161878/Seepex_mqdirq.png)
+![](https://res.cloudinary.com/novatec/image/upload/v1709218872/Seepex_fon_qf0uaz.jpg)
