@@ -8,7 +8,7 @@ meta_keywords: >-
   bombeo,Eficiencia energética,Mantenimiento de bombas,Industria de
   bombeo,Bombas industriales
 meta_description: Seepex
-weight: 27
+weight: 10
 logo: >-
   https://res.cloudinary.com/novatec/image/upload/v1709162942/Seepex_Lo_q7hy2m.png
 ---
