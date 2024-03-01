@@ -23,6 +23,8 @@ Otros modelos:
 
 * [Bomba SEEPEX SCT: Mantenimiento rápido y eficiente in situ](https://www.novatec.cr/productos/seepex-sct-mantenimiento-r%C3%A1pido-y-eficiente-in-situ/)
 * [Bomba SEEPEX W: Compacta y eficiente para medios con sólidos](https://www.novatec.cr/productos/seepex-w-compacta-y-eficiente-para-medios-con-s%C3%B3lidos/)
+* [Bombas SEEPEX BF: precisión y pureza en la industria de baterías.](https://www.novatec.cr/productos/seepex-bf-precisi%C3%B3n-y-pureza-en-la-industria-de-bater%C3%ADas./)
+* [Bombas SEEPEX CS: Higiene y eficiencia garantizadas.](https://www.novatec.cr/productos/seepex-cs-higiene-y-eficiencia-garantizadas./)
 * [Bombas SEEPEX D: Precisión y eficiencia en dosificación de fluidos](https://www.novatec.cr/productos/seepex-d-precisi%C3%B3n-y-eficiencia-en-dosificaci%C3%B3n-de-fluidos/)
 * [Bombas SEEPEX E: Eficientes y respetuosas con el medio ambiente](https://www.novatec.cr/productos/seepex-e-eficientes-y-respetuosas-con-el-medio-ambiente/)
 * [Bombas SEEPEX T: Eficientes para productos viscosos en diversas industrias](https://www.novatec.cr/productos/seepex-t-eficientes-para-productos-viscosos-en-diversas-industrias/)
