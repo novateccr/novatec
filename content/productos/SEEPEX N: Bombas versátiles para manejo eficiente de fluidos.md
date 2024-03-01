@@ -19,6 +19,8 @@ son versátiles y eficientes, diseñadas para manejar fluidos de baja a alta vis
 
 ![](https://res.cloudinary.com/novatec/image/upload/v1709219547/Bomba_de_cavidad_progresiva_est%C3%A1ndar_N_Seepex_cy3h6o.jpg)
 
+Otros modelos:
+
 * [Bomba SEEPEX SCT: Mantenimiento rápido y eficiente in situ](https://www.novatec.cr/productos/seepex-sct-mantenimiento-r%C3%A1pido-y-eficiente-in-situ/)
 * [Bomba SEEPEX W: Compacta y eficiente para medios con sólidos](https://www.novatec.cr/productos/seepex-w-compacta-y-eficiente-para-medios-con-s%C3%B3lidos/)
 * [Bombas SEEPEX D: Precisión y eficiencia en dosificación de fluidos](https://www.novatec.cr/productos/seepex-d-precisi%C3%B3n-y-eficiencia-en-dosificaci%C3%B3n-de-fluidos/)
