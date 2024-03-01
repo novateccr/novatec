@@ -2,8 +2,6 @@
 title: 'Bomba SEEPEX SCT: Mantenimiento rápido y eficiente in situ'
 marcas:
   - Seepex
-familias:
-  - Bombas
 industrias:
   - Dispositivos Médicos
   - Energía
