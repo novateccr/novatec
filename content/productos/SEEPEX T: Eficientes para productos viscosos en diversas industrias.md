@@ -2,8 +2,6 @@
 title: 'Bombas SEEPEX T: Eficientes para productos viscosos en diversas industrias'
 marcas:
   - Seepex
-familias:
-  - Bombas
 industrias:
   - Dispositivos Médicos
   - Energía
