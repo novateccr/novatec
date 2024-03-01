@@ -2,8 +2,6 @@
 title: 'Bomba SEEPEX W: Compacta y eficiente para medios con sólidos'
 marcas:
   - Seepex
-familias:
-  - Bombas
 industrias:
   - Dispositivos Médicos
   - Energía
