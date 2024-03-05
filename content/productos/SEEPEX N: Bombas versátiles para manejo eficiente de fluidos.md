@@ -10,7 +10,7 @@ industrias:
 imagen: >-
   https://res.cloudinary.com/novatec/image/upload/v1709219547/Bomba_de_cavidad_progresiva_est%C3%A1ndar_N_Seepex_cy3h6o.jpg
 meta_description: 'SEEPEX N: Bombas versátiles para manejo eficiente de fluidos'
-meta_keywords: 'Baja pulsación,Suavidad,Opciones de instalación flexibles,Compatibilidad'
+meta_keywords: 'Bomba de cavidad progresiva,Seepex,Netchz'
 ---
 
 ## Bomba de cavidad progresiva estándar (N)
