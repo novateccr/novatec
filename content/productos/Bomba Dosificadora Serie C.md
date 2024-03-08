@@ -1,7 +1,5 @@
 ---
 title: Bomba Dosificadora Serie C
-marcas:
-  - MiltonRoy
 industrias: []
 imagen: >-
   https://res.cloudinary.com/novatec/image/upload/v1709919543/Bomba_Dosificadora_Serie_C_bfnvux.png
