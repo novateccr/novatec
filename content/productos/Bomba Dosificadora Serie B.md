@@ -18,4 +18,4 @@ titulo_adicional: Bomba Dosificadora Serie B
 
 # **Bomba Dosificadora Serie B**
 
-es un estándar en la industria con más de 20 años de presencia en el mercado. Es una opción robusta y confiable para los entornos más hostiles.
+Es un estándar en la industria con más de 20 años de presencia en el mercado. Es una opción robusta y confiable para los entornos más hostiles.
