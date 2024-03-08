@@ -1,5 +1,7 @@
 ---
 title: Bombas Dosificadoras EXCEL® AD
+marcas:
+  - LMI - MiltonRoy
 industrias: []
 imagen: >-
   https://res.cloudinary.com/novatec/image/upload/v1709918868/Bombas_Dosificadoras_EXCEL_AD_efotn4.png
