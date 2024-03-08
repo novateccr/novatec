@@ -1,7 +1,5 @@
 ---
 title: Bombas Dosificadoras
-marcas:
-  - MiltonRoy
 familias:
   - Bombas
 industrias: []
