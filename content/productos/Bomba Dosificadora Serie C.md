@@ -1,6 +1,7 @@
 ---
 title: Bomba Dosificadora Serie C
 marcas:
+  - MiltonRoy - LMI
   - LMI - MiltonRoy
 industrias: []
 imagen: >-
