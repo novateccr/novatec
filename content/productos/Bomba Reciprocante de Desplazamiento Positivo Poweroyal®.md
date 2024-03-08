@@ -21,3 +21,5 @@ titulo_adicional: Bomba Reciprocante de Desplazamiento Positivo Poweroyal®
 ---
 
 ## **Bomba Reciprocante de Desplazamiento Positivo Poweroyal®**
+
+Es un equipo de alto rendimiento que se distingue por su precisión y durabilidad, garantizando una operación eficaz y confiable a lo largo del tiempo.
