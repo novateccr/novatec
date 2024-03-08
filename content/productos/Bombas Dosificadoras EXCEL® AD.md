@@ -1,6 +1,7 @@
 ---
 title: Bombas Dosificadoras EXCEL® AD
 marcas:
+  - MiltonRoy - LMI
   - LMI - MiltonRoy
 industrias: []
 imagen: >-
