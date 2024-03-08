@@ -1,7 +1,5 @@
 ---
 title: Bomba Dosificadora Serie E
-marcas:
-  - MiltonRoy
 industrias: []
 imagen: >-
   https://res.cloudinary.com/novatec/image/upload/v1709920178/Bomba_Dosificadora_Serie_E_unnfil.png
