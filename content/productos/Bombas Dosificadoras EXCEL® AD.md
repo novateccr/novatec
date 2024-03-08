@@ -17,3 +17,5 @@ titulo_adicional: Bombas Dosificadoras EXCEL® AD
 ---
 
 ## **Bombas Dosificadoras EXCEL® AD**
+
+Son equipos de alto desempeño que se caracterizan por su exactitud y longevidad, proporcionando una operación eficiente y segura durante su vida útil.
