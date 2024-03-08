@@ -19,3 +19,5 @@ titulo_adicional: Bombas dosificadoras peristálticas serie KBL
 ---
 
 ## **Bombas dosificadoras peristálticas serie KBL**
+
+Son reconocidas por su durabilidad y precisión. Su diseño versátil y su capacidad de adaptación las hacen ideales para una amplia gama de aplicaciones.
