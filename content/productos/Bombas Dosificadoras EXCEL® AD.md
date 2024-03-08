@@ -12,7 +12,7 @@ taxonomyCover: false
 galeria:
   - >-
     https://res.cloudinary.com/novatec/image/upload/v1709918868/Bombas_Dosificadoras_EXCEL_AD_efotn4.png
-titulo_adicional: ''
+titulo_adicional: Bombas Dosificadoras EXCEL® AD
 ---
 
 ## **Bombas Dosificadoras EXCEL® AD**
