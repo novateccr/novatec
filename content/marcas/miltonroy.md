@@ -8,7 +8,7 @@ title: LMI - MiltonRoy
 link: 'https://www.lmipumps.com/'
 catalogo: ''
 meta_keywords: Todo en bombas dosificadoras
-meta_description: ''
+meta_description: LMI - MiltonRoy
 weight: 14
 logo: 'https://res.cloudinary.com/novatec/image/upload/v1565046599/LMI_fjwhsu.jpg'
 ---
