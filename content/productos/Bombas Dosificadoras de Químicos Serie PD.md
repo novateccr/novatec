@@ -1,5 +1,7 @@
 ---
 title: Bombas Dosificadoras
+marcas:
+  - LMI - MiltonRoy
 familias:
   - Bombas
 industrias: []
