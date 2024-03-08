@@ -17,3 +17,5 @@ titulo_adicional: Bomba Dosificadora Serie C
 ---
 
 ## **Bomba Dosificadora Serie C**
+
+Es reconocida por su precisión y fiabilidad, lo que la convierte en una opción confiable para un rendimiento constante año tras año.
