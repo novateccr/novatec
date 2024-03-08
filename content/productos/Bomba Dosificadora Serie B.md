@@ -1,7 +1,5 @@
 ---
 title: Bomba Dosificadora Serie B
-marcas:
-  - Seepex
 industrias: []
 imagen: >-
   https://res.cloudinary.com/novatec/image/upload/v1709919929/Bomba_Dosificadora_Serie_B_xtnwqo.png
