@@ -1,6 +1,7 @@
 ---
 title: Bomba Dosificadora Serie E
 marcas:
+  - MiltonRoy - LMI
   - LMI - MiltonRoy
 industrias: []
 imagen: >-
