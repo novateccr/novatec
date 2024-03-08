@@ -19,3 +19,5 @@ titulo_adicional: Bombas dosificadoras peristálticas serie KML
 ---
 
 ## **Bombas dosificadoras peristálticas serie KML**
+
+Las Bombas Dosificadoras Peristálticas Serie KML se distinguen de la Serie KBL por su mayor rango de reducción de 10 000:1, lo que permite un control más preciso del flujo de dosificación. Además, estas bombas están diseñadas para el mercado municipal y cuentan con la certificación NSF-61.
