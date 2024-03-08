@@ -17,3 +17,5 @@ titulo_adicional: Bombas Dosificadoras MAXROY®
 ---
 
 ## **Bombas Dosificadoras MAXROY®**
+
+Son máquinas de alta eficiencia que se distinguen por su precisión y resistencia, asegurando un funcionamiento sólido y confiable durante su periodo de uso.
