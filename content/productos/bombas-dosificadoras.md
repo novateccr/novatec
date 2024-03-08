@@ -17,7 +17,7 @@ taxonomyCover: false
 galeria:
   - >-
     https://res.cloudinary.com/novatec/image/upload/v1595034285/LMI-PD-bombas-dosificadoras-milton-roy_qb6bcj.jpg
-titulo_adicional: Bombas Dosificadoras EXCEL® AD
+titulo_adicional: Bombas Dosificadoras
 ---
 
 ## **Diseñadas para Durar.**
