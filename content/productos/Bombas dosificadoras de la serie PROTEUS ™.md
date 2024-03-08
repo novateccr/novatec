@@ -17,3 +17,5 @@ titulo_adicional: Bombas dosificadoras de la serie PROTEUS ™
 ---
 
 ## **Bombas dosificadoras de la serie PROTEUS ™**
+
+Son conocidas por su tecnología avanzada y adaptabilidad. Ofrecen un control preciso del proceso gracias a su accionamiento de velocidad variable y una interfaz de usuario intuitiva. Además, cuentan con la tecnología de desgasificación StayPrimeTM para un rendimiento óptimo.
