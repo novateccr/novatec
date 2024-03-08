@@ -1,6 +1,7 @@
 ---
 title: Bomba Dosificadora Serie B
 marcas:
+  - MiltonRoy - LMI
   - LMI - MiltonRoy
 industrias: []
 imagen: >-
