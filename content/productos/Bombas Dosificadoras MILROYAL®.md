@@ -17,3 +17,5 @@ titulo_adicional: Bombas Dosificadoras MILROYAL®
 ---
 
 ## **Bombas Dosificadoras MILROYAL®**
+
+Son sistemas de alto rendimiento que se destacan por su precisión y durabilidad, proporcionando un funcionamiento estable y seguro durante su vida útil.
