@@ -1,6 +1,6 @@
 ---
 title: Certificación CE Distribution Partner Bosch Rexroth
-date: 2023-12-07T06:00:00.000Z
+date: 2024-10-16T06:00:00.000Z
 imagen_intro: >-
   https://res.cloudinary.com/novatec/image/upload/v1701964652/CE_Partner_Label_Distribution_Rexroth_m0swrz.webp
 featured: true
