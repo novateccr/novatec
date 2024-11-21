@@ -3,7 +3,7 @@ title: Transforma tu industria con tecnología avanzada.
 date: 2024-11-21T06:00:00.000Z
 imagen_intro: >-
   https://res.cloudinary.com/novatec/image/upload/v1732200619/productos/Cobots_al9gns.jpg
-featured: false
+featured: true
 ---
 
 En Novatec ofrecemos soluciones personalizadas para optimizar cada proceso industrial, integrando automatización a la medida de tus necesidades.
