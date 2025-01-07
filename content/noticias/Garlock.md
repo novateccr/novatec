@@ -3,7 +3,7 @@ title: ¡Mejora la eficiencia de tus operaciones con Laminados Garlock!
 date: 2025-01-06T06:00:00.000Z
 imagen_intro: >-
   https://res.cloudinary.com/novatec/image/upload/v1734987231/1734451303312_woqukl.jpg
-featured: true
+featured: false
 ---
 
 En Novatec Industrial, como distribuidores autorizados de Garlock, ofrecemos soluciones de sellado de alta calidad, diseñadas para soportar las condiciones más extremas.
