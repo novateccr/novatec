@@ -280,11 +280,13 @@ export function productosFields() {
       type: "image",
       name: "imagen",
       label: "Imagen",
+      searchable: false,
     },
     {
       type: "string",
       name: "catalogo",
       label: "Catalogo",
+      searchable: false,
     },
     {
       type: "string",
@@ -300,17 +302,20 @@ export function productosFields() {
       type: "number",
       name: "weight",
       label: "Weight",
+      searchable: false,
     },
     {
       type: "boolean",
       name: "taxonomyCover",
       label: "Taxonomycover",
+      searchable: false,
     },
     {
       type: "image",
       name: "galeria",
       label: "Galería",
       list: true,
+      searchable: false,
     },
     {
       type: "string",

@@ -12,6 +12,7 @@ import {
 
 // Your hosting provider likely exposes this as an environment variable
 const branch = process.env.HEAD || "master";
+const TINA_SEARCH_INDEXER_TOKEN = process.env.TINA_SEARCH_INDEXER_TOKEN;
 
 export default defineConfig({
   branch,
@@ -227,5 +228,13 @@ export default defineConfig({
         ],
       },
     ],
+  },
+  search: {
+    tina: {
+      indexerToken: TINA_SEARCH_INDEXER_TOKEN,
+      stopwordLanguages: ["spa"],
+    },
+    indexBatchSize: 100,
+    maxSearchIndexFieldLength: 100,
   },
 });
