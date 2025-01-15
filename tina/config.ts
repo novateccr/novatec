@@ -1,12 +1,14 @@
 import { defineConfig } from "tinacms";
-import { acerca_de_nosotrosFields } from "./templates";
-// import { defaultFields } from './templates';
-import { industriaFields } from "./templates";
-import { inicioFields } from "./templates";
-import { marcasFields } from "./templates";
-import { noticiasFields } from "./templates";
-import { productosFields } from "./templates";
-import { servicio_t_cnicoFields } from "./templates";
+import {
+  acerca_de_nosotrosFields,
+  familiasFields,
+  industriaFields,
+  inicioFields,
+  marcasFields,
+  noticiasFields,
+  productosFields,
+  servicio_t_cnicoFields,
+} from "./templates";
 
 // Your hosting provider likely exposes this as an environment variable
 const branch = process.env.HEAD || "master";
@@ -77,15 +79,7 @@ export default defineConfig({
         match: {
           include: "**/*",
         },
-        fields: [
-          {
-            type: "rich-text",
-            name: "body",
-            label: "Body of Document",
-            description: "This is the markdown body",
-            isBody: true,
-          },
-        ],
+        fields: [...familiasFields()],
       },
       {
         format: "md",
