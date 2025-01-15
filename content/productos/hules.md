@@ -17,14 +17,12 @@ industrias:
 marcas:
   - Garlock
 meta_description: Hules
-meta_keywords: 'EPDM, Viton, ROJO, SBR'
+meta_keywords: "EPDM, Viton, ROJO, SBR"
 taxonomyCover: false
 title: Hules
-titulo_adicional: ''
-weight: 20
+titulo_adicional: ""
+weight: 1
 ---
-
-
 
 # **Incompresible, extensible, altamente impermeable y elástica. Disponibles en rollos, longitudes en yardas y juntas cortadas.**
 
@@ -32,7 +30,7 @@ La mayoría de los clientes suponen, cuando compran un rollo de “neopreno”, 
 
 Cuando utiliza una lámina de caucho de calidad superior de Garlock, ¡puede estar seguro de que la parte de polímero de la lámina es lo que dice que es! Además, la lámina de caucho de Garlock se fabrica y vulcaniza adecuadamente de modo que las propiedades clave, como el durómetro y el valor de compresión, ¡sean lo que deben ser!
 
-### **Algunos de los Hules que maneja Novatec Industrial se los presentamos a continuación:** 
+### **Algunos de los Hules que maneja Novatec Industrial se los presentamos a continuación:**
 
 ## _Lámina de hule SBR grado Industrial:_
 
@@ -100,7 +98,7 @@ Dureza, 55-65
 
 Temperatura Min. -29 °C ( -20 °F)
 
-Temperatura Max. +93 °C (+200 °F)*
+Temperatura Max. +93 °C (+200 °F)\*
 
 Presión max
 

@@ -1,25 +1,23 @@
 ---
-catalogo: ''
-categoria: ''
+catalogo: ""
+categoria: ""
 familias:
   - Sellado
 galeria:
   - https://res.cloudinary.com/novatec/image/upload/v1573667908/ansiflex_eekxq2.jpg
-id: ''
+id: ""
 imagen: https://res.cloudinary.com/novatec/image/upload/v1617730025/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_13_k4gwwk.png
 industrias: []
 marcas:
   - Rubber Fab
 meta_description: Empaque Ansi-Flex
-meta_keywords: 'ANSI flex, ANSI-FLEX, PVC, Rubber Fab'
+meta_keywords: "ANSI flex, ANSI-FLEX, PVC, Rubber Fab"
 taxonomyCover: false
 title: Empaque Ansi-Flex
-titulo: ''
-titulo_adicional: ''
+titulo: ""
+titulo_adicional: ""
+weight: 2
 ---
-
-
-
 
 ## **ANSI-FLEX:**
 
