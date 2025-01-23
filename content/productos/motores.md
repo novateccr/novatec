@@ -1,37 +1,38 @@
 ---
-catalogo: ''
 categoria: ''
+id: ''
+titulo: ''
+title: Motores KSB SuPremE IE4 / IE5
+marcas:
+  - KSB
 familias:
   - Bombas
-galeria:
-  - https://res.cloudinary.com/novatec/image/upload/v1595035348/kompatibel-thumbnail-data_h0ehdh.jpg
-  - https://res.cloudinary.com/novatec/image/upload/v1582864617/KSB_SuPremE_Energy_Diet_IE5_npfyo3.png
-  - https://res.cloudinary.com/novatec/image/upload/v1582862356/foto-data_cl48og.jpg
-id: ''
-imagen: >-
-  https://res.cloudinary.com/novatec/image/upload/v1617834563/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_-_2021-04-07T162910.153_kuzrzw.png
 industrias:
   - Alimentos y Bebidas
   - Pharmaceuticas
   - Energia
   - Industria
   - Dispositivos Medicos
-marcas:
-  - KSB
+imagen: >-
+  https://res.cloudinary.com/novatec/image/upload/v1617834563/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_-_2021-04-07T162910.153_kuzrzw.png
+catalogo: ''
 meta_description: >-
   Motor de reluctancia síncrona sin imán, compatible con IEC, sin clase de
   eficiencia clase IE4 / IE5 (eficiencia super / ultra premium)
 meta_keywords: >-
   Supreme Motor, Motores, Sincrónicos, IE4, IE5, Ahorro energético, alta
   eficiencia, premium
+weight: 1
 taxonomyCover: false
-title: Motores KSB SuPremE IE4 / IE5
-titulo: ''
+galeria:
+  - >-
+    https://res.cloudinary.com/novatec/image/upload/v1595035348/kompatibel-thumbnail-data_h0ehdh.jpg
+  - >-
+    https://res.cloudinary.com/novatec/image/upload/v1582864617/KSB_SuPremE_Energy_Diet_IE5_npfyo3.png
+  - >-
+    https://res.cloudinary.com/novatec/image/upload/v1582862356/foto-data_cl48og.jpg
 titulo_adicional: ''
 ---
-
-
-
 
 ### **Diseño.**
 
@@ -47,7 +48,7 @@ El motor no tiene imanes, lo que significa que, en particular, las llamadas tier
 
 Para usar con bombas de velocidad variable instaladas en seco que pueden ser accionadas por motores estandarizados montados en el pie y / o montados en la brida.
 
-### [**Ahorro Energético**](https://www.ksb.com/supreme-en/ 'Ahorro Energetico')
+### **[Ahorro Energético](https://www.ksb.com/supreme-en/ "Ahorro Energetico")**
 
 Identificación de los potenciales de ahorro mediante los análisis de la eficiencia energética de KSB
 
@@ -55,4 +56,4 @@ Si sus bombas y otros equipos rotativos funcionan de manera eficiente desde el p
 
 El primer paso hacia la consecución de este objetivo es el análisis del sistema, el cual sirve de punto de partida para los demás pasos tendentes a la optimización. Nuestros expertos calculan la potencia de su bomba para poder hacerse una idea clara de cuál es la situación de la planta y mostrarle dónde y cómo es posible ahorrar energía.
 
-### [**Optimice la eficiencia energética de su sistema hidráulico**](https://www.ksb.com/fluidfuture_es/ 'Fluid Future Energy Savings')**.**
+### **[Optimice la eficiencia energética de su sistema hidráulico](https://www.ksb.com/fluidfuture_es/ "Fluid Future Energy Savings").**
