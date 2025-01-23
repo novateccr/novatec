@@ -10,6 +10,7 @@ meta_description: Bombas doble diafragma eléctricas
 meta_keywords: >-
   Bombas doble diafragma eléctricas, doble diafragma, doble diafragma
   electricas, graco, aro, wilden
+weight: 3
 galeria:
   - >-
     https://res.cloudinary.com/novatec/image/upload/v1702587884/cq5dam.web.1280.1280_1_ngfz9i.jpg
