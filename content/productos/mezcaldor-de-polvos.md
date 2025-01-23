@@ -1,25 +1,25 @@
 ---
-catalogo: /catalogos/original-mezcaldor-de-polvos.pdf
+id: 72
+title: 'Mezclador de Polvos '
+marcas:
+  - Fristam
 familias:
   - Bombas
-galeria:
-  - https://res.cloudinary.com/novatec/image/upload/v1595025647/c6671e37-aed4-442a-bcdd-4d7908584dd1_tj1bgi.png
-id: 72
-imagen: https://res.cloudinary.com/novatec/image/upload/v1617834212/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_98_ea1p6m.png
 industrias:
   - Alimentos y Bebidas
   - Biofarmacéuticos
-marcas:
-  - Fristam
+imagen: >-
+  https://res.cloudinary.com/novatec/image/upload/v1617834212/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_98_ea1p6m.png
+catalogo: /catalogos/original-mezcaldor-de-polvos.pdf
 meta_description: 'Mezcladores Fristam, la mejor mezcla en el menor tiempo'
 meta_keywords: 'mezclador de polvos, fristam, mezclador de polvo'
+weight: 3
 taxonomyCover: false
-title: 'Mezclador de Polvos '
+galeria:
+  - >-
+    https://res.cloudinary.com/novatec/image/upload/v1595025647/c6671e37-aed4-442a-bcdd-4d7908584dd1_tj1bgi.png
 titulo_adicional: ''
-weight: 72
 ---
-
-
 
 ### Una mejor mezcla en menos tiempo.
 
