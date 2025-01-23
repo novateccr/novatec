@@ -1,29 +1,28 @@
 ---
-catalogo: /catalogos/original-calderas.pdf
 categoria: ''
+id: 11
+titulo: ''
+title: Bombas de Alimentación de Calderas
+marcas:
+  - KSB
 familias:
   - Bombas
-galeria:
-  - https://res.cloudinary.com/novatec/image/upload/v1595030598/7053-12964578-gigapixel-scale-2_00x_iy7dbg.jpg
-id: 11
-imagen: >-
-  https://res.cloudinary.com/novatec/image/upload/v1617834767/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_-_2021-04-07T163236.199_jvo1gj.png
 industrias:
   - Alimentos y Bebidas
   - Energía
   - Biofarmacéuticos
-marcas:
-  - KSB
+imagen: >-
+  https://res.cloudinary.com/novatec/image/upload/v1617834767/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_-_2021-04-07T163236.199_jvo1gj.png
+catalogo: /catalogos/original-calderas.pdf
 meta_description: bombas para alimentación de calderas tipo multitec
 meta_keywords: 'multitec, movitec, bombas para alimentación de calderas'
+weight: 1
 taxonomyCover: false
-title: Bombas de Alimentación de Calderas
-titulo: ''
+galeria:
+  - >-
+    https://res.cloudinary.com/novatec/image/upload/v1595030598/7053-12964578-gigapixel-scale-2_00x_iy7dbg.jpg
 titulo_adicional: ''
-weight: 11
 ---
-
-
 
 #### **Bomba Multitec, marca KSB.**
 
