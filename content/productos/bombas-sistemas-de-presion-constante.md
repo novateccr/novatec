@@ -19,7 +19,7 @@ imagen: >-
 catalogo: /catalogos/original-bombas-sistemas-de-presion-constante.pdf
 meta_description: 'Sistema de presión constante, Ksb, bombas, Movitec, alta presión'
 meta_keywords: 'Ksb, Presión constante, grundfos, Bombas para agua'
-weight: 139
+weight: 1
 taxonomyCover: false
 galeria:
   - >-
