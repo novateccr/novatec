@@ -1,39 +1,40 @@
 ---
-catalogo: /catalogos/original-centrifugas.pdf
 categoria: ''
+id: 7
+titulo: ''
+title: Bombas Centrifugas
+marcas:
+  - KSB
 familias:
   - Bombas
-galeria:
-  - https://res.cloudinary.com/novatec/image/upload/v1566006531/megacpk-KSB1_eqdko2.png
-  - >-
-    https://res.cloudinary.com/novatec/image/upload/v1595012749/pic-pumpmeter-auswertung-des-lastprofil_v8z1pj-gigapixel-scale-2_00x_itcwmk.jpg
-  - https://res.cloudinary.com/novatec/image/upload/v1582866757/es000807-pumpmeter_llzlou.png
-id: 7
-imagen: https://res.cloudinary.com/novatec/image/upload/v1617833939/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_95_udh1sv.png
 industrias:
   - Alimentos y Bebidas
   - Energía
   - Biofarmacéuticos
-marcas:
-  - KSB
+imagen: >-
+  https://res.cloudinary.com/novatec/image/upload/v1617833939/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_95_udh1sv.png
+catalogo: /catalogos/original-centrifugas.pdf
 meta_description: >-
   Todo en bombas de agua centrífugas, especialistas en bombas, especialistas en
   sistemas de bombeo
 meta_keywords: >-
   bombas centrifugas, bombas de agua, bombas para agua, megachem, meganorm,
   megacpk, hydrobloc
+weight: 1
 taxonomyCover: false
-title: Bombas Centrifugas
-titulo: ''
+galeria:
+  - >-
+    https://res.cloudinary.com/novatec/image/upload/v1566006531/megacpk-KSB1_eqdko2.png
+  - >-
+    https://res.cloudinary.com/novatec/image/upload/v1595012749/pic-pumpmeter-auswertung-des-lastprofil_v8z1pj-gigapixel-scale-2_00x_itcwmk.jpg
+  - >-
+    https://res.cloudinary.com/novatec/image/upload/v1582866757/es000807-pumpmeter_llzlou.png
 titulo_adicional: ''
-weight: 7
 ---
-
-
 
 **Bombas KSB**
 
-Bombas de agua centrifugas KSB, tipo: MegaCpk, hydrobloc, etc y opcional **con** [**motores sincrónicos**](https://www.novatec.cr/productos/motores/ "KSB SuPremE") de super alta eficiencia.
+Bombas de agua centrifugas KSB, tipo: MegaCpk, hydrobloc, etc y opcional **con** **[motores sincrónicos](https://www.novatec.cr/productos/motores/ "KSB SuPremE")** de super alta eficiencia.
 
 Bombas para agua y otros fluidos, contáctenos.
 
