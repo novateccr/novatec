@@ -1,29 +1,28 @@
 ---
-catalogo: /catalogos/original-doble-diafragma-sanitarias.pdf
 categoria: ''
+id: 128
+titulo: ''
+title: 'Bombas de Doble Diafragma - Sanitarias '
+marcas:
+  - Graco
 familias:
   - Bombas
-galeria:
-  - https://res.cloudinary.com/novatec/image/upload/v1595029890/saniforce_2150_tpldxi.jpg
-id: 128
-imagen: >-
-  https://res.cloudinary.com/novatec/image/upload/v1617836102/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_-_2021-04-07T165439.074_gol2nl.png
 industrias:
   - Alimentos y Bebidas
   - Dispositivos Médicos
   - Biofarmacéuticos
-marcas:
-  - Graco
+imagen: >-
+  https://res.cloudinary.com/novatec/image/upload/v1617836102/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_-_2021-04-07T165439.074_gol2nl.png
+catalogo: /catalogos/original-doble-diafragma-sanitarias.pdf
 meta_description: 'Doble Diafragma - Sanitarias '
 meta_keywords: 'Doble Diafragma, Sanitarias, Saniforce'
+weight: 3
 taxonomyCover: false
-title: 'Bombas de Doble Diafragma - Sanitarias '
-titulo: ''
+galeria:
+  - >-
+    https://res.cloudinary.com/novatec/image/upload/v1595029890/saniforce_2150_tpldxi.jpg
 titulo_adicional: ''
-weight: 128
 ---
-
-
 
 #### **Bombas de Doble Diafragma Sanitarias, marca Graco.**
 
@@ -41,8 +40,8 @@ Tenemos variedad de modelos para las bombas Saniforce, consúltenos !
 
 #### Video del Desarme de la bomba
 
-{{< youtube Xl9zm_PPndQ >}}
+{{\< youtube Xl9zm\_PPndQ >}}
 
 #### Video del Re-Armado de la bomba
 
-{{< youtube piqcCx4JkTI >}}
+{{\< youtube piqcCx4JkTI >}}
