@@ -1,30 +1,31 @@
 ---
-catalogo: /catalogos/original-peristalticas.pdf
 categoria: ''
+id: 5
+titulo: ''
+type: ''
+title: 'Bombas Peristálticas '
+marcas:
+  - Graco
 familias:
   - Bombas
-galeria:
-  - https://res.cloudinary.com/novatec/image/upload/v1595286830/_jcr_content_4_yer7f5.jpg
-  - https://res.cloudinary.com/novatec/image/upload/v1595286830/_jcr_content_5_ks3pbz.jpg
-id: 5
-imagen: https://res.cloudinary.com/novatec/image/upload/v1617832789/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_93_kckgxn.png
 industrias:
   - Alimentos y Bebidas
   - Energía
   - Biofarmacéuticos
-marcas:
-  - Graco
+imagen: >-
+  https://res.cloudinary.com/novatec/image/upload/v1617832789/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_93_kckgxn.png
+catalogo: /catalogos/original-peristalticas.pdf
 meta_description: Bombas Peristálticas marca Graco
 meta_keywords: 'Bombas Peristálticas, Graco, Solotech'
+weight: 3
 taxonomyCover: false
-title: 'Bombas Peristálticas '
-titulo: ''
+galeria:
+  - >-
+    https://res.cloudinary.com/novatec/image/upload/v1595286830/_jcr_content_4_yer7f5.jpg
+  - >-
+    https://res.cloudinary.com/novatec/image/upload/v1595286830/_jcr_content_5_ks3pbz.jpg
 titulo_adicional: ''
-type: ''
-weight: 5
 ---
-
-
 
 **Bombas Peristálticas marca Graco.**
 
