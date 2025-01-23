@@ -13,7 +13,7 @@ imagen: >-
 catalogo: /catalogos/original-mezcaldor-de-polvos.pdf
 meta_description: 'Mezcladores Fristam, la mejor mezcla en el menor tiempo'
 meta_keywords: 'mezclador de polvos, fristam, mezclador de polvo'
-weight: 3
+weight: 5
 taxonomyCover: false
 galeria:
   - >-
