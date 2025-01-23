@@ -1,22 +1,21 @@
 ---
-catalogo: /catalogos/original-bomba-positiva-de-engranajes-tipo-gr.pdf
 draft: true
+id: 136
+title: Bomba positiva de engranajes tipo GR
+marcas:
+  - Flowserve
 familias:
   - Bombas
-id: 136
-imagen: https://res.cloudinary.com/novatec/image/upload/v1530797588/productos/original-bomba-positiva-de-engranajes-tipo-gr.jpg
 industrias:
   - Energía
   - Industria Pesada
   - Ingenios
-marcas:
-  - Flowserve
+imagen: >-
+  https://res.cloudinary.com/novatec/image/upload/v1530797588/productos/original-bomba-positiva-de-engranajes-tipo-gr.jpg
+catalogo: /catalogos/original-bomba-positiva-de-engranajes-tipo-gr.pdf
 meta_description: 'Bomba tipo GR, positiva, Vicking'
 meta_keywords: ''
+weight: 4
 taxonomyCover: false
-title: Bomba positiva de engranajes tipo GR
-weight: 136
 ---
-
-
 
