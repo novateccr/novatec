@@ -13,7 +13,7 @@ imagen: >-
 catalogo: ''
 meta_description: 'Todo en bombas para agua, consultenos !!'
 meta_keywords: 'bomba de agua, bombas de agua, bomba para agua'
-weight: 2
+weight: 1
 taxonomyCover: false
 galeria:
   - >-
