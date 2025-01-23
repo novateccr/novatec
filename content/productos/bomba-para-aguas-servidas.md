@@ -16,7 +16,7 @@ meta_description: >-
   KSB ofrece soluciones integrales para aplicaciones de aguas servidas, tipo
   Amarex, KRT...
 meta_keywords: 'Flight, KRT, Amarex N, KSB'
-weight: 0
+weight: 1
 taxonomyCover: false
 galeria:
   - >-
