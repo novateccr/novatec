@@ -1,27 +1,27 @@
 ---
-catalogo: /catalogos/original-descargadores.pdf
+id: 6
+title: Descargadores
+marcas:
+  - Graco
 familias:
   - Bombas
-galeria:
-  - https://res.cloudinary.com/novatec/image/upload/v1595008934/descargadores1_jjvmmo.jpg
-id: 6
-imagen: https://res.cloudinary.com/novatec/image/upload/v1617832877/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_94_pzon0h.png
 industrias:
   - Alimentos y Bebidas
   - Biofarmacéuticos
-marcas:
-  - Graco
+imagen: >-
+  https://res.cloudinary.com/novatec/image/upload/v1617832877/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_94_pzon0h.png
+catalogo: /catalogos/original-descargadores.pdf
 meta_description: Descargadores para la Industria Sanitaria
 meta_keywords: >-
   Descargadores para la Industria Sanitaria, Saniforce3150, Saniforce12:1,
   Saniforce2150
+weight: 3
 taxonomyCover: false
-title: Descargadores
+galeria:
+  - >-
+    https://res.cloudinary.com/novatec/image/upload/v1595008934/descargadores1_jjvmmo.jpg
 titulo_adicional: ''
-weight: 6
 ---
-
-
 
 **Descargadores para la Industria Sanitaria.**
 
@@ -45,8 +45,8 @@ De presentación estándar con un sello con placa dentada inflable, el Descargad
 
 **SaniForce BES.**
 
-Ahorre tiempo y dinero en su establecimiento descargando materiales de forma eficiente desde contenedores de "bolsa en contenedor" de 300 galones (1.135,6 l) utilizando el Sistema de evacuación de contenedor (BES, por sus siglas en inglés) SaniForce, eliminando la recolección manual o el vertido en el contenedor.  
-  
+Ahorre tiempo y dinero en su establecimiento descargando materiales de forma eficiente desde contenedores de "bolsa en contenedor" de 300 galones (1.135,6 l) utilizando el Sistema de evacuación de contenedor (BES, por sus siglas en inglés) SaniForce, eliminando la recolección manual o el vertido en el contenedor.
+
 La descarga completa del contenedor ahorra costos de evaporación de agua y proporciona un mejor control del proceso, al tiempo que elimina la necesidad de costosas bombas impulsoras.
 
 ![](https://res.cloudinary.com/novatec/v1595024098/_jcr_content_weqnbq.jpg)
@@ -57,4 +57,4 @@ El sistema de evacuación de contenedor (BES) SaniForce 3150 evacúa productos v
 
 ![](https://res.cloudinary.com/novatec/v1595024153/_jcr_content_1_wzdozc.jpg)Entre otros más, consulte con nuestros asesores por toda nuestra línea.
 
-{{< youtube McXQZ6xanO8 >}}
+{{\< youtube McXQZ6xanO8 >}}
