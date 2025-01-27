@@ -10,7 +10,7 @@ imagen: >-
 link: ''
 catalogo: ''
 meta_keywords: >-
-  bombas de agua, bombas dosificado ras, LMI, bomba, bomba de agua, pump, bombas
+  bombas de agua, bombas dosificadoras, LMI, bomba, bomba de agua, pump, bombas
   sanitarias
 meta_description: >-
   centrifugas, positivas, desplazamiento positivo, bomba de agua, moto bomba,
