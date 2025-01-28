@@ -109,11 +109,6 @@ export function familiaFields() {
       label: "Meta description",
     },
     {
-      type: "number",
-      name: "weight",
-      label: "Weight",
-    },
-    {
       type: "object",
       name: "menu",
       label: "Menu Settings",

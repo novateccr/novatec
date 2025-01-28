@@ -13,7 +13,6 @@ meta_description: >-
   Válvulas de mariposa, de compuerta, de globo, de verificación, de control, de
   diafragma, de bola y filtros, así como actuadores y sistemas de
   automatización
-weight: 1
 menu:
   principal:
     parent: Productos

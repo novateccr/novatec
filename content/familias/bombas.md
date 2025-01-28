@@ -11,7 +11,6 @@ meta_keywords:
 meta_description:
   "centrifugas, positivas, desplazamiento positivo, bomba de agua, moto bomba,
   bombas sanitarias"
-weight: 7
 menu:
   principal:
     parent: Productos

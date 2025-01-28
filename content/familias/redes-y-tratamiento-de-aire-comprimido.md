@@ -6,7 +6,6 @@ link: ""
 catalogo: 92a1d257c293b965aea8e9433ddcc38e-transair.pdf
 meta_keywords: "Tubería de aire comprimido, tubería de aluminio"
 meta_description: "Parker, Transair"
-weight: 4
 menu:
   principal:
     parent: Productos

@@ -8,7 +8,6 @@ meta_keywords: >-
   Todo en sellad:   Láminas de empaque, teflon, Hules, Grafito, empaquetadura,
   sellos mecánicos, klozues
 meta_description: ""
-weight: 3
 menu:
   principal:
     parent: Productos

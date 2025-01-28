@@ -6,7 +6,6 @@ link: ""
 catalogo: ""
 meta_keywords: eagleburgmann
 meta_description: ""
-weight: 7
 menu:
   principal:
     parent: Productos

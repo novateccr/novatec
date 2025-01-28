@@ -10,7 +10,6 @@ meta_description: >-
   Sistemas de pisos decorativos, Pisos elastoméricos, Sistemas de pisos
   industriales, Sistemas de revestimiento de pisos y paredes, Sistemas de
   metacrilato de metilo (MMA), Sistemas de control de vapor de humedad
-weight: 5
 menu:
   principal:
     parent: Productos
