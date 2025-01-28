@@ -245,12 +245,6 @@ export function productosFields() {
       name: "title",
       label: "Title",
     },
-    // {
-    //   type: "string",
-    //   name: "custom_id",
-    //   nameOverride: "id",
-    //   label: "Id",
-    // },
     {
       type: "string",
       name: "marcas",

@@ -1,9 +1,9 @@
 ---
 title: Válvulas
-id: '12'
+id: "12"
 imagen: https://res.cloudinary.com/novatec/image/upload/v1596748076/es000573-boax-b_gmrt2b.png
-link: ''
-catalogo: ''
+link: ""
+catalogo: ""
 meta_keywords: >-
   Válvulas KSB - Ofrecemos una amplia gama de productos para amplios campos de
   aplicaciones. Estas son válvulas de mariposa, de compuerta, de globo, de
@@ -12,16 +12,9 @@ meta_keywords: >-
 meta_description: >-
   Válvulas de mariposa, de compuerta, de globo, de verificación, de control, de
   diafragma, de bola y filtros, así como actuadores y sistemas de
-  automatización 
-weight: 13
-menu:
-  principal:
-    parent: Productos
-    weight: 2
+  automatización
+weight: 1
 ---
-
-
-
 
 Ofrecemos una amplia gama de productos para amplios campos de aplicaciones.
 
