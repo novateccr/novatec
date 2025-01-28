@@ -14,6 +14,10 @@ meta_description: >-
   diafragma, de bola y filtros, así como actuadores y sistemas de
   automatización
 weight: 1
+menu:
+  principal:
+    parent: Productos
+    weight: 1
 ---
 
 Ofrecemos una amplia gama de productos para amplios campos de aplicaciones.

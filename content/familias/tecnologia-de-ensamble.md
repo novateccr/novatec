@@ -7,4 +7,8 @@ catalogo: ""
 meta_keywords: ""
 meta_description: ""
 weight: 2
+menu:
+  principal:
+    parent: Productos
+    weight: 2
 ---

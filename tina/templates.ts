@@ -69,9 +69,84 @@ export function industriaFields() {
     },
   ] as TinaField[];
 }
+export function familiaFields() {
+  return [
+    {
+      type: "string",
+      name: "title",
+      label: "Title",
+    },
+    // {
+    //   type: 'string',
+    //   name: 'custom_id',
+    //   nameOverride: 'id',
+    //   label: 'Id'
+    // },
+    {
+      type: "image",
+      name: "imagen",
+      label: "Imagen",
+    },
+    {
+      type: "string",
+      name: "link",
+      label: "Link",
+    },
+    {
+      type: "string",
+      name: "catalogo",
+      label: "Catalogo",
+      description: "Link (URL) al catálogo.",
+    },
+    {
+      type: "string",
+      name: "meta_keywords",
+      label: "Meta keywords",
+    },
+    {
+      type: "string",
+      name: "meta_description",
+      label: "Meta description",
+    },
+    {
+      type: "number",
+      name: "weight",
+      label: "Weight",
+    },
+    {
+      type: "object",
+      name: "menu",
+      label: "Menu Settings",
+      fields: [
+        {
+          type: "object",
+          name: "principal",
+          label: "Principal Menu",
+          fields: [
+            {
+              type: "string",
+              name: "parent",
+              label: "Parent",
+              ui: {
+                component: "hidden",
+              },
+              defaultValue: "Productos",
+            },
+            {
+              type: "number",
+              name: "weight",
+              label: "Menu Order",
+              description: "Lower numbers appear first in the menu",
+            },
+          ],
+        },
+      ],
+    },
+  ] as TinaField[];
+}
 
 export function familiasFields() {
-  return [...industriaFields()] as TinaField[];
+  return [...familiaFields()] as TinaField[];
 }
 export function inicioFields() {
   return [

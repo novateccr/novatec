@@ -9,4 +9,8 @@ meta_keywords: >-
   sellos mecánicos, klozues
 meta_description: ""
 weight: 3
+menu:
+  principal:
+    parent: Productos
+    weight: 3
 ---

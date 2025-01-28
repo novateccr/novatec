@@ -1,6 +1,9 @@
 ---
 title: Familias
-menu: null
+menu:
+  principal:
+    weight: 3
+    parent: ""
 cascade:
   menu:
     principal:

@@ -11,6 +11,10 @@ meta_description: >-
   industriales, Sistemas de revestimiento de pisos y paredes, Sistemas de
   metacrilato de metilo (MMA), Sistemas de control de vapor de humedad
 weight: 5
+menu:
+  principal:
+    parent: Productos
+    weight: 5
 ---
 
 Desde productos de la línea decorativa a la industrial, institucional y secundaria, Flowcrete y Key Resin Company ofrece soluciones que ofrecen costos de ciclo de vida más bajos, durabilidad sobresaliente y rendimiento general. Nuestras soluciones para pisos incluyen:
