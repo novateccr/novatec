@@ -50,6 +50,7 @@ export function industriaFields() {
       type: "string",
       name: "catalogo",
       label: "Catalogo",
+      description: "Link (URL) al catálogo.",
     },
     {
       type: "string",
@@ -178,6 +179,7 @@ export function marcasFields() {
       type: "string",
       name: "catalogo",
       label: "Catalogo",
+      description: "Link (URL) al catálogo.",
     },
     {
       type: "string",
@@ -286,6 +288,7 @@ export function productosFields() {
       type: "string",
       name: "catalogo",
       label: "Catalogo",
+      description: "Link (URL) al catálogo.",
       searchable: false,
     },
     {
