@@ -111,12 +111,12 @@ export function familiaFields() {
     {
       type: "object",
       name: "menu",
-      label: "Menu Settings",
+      label: "Configuración de Menú",
       fields: [
         {
           type: "object",
           name: "principal",
-          label: "Principal Menu",
+          label: "Menú principal",
           fields: [
             {
               type: "string",
@@ -130,8 +130,8 @@ export function familiaFields() {
             {
               type: "number",
               name: "weight",
-              label: "Menu Order",
-              description: "Lower numbers appear first in the menu",
+              label: "Orden",
+              description: "Los números más bajos aparecen primero.",
             },
           ],
         },
