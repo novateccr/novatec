@@ -3,7 +3,7 @@ title: Innovación en Tratamiento de Aguas Industriales
 date: 2025-02-20T06:00:00.000Z
 imagen_intro: >-
   https://res.cloudinary.com/novatec/image/upload/v1739221211/1736368353003_da5p36.jpg
-featured: true
+featured: false
 ---
 
 Bombas Dosificadoras de Químicos Serie PD - LMI
