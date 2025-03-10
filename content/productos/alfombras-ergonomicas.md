@@ -2,7 +2,7 @@
 categoria: ''
 id: 105
 titulo: ''
-title: Alfombras Ergonómicas
+title: Alfombras Ergonómicas (Antifatiga)
 marcas:
   - Ergomat
 familias:
