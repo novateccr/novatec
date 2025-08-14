@@ -1,8 +1,8 @@
 ---
 title: Horario
-date: 2025-04-10T06:00:00.000Z
+date: 2025-08-15T06:00:00.000Z
 imagen_intro: >-
-  https://res.cloudinary.com/novatec/image/upload/v1744348463/WhatsApp_Image_2025-04-10_at_23.14.20_6dda2c43_qntk9m.jpg
+  https://res.cloudinary.com/novatec/image/upload/v1755129897/Feliz_dia_de_las_madres_fobo5s.png
 featured: true
 ---
 
