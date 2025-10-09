@@ -1,10 +1,10 @@
 ---
-catalogo: ''
+id: 12
+title: Soluciones de Filtración para Lab
+marcas:
+  - Pall
 familias:
   - Filtros
-galeria: []
-id: 12
-imagen: https://res.cloudinary.com/novatec/image/upload/v1617830400/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_83_wldtil.png
 industrias:
   - Alimentos y Bebidas
   - Energía
@@ -14,21 +14,20 @@ industrias:
   - Agrícola
   - Ingenios
   - Electrónica
-marcas:
-  - Pall
+imagen: >-
+  https://res.cloudinary.com/novatec/image/upload/v1617830400/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_83_wldtil.png
+catalogo: ''
 meta_description: Soluciones de Filtración para Laboratorio
 meta_keywords: 'PALL lab, PALL Laboratory, filtración laboratorio'
-taxonomyCover: false
-title: Soluciones de Filtración para Lab
-titulo_adicional: ''
 weight: 12
+taxonomyCover: false
+galeria: []
+titulo_adicional: ''
 ---
-
-
 
 # **Control de calidad Microbiología:**
 
-### _Monitoreo efectivo de la calidad del producto..._
+### *Monitoreo efectivo de la calidad del producto...*
 
 La microbiología rápida y la preparación de muestras proporcionan soluciones que aceleran el tiempo que lleva recolectar una muestra, analizarla y producir resultados de prueba.
 
@@ -40,9 +39,9 @@ Ofrecemos productos varios para esta aplicación.
 
 # **Control de calidad Analítico:**
 
-### 
+###
 
-_Resultados confiables y rendimiento comprobado..._
+*Resultados confiables y rendimiento comprobado...*
 
 Los laboratorios de control de calidad juegan un papel crucial en la identificación de problemas de contaminación y productos antes del lanzamiento final. Los datos generados por estos laboratorios de control de calidad ayudan a orientar las decisiones críticas. La fiabilidad de estos resultados queda demostrada por el rendimiento comprobado de Pall al analizar muestras de 150 ml a menos de 25 µL.
 
@@ -54,7 +53,7 @@ Ofrecemos productos varios para esta aplicación.
 
 # **Control de calidad Ambiental:**
 
-### _Fiabilidad total, resultados fiables gracias a una tecnología fácil de usar..._
+### *Fiabilidad total, resultados fiables gracias a una tecnología fácil de usar...*
 
 Las soluciones tecnológicas de Pall para el control de la calidad ambiental brindan confiabilidad y ahorro de costos, lo que da como resultado procedimientos de prueba eficientes y monitoreo constante del aire y el agua.
 
@@ -66,7 +65,7 @@ Ofrecemos productos varios para esta aplicación.
 
 # **Investigación en Ciencias de la Vida:**
 
-### _Productos de investigación en ciencias de la vida innovadores y que ahorran tiempo..._
+### *Productos de investigación en ciencias de la vida innovadores y que ahorran tiempo...*
 
 Optimice la preparación de muestras, garantice la esterilidad y agilice el análisis en los flujos de trabajo de los laboratorios de investigación en ciencias biológicas
 
@@ -80,7 +79,7 @@ Ofrecemos productos varios para esta aplicación.
 
 # **Purificación de ADN y ARN:**
 
-### _Mapeando su éxito, procesamiento rápido con eliminación eficiente de partículas..._
+### *Mapeando su éxito, procesamiento rápido con eliminación eficiente de partículas...*
 
 El advenimiento de las técnicas de secuenciación de próxima generación ha permitido la recopilación de cantidades sin precedentes de datos de secuenciación en breves períodos de tiempo. Esto ha contribuido enormemente a nuestra comprensión de la estructura genómica y genética en muchas especies y también nos ha permitido obtener mucha información sobre genes candidatos para trastornos genéticos, cáncer que causa mutaciones somáticas y misexpresión debido a cambios epigenéticos.
 
@@ -92,7 +91,7 @@ Ofrecemos productos varios para esta aplicación.
 
 # **Preparación y detección de muestras de proteínas:**
 
-### _Preparado para el éxito con nuestra preparación de muestras de proteínas..._
+### *Preparado para el éxito con nuestra preparación de muestras de proteínas...*
 
 Soluciones avanzadas de filtración, análisis y purificación para la preparación y detección de proteínas.
 
@@ -106,7 +105,7 @@ Ofrecemos productos varios para esta aplicación.
 
 # **Filtración y clarificación estériles:**
 
-### _Maximice su inversión con nuestras soluciones de clarificación y filtración estériles, minimice el tiempo de comercialización y maximice todas las fases de desarrollo..._
+### *Maximice su inversión con nuestras soluciones de clarificación y filtración estériles, minimice el tiempo de comercialización y maximice todas las fases de desarrollo...*
 
 Las técnicas de filtración y clarificación estériles de laboratorio son fundamentales para reducir la contaminación potencial. Brindamos soluciones efectivas de filtración, esterilización y clarificación para las industrias de laboratorios globales.
 
@@ -118,7 +117,7 @@ Ofrecemos productos varios para esta aplicación.
 
 # **Filtración de flujo tangencial:**
 
-### _Separación y purificación, acelerando y simplificando el bioprocesamiento..._
+### *Separación y purificación, acelerando y simplificando el bioprocesamiento...*
 
 La ultrafiltración conserva la actividad biológica y ahorra tiempo: la tecnología de purificación de proteínas ha progresado desde métodos tan diversos como la precipitación química para la concentración de muestras o la diálisis para el intercambio de tampones hacia sistemas de flujo cruzado de purificación impulsados ​​por presión que utilizan membranas de ultrafiltración. Las técnicas de ultrafiltración (UF) se basan en el uso de membranas poliméricas con tamaños de poros muy definidos para separar moléculas según el tamaño.
 
@@ -130,7 +129,7 @@ Ofrecemos productos varios para esta aplicación.
 
 # **Filtración de gases y venteo:**
 
-### _Proteja su inversión, mantenga la esterilidad del ambiente interior y proteja la atmósfera de los contaminantes dentro del recipiente..._
+### *Proteja su inversión, mantenga la esterilidad del ambiente interior y proteja la atmósfera de los contaminantes dentro del recipiente...*
 
 La ventilación y la filtración de gases es una parte esencial del funcionamiento del laboratorio. La ventilación puede ser tan simple como un equilibrio pasivo de gases desde un matraz de cultivo hasta la filtración activa de un gas en un biorreactor. Los filtros de ventilación, ya sean unidades de filtro desechables o hardware con filtros de disco, pueden ser útiles para:
 
@@ -146,5 +145,9 @@ Ofrecemos productos varios para esta aplicación.
 ### [Clic aquí para más información](https://pall.com/en/laboratory/venting-and-gas-filtration.html)
 
 ![](https://res.cloudinary.com/novatec/v1599255186/Dise%C3%B1o_sin_t%C3%ADtulo_23_hrxh7s.png)
+
+# **Filtración de papel - Whatman - Cytiva**
+
+* La línea de productos, que incluye una amplia gama de filtros, dispositivos y membranas
 
 ## **Consúltenos!**
