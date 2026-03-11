@@ -1,8 +1,7 @@
 ---
-title: Estaciones de trabajo a la medida
+title: 'Estaciones de trabajo a la medida, consultenos !!'
 date: 2025-04-25T06:00:00.000Z
-imagen_intro: >-
-  https://res.cloudinary.com/novatec/image/upload/v1745364953/1745341982751_zp64e3.jpg
+imagen_intro: 'https://res.cloudinary.com/novatec/image/upload/v1745364953/1745341982751_zp64e3.jpg'
 featured: true
 ---
 
